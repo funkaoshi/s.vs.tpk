@@ -1,0 +1,15 @@
+#content { background: white; color: #333; margin: 50px; font:16px/24px Calibri, Lucida Grande, Lucida Sans Unicode, Geneva, Helvetica, Arial, sans-serif; }
+header h1 { font-weight: 400; font-size: 36px; margin-top: 0; margin-bottom: 12px; }
+header h2 { font-size: 12px; font-weight: 200; color: #999; margin-bottom: 4px; }
+nav p { margin-top: 0; font-size: 12px; }
+article h1, nav h1 { font-size: 24px; font-weight: 200; }
+article h1 a, nav h1 a { text-decoration: none; }
+article h1 small { font-size: 16px; color: #999; margin-left: 10px; }
+article div.content { width: 500px; }
+/*p { text-align: justify; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto;} */
+nav.archive.index { margin-top: 40px; }
+nav.archive h1 { font-size: 18px; margin-bottom: 6px }
+nav.archive ul { list-style: none; padding-left: 0; margin-top: 0; }
+nav.archive li { font-size: 14px; }
+nav.archive abbr { margin-left: 10px; }
+footer p { color: #999; font-size: 12px; margin-top:50px; }
