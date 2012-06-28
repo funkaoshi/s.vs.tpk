@@ -10,7 +10,12 @@ nav p { margin-top: 0; font-size: 12px; }
 article h1, nav h1 { font-size: 24px; font-weight: 200; }
 article h1 a, nav h1 a { text-decoration: none; }
 article h1 small { font-size: 16px; color: #999; margin-left: 10px; }
-article div.content { width: 500px; }
+article sup { line-height: 0; font-size: 12px; }
+article div.content { width: 500px; margin-bottom: 64px; }
+article p.caption { font-size: 12px; text-align: right; color: #999 }
+article div.footnotes ol { padding-left: 0; }
+article div.footnotes li, p.archive { color: #777; font-size: 12px; line-height: 16px; width: 75%; }
+nav.pagination p { font-size:16px; }
 /*p { text-align: justify; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto;} */
 nav.archive.index { margin-top: 40px; }
 nav.archive h1 { font-size: 18px; margin-bottom: 6px }
@@ -18,5 +23,14 @@ nav.archive ul { list-style: none; padding-left: 0; margin-top: 0; }
 nav.archive li { font-size: 14px; }
 nav.archive abbr { margin-left: 10px; }
 footer p { color: #999; font-size: 12px; margin-top:50px; }
-img { border: 3px solid black; }
+img { border: 0; }
 nav.post { margin-top: 40px; }
+
+hr {
+    width: 90%; border: 0; height: 1px;
+    background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.30), rgba(0,0,0,0));
+    background-image:    -moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.30), rgba(0,0,0,0));
+    background-image:     -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.30), rgba(0,0,0,0));
+    background-image:      -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.30), rgba(0,0,0,0));
+}
+

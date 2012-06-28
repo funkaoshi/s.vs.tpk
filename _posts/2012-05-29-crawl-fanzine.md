@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Inaugural Issue of <em>Crawl!</em>, a Dungeon Crawl Classics Fanzine
+title: "The Inaugural Issue of <em>Crawl!</em>, a Dungeon Crawl Classics Fanzine"
 category: review
 ---
 
