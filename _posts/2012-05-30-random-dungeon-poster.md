@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Random Dungeon Generator as a Dungeon Map
+title: "The Random Dungeon Generator as a Dungeon Map"
 category: blog
 ---
 
