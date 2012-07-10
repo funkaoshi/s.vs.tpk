@@ -26,6 +26,9 @@ footer p { color: #999; font-size: 12px; margin-top:50px; }
 img { border: 0; }
 nav.post { margin-top: 40px; }
 
+#disqus_thread { margin-top: 36px; }
+.comment-count { color: #999; font-size: 12px; }
+
 hr {
     width: 90%; border: 0; height: 1px;
     background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.30), rgba(0,0,0,0));
