@@ -6,6 +6,7 @@ layout: default
 	<h1>{% if page.category == 'review' %}Review: {% endif %}<a href="{{ page.permalink }}">{{ page.title }}</a><small>{{ page.date | date_to_string }}</small></h1>
 	<div class="content">
 		{{ content }}
+		{% include disqus.html %}
    	</div>
 </article>
 
