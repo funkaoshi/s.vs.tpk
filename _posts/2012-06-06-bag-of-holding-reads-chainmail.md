@@ -2,6 +2,9 @@
 layout: post
 title: "Bag of Holding Reads <em>Chainmail</em>"
 category: link
+tags:
+    - osr
+    - chainmail
 ---
 
 Paul from [Bag of Holding][1] has been [reading through the rules for Chainmail][2]. One thing that stood out for him were the rules around Swiss and Landsknechte pikemen.

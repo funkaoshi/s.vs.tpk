@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	    <meta name="viewport" content="width=480px"/>		
+        <title>{{ page.title }}</title>
+        <link href='http://fonts.googleapis.com/css?family=Josefin+Sans:400,700|Josefin+Slab:400,700|Metamorphous' rel='stylesheet' type='text/css'>
+        <style type="text/css">
+            body {
+				background: url('/assets/img/lightpaperfibers.png');				
+				font-size: 1em; line-height:150%;
+				font-family: 'Josefin Sans', sans serif;
+				zoom: 1; /* maybe fix IE stupidness */
+				-webkit-font-smoothing: antialiased;
+				-moz-font-smoothing: antialiased;
+				font-smoothing: antialiased;
+			}
+            #container { width: 400px; margin: 0 auto; padding: 1em 0; }
+            table { padding: 0.4em; border-bottom: 1px solid #333; }
+            table td { width: 127px; vertical-align: top; }
+            table td.save { width: 144px; }
+            table td.save + td { width: 110px; }
+            table.attr { width: 100%; border-top: 1px solid #333; }
+            table.weapon td { text-align: center; }            
+            h1, h3 { font-family: 'Metamorphous', cursive; }
+            h1 { font-size: 1.2em; text-align: center; margin-top: 0 }
+            h2.system { font-size: 0.6em; color: #333;  margin: 0; }
+            h2 { font-size: 1em; text-align: center }
+            h3 { font-size: 1em; margin-bottom: 4px; }
+            ul { margin-top: 0.4em; padding-left: 1em; list-style: circle; }
+            ul ul { margin-top: 0; }
+			li p { margin: 0; }
+			.footer, .header { font-size: 0.8em; color: #333; text-align: center; }
+			.footer {margin-top: 2em; }
+			.header {margin-bottom: 2em; }
+        </style>
+    </head>
+    <body>
+        <div id="container">
+			<p class="header">Go back to <a href="http://save.vs.totalpartykill.ca/characters/">Save vs. Total Party Kill</a>.</p>
+			
+			{{ content }}
+			
+			<p class="footer">Go back to <a href="http://save.vs.totalpartykill.ca/characters/">Save vs. Total Party Kill</a>.</p>
+		</div>
+	</body>
+</html>

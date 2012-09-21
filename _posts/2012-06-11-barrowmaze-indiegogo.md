@@ -2,6 +2,10 @@
 layout: post
 title: "Support Barrowmaze II on Indiegogo"
 category: link
+tags:
+  - megadungeon
+  - kickstarter
+  - osr
 ---
 
 If you enjoyed the original [_Barrowmaze_][1] megadungeon, [you will probably want to head over to Indiegogo and support the creation of its sequel, _Barrowmaze II_][2].

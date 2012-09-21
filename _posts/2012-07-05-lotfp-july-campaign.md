@@ -2,11 +2,13 @@
 layout: post
 title: The Lamentations of the Flame Princess July Grand Adventures Campaign
 category: blog
+tags:
+  - kickstarter
+  - lotfp
+  - osr
 ---
 
 [James Raggi][1] of [Lamentations of the Flame Princess][2] is running this crazy crowd funding project during the month of July. He has set up [19 different IndieGoGo campaigns][3], each requiring $6000 in funds. The ultimate goal would be to raise $114,000. That's some aggressive crowd funding.
-
-<!--more-->
 
 The last campaign he ran raised $16,240 to fund [a hardcover book edition of the LotFP rules][4]. Prior to that he raised $6,241 to fund [two adventure modules][5]. Clearly there are people out there interested in LotFP. My fear is that there are not enough people to fund such a large body of work in a single month. That would be a real shame, because the more I learn about the people involved in the campaign the more disappointed I'll be if some of these adventures don't get funded.
 

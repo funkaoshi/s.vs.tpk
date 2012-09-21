@@ -2,6 +2,10 @@
 layout: post
 title: D&D Online (is not just a Video Game)
 category: blog
+tags:
+  - 5e
+  - dndnext
+  - playtest
 ---
 My first gaming session using the [D&D Next][1] rules was also my first gaming session playing virtually. Kiel, of [Dungeons and Donuts][2] fame, mentioned on Google+ he was planning on running a play test of D&D next online. I was expecting a quiet night at home anyway, why not try and cram in a game of D&D?
 

@@ -1,0 +1,12 @@
+---
+layout: none
+permalink: .htaccess
+---
+
+Redirect /review/2012/05/29/crawl-fanzine/ /review/crawl-fanzine/
+Redirect /grabbag/he-man/ /grab-bag/he-man/
+Redirect /blog/baroviania-session-7/ /play-report/baroviania-session-7/
+Redirect /blog/dwimmermount-osrcon-level-2/ /play-report/dwimmermount-osrcon-level-2/
+Redirect /blog/dwimmermount-osrcon-level-1/ /play-report/dwimmermount-osrcon-level-1/
+Redirect /blog/dead-again/ /play-report/dead-again/
+Redirect /blog/total-party-kill/ /play-report/total-party-kill/

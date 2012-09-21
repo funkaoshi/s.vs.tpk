@@ -1,6 +1,6 @@
 title: Save vs. Total Party Kill
 author: Ramanan Sivaranjan
-safe: true
 pygments: false
 permalink: /:categories/:title/
 paginate: 10
+exclude: ['Makefile', 'README.md']

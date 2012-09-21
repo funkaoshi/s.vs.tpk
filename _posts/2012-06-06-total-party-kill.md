@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "Total Party Kill at D&D Encounters"
-category: blog
+category: play-report
+tags: 
+    - 4e
+    - encounters
 ---
 
 Alas, poor Gretzyln, I hardly knew you.

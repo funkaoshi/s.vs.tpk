@@ -2,13 +2,17 @@
 layout: post
 title: "The monsters of <em>Carcosa</em>"
 category: review
+tags:
+  - carcosa
+  - lotfp
+  - osr
 ---
 
 ![An illustration of a monster in Carcosa by Rich Longmore][carcosa-monster]
 
-As I have mentioned in [previous][part-i] [posts][part-ii] about [_Carcosa_][carcosa], Geoffery McKinney seems to be working quite hard to say as little as possible about the nature of his "official" game world. There is very little exposition about Carcosa's history, people, culture, etc. Each section of the book reveals a **little** bit of Carcosa's story. The books bestiary reveals the most about the setting, hinting at the nature of the world and some of its history.
+As I have mentioned in [previous][part-i] [posts][part-ii] about [_Carcosa_][carcosa], Geoffrey McKinney seems to be working quite hard to say as little as possible about the nature of his "official" game world. There is very little exposition about Carcosa's history, people, culture, etc. Each section of the book reveals a **little** bit of Carcosa's story. The books bestiary reveals the most about the setting, hinting at the nature of the world and some of its history.
 
-The vast majority of the monsters discussed in the beastiary are unique. They are crazy groutesque beasts one might find in a [H.P. Lovecraft][lovecraft] story.[^1] The gods of Carcosa are for the most part absolutely terrifying. These creatures have stat blocks and descriptions, like your typical kobold or goblin, so they are ready for your players to battle to the death. I mean, why give a monster hit dice if its not meant to be killed?
+The vast majority of the monsters discussed in the bestiary are unique. They are crazy grotesque beasts one might find in a [H.P. Lovecraft][lovecraft] story.[^1] The gods of Carcosa are for the most part absolutely terrifying. These creatures have stat blocks and descriptions, like your typical kobold or goblin, so they are ready for your players to battle to the death. I mean, why give a monster hit dice if its not meant to be killed?
 
 A few these monsters reside in particular places (hexes) in Carcosa. In the PDF version of the book, this is mentioned in their description.[^2] In the hardback you only learn of their home on the planet when reading through the hex descriptions later in the book.
 
@@ -18,7 +22,7 @@ Of all the old ones that reside on Carcosa, [Shub-Niggurath][shub-niggurat] appe
 
 The remaining monsters of Carcosa provide further insight into what's happening on the planet. One of the few non-unique monsters are dinosaurs. Of course, this being Carcosa they are expected to be of a crazy mutant variety. Similarly one finds giant jungle ants wandering from hex to hex. Lakes in Carcosa are likely home to to giant lake monsters. These sorts of beasts paired with the descriptions of the 13 races of men hints at a _King Kong_ style world.
 
-As mentioned at the start of the book, there are space aliens. From their description we learn that they originally crash landed on Carcosa a millennia ago, but since then they have established bases and come and go as they please. It's their presence and their technology that makes the world a little bit less _King Kong_ and perhaps a bit more _Flash Gordan_.
+As mentioned at the start of the book, there are space aliens. From their description we learn that they originally crash landed on Carcosa a millennia ago, but since then they have established bases and come and go as they please. It's their presence and their technology that makes the world a little bit less _King Kong_ and perhaps a bit more _Flash Gordon_.
 
 There are all sorts of slimes, puddings, and oozes similar to those encountered in your typical game of D&D, but with a Carcosa twist. Many of the unique monsters discussed in the bestiary are also some variation of disgusting ooze-like thing with tentacles. If it's not a giant-mutant-monster it's probably a creepy slime.
 

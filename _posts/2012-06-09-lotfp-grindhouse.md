@@ -2,6 +2,10 @@
 layout: post
 title: "<em>Lamentations of the Flame Princess: Weird Fantasy Roleplaying (Grindhouse Edition)</em>"
 category: review
+tags:
+  - jamesraggi
+  - lotfp
+  - osr
 ---
 
 ![Grindhouse Edition Boxset][grindhouse-boxset]

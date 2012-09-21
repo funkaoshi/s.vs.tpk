@@ -3,30 +3,28 @@ layout: nil
 ---
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-
-  <title>save.vs.totalpartykill.ca</title>
-  <link href="http://save.vs.totalpartykill.ca/"/>
-  <link type="application/atom+xml" rel="self" href="http://save.vs.totalpartykill.ca/atom.xml"/>
-  <updated>{{ site.time | date_to_xmlschema }}</updated>
   <id>http://save.vs.totalpartykill.ca/</id>
+  <title>Save vs. Total Party Kill</title>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <link type="application/atom+xml" rel="self" href="http://save.vs.totalpartykill.ca/atom.xml"/>
   <author>
     <name>Ramanan Sivaranjan</name>
     <email>ramanan@funkaoshi.com</email>
+    <uri>http://ramanan.sivaranjan.com</uri>
   </author>
-
+  <rights> © 2012 Ramanan Sivaranjan </rights>
   {% for post in site.posts %}
   <entry>
     <id>http://save.vs.totalpartykill.ca{{ post.id }}</id>
-    <link type="text/html" rel="alternate" href="http://save.vs.totalpartykill.ca{{ post.url }}"/>
     <title>{{ post.title | xml_escape }}</title>
-    <published>{{ post.date | date_to_xmlschema }}</published>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <author>
       <name>Ramanan Sivaranjan</name>
       <uri>http://ramanan.sivaranjan.com/</uri>
     </author>
     <content type="html">{{ post.content | xml_escape }}</content>
+    <link type="text/html" rel="alternate" href="http://save.vs.totalpartykill.ca{{ post.url }}"/>
+    <published>{{ post.date | date_to_xmlschema }}</published>
   </entry>
   {% endfor %}
-
 </feed>

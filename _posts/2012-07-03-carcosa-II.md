@@ -2,6 +2,10 @@
 layout: post
 title: "<em>Carcosa's</em> vile black magic"
 category: review
+tags:
+  - carcosa
+  - lotfp
+  - osr
 ---
 
 [Carcosa][] is an impressive piece of writing, but people seem to get fixated on the small portion of the book that is filled with all sorts of rape and human sacrifice. **Wait, what?**
@@ -12,7 +16,7 @@ Flip through the sorcerer rituals presented in _Carcosa_ and it's a sea of human
 
 The only spells that don't involve sacrifice are the rituals that exist to banish the Cthulhu monsters. This suggests one option for playing a lawful sorcerer: only cast banishment spells. I had assumed this was done on purpose, that McKinney didn't expect players to actually use the spells outlined in the book, that they would be reserved for evil NPCs. [In a recent interview][interview] I learned this wasn't the case. In his home game he did have players who ran around the planet rounding up men and women to be sacrificed all the while looking for rare ingredients for their spells. That's definitely a departure from traditional D&D.
 
-There is another level to the rituals that is easy to miss because they are so repugnent. In _Carcosa_ the rituals are another way Geoffrey McKinney shares his fantasy world with us. They hint at quests to embark on, monsters to fight, and sorcerers to vanquish.
+There is another level to the rituals that is easy to miss because they are so repugnant. In _Carcosa_ the rituals are another way Geoffrey McKinney shares his fantasy world with us. They hint at quests to embark on, monsters to fight, and sorcerers to vanquish.
 
 Many rituals mention specific regions (hexes on the map) of Carcosa. They might discuss some rare ingredient that is required for the ritual that can only be found in a particular hex. They might mention a monster that can only be found in a particular place. Often times a ritual's description of a hex is more detailed than the hex description itself. The description for hex 1513 is, "Ulfire Mold." ([I mentioned the writing was terse, right?][review]) If we look at the ritual that binds the Fetor of the Depths, we learn that there is a "vile cave in the swamps of \[the hex]," which is where that spell needs to be cast. The description for hex 416 is "7 Giant Frogs." Looking at the ritual that conjures the Fetor of the Depths we learn that this hex contains the subterranean lair of the monster. Here I'm looking at two random rituals that relate to one of the [old ones][oldones]. This sort of thing happens throughout the chapter. There are numerous examples where the ritual description adds a whole other layer to what otherwise might sound like a pretty boring hex in Carcosa. This is all easy to miss if you dismiss this chapter as I had initially.
 

@@ -2,6 +2,10 @@
 layout: post
 title: "Appendix N Adventure Toolkits (DCC RPG Modules)"
 category: link
+tags:
+  - kickstarter
+  - dccrpg
+  - osr
 ---
 
 If you're looking for the next Kickstarter project you should be supporting, look no further than Brave Halfling Publishing's [Appendix N Adventure Toolkits (DCC RPG Modules)][kickstarter]. For $20 you can get a copy of 5 modules and a slew of other bonus material. From the Kickstarter:

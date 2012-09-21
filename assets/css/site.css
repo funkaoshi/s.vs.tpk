@@ -2,19 +2,22 @@ a { color:#0000FF; text-decoration: none; }
 a:visited {color: #0000CC;}
 a:hover { color: #0000FF; text-decoration: underline; }
 
-#content { background: white; color: #333; margin: 50px; font:16px/24px Calibri, Lucida Grande, Lucida Sans Unicode, Geneva, Helvetica, Arial, sans-serif; }
-header h1 { font-weight: 400; font-size: 36px; margin-top: 0; margin-bottom: 12px; }
+#content { background: white; color: #333; margin: 50px; font:16px/24px  'Calibri', 'Lucida Grande', 'Lucida Sans Unicode', sans-serif; }
+header h1 { font-weight: 400; font-size: 18px; z-index:10; margin: -36px 0px 12px 12px; }
 header h2 { font-size: 12px; font-weight: 200; color: #999; margin-bottom: 4px; }
 header h2 a, header h2 a:visited { color: #999; }
-nav p { margin-top: 0; font-size: 12px; }
+nav p { margin-top: 0; font-size: 12px; display: inline }
+nav p + p { margin-left: 16px; }
 article h1, nav h1 { font-size: 24px; font-weight: 200; }
 article h1 a, nav h1 a { text-decoration: none; }
 article h1 small { font-size: 16px; color: #999; margin-left: 10px; }
 article sup { line-height: 0; font-size: 12px; }
 article div.content { width: 500px; margin-bottom: 64px; }
-article p.caption { font-size: 12px; text-align: right; color: #999 }
+.tags, .tags a { font-size: 14px; color: #999 }
 article div.footnotes ol { padding-left: 0; }
+article div.footnotes li { padding-bottom: 8px; }
 article div.footnotes li, p.archive { color: #777; font-size: 12px; line-height: 16px; width: 75%; }
+article div.footnotes li p { display: inline; }
 nav.pagination p { font-size:16px; }
 /*p { text-align: justify; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto;} */
 nav.archive.index { margin-top: 40px; }
@@ -24,7 +27,7 @@ nav.archive li { font-size: 14px; }
 nav.archive abbr { margin-left: 10px; }
 footer p { color: #999; font-size: 12px; margin-top:50px; }
 img { border: 0; }
-nav.post { margin-top: 40px; }
+nav.post { width: 500px; margin-top: 40px; }
 
 #disqus_thread { margin-top: 36px; }
 .comment-count { color: #999; font-size: 12px; }
@@ -36,4 +39,3 @@ hr {
     background-image:     -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.30), rgba(0,0,0,0));
     background-image:      -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.30), rgba(0,0,0,0));
 }
-
