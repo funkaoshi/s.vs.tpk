@@ -3,19 +3,22 @@ layout: default
 ---
 
 <article>
-	<h1>{% if page.category == 'review' %}Review: {% endif %}<a href="{{ page.permalink }}">{{ page.title }}</a><small>{{ page.date | date_to_string }}</small></h1>
-	<div class="content">
-		{{ content }}
-		{% if page.tags %}
-		<p class="tags">
-		    <strong>tagged</strong>: {% for tag in page.tags %}<a class="tag_list_link" href="/tag/{{ tag }}">{{ tag }}</a> {% endfor %}
-		</p>
-		{% endif %}
-		{% include disqus.html %}
-   	</div>
+	<h1>
+        {% if page.category == 'play-report' %}Play Report:{% endif %}
+        {% if page.category == 'review' %}Review:{% endif %}
+        <a href="{{ page.permalink }}">{{ page.title }}</a>
+        <small>{{ page.date | date: "%Y&nbsp;%b&nbsp;%d" }}</small>
+    </h1>
+	{{ content }}
+	{% if page.tags %}
+	<p class="tags">
+	    <strong>tagged</strong>: {% for tag in page.tags %}<a class="tag_list_link" href="/tag/{{ tag }}">{{ tag }}</a> {% endfor %}
+	</p>
+	{% endif %}
+	{% include disqus.html %}
 </article>
 
-<nav class="post">
+<nav class="pagination">
 {% if page.previous.url %}
     Before this post I wrote <a href="{{ page.previous.url }}" rel="previous" title="{{ page.previous.title }}">{{ page.previous.title }}</a>.
 {% endif %}

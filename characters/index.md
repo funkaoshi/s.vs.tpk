@@ -3,9 +3,9 @@ layout: static
 title: Characters
 ---
 
-I'm playing in one online game at the moment, and i'm hoping to do a bit more of that. Having my character sheets online seems like the thing to do, and i'm not a big fan of Google Docs. So here we are.
+I'm playing in a few online games at the moment. Having my character sheets online seems like the thing to do. I'm not a big fan of Google Docs, so here we are.
 
-All the charcaters I have loved and lost, eventually. The active and the living: 
+All the characters I have loved and lost, eventually. The active and the living: 
 
  * \[4e, 2009--\] Duryodhana, Level 5 Warlock.
  * [\[DCC RPG, 2012--\] Theotorman the Ever Thankful][theotorman], Former Bee Keeper turned Lawful Level 2 Cleric

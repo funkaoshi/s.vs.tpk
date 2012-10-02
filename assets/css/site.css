@@ -1,41 +1,168 @@
-a { color:#0000FF; text-decoration: none; }
-a:visited {color: #0000CC;}
-a:hover { color: #0000FF; text-decoration: underline; }
+body {
+    margin: 0;
+    padding: 0;
+    background: #fff;
+}
 
-#content { background: white; color: #333; margin: 50px; font:16px/24px  'Calibri', 'Lucida Grande', 'Lucida Sans Unicode', sans-serif; }
-header h1 { font-weight: 400; font-size: 18px; z-index:10; margin: -36px 0px 12px 12px; }
-header h2 { font-size: 12px; font-weight: 200; color: #999; margin-bottom: 4px; }
-header h2 a, header h2 a:visited { color: #999; }
-nav p { margin-top: 0; font-size: 12px; display: inline }
-nav p + p { margin-left: 16px; }
-article h1, nav h1 { font-size: 24px; font-weight: 200; }
-article h1 a, nav h1 a { text-decoration: none; }
-article h1 small { font-size: 16px; color: #999; margin-left: 10px; }
-article sup { line-height: 0; font-size: 12px; }
-article div.content { width: 500px; margin-bottom: 64px; }
-.tags, .tags a { font-size: 14px; color: #999 }
-article div.footnotes ol { padding-left: 0; }
-article div.footnotes li { padding-bottom: 8px; }
-article div.footnotes li, p.archive { color: #777; font-size: 12px; line-height: 16px; width: 75%; }
-article div.footnotes li p { display: inline; }
-nav.pagination p { font-size:16px; }
-/*p { text-align: justify; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto;} */
-nav.archive.index { margin-top: 40px; }
-nav.archive h1 { font-size: 18px; margin-bottom: 6px }
-nav.archive ul { list-style: none; padding-left: 0; margin-top: 0; }
-nav.archive li { font-size: 14px; }
-nav.archive abbr { margin-left: 10px; }
-footer p { color: #999; font-size: 12px; margin-top:50px; }
-img { border: 0; }
-nav.post { width: 500px; margin-top: 40px; }
+a {
+    color: #0000FF;
+    text-decoration: none;
+}
+a:visited {
+    color: #0000CC;
+}
+a:hover {
+    color: #0000FF;
+    text-decoration: underline;
+}
 
-#disqus_thread { margin-top: 36px; }
-.comment-count { color: #999; font-size: 12px; }
+img {
+    border: 0;
+}
+
+#content {
+    width: 40em;
+    margin: 0 auto;
+    color: #333;
+    font: 1em/150% 'Source Sans Pro', sans-serif;
+}
+
+/* header and nav block */
+
+header h1 {
+    font-weight: 400;
+    font-size: 5em;
+}
+header h2 {
+    font-size: 12px;
+    font-weight: 200;
+    color: #999;
+    margin-bottom: 4px;
+}
+header h2 a, header h2 a:visited {
+    color: #999;
+}
+nav {
+    width: 40em;
+}
+nav p {
+    margin-top: 0;
+    font-size: 12px;
+    display: inline
+}
+nav p + p {
+    float: right;
+}
+
+/* articles */
+
+article, nav.archive {
+    margin-bottom: 4em;
+    width: 34em;
+    margin-left: 3em;
+}
+article img {
+    margin-left: -3em;
+}
+article h1, nav h1 {
+    font-size: 1.5em;
+    font-weight: 200;
+}
+article h1 a {
+    margin-right: 1em;
+}
+article h1 a, nav h1 a {
+    text-decoration: none;
+}
+article h1 small {
+    font-size: 1em;
+    color: #999;
+}
+article sup {
+    line-height: 0;
+    font-size: 0.75em;
+}
+article .tags, article .tags a {
+    font-size: 0.9em;
+    color: #999
+}
+article div.footnotes ol {
+    padding-left: 0;
+}
+article div.footnotes li {
+    padding-bottom: 0.5em;
+}
+article div.footnotes li, p.archive {
+    color: #777;
+    font-size: 0.75em;
+    line-height: ;
+    width: 75%;
+}
+article div.footnotes li p {
+    display: inline;
+}
+nav.pagination p {
+    font-size: 16px;
+    text-align: center;
+    display: block;
+}
+
+/* The archive page */
+
+
+nav.archive.index {
+    margin-top: 2em;
+}
+nav.archive h1 {
+    font-size: 1.5em;
+    margin-bottom: 0.5em;
+}
+nav.archive ul {
+    list-style: none;
+    padding-left: 0;
+    margin-top: 0;
+}
+nav.archive li {
+    font-size: 0.875em;
+}
+nav.archive abbr {
+    margin-left: 0.5em;
+}
+
+footer p {
+    color: #999;
+    font-size: 0.75px;
+    margin-top: 3em;
+}
+
+
+nav.post {
+    width: 32em;
+    margin-top: 3em;
+}
+
+#disqus_thread {
+    margin-top: 36px;
+}
+.comment-count {
+    color: #999;
+    font-size: 12px;
+}
+
+
+#recentcomments img.dsq-widget-avatar {
+    margin: 6px 0 0 -40px;
+    padding: 0;
+    border: 1px solid black;
+}
+
 
 hr {
-    width: 90%; border: 0; height: 1px;
+    width: 90%;
+    border: 0;
+    height: 1px;
     background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.30), rgba(0,0,0,0));
-    background-image:    -moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.30), rgba(0,0,0,0));
-    background-image:     -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.30), rgba(0,0,0,0));
-    background-image:      -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.30), rgba(0,0,0,0));
+    background-image: -moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.30), rgba(0,0,0,0));
+    background-image: -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.30), rgba(0,0,0,0));
+    background-image: -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.30), rgba(0,0,0,0));
 }

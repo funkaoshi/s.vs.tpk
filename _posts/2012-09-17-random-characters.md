@@ -2,6 +2,7 @@
 layout: post
 title: Random D&D Characters, Huzzah!
 category: blog
+date: 2012-09-17 10:00 PM
 tags:
     - d&d
     - od&d

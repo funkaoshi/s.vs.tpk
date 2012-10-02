@@ -16,6 +16,8 @@ I'd like to get some of the rule books and modules that were out before I starte
  * Weird New World (PDF)
  * [Vornheim: The Complete City Kit][vornheim]
  * [Carcosa][]
+ * The God that Crawls
+ * The Magnificent Joop van Ooms
 
 ### Dungeon Crawl Classics RPG
 
@@ -28,6 +30,7 @@ I'd like to get some of the rule books and modules that were out before I starte
  * DCC 69: The Emerald Enchanter
  * DCC 70: Jewels of the Carnifex
  * DCC 71: The 13th Skull
+ * DCC 72: Beyond the Black Gate
  * Free RPG Day 2012 Module
  * AL1 - Bone Hoard of the Dancing Horror (PDF)
  * SC1 - Perils of the Sunken Sea (PDF)
@@ -55,6 +58,7 @@ I'd like to get some of the rule books and modules that were out before I starte
  * Premium Monster Manual
  * F1 - The Fane of Poisoned Prophecies
  * F3 - The Many Gates of the Gann
+ 
 ### 2nd Edition
 
  * Player's Handbook
