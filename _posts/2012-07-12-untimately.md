@@ -6,6 +6,7 @@ tags:
   - osr
   - blogs
   - od&d
+  - blogfaves
 ---
 
 There are lots of great blogs about D&D out there on the Internet, but one that puts out consistently good stuff is [Untimately][] by Toronto's own Brendan Strejcek. His most recent post is on [the rules that compromise Original D&D][rules], distilling everything in [the 3 brown books][od&d] into concise lists of rules. A recent post that was particularly creative was about his take on [schools of magic][magic]. If you're into D&D you should be reading Untimately.

@@ -3,15 +3,11 @@ layout: static
 title: About
 ---
 
-This site is very much a work in progress. Rather than sit on my hands till I have a design i'm happy with, I figured i'd "do it live", as they say. I'm still trying to sort out: comments, where should they go and how should they look; general layout; tags and tagging ...
-
----
-
-This is a blog about [D&D][dnd], if you couldn't guess. I didn't want to drown [my other blog][funkaoshi] in posts about THAC0 and Megadungeons, and so we have this blog.
+This is a blog about [D&D][dnd]. I didn't want to drown [my other blog][funkaoshi] in posts about THAC0 and Megadungeons, and so here we are.
 
 I started playing D&D when I was 12 or 13. A family friend ran a campaign for myself, my brother, and my cousin using his copy of the [Rules Cyclopedia][6]. We played a Cleric, a Fighter, and a Rogue, respectively. I can't recall how long our campaign ran for. I can't really recall much of anything we did. I do remember fighting a dragon. It was great.
 
-That was a million years ago. [I recently got back into D&D.][2] Wizards of the Coast announced D&D 4th Edition, which got one of my friends interested in running a game. I recall stumbling on [How to Host a Dungeon on MetaFilter][3]. I think from there I discovered the [Random Dungeon Generator Kickstarter project][4]. That led me to [Grognardia][5]. Once you discover Grognardia you learn that there is a whole world of D&D you weren't aware of.
+That was a million years ago. [I recently got back into D&D.][2] Wizards of the Coast announced D&D 4th Edition, which got one of my friends interested in running a game. This got me back into D&D. Some time later I stumbled upon [How to Host a Dungeon on MetaFilter][3]. I think from there I discovered the [Random Dungeon Generator Kickstarter project][4]. That led me to [Grognardia][5]. Once you discover Grognardia you learn that there is a whole world of D&D you weren't aware of.
 
 This blog is another drop in the old-school D&D bucket.
 

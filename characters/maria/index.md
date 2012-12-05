@@ -3,7 +3,7 @@ layout: bx_sheet
 system: B/X D&D
 title: Maria, the Neutral Level 1 Rune Knight of Baroviania
 location: the Jova City Tavern
-max_hp: 4
+hp: 4
 curr_hp: 4
 ac: 18
 xp: 214

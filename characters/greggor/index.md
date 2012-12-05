@@ -4,7 +4,7 @@ title: The Hero Greggor, Nuetral Level 4 Fighter
 system: OD&D
 location: the 4th level of Dwimmermount
 xp: 10,001
-max_hp: 19
+hp: 19
 curr_hp: 19
 ac: 1
 THAC9: 7

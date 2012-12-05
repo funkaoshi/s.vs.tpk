@@ -29,19 +29,11 @@ img {
 
 /* header and nav block */
 
-header h1 {
-    font-weight: 400;
-    font-size: 5em;
+header img {
+        margin-left: -30px;
 }
-header h2 {
-    font-size: 12px;
-    font-weight: 200;
-    color: #999;
-    margin-bottom: 4px;
-}
-header h2 a, header h2 a:visited {
-    color: #999;
-}
+
+
 nav {
     width: 40em;
 }
@@ -86,6 +78,33 @@ article .tags, article .tags a {
     font-size: 0.9em;
     color: #999
 }
+
+article table.random-table {
+    border: 1px solid black;
+    padding: 5px;
+    border-collapse: collapse;
+}
+article table.random-table tr:nth-child(odd) {
+    background-color: #EDEEFF;
+}
+article table.random-table tr td:first-child {
+    vertical-align: top;
+    text-align: center;
+}
+article table.random-table tr td:last-child {
+    /* override above for single column tables. */
+    text-align: left;
+}
+article table.random-table th {
+    text-align: left;
+    background-color: #BED9F6;
+}
+article table.random-table td,
+article table.random-table th {
+    padding: 2px 5px;
+    border: 1px solid black;
+}
+
 article div.footnotes ol {
     padding-left: 0;
 }
@@ -95,8 +114,8 @@ article div.footnotes li {
 article div.footnotes li, p.archive {
     color: #777;
     font-size: 0.75em;
-    line-height: ;
-    width: 75%;
+    line-height: 150%;
+    width: 85%;
 }
 article div.footnotes li p {
     display: inline;
