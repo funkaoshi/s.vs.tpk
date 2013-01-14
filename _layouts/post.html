@@ -14,8 +14,10 @@ layout: default
 	<p class="tags">
 	    <strong>tagged</strong>: {% for tag in page.tags %}<a class="tag_list_link" href="/tag/{{ tag }}">{{ tag }}</a> {% endfor %}
 	</p>
-	{% endif %}
-	{% include disqus.html %}
+    {% endif %}
+    {% if page.gplus %}
+    <p class="discuss"><a href="{{ page.gplus }}">Discuss this post on Google+</a></p>
+    {% endif %}
 </article>
 
 <nav class="pagination">

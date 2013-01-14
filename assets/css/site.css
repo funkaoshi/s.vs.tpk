@@ -160,21 +160,10 @@ nav.post {
     margin-top: 3em;
 }
 
-#disqus_thread {
-    margin-top: 36px;
-}
-.comment-count {
+.discuss {
     color: #999;
     font-size: 12px;
 }
-
-
-#recentcomments img.dsq-widget-avatar {
-    margin: 6px 0 0 -40px;
-    padding: 0;
-    border: 1px solid black;
-}
-
 
 hr {
     width: 90%;
