@@ -9,6 +9,7 @@ tags:
     - encounters
     - dwimmermount
 date: 2012-10-10 9:45 PM
+gplus: https://plus.google.com/110118815125792309582/posts/6cFjnpNUyh9
 ---
 
 ![Combat by Henry Justice Ford][hjf-img]

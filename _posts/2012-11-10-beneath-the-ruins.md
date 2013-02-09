@@ -8,6 +8,7 @@ tags:
     - module
     - d&d
 date: 2012-11-10 1:10PM
+gplus: https://plus.google.com/110118815125792309582/posts/6KFAsC2LusP
 ---
 
 The first module for Geoffrey McKinney's new imprint [Psychedelic Fantasies][1] is [_Beneath the Ruins_][2] by [Alex Fotinakes][3]. The module describes the first level of the vast ruins of Kihago. One might describe the dungeon as "gonzo": there are laser pistols and weird science, mutant men, and yeast monsters.

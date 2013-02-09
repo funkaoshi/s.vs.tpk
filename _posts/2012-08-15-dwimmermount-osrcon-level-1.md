@@ -10,6 +10,7 @@ tags:
     - osrcon
     - osrcon2012
     - convention
+gplus: https://plus.google.com/110118815125792309582/posts/RAJKeRtRafL
 ---
 
 As I mentioned in [my previous post on OSRCon][osrcon], I got to wander through the dark halls of [Dwimmermount][] on Saturday morning in a game run by [James  Maliszewski][grognardia]. What follows may ruin the surprise of some of the rooms in the dungeon: you have been warned.

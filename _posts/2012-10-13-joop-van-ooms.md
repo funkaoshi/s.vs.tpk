@@ -8,6 +8,7 @@ tags:
   - osr
   - supplement
 date: 2012-10-13 12:52 PM
+gplus: https://plus.google.com/110118815125792309582/posts/Y77sYxbKT2y
 ---
 
 

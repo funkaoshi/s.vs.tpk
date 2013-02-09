@@ -6,6 +6,7 @@ tags:
     - dccrpg
     - flgs
     - osr
+gplus: https://plus.google.com/110118815125792309582/posts/AEpbb5f7cdp
 ---
 
 Saturday June 16th was [Free RPG Day][1]. If the name didn't give it away, the basic idea is that you show up at your local game store and you collect free RPG swag. [Goodman Games][2] was giving away [a DCC RPG module][3] that I was looking forward to grabbing. Different stores have different rules about how to distribute the items various publishers send them to give away. [Duelling Grounds][4], my local gaming store, was giving away stuff to anyone who participated in games that were being run that day.

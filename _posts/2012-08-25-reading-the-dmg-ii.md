@@ -8,6 +8,7 @@ tags:
     - gygax
     - dmg
     - ad&d
+gplus: https://plus.google.com/110118815125792309582/posts/2fR4YT7tTsd
 ---
 
 Gary Gygax introduced the world to the thief class in the first supplement to the [original D&D][od&d] books, [Greyhawk][]. They of course lived on in Gygax's magnum opus AD&D. Clearly he was unhappy with how they were being used under the loosey-goosey rules of OD&D.

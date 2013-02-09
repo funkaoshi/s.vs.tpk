@@ -10,14 +10,12 @@ layout: default
         <small>{{ page.date | date: "%Y&nbsp;%b&nbsp;%d" }}</small>
     </h1>
 	{{ content }}
-	{% if page.tags %}
-	<p class="tags">
+    <p class="meta">
 	    <strong>tagged</strong>: {% for tag in page.tags %}<a class="tag_list_link" href="/tag/{{ tag }}">{{ tag }}</a> {% endfor %}
-	</p>
-    {% endif %}
-    {% if page.gplus %}
-    <p class="discuss"><a href="{{ page.gplus }}">Discuss this post on Google+</a></p>
-    {% endif %}
+        {% if page.gplus %}
+        <br /><strong>discuss</strong>: <a href="{{ page.gplus }}">on google+</a>
+        {% endif %}
+    </p>
 </article>
 
 <nav class="pagination">

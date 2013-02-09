@@ -8,6 +8,7 @@ tags:
   - lotfp
   - osr
   - hexcrawl
+gplus: https://plus.google.com/110118815125792309582/posts/f4vfWvdPvmq
 ---
 
 <img src="/assets/img/city-of-carcosa.jpg" width="492px" style="margin:0 auto">

@@ -7,6 +7,7 @@ tags:
     - ad&d
     - dmg
     - gygax
+gplus: https://plus.google.com/110118815125792309582/posts/S6LARmbuS6o
 ---
 
 I picked up copies of the new [Premium AD&D 1st Edition reprints][ad&d1e] earlier this week at [Hairy Tarantula][hairyt] here in Toronto. I was on the fence about getting them as I don't have much interest in actually playing AD&D 1e. I decided to buy them because I heard they were great books on role-playing games in general, and an important part of the history of the game. I'm also a big fan of the art from that era--back when no one working for TSR really knew how to draw. The reprints are really well done[^1] and I'm quite happy with my purchase.[^2]

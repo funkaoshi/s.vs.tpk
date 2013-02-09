@@ -6,6 +6,7 @@ tags:
   - carcosa
   - lotfp
   - osr
+gplus: https://plus.google.com/110118815125792309582/posts/CKnU7Duggah
 ---
 
 ![An illustration of a monster in Carcosa by Rich Longmore][carcosa-monster]

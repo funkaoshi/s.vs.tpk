@@ -7,6 +7,7 @@ tags:
     - d&d
     - expert
     - module
+gplus: https://plus.google.com/110118815125792309582/posts/KbfCtq66KoH
 ---
 
 I bought a copy of [_Isle of Dread_][x1] from [Dueling Grounds][flgs] several weeks ago. (They have a good selection of overpriced beat up old modules and books.) My main reason for buying the book was to support the store, since they host the [Encounters][] game I participate in. That said, I had been thinking about picking up this module for some time. _Isle of Dread_ was the first Expert Edition D&D module put out by TSR--the infamous X1.

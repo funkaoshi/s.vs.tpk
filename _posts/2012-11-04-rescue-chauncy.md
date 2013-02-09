@@ -8,6 +8,7 @@ tags:
   - osr
   - flailsnails
 date: 2012-11-04 6:30 PM
+gplus: https://plus.google.com/110118815125792309582/posts/V9HWjCAPS7W
 ---
 
 On Friday I played a D&D one-shot to rescue a character from [Wampus County][1] trapped in [Carcosa][2]. It was a lot of fun. What follows is a Carcosa-esque play report. Gustie, from [Dungeon of Signs][3], [has a more traditional and detailed play-report up on his blog as well.][4] The session was run by Brendan, from [Untimately][5], who has [a write up of the wilderness we were exploring][6]. I forgot about the dead T-Rex in my write up below.

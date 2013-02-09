@@ -7,6 +7,7 @@ tags:
     - od&d
     - osr
 date: 2012-10-24 9:45 AM
+gplus: https://plus.google.com/110118815125792309582/posts/FdXixdzJqmQ
 ---
 
 [Delving Deeper][1] was released as [a set of PDFs yesterday][2]. It's a retroclone of the [Original D&D][3] rules. The only other edition i'm aware of that is similar in scope is the [Sword and Wizardry White Box][4]. Unlike the White Box, Delving Deeper stays much closer to Original D&D in its rules. I also think it's a much better laid out and organized product. The White Box PDF feels more verbose than it need be. That said, some of the additional exposition is good for getting a better understanding of Original D&D. The White Box also feels like a neglected product, with Sword and Wizardry seemingly more interested in their other products.

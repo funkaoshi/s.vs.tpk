@@ -8,6 +8,7 @@ tags:
   - osr
   - homebrew
   - motu
+gplus: https://plus.google.com/110118815125792309582/posts/1tsKrbfRSzP
 ---
 
 In [_How Brightly Coloured Should Carcosa Be?_][carcosa-article] [Richard Guy][richard-guy] discusses the relationship between [_He-Man and the Masters of the Universe_][he-man] and [_Carcosa_][Carcosa]. It's probably one of the most enjoyable things i've read since getting back into gaming.

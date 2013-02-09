@@ -6,6 +6,7 @@ tags:
   - jamesraggi
   - lotfp
   - osr
+gplus: https://plus.google.com/110118815125792309582/posts/GtE4FsZE3PG
 ---
 
 ![Grindhouse Edition Boxset][grindhouse-boxset]

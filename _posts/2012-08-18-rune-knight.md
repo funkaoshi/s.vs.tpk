@@ -7,6 +7,7 @@ tags:
     - baroviania
     - constantcon
     - homebrew
+gplus: https://plus.google.com/110118815125792309582/posts/j2pdxZ4dbou
 ---
 
 ![Celes by Yoshitaka Amano](/assets/img/celes.jpg)

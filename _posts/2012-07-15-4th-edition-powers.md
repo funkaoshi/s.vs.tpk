@@ -5,6 +5,7 @@ category: blog
 tags: 
     - 4e
     - dnd
+gplus: https://plus.google.com/110118815125792309582/posts/3PrKnan8nBb
 ---
 
 I woke up the morning following [the death of Osrik][osrik], my dwarf paladin, realizing the character had a power that would let him re-roll a missed hit when bloody. I'm not sure this would have turned the fight that cost the character his life, but it certainly would have helped. This got me thinking about [4th Edition][4e] and its pantheon of classes and powers a little bit more.

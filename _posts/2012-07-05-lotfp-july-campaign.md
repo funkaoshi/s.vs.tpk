@@ -6,6 +6,7 @@ tags:
   - kickstarter
   - lotfp
   - osr
+gplus: https://plus.google.com/110118815125792309582/posts/Uxx18T9hNtC
 ---
 
 [James Raggi][1] of [Lamentations of the Flame Princess][2] is running this crazy crowd funding project during the month of July. He has set up [19 different IndieGoGo campaigns][3], each requiring $6000 in funds. The ultimate goal would be to raise $114,000. That's some aggressive crowd funding.

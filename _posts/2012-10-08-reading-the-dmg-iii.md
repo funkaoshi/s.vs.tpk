@@ -8,6 +8,7 @@ tags:
     - dmg
     - gygax
 date: 2012-10-08 9:12 PM
+gplus: https://plus.google.com/110118815125792309582/posts/QtVaT67HtmQ
 ---
 
 > **Duties** It is not practical to try to determine the time and expenses necessary to accomplish everything possible for the scores of standard hirelings possible to employ, so each DM will have to decide. For example, assume that a player character hires a tailor to make plain blue cloaks for all of his or her henchmen. This will take only about 1 day per garment and cost the stated amount of money plus 5 c.p. (10% of the cost of a cloak) per cloak for materials. However, if the same cloaks were to be fashioned of a material of unusual color and have some device also sewed upon them, time and materials costs would be at least double standard, and probably more.

@@ -21,7 +21,7 @@ attributes:
     con: 10
     cha: 11
 portrait: /assets/img/satyavati-by-gustie-bg.jpg
-background-img: true
+background_img: true
 ---
 
 ### Prepared Spells

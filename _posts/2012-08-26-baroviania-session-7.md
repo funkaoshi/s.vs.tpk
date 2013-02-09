@@ -8,6 +8,7 @@ tags:
     - d&d
     - ravenloft
     - nintendo
+gplus: https://plus.google.com/110118815125792309582/posts/DfTEhNztVcw
 ---
 
 I rolled up [Maria][], a [Rune Knight][rune-knight] from the Dark Capital, for Reynaldo's [Baroviania][] game a few days ago. Yesterday she got drafted for her first game, the 7th session of the campaign. I wasn't quite sure what to expect. It seems like most sessions of Baroviania thus far have been kind of zany.

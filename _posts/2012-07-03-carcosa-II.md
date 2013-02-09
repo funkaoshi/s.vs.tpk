@@ -6,6 +6,7 @@ tags:
   - carcosa
   - lotfp
   - osr
+gplus: https://plus.google.com/110118815125792309582/posts/eTSbJcKmFAY
 ---
 
 [Carcosa][] is an impressive piece of writing, but people seem to get fixated on the small portion of the book that is filled with all sorts of rape and human sacrifice. **Wait, what?**

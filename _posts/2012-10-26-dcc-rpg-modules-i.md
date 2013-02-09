@@ -6,6 +6,7 @@ tags:
     - dccrpg
     - osr
 date: 2012-10-26 10:30 AM
+gplus: https://plus.google.com/110118815125792309582/posts/2yTbx5xFR4L
 ---
 
 ![DCC RPG Modules 67-69][dcc-rpg-img]

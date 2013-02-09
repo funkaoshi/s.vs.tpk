@@ -6,6 +6,7 @@ tags:
     - osr
     - meta
 date: 2012-10-30 1:10 PM
+gplus: https://plus.google.com/110118815125792309582/posts/cAfVEiTD8rj
 ---
 
 There has been [some discussion online][1] about what constitutes a role-playing game.

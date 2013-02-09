@@ -5,6 +5,7 @@ category: play-report
 tags: 
     - 4e
     - encounters
+gplus: https://plus.google.com/110118815125792309582/posts/eASQihAevvK
 ---
 
 I created Osrik, an (Essentials) dwarf paladin, to play at D&D Encounters this week after [the untimely death of my deep gnome cleric Gretzlyn][1]. I was thinking this Paladin would on the tail of his friend the cleric. I won't get a chance to flesh out his story, because I managed to kill this character as well. Two deaths in two weeks? For shame.

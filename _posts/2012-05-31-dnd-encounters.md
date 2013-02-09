@@ -5,6 +5,7 @@ category: blog
 tags:
     - 4e
     - encounters
+gplus: https://plus.google.com/110118815125792309582/posts/cp6bAFTCuSD
 ---
 
 I played in my first [D&D encounters][wizards] session last week.  These are pickup games run by people at your local games or comic book shop, using episodic adventures published by Wizards of the Coast. Each adventure runs for 12 or so weeks. Wizards of the Coast set up the Encounters program to introduce new gamers to D&D, and to get people who might have stopped playing back into D&D. It's been going on for a few years now, so I'm going to assume Wizards has decided it is a success.

@@ -5,6 +5,7 @@ category: blog
 tags: 
     - d&d
     - books
+gplus: http://save.vs.totalpartykill.ca/blog/a-shopping-list/
 ---
 
 There are so many old D&D modules out there that sound a little bit interesting. I decided to write out exactly what older D&D modules and books I want. The goal here was to stop myself from spending money like an idiot on anything and everything I might stumble upon, but also have enough books to buy that I can spend money like an idiot. I don't consider myself a collector of D&D books, but there is certainly some aspect of collecting at play in my behaviour. I also have a (bad) habit of buying more books than I could possibly hope to read in a reasonable amount of time. I wanted to pick a small set of old books and then forget any others exist.
