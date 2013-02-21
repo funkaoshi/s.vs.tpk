@@ -149,6 +149,7 @@ As per protection from normal missiles, 10' radius, but opponents must save vs. 
 ### Notes
  
  * [Brendan's page about Pahvelorn][pahvelorn]
+ * Illustration of Satyavati by [Gustie from Dungeon of Signs][gustie].
  * **Pahvelorn Session #1**: \[[Gustie][gustie-session-1]]
  * **Pahvelorn Session #2**: \[[Gustie][gustie-session-2]] \[[Nick][nick-session-2]]
  * **Pahvelorn Session #3**: \[[Gustie][gustie-session-3]]
@@ -210,6 +211,7 @@ As per protection from normal missiles, 10' radius, but opponents must save vs. 
 
 [nick-session-2]: http://www.paperspencils.com/2012/08/01/the-beauty-of-character-death-and-a-shameful-confession/
 
+[gustie]: http://dungeonofsigns.blogspot.ca/
 [gustie-session-1]: http://dungeonofsigns.blogspot.ca/2012/07/the-pit-of-pavelorn-part-i-into-pit.html
 [gustie-session-2]: http://dungeonofsigns.blogspot.ca/2012/07/in-necromancers-villa-pavelorn-session.html
 [gustie-session-3]: http://dungeonofsigns.blogspot.ca/2012/08/pavelorn-across-boulevard.html

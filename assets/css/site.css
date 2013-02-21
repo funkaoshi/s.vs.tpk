@@ -78,28 +78,28 @@ article .meta {
     font-size: 0.9em;
 }
 
-article table.random-table {
+article table {
     border: 1px solid black;
     padding: 5px;
     border-collapse: collapse;
 }
-article table.random-table tr:nth-child(odd) {
+article table tr:nth-child(odd) {
     background-color: #EDEEFF;
 }
-article table.random-table tr td:first-child {
+article table tr td:first-child {
     vertical-align: top;
     text-align: center;
 }
-article table.random-table tr td:last-child {
+article table tr td:last-child {
     /* override above for single column tables. */
     text-align: left;
 }
-article table.random-table th {
+article table th {
     text-align: left;
     background-color: #BED9F6;
 }
-article table.random-table td,
-article table.random-table th {
+article table td,
+article table th {
     padding: 2px 5px;
     border: 1px solid black;
 }

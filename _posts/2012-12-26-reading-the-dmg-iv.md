@@ -13,4 +13,4 @@ published: false
 
 > YOU CAN NOT HAVE A MEANINGFUL CAMPAIGN IF STRICT TIME RECORDS ARE NOT KEPT.
 
-Strong words from Gary Gygax on running a campaign.
+Strong words from Gary Gygax on running a campaign. This is actually one of the few places in the DMG where text is set in all caps. 

@@ -3,7 +3,7 @@ layout: post
 title: My various random D&D web apps are down.
 category: meta
 tags:
-    - webapps
+    - webapp
 date: 2012-12-23 11:50 PM
 ---
 

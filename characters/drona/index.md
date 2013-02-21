@@ -65,6 +65,7 @@ background_img: false
 ### Notes
  
 * [Brendan's page about Pahvelorn][pahvelorn]
+* Illustration of Drona by [Gustie from Dungeon of Signs][gustie].
 * Previous sessions recorded on [Satyavati's character sheet][satyavati]
 * Drona is 59 years old (from a random roll) 
 * **Pahvelorn Session #17**: \[[G+][session-17]]
@@ -107,5 +108,6 @@ background_img: false
 [session-21]: https://plus.google.com/110795136999145840727/posts/Yf9hTNYx99R
 [session-22]: https://plus.google.com/110795136999145840727/posts/Hn6zqf2Hj4N
 
+[gustie]: http://dungeonofsigns.blogspot.ca/
 [gustie-session-18]: http://dungeonofsigns.blogspot.ca/2012/12/pahvelorn-session-xvii-tower-of.html
 [gustie-session-19-20]: http://dungeonofsigns.blogspot.ca/2013/01/pahvelorn-these-ziggurats-contain-no.html
