@@ -85,7 +85,7 @@ background_img: false
   * The party battles a crazed undead wizard in an attempt to save what appear to be ragged group of villagers. Unfortunately, the 'villagers' are in fact undead as well. A fight ensues and the party is victorious. Examining the room the party learns everything within it is fake: the books, lectern, everything. The party destroys everything and makes their way to leave, when a group of ceramic ants wanders into the Southern room, blocking their exit. Trapped, the party must push open the doors the ants attempt to close and jump the pit trap they had previously avoided. Ogam and Sander are dead, now rotting at the bottom of a pit! The party defeats the robot ants and explores the remainder of the Ziggurat, before returning to Pahvelorn.
   * Gains: **275 GP** in loot.
   * Spending: 100 GP training two new retainers, 100 GP on Plate Mail for both, 45 GP on equipment for my retainer; 100 GP donation to the orphanage in Zorfath in honour of Sanders. Some of that will pay for a little plaque with his name and the date of Sanders death / donation. One of the ratainers is trained for the magic-user Eraria (**+362 XP**)
-* **Pahvelorn Session #20**: \[[G+][session-21]]
+* **Pahvelorn Session #20**: \[[G+][session-21]] 
   * The party ventures off to Ilum Zugot. On the way they meet some Pegasus, one of whom has had his wings clipped. They manage to capture and keep them for a night. The injured one agrees to stay with the party, while the others fly off.
   * The party arrives in Ilum Zugot, and takes up a commission to cleanse some barrows. They investigate a strange barrow carved into a cliff face. They find the tomb of St. Retlu, an important clecic.
   * Gains: **355.75 GP**
