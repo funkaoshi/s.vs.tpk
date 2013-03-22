@@ -96,7 +96,7 @@ background_img: false
 * The story continues with [Karna][]
 
 
-[pahvelorn]: http://untimately.blogspot.ca/p/pahvelorn.html
+[pahvelorn]: http://www.necropraxis.com/pahvelorn/
 [satyavati]: /characters/satyavati/
 [karna]: /characters/karna/
 [shields]: http://untimately.blogspot.ca/2012/12/shield-saves.html

@@ -1,18 +1,18 @@
 ---
 layout: bx_sheet
 system: Pahvelorn / Original
-title: Karna, Level 4 Cleric
+title: Bishop Karna, Level 6 Cleric
 location: Ilum Zugot
-xp: 6323 / 12,000
-hp: 12 (HD 4)
+xp: 27,333
+hp: 19 (HD 5)
 ac: 2
-THAC9: 9
+THAC9: 7
 saves:
-    death: 11
-    stone: 14
-    wands: 12
-    breath: 16
-    magic: 15
+    death: 9
+    stone: 12
+    wands: 10
+    breath: 14
+    magic: 12
 attributes:
     str: 9
     int: 13 (+3)
@@ -24,16 +24,6 @@ appearance: Child, Formal Clothing, Tall, Male
 portrait: /assets/img/karna-by-gus-bg.jpg
 background_img: true
 ---
-
-### Retainer: 
-
-* Shalya, Ratling Porter, 10 XP
-  * **STR**: 7, **INT**: 8, **WIS**: 10, **DEX**: 12, **CON**: 6, **CHA**: 7
-  * AC 7.
-  * +4 save versus wands, dragon breath, and disease.
-  * May speak to rats and related rodents (only general concepts).
-  * Thief Skills: Climb Walls (87%), Hear Noise / Smell (2 in 6), Hide in Shadows (10%), Move Silently (20%), Pickpocket (20%).
-  * Equipment: dagger, backpack, 3 small sacks, 1 large sack, 3 torches, Lantern, 2 Flasks oil.
 
 ### Equipment:
 
@@ -48,31 +38,25 @@ background_img: true
 * 10' Pole
 * Wooden Cross
 * Small Sack
-* 266 GP
+* 4951 GP
 
 ### Turn Undead
 
 <table class="skills">
 <tr>
-  <th>Undead</th><th>Roll</th>
+    <th>Undead</th> <th>Roll</th> <th>Undead</th> <th>Roll</th>
 </tr>
 <tr>
-  <td>Skeleton</td><td>D</td>
+    <td>Skeleton (1/2)</td> <td>D</td> <td>Wraith (4)</td> <td>T</td>
 </tr>
 <tr>
-  <td>Zombie</td><td>T</td>
+    <td>Zombie (1)</td> <td>D</td> <td>Mummy (5)</td> <td>7</td>
 </tr>
 <tr>
-  <td>Ghoul</td><td>T</td>
+    <td>Ghoul (2)</td> <td>D</td> <td>Spectre (6)</td> <td>9</td>
 </tr>
 <tr>
-  <td>Wight</td><td>7</td>
-</tr>
-<tr>
-  <td>Wraith</td><td>9</td>
-</tr>
-<tr>
-  <td>Mummy</td><td>11</td>
+    <td>Wight (3)</td> <td>T</td> <td>Vampire (7+)</td> <td>11</td>
 </tr>
 </table>
 
@@ -106,15 +90,21 @@ background_img: true
 * **Pahvelorn Session #24**: \[[G+][session-24]]
   * Once more into the barrows, the party retraces their last steps through lower levels. Exploring the level below the 'punishment room', the party discovers a crypt full of bodies. There is a small alter dedicated to some snake god, where giant flies steal Beni's hat and Darulin's magic sword. After some misadventures everything is recovered, with extra loot to boot. While exploring natural caverns Shalya, Ratling Porter, is killed by a falling boulder. **Tragedy**.
   * Gains: **13,835 GP**: holy shit.
-  * Spending: TODO
+  * Spending: 9145 GP on spell research (fear), 5 GP upkeep, 1800 GP to train Ginny Bo (**+21,010** XP)
+* **Pahvelorn Session #25**  \[[G+][session-25]]
+  * The party takes a break from dungeoneering to clear a road! On the way they come across a group of giants attacking a farm house. There is some killing, but they manage to subdue the last of the giants Margosk. An agreement is made between the players and the giant. Each player carves a bell in their arm, to commemorate the occasion. After making sure the farmstead is safe and secure, the party continues their journey. Making camp in the ruins of a guard tower over looking a small river, the party encounters ...
+  * Gains: **TODO**
+  * Spending: **TODO**
   
-[pahvelorn]: http://untimately.blogspot.ca/p/pahvelorn.html
+
+[pahvelorn]: http://www.necropraxis.com/pahvelorn/
 [satyavati]: /characters/satyavati/
 [drona]: /characters/drona/
 
 [session-22]: https://plus.google.com/110795136999145840727/posts/Hn6zqf2Hj4N
 [session-23]: https://plus.google.com/110795136999145840727/posts/DrQCAnDFK2k
 [session-24]: https://plus.google.com/110795136999145840727/posts/ivW3eJGr2tH
+[session-25]: https://plus.google.com/110795136999145840727/posts/FhzP3e7ZN7e
 
 [gustie]: http://dungeonofsigns.blogspot.ca/
 [gustie-22-23]: http://dungeonofsigns.blogspot.ca/2013/02/pahvelorn-tragedy-and-plunder.html

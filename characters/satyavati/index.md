@@ -202,7 +202,7 @@ As per protection from normal missiles, 10' radius, but opponents must save vs. 
    * **DEAD!**
 
  
-[pahvelorn]: http://untimately.blogspot.ca/p/pahvelorn.html
+[pahvelorn]: http://www.necropraxis.com/pahvelorn/
 [drona]: /characters/drona/
 
 [my-session-7]: http://save.vs.totalpartykill.ca/play-report/pahvelorn-1/

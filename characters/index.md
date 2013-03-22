@@ -36,7 +36,7 @@ And the dead and the retired:
 [drona]: /characters/drona/
 [karna]: /characters/karna/
 
-[pahvelorn]: http://untimately.blogspot.ca/p/pahvelorn.html
+[pahvelorn]: http://www.necropraxis.com/pahvelorn/
 [ase]: https://plus.google.com/112666135831357830942/posts
 [dwimmermount]: /blog/dwimmermount-osrcon-level-1/
 [osrcon]: /blog/osrcon-2012
