@@ -9,12 +9,14 @@ layout: default
         <a href="{{ page.permalink }}">{{ page.title }}</a>
         <small>{{ page.date | date: "%Y&nbsp;%b&nbsp;%d" }}</small>
     </h1>
-	{{ content }}
+    {{ content }}
+    {% if page.gplus %}
+    <p class="discuss">
+        <em>You can discuss post on <strong><a href="{{ page.gplus }}">on google+</a></strong>.</em>
+    </p>
+    {% endif %}
     <p class="meta">
 	    <strong>tagged</strong>: {% for tag in page.tags %}<a class="tag_list_link" href="/tag/{{ tag }}">{{ tag }}</a> {% endfor %}
-        {% if page.gplus %}
-        <br /><strong>discuss</strong>: <a href="{{ page.gplus }}">on google+</a>
-        {% endif %}
     </p>
 </article>
 
