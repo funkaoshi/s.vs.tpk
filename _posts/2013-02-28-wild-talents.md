@@ -2,8 +2,8 @@
 layout: post
 title: Wild Talents
 category: blog
-tags: 
-    - d&d 
+tags:
+    - d&d
     - darksun
     - homebrew
     - psionics
@@ -15,14 +15,14 @@ I'm thinking of running a [Dark Sun][1] game using the [Original Dungeons and Dr
 
 ---
 
-Player's should roll under their Wisdom score to determine if their character has a wild psionic talent. If they fail the roll the character has no wild talent; if they succeed, the amount they succeed by determines their wild talent as follows: 
+Player's should roll under their Wisdom score to determine if their character has a wild psionic talent. If they fail the roll the character has no wild talent; if they succeed, the amount they succeed by determines their wild talent as follows:
 
  d | Power
 ---|-----------
  0 | **Know Direction** - The character knows which way is North.
  1 | **Far Hearing** - For one turn the character hears all sounds within 50’ as if they were being whispered directly into their ear. The character may choose what sounds to focus on.
  2 | **Far Seeing** - For one turn the character may view a scene up to 50' away as if they were right there. They may see through walls and other obstacles, but not through lead.
- 3 | **Thought Projection** - The character may communicate a brief message mentally with a creature up to 50' away. The target understands the character, even if they share no common language. 
+ 3 | **Thought Projection** - The character may communicate a brief message mentally with a creature up to 50' away. The target understands the character, even if they share no common language.
  4 | **Object Projection** - The character may teleport a small object in their possession up to 50' away.
  5 | **Telekinetic Grasp** - For one turn the character may manipulate small objects from up to 50' away.
  6 | **Spark** - The character may ignite any flammable object within 50' of them. (The “heat” this power generates is no greater than that of a candle.)
@@ -39,8 +39,6 @@ Player's should roll under their Wisdom score to determine if their character ha
 17 | **The Haitian**: no character within 10' of the character, friend or foe, may use their psionic powers. The character also gains **Psionic Immunity**.
 
 A character may use their psionic power once per day. (**Psionic Immunity** and **The Haitian** are exceptions here: they are always active.)
-
----
 
 [1]: /tags/darksun/
 [2]: /tags/od&d/

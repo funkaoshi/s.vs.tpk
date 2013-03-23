@@ -51,6 +51,11 @@ nav#site-navigation p + p {
     float: right;
 }
 
+h2.tag-title {
+    text-align: center;
+    font-size: 2em;
+}
+
 /* articles */
 
 article, nav.archive {
@@ -71,10 +76,16 @@ article h1 a {
 article h1 a, nav h1 a {
     text-decoration: none;
 }
-article hgroup p, article hgroup p a {
+article hgroup p {
     font-size: 0.7em;
     color: #666;
     text-align: center;
+}
+article hgroup p a, article hgroup p a:visited {
+    color: #666;
+}
+article hgroup p:hover a {
+    color: #0000FF;
 }
 article hgroup p {
     margin: 0;
@@ -139,23 +150,30 @@ nav.index-pagination {
 /* The archive page */
 
 
-nav.archive.index {
+.archive.index {
     margin-top: 2em;
 }
-nav.archive h1 {
-    font-size: 1.5em;
-    margin-bottom: 0.5em;
+.archive h1 {
+    text-align: left;
 }
-nav.archive ul {
+.archive ul {
     list-style: none;
     padding-left: 0;
     margin-top: 0;
 }
-nav.archive li {
+.archive li {
     font-size: 0.875em;
 }
-nav.archive abbr {
+.archive abbr {
     margin-left: 0.5em;
+}
+.archive a.tag_list_link {
+    font-size: 0.8em;
+    color: #777;
+}
+.archive li:hover a.tag_list_link {
+    font-size: 0.8em;
+    color: #0000FF;
 }
 
 footer p {

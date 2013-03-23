@@ -13,7 +13,7 @@ module Jekyll
       self.data['title'] = "#{tag_title_prefix}#{tag}#{tag_title_suffix}"
     end
   end
-  
+
   class TagGenerator < Generator
     safe true
     def generate(site)
