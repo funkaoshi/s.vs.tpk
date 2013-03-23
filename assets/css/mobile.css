@@ -1,0 +1,12 @@
+
+#content + header {
+    width: 34em;
+}
+nav#site-navigation p {
+    font-size: 1em;
+    text-align: center;
+    display: block;
+}
+nav#site-navigation p + p {
+    display: none;
+}

@@ -46,7 +46,8 @@ nav p {
     font-size: 0.7em;
     display: inline
 }
-nav p + p {
+
+nav#site-navigation p + p {
     float: right;
 }
 
