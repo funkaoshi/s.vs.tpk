@@ -9,7 +9,7 @@ date: 2013-02-11 11:00 PM
 gplus: https://plus.google.com/110118815125792309582/posts/RAmjpsirBPY
 ---
 
-![Veiled Alliance](/assets/img/veiled-alliance.jpg)
+![Veiled Alliance](/assets/img/veiled-alliance@2x.jpg)
 
 
 As far as I can tell, TSR put out four splat books for [Dark Sun][1] that were very similar in their presentation: [*Elves of Athas*][2], [*Dune Trader*][3], [*Slave Tribes*][4], and [*Veiled Alliance*][5]. Each book takes a look at a particular group, with the bulk of the books being write ups of example factions: with *Elves of Athas* you had example elf tribes; with *Dune Trader* you had example trading houses; and with *Slave Tribes* you had example slave tribes. Having reviewed the previous three books, it seems only fitting I take a look at the last one, *Veiled Alliance* by Allen Varney.

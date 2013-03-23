@@ -9,7 +9,7 @@ date: 2013-02-08 8:45
 gplus: https://plus.google.com/110118815125792309582/posts/SmkoLmSWRes
 ---
 
-![Slave Tribes](/assets/img/slave-tribes.jpg)
+![Slave Tribes](/assets/img/slave-tribes@2x.jpg)
 
 [_Slave Tribes_][1] is one of the first [Dark Sun][2] splat books I bought to help me run the epic D&D campaign I never ended up running. It's authored by Bill Slavicsek, who went on to write [_Elves of Athas_][3] and several other books for the setting.
 

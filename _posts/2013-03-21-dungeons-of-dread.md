@@ -12,7 +12,7 @@ gplus: https://plus.google.com/110118815125792309582/posts/JiAuL2waXau
 date: Thu 21 Mar 2013 23:01:21 EDT
 ---
 
-![Dungeons of Dread](/assets/img/dungeons-of-dread.jpg)
+![Dungeons of Dread](/assets/img/dungeons-of-dread@2x.jpg)
 
 I picked up a copy of the new limited edition S-series adventure compilation [*Dungeons of Dread*][1]. It's a nice hardback book that collects 4 modules released by TSR that were meant to separate the wheat from the chaff when it came to D&D players. Those modules are: *Tomb of Horrors*, *White Plume Mountain*, *Expedition to the Barrier Peaks*, and *The Lost Caverns of Tsojcanth*.
 

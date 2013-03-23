@@ -8,7 +8,7 @@ tags:
   - blogfaves
 ---
 
-<img src="http://25.media.tumblr.com/tumblr_mat30kxePd1r2p31ho1_1280.jpg" style="margin-left: -25.5px">
+<img src="http://25.media.tumblr.com/tumblr_mat30kxePd1r2p31ho1_1280.jpg">
 
 [Guy-Pascal Vallez][gax] is an artist and D&D enthusiast who has a blog you need to go look at right this very minute. Stop reading and go!
 

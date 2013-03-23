@@ -2,6 +2,9 @@ body {
     margin: 0;
     padding: 0;
     background: #fff;
+    color: #333;
+    font: 1.375em/150% 'Source Sans Pro', sans-serif;
+    font-weight: 300;
 }
 
 a {
@@ -16,30 +19,31 @@ a:hover {
     text-decoration: underline;
 }
 
-img {
+article img {
     border: 0;
+    max-width: 748px;
+    margin: 0 auto;
+    display: block;
 }
 
 #content {
     width: 40em;
     margin: 0 auto;
-    color: #333;
-    font: 1em/150% 'Source Sans Pro', sans-serif;
 }
 
 /* header and nav block */
 
 header img {
-    margin-left: -30px;
+    width:100%;
 }
 
-
 nav {
-    width: 40em;
+    width: 34em;
+    margin: 0 auto;
 }
 nav p {
     margin-top: 0;
-    font-size: 12px;
+    font-size: 0.7em;
     display: inline
 }
 nav p + p {
@@ -53,12 +57,12 @@ article, nav.archive {
     width: 34em;
     margin-left: 3em;
 }
-article img, article iframe.youtube {
-    margin-left: -3em;
-}
 article h1, nav h1 {
-    font-size: 1.5em;
+    font-size: 2em;
     font-weight: 200;
+    text-align: center;
+    margin-bottom: 0.3em;
+    line-height: 110%;
 }
 article h1 a {
     margin-right: 1em;
@@ -66,9 +70,13 @@ article h1 a {
 article h1 a, nav h1 a {
     text-decoration: none;
 }
-article h1 small {
-    font-size: 1em;
-    color: #999;
+article hgroup p, article hgroup p a {
+    font-size: 0.7em;
+    color: #666;
+    text-align: center;
+}
+article hgroup p {
+    margin: 0;
 }
 article sup {
     line-height: 0;
@@ -120,9 +128,11 @@ article div.footnotes li p {
     display: inline;
 }
 nav.pagination p {
-    font-size: 16px;
-    text-align: center;
+    font-size: 0.8em;
     display: block;
+}
+nav.index-pagination {
+    text-align: center;
 }
 
 /* The archive page */

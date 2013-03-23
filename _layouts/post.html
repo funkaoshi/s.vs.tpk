@@ -3,31 +3,43 @@ layout: default
 ---
 
 <article>
-	<h1>
-        {% if page.category == 'play-report' %}Play Report:{% endif %}
-        {% if page.category == 'review' %}Review:{% endif %}
-        <a href="{{ page.permalink }}">{{ page.title }}</a>
-        <small>{{ page.date | date: "%Y&nbsp;%b&nbsp;%d" }}</small>
-    </h1>
+    <hgroup>
+        <h1>
+            {% if page.category == 'play-report' %}Play Report:{% endif %}
+            {% if page.category == 'review' %}Review:{% endif %}
+            <a href="{{ page.permalink }}">{{ page.title }}</a>
+        </h1>
+        <p>
+            by Ramanan Sivaranjan on {{ page.date | date: "%B %d, %Y" }}
+        </p>
+        <p>
+            Tagged:
+            {% for tag in page.tags %}
+            <a class="tag_list_link" href="/tag/{{ tag }}">{{ tag }}</a>
+            {% endfor %}
+        </p>
+    </hgroup>
+
     {{ content }}
+
     {% if page.gplus %}
     <p class="discuss">
         <em>You can discuss post on <strong><a href="{{ page.gplus }}">on google+</a></strong>.</em>
     </p>
     {% endif %}
-    <p class="meta">
-	    <strong>tagged</strong>: {% for tag in page.tags %}<a class="tag_list_link" href="/tag/{{ tag }}">{{ tag }}</a> {% endfor %}
+
+    <nav class="pagination">
+    <p>
+        {% if page.previous.url %}
+        Before this post I wrote <a href="{{ page.previous.url }}" rel="previous" title="{{ page.previous.title }}">{{ page.previous.title }}</a>.
+        {% endif %}
+        {% if page.next.url %}
+        After this post I wrote
+        <a href="{{ page.next.url }}" rel="next" title="{{ page.next.title }}">{{ page.next.title }}</a>.
+        {% endif %}
     </p>
+    </nav>
 </article>
 
-<nav class="pagination">
-{% if page.previous.url %}
-    Before this post I wrote <a href="{{ page.previous.url }}" rel="previous" title="{{ page.previous.title }}">{{ page.previous.title }}</a>.
-{% endif %}
-{% if page.next.url %}
-  After this post I wrote
-  <a href="{{ page.next.url }}" rel="next" title="{{ page.next.title }}">{{ page.next.title }}</a>.
-{% endif %}
-</nav>
 
 

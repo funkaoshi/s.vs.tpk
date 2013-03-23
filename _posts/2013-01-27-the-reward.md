@@ -12,4 +12,4 @@ gplus: https://plus.google.com/110118815125792309582/posts/X6ooWZtLWL3
 
 This short--a Bachelor film project from The Animation Workshop, Viborg, Denmark--is amazing. It's 120% D&D.
 
-<iframe class="youtube" src="http://player.vimeo.com/video/58179094" width="640" height="360" frameborder="0" webkitAllowFullScreen="1" mozallowfullscreen="1" allowFullScreen="1">&nbsp;</iframe>
+<iframe class="youtube" src="http://player.vimeo.com/video/58179094" width="708" height="398" frameborder="0" webkitAllowFullScreen="1" mozallowfullscreen="1" allowFullScreen="1">&nbsp;</iframe>
