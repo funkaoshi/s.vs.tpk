@@ -17,7 +17,7 @@ With that in mind, here are 16 new hex descriptions for your Carcosa game.
 
 <table class="random-table">
 <tr><th>1D16</th><th>Hex Description</th></tr>
-<tr><td>1</td><td>An Orange Man (AC 14, MV 160', HD 4, Chaotic) dressed in furs hunts a band of mutant men. He is armed with a whip and accompanied by 2-12 giant beasts and dinosaurs; these creatures are under his complete control.</td></tr>
+<tr><td>1</td><td>An Orange Man 1 dressed in furs hunts a band of mutant men. He is armed with a whip and accompanied by 2-12 giant beasts and dinosaurs; these creatures are under his complete control.</td></tr>
 <tr><td>2</td><td>Spawn of Shub-Niggurath (AC 18, MV 120, HD 3, Chaotic): a blue arachnoid with two red eyes and a toothed mouth. It currently entangled in a grappling hook and 100' of rope. An orange laser pistol can be found in its belly.</td></tr>
 <tr><td>3</td><td>1 Deep One.</td></tr>
 <tr><td>4</td><td>Village of 278 Yellow Men ruled by “the Evil Queen,” a Chaotic 9-th Level Sorcerer.</td></tr>
@@ -30,7 +30,7 @@ With that in mind, here are 16 new hex descriptions for your Carcosa game.
 <tr><td>11</td><td>A large bird of prey stalks the players. After 1-3 hours it will turn and fly off into the distance. The bird does not attempt to hide its presence.</td></tr>
 <tr><td>12</td><td>A disfigured two-headed mutant man lays face down in the ground. His body is half purple &amp; half blue. Characters who investigate the body must make a Save vs. Death Ray each turn or suffer a random mutation.</td></tr>
 <tr><td>13</td><td>A Purple Man hangs limp from a tree. He is pierced head to toe by spikes. Two tridents lay near his lifeless body.</td></tr>
-<tr><td>14</td><td>12 Black Men led by putrid smelling Sorcerer (AC 18, MV 120', HD 3, Chaotic) are in the middle of casting <em>Manifestation of the Putrescent Stench</em>. The Sorcerer is armed with a laser pistol and wears a bright orange alien space suit.</td></tr>
+<tr><td>14</td><td>12 Black Men led by a putrid smelling Sorcerer (AC 18, MV 120', HD 3, Chaotic) are in the middle of casting <em>Manifestation of the Putrescent Stench</em>. The Sorcerer is armed with a laser pistol and wears a bright orange alien space suit.</td></tr>
 <tr><td>15</td><td>4 Snake Men attempt to repair a time machine. The Snake Men and their collection of high-tech gadgetry are incomprehensible to characters with an intelligence score less than 18.</td></tr>
 <tr><td>16</td><td>A massive snake shaped citadel coils around the peaks of a craggy mountain. Within 22 Bone Man are led by a Chaotic 16th-level Sorcerer. He is planning the total conquest of Carcosa.</td></tr>
 </table>

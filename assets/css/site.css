@@ -70,9 +70,6 @@ article h1, nav h1 {
     margin-bottom: 0.3em;
     line-height: 110%;
 }
-article h1 a {
-    margin-right: 1em;
-}
 article h1 a, nav h1 a {
     text-decoration: none;
 }
@@ -106,8 +103,8 @@ article table {
 article table tr:nth-child(odd) {
     background-color: #EDEEFF;
 }
-article table tr td:first-child {
-    vertical-align: top;
+article table tr td:first-child, 
+article table tr th:first-child {
     text-align: center;
 }
 article table tr td:last-child {
@@ -122,6 +119,7 @@ article table td,
 article table th {
     padding: 2px 5px;
     border: 1px solid black;
+    vertical-align: top;    
 }
 
 article div.footnotes ol {

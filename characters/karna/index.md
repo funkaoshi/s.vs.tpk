@@ -3,7 +3,7 @@ layout: bx_sheet
 system: Pahvelorn / Original
 title: Bishop Karna, Level 6 Cleric
 location: Ilum Zugot
-xp: 27,333
+xp: 28,335 
 hp: 19 (HD 5)
 ac: 2
 THAC9: 7
@@ -38,7 +38,7 @@ background_img: true
 * 10' Pole
 * Wooden Cross
 * Small Sack
-* 4951 GP
+* 5293 GP
 
 ### Turn Undead
 
@@ -93,9 +93,16 @@ background_img: true
   * Spending: 9145 GP on spell research (fear), 5 GP upkeep, 1800 GP to train Ginny Bo (**+21,010** XP)
 * **Pahvelorn Session #25**  \[[G+][session-25]]
   * The party takes a break from dungeoneering to clear a road! On the way they come across a group of giants attacking a farm house. There is some killing, but they manage to subdue the last of the giants Margosk. An agreement is made between the players and the giant. Each player carves a bell in their arm, to commemorate the occasion. After making sure the farmstead is safe and secure, the party continues their journey. Making camp in the ruins of a guard tower over looking a small river, the party encounters ...
-  * Gains: **TODO**
-  * Spending: **TODO**
-  
+* **Pahvelorn Session #26**  \[[G+][session-26]]
+  * ... bandits! They attack the party, but are quickly overwhelmed. (**+900 XP** for the fight.) They interrogate the group, and learn they serve a fellow that worships the evil purple worms of the under dark. The party makes captives of the lot of them. The next day they continue their trek towards Gosmermorul. The party arrives at the fantastic city at night. They party with their captives. The following day they meet up with the leader of the city, a teenager, and discuss their plans for building a road between Ilum Zugot and Gosmermorul. It is agreed that some sort of arrangement will be made, though specifics aren't decided on. The following day the party ventures out to inspect a boat stuck in a tree, that one of their captives mentioned to them. As they make their way they, they discover the town leader--the Hegemon--has followed them! He is bored and wants to join the party.
+  * Spells: Cure Light Wounds x 2; Bless, Hold Person; Continual Light; Sticks to Snakes.
+  * Gains: **+342 GP**
+  * Spending: **50 GP** on the inn; **5 GP** on upkeep.
+* **Pahvelorn Session #27**  \[[G+][session-27]]
+  * The party investigates the boat in a tree. It's 100' feet, and probably just as high up. Beni climbs a rope to take a look, and is swarmed by 4 spiders. The party makes short work of them, thanks to some Sticks to Snakes. While deciding what to do next, and cautious investigation, a mother-fucking wyvern flies down and attacks. Luckily, the demon knife that the party has been hanging on to for weeks is put to good use, destroying the beast in one hit. The party climbs up to investigate the ship. Tarvice uses Speak with Animals to negotiate with the spiders, asking them to leave us alone. They had no love for the Wyvern living in their boat, so they oblige. Inside the boat is treasure and evil statues the clerics quickly destroy. Sadly, Darulin goes insane upon looking at their visage. The boat explored and a wyvern killed, the party heads back to town.
+  * The next day the party decides to harass the cultists. The bandit they turned leads them to their hide out. After some ultraviolence the party heads back to town with a knocked out cultist, leaving behind dead cultists and bandits. They mark the bodies and trees with the symbol of the snake cult, to confuse these cultists.
+  * Gains: **+796GP**
+  * Spending: **5GP** on upkeep, **TODO**
 
 [pahvelorn]: http://www.necropraxis.com/pahvelorn/
 [satyavati]: /characters/satyavati/
@@ -105,6 +112,8 @@ background_img: true
 [session-23]: https://plus.google.com/110795136999145840727/posts/DrQCAnDFK2k
 [session-24]: https://plus.google.com/110795136999145840727/posts/ivW3eJGr2tH
 [session-25]: https://plus.google.com/110795136999145840727/posts/FhzP3e7ZN7e
+[session-26]: https://plus.google.com/110795136999145840727/posts/eM6D77DrLNq
+[session-27]: https://plus.google.com/110795136999145840727/posts/SAaW4ewKc58
 
 [gustie]: http://dungeonofsigns.blogspot.ca/
 [gustie-22-23]: http://dungeonofsigns.blogspot.ca/2013/02/pahvelorn-tragedy-and-plunder.html
