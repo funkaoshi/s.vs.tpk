@@ -102,7 +102,11 @@ background_img: true
   * The party investigates the boat in a tree. It's 100' feet, and probably just as high up. Beni climbs a rope to take a look, and is swarmed by 4 spiders. The party makes short work of them, thanks to some Sticks to Snakes. While deciding what to do next, and cautious investigation, a mother-fucking wyvern flies down and attacks. Luckily, the demon knife that the party has been hanging on to for weeks is put to good use, destroying the beast in one hit. The party climbs up to investigate the ship. Tarvice uses Speak with Animals to negotiate with the spiders, asking them to leave us alone. They had no love for the Wyvern living in their boat, so they oblige. Inside the boat is treasure and evil statues the clerics quickly destroy. Sadly, Darulin goes insane upon looking at their visage. The boat explored and a wyvern killed, the party heads back to town.
   * The next day the party decides to harass the cultists. The bandit they turned leads them to their hide out. After some ultraviolence the party heads back to town with a knocked out cultist, leaving behind dead cultists and bandits. They mark the bodies and trees with the symbol of the snake cult, to confuse these cultists.
   * Gains: **+796GP**
-  * Spending: **5GP** on upkeep, **TODO**
+  * Spending: **5 GP** on upkeep, **50 GP** on inn;
+* **Pahvelorn Session #28**  \[[G+][session-27]]
+  * A raid on the cultists goes awry, with the party ambushing a watch tower only to be ambushed themselves by returning bandits. Many magical weapons are used to aid in the destruction of evil cultists, and the party survives another day with only one casualty: a woodsmen was eaten by a giant worm.
+  * Gains: **TODO**
+  * Spending: **TODO**
 
 [pahvelorn]: http://www.necropraxis.com/pahvelorn/
 [satyavati]: /characters/satyavati/
@@ -114,6 +118,7 @@ background_img: true
 [session-25]: https://plus.google.com/110795136999145840727/posts/FhzP3e7ZN7e
 [session-26]: https://plus.google.com/110795136999145840727/posts/eM6D77DrLNq
 [session-27]: https://plus.google.com/110795136999145840727/posts/SAaW4ewKc58
+[session-28]: /
 
 [gustie]: http://dungeonofsigns.blogspot.ca/
 [gustie-22-23]: http://dungeonofsigns.blogspot.ca/2013/02/pahvelorn-tragedy-and-plunder.html
