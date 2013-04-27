@@ -103,8 +103,10 @@ background_img: true
   * The next day the party decides to harass the cultists. The bandit they turned leads them to their hide out. After some ultraviolence the party heads back to town with a knocked out cultist, leaving behind dead cultists and bandits. They mark the bodies and trees with the symbol of the snake cult, to confuse these cultists.
   * Gains: **+796GP**
   * Spending: **5 GP** on upkeep, **50 GP** on inn;
-* **Pahvelorn Session #28**  \[[G+][session-27]]
-  * A raid on the cultists goes awry, with the party ambushing a watch tower only to be ambushed themselves by returning bandits. Many magical weapons are used to aid in the destruction of evil cultists, and the party survives another day with only one casualty: a woodsmen was eaten by a giant worm.
+* **Pahvelorn Session #28**  \[[G+][session-28]]
+  * A raid on the cultists goes awry, with the party ambushing a watch tower only to be ambushed themselves by returning bandits. Many magical weapons are used to aid in the destruction of evil cultists, and the party survives another day with only one casualty: a woodsmen was eaten by a giant worm. The party plans to attack the cultists compound itself. ...
+* **Pahvelorn Session #29**  \[[G+][session-29]]
+  * The party decides to take out the cultists, once and for all. After a short rest to catch their breath, the party storms the temple. Eriara summons a phantasmal force to scare the remaining cultists. Breaching their defenses Darulin uses the magical crossbow to destroy the last remaining guards in front of the cultist's temple. The party then ventures up the step pyramid and into the temple via an alternate entrance. Much adventure is had within, including the capture of the presumed leader of the cult. ...
   * Gains: **TODO**
   * Spending: **TODO**
 
@@ -119,6 +121,8 @@ background_img: true
 [session-26]: https://plus.google.com/110795136999145840727/posts/eM6D77DrLNq
 [session-27]: https://plus.google.com/110795136999145840727/posts/SAaW4ewKc58
 [session-28]: /
+[session-29]: /
+
 
 [gustie]: http://dungeonofsigns.blogspot.ca/
 [gustie-22-23]: http://dungeonofsigns.blogspot.ca/2013/02/pahvelorn-tragedy-and-plunder.html
