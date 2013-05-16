@@ -21,6 +21,7 @@ I can only imagine what was happening in the table top gaming community back in 
 Of course, we then get to a table about contracting parasites while adventuring so why are you griping about Gary Gygax? Please!
 
 [^1]: [Wizards of the Coast wrote about the process they went through to create these reprints][project-yore], and it's really quite incredible. All three books pre-date digital typesetting, so they had to redone by hand. The designers at Wizards of the Coast had to recreate the layouts from scratch. It's actually quite amazing when you look at a page from the original books and then the reprints.
+
 [^2]: I need to begin a moratorium on book buying.
 
 

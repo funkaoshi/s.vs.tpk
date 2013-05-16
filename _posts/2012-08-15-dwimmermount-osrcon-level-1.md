@@ -33,6 +33,7 @@ And this play report is already longer than I thought it would be, so you'll hav
 
 
 [^1]: James has a very slick hardback version of the little brown books that he built using his copies of the old Wizards of the Coasts PDFs and Lulu. I was surprised and how good the hardbacks Lulu produces are. It made me want to print up some PDFs.
+
 [^2]: It costs next to nothing in OD&D. I think by the time you get to 2nd Edition it's thousands of GP.
 
 

@@ -38,6 +38,7 @@ What else is there to say?
 Finally we get to the hex descriptions, which is what it's all about.
 
 [^1]: As I had mentioned when [discussing the sorcerer rituals][part-ii], each set of rituals deals with one of these unique monsters. The two sections work together to provider a fuller description and background of the monster in question.
+
 [^2]: The level of cross-referencing in the PDF is one big advantage it has over the physical book. Figuring out how everything fits together is much easier when browsing the PDF.
 
 

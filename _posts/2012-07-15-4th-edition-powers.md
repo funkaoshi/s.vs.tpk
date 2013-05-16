@@ -22,7 +22,9 @@ I'm curious to see if Wizards of the Coast, or the wider D&D community, do inter
 
 
 [^1]: Some might say they are the **only** thing to grasp in 4th Edition.
+
 [^2]: Wizards of the Coast even sell the various powers available for the various classes as packs of cards!
+
 [^3]: [Kiel of Dungeons and Donuts][kiel] recently made [a little hand-out for generating 4th Edition characters][4e-chargen]. Rather than bothering  with classes or powers, he decided to ask players to pick a role and pick from a list of abstract powers. Players could then make up all the fluff that goes along with the role and powers they've picked. I'm a big fan of this idea.
 
 [osrik]: http://save.vs.totalpartykill.ca/blog/dead-again/

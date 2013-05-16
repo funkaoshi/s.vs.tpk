@@ -30,10 +30,15 @@ D&D is ostensibly a game about break and enters and ultra violence. The game inc
 All in all it was a fun time. I need to play again so I get a chance to use my plate mail.
 
 [^1]: **Maid Mangling Managing** - 180 EXP
+
 [^2]: **Claw's Capture** - 50 EXP
+
 [^3]: **Information Gathering on Azalin** - 75 EXP
+
 [^4]: **Discovery of one of the Sacred Statues** - 100 EXP
+
 [^5]: **Discovery of one of the Sacred Statues** - 100 EXP
+
 
 [rune-knight]: /blog/rune-knight/
 [hms-apollyon]: http://dungeonofsigns.blogspot.ca/2012/08/hms-apollyon-welcome-aboard.html

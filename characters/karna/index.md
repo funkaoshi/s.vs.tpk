@@ -3,7 +3,7 @@ layout: bx_sheet
 system: Pahvelorn / Original
 title: Bishop Karna, Level 6 Cleric
 location: Ilum Zugot
-xp: 28,335 
+xp: 30,225
 hp: 19 (HD 5)
 ac: 2
 THAC9: 7
@@ -25,6 +25,18 @@ portrait: /assets/img/karna-by-gus-bg.jpg
 background_img: true
 ---
 
+## Retainer
+
+* Haxeth, Level 1 Fighter
+  * STR 9, INT 15, WIS 10, DEX 11, CON 13, CHA 9
+  * Former gladiator
+  * Chain Armor, Spear, Bolas, Light Crossbow, Case With 30 Quarrels, 6 Torches, Backpack, Waterskin, 2 Week Iron Rations, 50' Rope, 11 gp
+* Drona's Servant (Level 0 Servant)
+  * STR 10, INT 14, WIS 7, DEX 16, CON 9, CHA 11
+* Pack Ape
+  * 2 Week Iron Rations
+  * Waterskin
+  
 ### Equipment:
 
 * Plate Armor
@@ -32,13 +44,11 @@ background_img: true
 * Black Demon Mace
 * War Hammer
 * Backpack
-* Waterskin
-* 1 Week Iron Rations
 * Sling and 10 Stones
 * 10' Pole
 * Wooden Cross
 * Small Sack
-* 5293 GP
+* 9058 GP
 
 ### Turn Undead
 
@@ -103,12 +113,18 @@ background_img: true
   * The next day the party decides to harass the cultists. The bandit they turned leads them to their hide out. After some ultraviolence the party heads back to town with a knocked out cultist, leaving behind dead cultists and bandits. They mark the bodies and trees with the symbol of the snake cult, to confuse these cultists.
   * Gains: **+796GP**
   * Spending: **5 GP** on upkeep, **50 GP** on inn;
-* **Pahvelorn Session #28**  \[[G+][session-28]]
+* **Pahvelorn Session #28**
   * A raid on the cultists goes awry, with the party ambushing a watch tower only to be ambushed themselves by returning bandits. Many magical weapons are used to aid in the destruction of evil cultists, and the party survives another day with only one casualty: a woodsmen was eaten by a giant worm. The party plans to attack the cultists compound itself. ...
-* **Pahvelorn Session #29**  \[[G+][session-29]]
+* **Pahvelorn Session #29** \[[G+][session-29]]
   * The party decides to take out the cultists, once and for all. After a short rest to catch their breath, the party storms the temple. Eriara summons a phantasmal force to scare the remaining cultists. Breaching their defenses Darulin uses the magical crossbow to destroy the last remaining guards in front of the cultist's temple. The party then ventures up the step pyramid and into the temple via an alternate entrance. Much adventure is had within, including the capture of the presumed leader of the cult. ...
-  * Gains: **TODO**
-  * Spending: **TODO**
+* **Pahvelorn Session #30** \[[G+][session-30]]
+  * The party enter a room where a worm like creature is being constructed. There is some ultraviolence. There are demons. It was emotional. Back in town, the party are accosted by people looking for Satyavati! They are from his home town, hoping to recruit the Order of Gavin to retrieve a magical item. The party aren't too keen on helping the necromancer, just yet, so Beni just steals the map to the location. Sneaky.
+  * Gains: **++1800 XP** from killing monsters, **+3800 GP** 
+* **Pahvelorn Session #31** \[[G+][session-31]]
+  * There is much negotiation with the priest king, and construction of the road is arranged. The party heads South towards their former home town Zorfath. Along the way the party encounter some creepy flying demons. Once they arrive at Zorfath they learn the town has been taken over by the Griffon King and the Snake Cult. The party sells their Black Demon armor. Eriara learns she's been charmed by a purple worm since destroying the ziggurat. She is now its willing familiar. Asking the sage for information about the Wyvern eggs and their other junk.
+  * Gains: **+3400 GP**
+  * Spending: **250 GP** on road project, **25 GP** on Pack Ape, **10 GP** on retainers.
+  
 
 [pahvelorn]: http://www.necropraxis.com/pahvelorn/
 [satyavati]: /characters/satyavati/
@@ -120,9 +136,9 @@ background_img: true
 [session-25]: https://plus.google.com/110795136999145840727/posts/FhzP3e7ZN7e
 [session-26]: https://plus.google.com/110795136999145840727/posts/eM6D77DrLNq
 [session-27]: https://plus.google.com/110795136999145840727/posts/SAaW4ewKc58
-[session-28]: /
-[session-29]: /
-
+[session-29]: https://plus.google.com/110795136999145840727/posts/4Kogy59QVwo
+[session-30]: https://plus.google.com/110795136999145840727/posts/QjSPcZ9s9HD
+[session-30]: /
 
 [gustie]: http://dungeonofsigns.blogspot.ca/
 [gustie-22-23]: http://dungeonofsigns.blogspot.ca/2013/02/pahvelorn-tragedy-and-plunder.html

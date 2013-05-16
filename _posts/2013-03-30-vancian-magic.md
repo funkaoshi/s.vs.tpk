@@ -22,5 +22,6 @@ This supplement is free, features art from Moebius, and collects some great writ
 
 [^1]: The stories both contain footnotes with commentary about how the fiction relates back to D&D: a good idea poorly executed. Most of the footnotes offer up obvious insight or simply repeat what you just read. Anyway, it's a small gripe: the footnotes are small.
 
+
 [1]: http://gorgonmilk.blogspot.ca/2013/03/free-vancian-magic-supplement-pdf.html
 

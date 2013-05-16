@@ -65,6 +65,7 @@ To properly appreciate a game you really need to play it. Hopefully i'll get a c
 
 
 [^1]: Expect blog posts on _Carcosa_ and _Vornheim_ in the coming weeks.
+
 [^2]: If you are looking for help creating monsters, you might want to check out another book by James Raggi with an equally long name: [_The Random Esoteric Creature Generator For Classic Fantasy Games And Their Modern Simulacra_][10]
 
 
