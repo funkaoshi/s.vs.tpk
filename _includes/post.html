@@ -5,16 +5,6 @@
             {% if post.category == 'review' %}Review:{% endif %}
             <a href="{{ post.url }}">{{ post.title }}</a>
         </h1>
-        <p>
-            by Ramanan Sivaranjan on {{ post.date | date: "%B %d, %Y" }}
-        </p>
     </hgroup>
-
     {{ post.content }}
-
-    {% if post.gplus %}
-    <p class="discuss">
-        <em>Add me to your circles and we can discuss post on <strong><a href="{{ post.gplus }}">on google+</a></strong>.</em>
-    </p>
-    {% endif %}
 </article>
