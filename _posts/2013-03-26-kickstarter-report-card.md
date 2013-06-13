@@ -8,6 +8,8 @@ gplus: https://plus.google.com/110118815125792309582/posts/7Baf9kRsF5i
 date: 2013-03-26 10:30PM
 ---
 
+*Update 2013-06-13*: [I took another look at my Kickstarter projects][ksii]
+
 I've backed several RPG Kickstarters. I discovered the whole old-school D&D scene via the [Random Dungeon Generator as a Dungeon Map][1] Kickstarter project, and that led me to backing Dwimmermount and Barrowmaze. By the end of the summer I think I got a lot more picky about what I was willing to give money to.
 
 [Erik Tenkar regularly updates his readers on the state of his Kickstarter projects.][5] I thought I'd do the same.
@@ -44,3 +46,4 @@ When I got back into all the RPG stuff I was pretty excited about all these Kick
 [3]: http://www.sinenomine-pub.com/?p=361
 [4]: http://lotfp.blogspot.com
 [5]: http://www.tenkarstavern.com/2013/03/the-tenkars-tavern-overdue-kickstarter.html
+[ksii]: /blog/kickstarter-report-card-ii

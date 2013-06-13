@@ -8,7 +8,7 @@ gplus: https://plus.google.com/110118815125792309582/posts/JCVvgvhQDjH
 date: 2013-05-17 11:15 am
 ---
 
-![The Stapler](assets/img/max-hd10v.jpg)
+![The Stapler](/assets/img/max-hd10v.jpg)
 
 I bought a new printer a few months ago that lets me print double sided. Shortly after I started printing my own little booklets. A lot of RPG material is available online, formatted to be made into digest sized books. I find  making booklets relaxing.
 
