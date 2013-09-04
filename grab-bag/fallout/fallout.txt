@@ -183,7 +183,7 @@ Ever-molten slag pits. Bits and pieces of humanoid skeletons sometimes bubble to
 
 ## 0305
 
-An enclave of the EATERS OF ECTASY, an alliance that espouses a Sex, Drugs, and Rock n' Roll lifestyle, hold control over this area. The often send search parties into Hex 0205 and Hex 0304 to search for treasure and artifacts. They also trade with the Crab Handlers from Hex 0203.
+An enclave of the EATERS OF ECTASY, an alliance that espouses a Sex, Drugs, and Rock n' Roll lifestyle, hold control over this area. They often send search parties into Hex 0205 and Hex 0304 to search for treasure and artifacts. They also trade with the Crab Handlers from Hex 0203.
 
 ## 0306
 
@@ -319,8 +319,6 @@ A Servo-Gang Tribe have taken over a derelict cruise liner. They are heading to 
 
 Hidden deep within a subterranean complex guarded by the Irradiated and their Psychic Masters (Treat as Brain Lashers); is a Divine Bomb " a doomsday bomb marked with the letters "Alpha" and "Omega". The Apemen of Hex 0519 are hunting for the entrance to the complex.
 
--
-
 ## 0419
 
 The crags of this mountain are full of large goats. These beasts are rumoured to be as large as houses. That's a lot of good eatin'.
@@ -330,8 +328,6 @@ The crags of this mountain are full of large goats. These beasts are rumoured to
 One of the entrances to the subway system that criss-crosses this area, at the moment home to a clan of Badger Men. The Badger Men will let friendly travelers pass, but warn them that further on the way is blocked by a Super Human Emergency Response Android whose protocols call for it to evacuate humans to the safety of the surface.
 
 ## 0501
-
-The village of LASHORTHA.
 
 The village of LASHORTHA, location of the Temple of Thought.
 
@@ -345,7 +341,7 @@ The lowlands here contain wide open, rolling beaches and ancient roads that cris
 
 ## 0504
 
-ELOHIM A bucolic farming community run by an anabaptist religious sect. The commune includes a large population of mutants from Hex 0604, who believe their conversion to the church has removed the taint from their blood.
+ELOHIM, A bucolic farming community run by an anabaptist religious sect. The commune includes a large population of mutants from Hex 0604, who believe their conversion to the church has removed the taint from their blood.
 
 ## 0505
 
@@ -361,9 +357,153 @@ Hidden within the hills is a fully stocked family fallout shelter; unfortunately
 
 ## 0508
 
-An island with sheer cliff sides rises above the water, and one can see an ancient vacation resort still stands. The techno-wizard, known as the Baron, controls this resort with his legion of skeleton warriors. He is hunting for a magic crystal that pairs with the one has. The crystal can be found in the possession of three warriors in Hex 0708.
+An island with sheer cliff sides rises above the water, and one can see an ancient vacation resort still stands. The techno-wizard, known as the Baron, controls this resort with his legion of skeleton warriors. He is hunting for a magic crystal that pairs with the one he has. The crystal can be found in the possession of three warriors in Hex 0708.
 
 ## 0509
 
 This part of the lake is prone to powerful maelstroms (a side effect of the temporal disturbance in Hex 0408). Teen merboys (from other parts of the lake) will ride the swirling vortices to prove their courage to their peers - outsiders are welcome to try.
+
+## 0510
+
+In the mountains, one of the habitation modules that broke off from the ship in Hex 0410, landed mostly intact in a mountain valley. Survivors and repair units are making the best of the situation.
+
+## 0511
+
+The Happy Valley Ski Resort is now run by cheerful cannibals.
+
+## 0512
+
+Deep inside The White Witch, the highest peak in the Haegtesse, a secret biological weapon laboratory still has auxiliary power and a trove of viable mutagens locked inside the cryo-vault. If exposed, Roll Save vs. Death for pure-strain humans and random mutations for everyone else except robots/androids/etc, who are not effected.
+
+## 0513
+
+Between barrier islands and coral reefs, the Octopods and Octorocks of Hex 0514 fish and trade scavenged sea treasures with the barrier island Eloi inhabitants.
+
+## 0514
+
+The village of EIGHT LEGS, composed of Octopods, Octorocks, and Fraeken. They stick to the shallows between here, Hex 0514, Hex 0613, and Hex 0714; because of the mutant outcast found in Hex 0118 cannot survive in the shallows.<br /><br />[Fraeken <a href="http://www.savageafterworld.com/2010/04/thundarr-friday-dangerous-encounter.html" class="ot-anchor" rel="nofollow">http://www.savageafterworld.com/2010/04/thundarr-friday-dangerous-encounter.html</a>]
+
+## 0515
+
+A stranded cargo ship drifts in the waters near the border of Hex 0615. The markings naming the ship are no known Terran language and it flies no discernible flags. However, the make and materials upon closer inspection are Terran in origin.
+
+## 0516
+
+Here great schools of small colorful, poisonous fish swim, each school comprises a hive mind intelligence (treat each school as having 1d4+1 metal mutations and maximum intelligence). The hive minds communicate thru different swimming patterns of colored fish.
+
+## 0517
+
+The Forbidden City of the Space Wizard Radnu Undra. The space wizard pays well for healthy and beautiful slaves of all types for unspeakable experiments and unearthly delights.
+
+A rocky crag juts out of the water. It is populated mostly by sunning crocologs and a few sin-sirens. The former are dangerous but very stupid. The latter have had their throats replaced with synthesisers, and will - for a price - sing haunting arias, providing counter-melody and luscious harmonies to themselves.
+
+## 0518
+
+Partway along the tracks, a few outbuildings surround the WATER TOWER, which still holds many gallons of fresh water. Half a dozen strange mutants crawl around here, hoarding this precious resource for themselves.
+
+## 0519
+
+Apemen engage in skirmishes with Man-spiders from Hex 0320. Neither side is certain why the fighting began. PCs will also feel increased aggression here.<br />A piece of a malfunctioning mind-control device is resonating an aggression frequency in this part of the forest. Other pieces of the device can be tracked if this one is recovered. Pieces in Hex 0916, Hex 1203 and Hex 1512 will complete the device, which can be repaired with some technical mastery.
+
+## 0520
+
+Deep in the woods lies the LABYRINTH OF STEEL, which some say was built by the Super Human Emergency Response Android. It is a strange maze of traps jerry-rigged out of old lasers and sensors, and at its center is a device that's rumored to make people immortal.
+
+## 0601
+
+A community college is buried beneath the hills. Adepts from the Temple of Thought in Hex 0501 prove their devotion by braving the depths to retrieve the esoteric yellow and black volumes of the &quot;4 Dummies&quot;.
+
+## 0602
+
+The wooded hills here have the reputation of being haunted in the surrounding communities. The truth is barriers between worlds have been weakened and often beings and creatures from other times and places slip into this world here.
+
+## 0603
+
+A gestalt horror is said to make it's home here. Composed of millions of vermin, it takes shape as a 12 foot tall vaguely humanoid figure.
+
+## 0604
+
+All life in a 2 mile radius has been extinguished. The earth is bleak and all vegetation has withered to a lifeless grey and black. Entering this contaminated zone is impossible without protection: save vs. death/radiation.
+
+## 0605
+
+This area is not as toxic as to the north, but only the toughest lichen and moss survive here. Anything else that ventures into this area suffers radiation poisoning.
+
+## 0606
+
+This forested, rolling hills contain the ruins of a amusement park and a working drive in that still shows the rocky horror picture show every Saturday night. Many of the locals style themselves after different characters when hunting trespassers.
+
+## 0607
+
+The peaceful village of APPLECART holds a secret: they are mind-swappers. Every night they swap minds with each other; each night a visitor spends in the village there is a 1 in 6 chance a villager will swap minds with the visitor.
+
+## 0608
+
+Giant psychic lobsters gather about their prophpet to glean secrets from its arcane prounouncments issued M-F at 7:30 PM.
+
+Giant psychic lobsters gather about their prophpet to glean secrets from its arcane prounouncments issued M-F at 7:30 PM.
+
+## 0609
+
+Anthropophagous mermaids have captured a merchant barge (&quot;The Lucky Albatross&quot;) and rigged it with devious traps in order to catch their dinner.
+
+## 0610
+
+Spherical homes hang from the lower 10,000' of a space elevator like strange clusters of grapes. Sugar glider / yeti hybrids live in this vertical village (called VERTIGO) and rob all passersby of their food, musical instruments, and hair.
+
+## 0611
+
+Most players will only see wavelike ice and strange rock formations. More insightful players will notice the two sentient glaciers that are locked in a centuries-old combat to the death.
+
+## 0612
+
+Clinging to the underside of some cliffs, 9 lawnmower spiderbots demand to speak with the engineer. They may attack with poison missiles, or by spinning their legs to fly like bladed helicopters.
+
+## 0613
+
+A dead ultrawhale lies on the shore, covered in gorged crabs and seagulls. Inside its cavernous intestines, a theocracy of tapeworm-folk struggle to reconcile their religion with the recent events.
+
+## 0614
+
+A derelict oil platform. Ghosts of dinosaurs haunt the petroleum and sing dirges on psychic frequencies.
+
+## 0615
+
+The hunting grounds of the Adamantine Ogre, an oil tanker that has been turned into a pirate mothership.
+
+## 0616
+
+Huge bubbles float up from the deep and fly to the east, like a trail of ants. A few of them contain people or objects.
+
+## 0617
+
+Obese giants float here with tremendous innertubes, water wings, or pool toys. Their entire village is here on a constitutional vacation in order to restore their body's humors, as advised by their doctor (who remained behind).
+
+## 0618
+
+Sultry seagulls seek slimy eels. Jolly philosopher sharks are only interested in ape-men (see Hex 0519).
+
+## 0619
+
+Subterranean meme-generators still produce consumer-culture impulses. Trees naturally grow into the shapes of shopping malls. Squirrels compulsively &quot;spend&quot; their acorns on tattered, ancient shoes that they purchase from beavers.
+
+## 0620
+
+Three wells. One alligator. But it's big and crafty.
+
+## 0701
+
+Polished suburbia, with polished little lawns and polished little houses, and polished little shoggoths wearing beautiful blonde wigs. The whole place smells like apple pie and rotting dreams.
+
+## 0702
+
+Buffington's Greenhouse. Sentient bro plants lift weights and strive to be the biggest, meanest and greenest.
+
+## 0703
+
+One of Malphyziak's old data mines. A shaft drops 500' into the earth, its walls covered with soup can labels and the animated remains of the old wicker miners.
+
+## 0704
+
+A tall tower stands on a hill with a good view of the death and desolation in Hex 0604. Silver skinned aliens sell tickets to the view decks and will drop large living creatures into Hex 0604 so viewers can bet on their life expectancy.
 

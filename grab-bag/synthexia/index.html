@@ -1,0 +1,2889 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=740, maximum-scale=1.0"/>
+
+        <title>Synthexia</title>
+
+        <style type="text/css" media="screen">
+        body {
+            background: url("http://carcosa.totalpartykill.ca/static/ricepaper2.png")
+        }
+
+        #container {
+            width: 680px;
+            margin: 0 auto 0 auto;
+            padding: 25px;
+            font-family: 'Avenir', 'Helvetica', 'Arial';
+            font-size: 18px;
+            line-height: 24px;
+        }
+
+        #hexmap {
+            border: 3px solid #666;
+            margin-left: -3px;
+        }
+
+        #about {
+            clear:both;
+            margin-top: 1.5em;
+        }
+
+        a,
+        .hex:hover .location a.permalink {
+            color: #5CFE64;
+        }
+        a {
+            font-weight: bold;
+            text-decoration: none;
+        }
+        h1, h2, h3, h4 {
+            font-family: 'Futura', 'Helvetica', 'Arial';
+            color: #FFF;
+            text-align: center;
+        }
+        h1 {
+            font-size: 32px;
+            margin-bottom: 1em;
+        }
+        h2 {
+            font-size: 24px;
+        }
+        p, td {
+            text-align: left;
+            margin: 0;
+        }
+        p + p {
+            text-indent: 1.5em;
+        }
+        p:first-child {
+            text-indent: 0;
+        }
+        ul {
+            padding-left: 0;
+        }
+        ul li {
+            list-style: none;
+        }
+
+        /* Hex Description */
+
+        .hex {
+            border-top: 2px solid #666;
+            margin:0; padding:2px;
+            clear: both;
+            font-size: 16px;
+        }
+        .hex .nav {
+            display: none;
+        }
+        .hex:hover span.nav {
+            display: inline;
+            margin-left: 1em;
+        }
+        .hex p {
+            text-indent: 0;
+        }
+        .hex .location {
+            float: left;
+            width: 160px;
+        }
+        .hex .location a.permalink {
+            color: #5CFE64;
+        }
+        .hex .location p.location {
+            padding-top: 8px;
+            font-weight: bold;
+            font-size: 18px;
+        }
+        .hex .location p.references,
+        .hex .location p.references a {
+            font-weight: normal;
+            font-size: 14px;
+            text-align: left;
+        }
+        .hex p.description {
+            float: right;
+            padding: 6px 0;
+            width: 470px;
+        }
+        .hex p.description + p.description {
+            border-top: 2px solid #AAA;
+        }
+
+        .hex .more-info {
+            font-size: 0.8em;
+        }
+        .hex .more-info a {
+            font-weight: normal;
+        }
+
+        .hex .author {
+            display: none;
+            color: gray;
+            font-weight: bold;
+        }
+
+        .hex:hover .author {
+            display: inline;
+        }
+
+        .clear {
+            clear:both;
+        }
+
+        .footer {
+            padding-top: 10px;
+            border-top: 1px solid #ccc;
+            margin: 75px auto;
+            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+            font-size: 12px;
+            line-height: 18px;
+            color: #999;
+        }
+        .footer a {
+            color: #999;
+            font-weight: bold;
+        }
+        
+img#hexmap { margin-left: -123px; }
+body { background: #000; color: #ddd; }
+
+        </style>
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-2675737-17']);
+            _gaq.push(['_trackPageview']);
+            (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+    </head>
+
+    <body>
+    <div id="container">
+        
+<h1><img src="synthexia-header.gif" width="426" height="60" alt="Synthexia Header"></h1>
+
+<h2>A Map of Synthexia</h2>
+<img id="hexmap" src="synthexia.png" alt="..." usemap="#hexenmap">
+
+
+
+        <h2>Hex Descriptions</h2>
+
+        
+        <div class='hex' id="0012">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0012' class='permalink'>0012</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0112'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The wreck of the Iridium Valkyrie. Emergency beacon still running, and the frigate's hull is coated in growths of red crystal.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0013">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0013' class='permalink'>0013</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0113'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0807'>0807</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Self-upgraded cyborg factory girls with punk-hacked indenture-chips hurry to repair abandoned fleet of titanium-sleeve rocket cycles for violent anarchist-feedom-haj to Hex <a class='hex-link' href='#0902'>0902</a>
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0050">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0050' class='permalink'>0050</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0150'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                8 The trees here were once batteries but someone used up the energy and neglected to set up the recharging. So the forest waits...
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0103">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0103' class='permalink'>0103</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0202'>&#8663;</a>
+                    <a class='bottom' href='#0203'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Chromed alien gate on top of the mountain, who crosses it, will en in a hexagon with stars, being sucked into the emptiness of space.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0104">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0104' class='permalink'>0104</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0203'>&#8663;</a>
+                    <a class='bottom' href='#0204'>&#8664;</a>
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0105'>0105</a>, <a class='hex-link' href='#0205'>0205</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A vast clone-growing facility has been claimed by the forest. The operators have gone cargo-cult; offer sacrifices to the void-vultures; will trade for crystal. They pay tribute to the mind-sculptor from Hex <a class='hex-link' href='#0202'>0202</a>.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0105">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0105' class='permalink'>0105</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0204'>&#8663;</a>
+                    <a class='bottom' href='#0205'>&#8664;</a>
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0205'>0205</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Village of the clones descended from Hex <a class='hex-link' href='#0104'>0104</a>. They see the former operators as holy prophets of the mind sculptor from <a class='hex-link' href='#0202'>0202</a>.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0108">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0108' class='permalink'>0108</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0207'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A Great stone tower juts from the edge of the land, a great mass of lenses peering out into the darkness. NecroCybernetic and robotic caretakers don't take kindly to visitors.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0111">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0111' class='permalink'>0111</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0210'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A pack of giant tigers stalk these plains. They use their telepathic powers to track their prey, and can communicate with any creature regardless of the language they speak.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0112">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0112' class='permalink'>0112</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0211'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0213'>0213</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The trees of <a href='#0112' class='city-link'>HALEWOOD</a> are sentient and communicate by physically &quot;interfacing&quot; with other sentient creatures. This process is painful and potentially lethal to non-vegetation.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0113">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0113' class='permalink'>0113</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0212'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Biodegradable rocket graveyard, where dead rockets were buried causing the trees to dream of distant stars and any ore mined in the hills to give off radiation from alien stars.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0201">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0201' class='permalink'>0201</a>
+                    <span class='nav'>
+                    <a class='top' href='#0101'>&#8662;</a>
+                    <a class='bottom' href='#0101'>&#8665;</a>
+                    <a class='top' href='#0301'>&#8663;</a>
+                    <a class='bottom' href='#0302'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A tribe of Gamazons live in the shadow of the volcano in <a class='hex-link' href='#0202'>0202</a>. Each daughter of the tribe that carries an unbroken ostrich egg to the volcano may join the ranks of the war witches.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0202">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0202' class='permalink'>0202</a>
+                    <span class='nav'>
+                    <a class='top' href='#0102'>&#8662;</a>
+                    <a class='bottom' href='#0102'>&#8665;</a>
+                    <a class='top' href='#0302'>&#8663;</a>
+                    <a class='bottom' href='#0303'>&#8664;</a>
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0104'>0104</a>, <a class='hex-link' href='#0105'>0105</a>, <a class='hex-link' href='#0201'>0201</a>, <a class='hex-link' href='#0606'>0606</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The Mind Scuptor dwells in a chromium lattice formed in the decaying core of and extinct volcano. His War Witch Onero-Cyber flocks hunt the Noosphere for tantilising minds for him to mold.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0203">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0203' class='permalink'>0203</a>
+                    <span class='nav'>
+                    <a class='top' href='#0103'>&#8662;</a>
+                    <a class='bottom' href='#0103'>&#8665;</a>
+                    <a class='top' href='#0303'>&#8663;</a>
+                    <a class='bottom' href='#0304'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The coven of the Orthodox War Witches, who follow the hunting directions of none but the Crystal Demon-God, an ancient AI.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0204">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0204' class='permalink'>0204</a>
+                    <span class='nav'>
+                    <a class='top' href='#0104'>&#8662;</a>
+                    <a class='bottom' href='#0104'>&#8665;</a>
+                    <a class='top' href='#0304'>&#8663;</a>
+                    <a class='bottom' href='#0305'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                2d4 Mutant predators hunt here as a pack. 25% chance they already have a fresh kill.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0205">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0205' class='permalink'>0205</a>
+                    <span class='nav'>
+                    <a class='top' href='#0105'>&#8662;</a>
+                    <a class='bottom' href='#0105'>&#8665;</a>
+                    <a class='top' href='#0305'>&#8663;</a>
+                    <a class='bottom' href='#0306'>&#8664;</a>
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0305'>0305</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Defective/deformed clones from <a class='hex-link' href='#0104'>0104</a> and <a class='hex-link' href='#0105'>0105</a> have an insular settlement in old mine shafts, stealing from surface travelers and raising huge fungus forests underground. When they come of age they &quot;ascend&quot;, which means replacing their heads with ancient square &quot;image receptors&quot; scavenged from a buried spaceship.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0206">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0206' class='permalink'>0206</a>
+                    <span class='nav'>
+                    <a class='top' href='#0106'>&#8662;</a>
+                    <a class='bottom' href='#0106'>&#8665;</a>
+                    <a class='top' href='#0306'>&#8663;</a>
+                    <a class='bottom' href='#0307'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Void Vultures perch atop the head of a titanic war golem half buried near the edge. A wizard camps nearby, hoping to unlock the secret of the ancient Head.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0208">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0208' class='permalink'>0208</a>
+                    <span class='nav'>
+                    <a class='top' href='#0108'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0308'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0307'>0307</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The anti-grav domes of a flooded lab are now home to the moon-children, who seek refuge from the warp-storm. Naive, scared, tendrilled and incredibly powerful psions. Like to grow horrors in the bio-lab and watch them play in nearby hexes.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0212">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0212' class='permalink'>0212</a>
+                    <span class='nav'>
+                    <a class='top' href='#0112'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0312'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A village sits on the crumbling edge, it's people refuse to leave, believing their fate is tied to the land. The doom cult is fostered by a flame haired cyborg woman.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0213">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0213' class='permalink'>0213</a>
+                    <span class='nav'>
+                    <a class='top' href='#0113'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0313'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                <a href='#0112' class='city-link'>HALEWOOD</a> continues from <a class='hex-link' href='#0112'>0112</a>. The last regiment of General Raxxis Novasmasher have been biowelded to the trunks of 20,000 iridescent oak trees awaiting an awakening that may never come.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0301">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0301' class='permalink'>0301</a>
+                    <span class='nav'>
+                    &#8662;
+                    <a class='bottom' href='#0202'>&#8665;</a>
+                    &#8663;
+                    <a class='bottom' href='#0401'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Degenerate cannibalistic cavemen reside in these labyrinthian passages and caves. They are lead by and worship an AI residing in a glowing green crystal that follows an intricate pattern above the mountaintops.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0302">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0302' class='permalink'>0302</a>
+                    <span class='nav'>
+                    <a class='top' href='#0201'>&#8662;</a>
+                    <a class='bottom' href='#0203'>&#8665;</a>
+                    <a class='top' href='#0401'>&#8663;</a>
+                    <a class='bottom' href='#0402'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                2D10 cyberwolves serve as the army of a rogue pleasure droid.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0303">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0303' class='permalink'>0303</a>
+                    <span class='nav'>
+                    <a class='top' href='#0202'>&#8662;</a>
+                    <a class='bottom' href='#0204'>&#8665;</a>
+                    <a class='top' href='#0402'>&#8663;</a>
+                    <a class='bottom' href='#0403'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Holiday villas of the rogue pleasure droid overlook the starry edge. Each is highly monitored by the droid, and contains both great luxuries and great internal security.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0304">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0304' class='permalink'>0304</a>
+                    <span class='nav'>
+                    <a class='top' href='#0203'>&#8662;</a>
+                    <a class='bottom' href='#0205'>&#8665;</a>
+                    <a class='top' href='#0403'>&#8663;</a>
+                    <a class='bottom' href='#0404'>&#8664;</a>
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0405'>0405</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Glitter Harpies have nested in abandoned missile silos that dot the mountains throughout this hex. The ruins of the shrine of Eldaria, sacred to the war witches, are here as well.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0305">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0305' class='permalink'>0305</a>
+                    <span class='nav'>
+                    <a class='top' href='#0204'>&#8662;</a>
+                    <a class='bottom' href='#0206'>&#8665;</a>
+                    <a class='top' href='#0404'>&#8663;</a>
+                    <a class='bottom' href='#0405'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Gangster savages count coup by running to stare into the TV screen heads of the mutants from Hex <a class='hex-link' href='#0205'>0205</a> then escaping. Crime tribes nesting the the black encyclic ruined rooms make death fetishes of known foes from ivory and bone, their powers, unknown.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0306">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0306' class='permalink'>0306</a>
+                    <span class='nav'>
+                    <a class='top' href='#0205'>&#8662;</a>
+                    <a class='bottom' href='#0207'>&#8665;</a>
+                    <a class='top' href='#0405'>&#8663;</a>
+                    <a class='bottom' href='#0406'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A crystal bridge stretches out into the starry void, shattered about a half mile from the edge. Living in the tower just before the break is Ziggy Stardust, chaos mage.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0307">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0307' class='permalink'>0307</a>
+                    <span class='nav'>
+                    <a class='top' href='#0206'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0406'>&#8663;</a>
+                    <a class='bottom' href='#0407'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                &quot;Mr Kitty&quot;, a lurid green tiger with yellow stripes and orange gem-like eyes, grown from one of the vats in Hex <a class='hex-link' href='#0208'>0208</a> makes these hills his home. He hates his name, but no one has yet survived long enough to give him a new one.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0308">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0308' class='permalink'>0308</a>
+                    <span class='nav'>
+                    <a class='top' href='#0207'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0407'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0505'>0505</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A swarm of cultured, hyper-intelligent nanobots maintain a great library of ancient texts carved into the trees here. The nanobots attempt to set creatures at ease, assembling into their best approximation of any visitor's form.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0309">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0309' class='permalink'>0309</a>
+                    <span class='nav'>
+                    <a class='top' href='#0208'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0408'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Here on the Starshine Peninsula, the ancient tree's mirrored leaves reflect the void. The silver skinned goblin wolf-riders who live here are said to steal dreams and weave them into cloth.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0312">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0312' class='permalink'>0312</a>
+                    <span class='nav'>
+                    <a class='top' href='#0211'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0411'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The star grove grows in concordance with a distant star system, a living garden map.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0313">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0313' class='permalink'>0313</a>
+                    <span class='nav'>
+                    <a class='top' href='#0212'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0412'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                At the top of the mountain is a portal which will send anyone stepping through it to a random location on 1) this map 2) Hexenbracken or 3) krall and guarded by a starmetal golem.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0404">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0404' class='permalink'>0404</a>
+                    <span class='nav'>
+                    <a class='top' href='#0304'>&#8662;</a>
+                    <a class='bottom' href='#0304'>&#8665;</a>
+                    <a class='top' href='#0504'>&#8663;</a>
+                    <a class='bottom' href='#0505'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Weirdness from the void seeps into tar pits in the mountain valleys animating the skeletons of saber-toothed terrors.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0405">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0405' class='permalink'>0405</a>
+                    <span class='nav'>
+                    <a class='top' href='#0305'>&#8662;</a>
+                    <a class='bottom' href='#0305'>&#8665;</a>
+                    <a class='top' href='#0505'>&#8663;</a>
+                    <a class='bottom' href='#0506'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Saber-toothed-skeleton bikers and laser-lancers in crumbling city, turned barbarian fortress, plagued by Periodic Mass Madness. Their so-called king, half his face alien science, loves exiling people, will soon regret burning the war-witch shrine in Hex <a class='hex-link' href='#0304'>0304</a> and otherwise pissing off most neighbors.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0406">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0406' class='permalink'>0406</a>
+                    <span class='nav'>
+                    <a class='top' href='#0306'>&#8662;</a>
+                    <a class='bottom' href='#0306'>&#8665;</a>
+                    <a class='top' href='#0506'>&#8663;</a>
+                    <a class='bottom' href='#0507'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A recent spacequake has uncovered dozens of crystalline sarcophagi, each containing Saurian remains. If disturbed, the coffins will combine to form a crystal colossus armed with a huge energy sword.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0407">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0407' class='permalink'>0407</a>
+                    <span class='nav'>
+                    <a class='top' href='#0307'>&#8662;</a>
+                    <a class='bottom' href='#0307'>&#8665;</a>
+                    <a class='top' href='#0507'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                An orgone accumulator can be found beneath the castle of the Zodiac Knights. The device is rumored to heal all sickness and grievous wounds.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0408">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0408' class='permalink'>0408</a>
+                    <span class='nav'>
+                    <a class='top' href='#0308'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0508'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A archmage tower guarded by village of Guineapig men barbarians in scale armour. One of their heroes flies in a sky sled while his two velocer raptor hybrid brothers follow.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0504">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0504' class='permalink'>0504</a>
+                    <span class='nav'>
+                    <a class='top' href='#0403'>&#8662;</a>
+                    <a class='bottom' href='#0405'>&#8665;</a>
+                    <a class='top' href='#0603'>&#8663;</a>
+                    <a class='bottom' href='#0604'>&#8664;</a>
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0506'>0506</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The Night Pharaoh and his band of outlaw science priests plot the assassination of the Sorceress in Hex <a class='hex-link' href='#0902'>0902</a>
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0505">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0505' class='permalink'>0505</a>
+                    <span class='nav'>
+                    <a class='top' href='#0404'>&#8662;</a>
+                    <a class='bottom' href='#0406'>&#8665;</a>
+                    <a class='top' href='#0604'>&#8663;</a>
+                    <a class='bottom' href='#0605'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The Knight of Capricorn challenges all comers to joust. His helm has been infected by a chaotic nano-cloud recently broken off from the swarm in <a class='hex-link' href='#0308'>0308</a>.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0506">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0506' class='permalink'>0506</a>
+                    <span class='nav'>
+                    <a class='top' href='#0405'>&#8662;</a>
+                    <a class='bottom' href='#0407'>&#8665;</a>
+                    <a class='top' href='#0605'>&#8663;</a>
+                    <a class='bottom' href='#0606'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Herds of six legged ibex graze the plains here, watched over by giant tripods that attempt to carry out the last wishes of Temnok the Wise before he became The Night Pharaoh of Hex <a class='hex-link' href='#0504'>0504</a>.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0507">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0507' class='permalink'>0507</a>
+                    <span class='nav'>
+                    <a class='top' href='#0406'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0606'>&#8663;</a>
+                    <a class='bottom' href='#0607'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The trees here are silent and full of iridescent spiderwebs. The &quot;spiders&quot; have legs of human fingers, bodies of human hands, and a large robotic eye.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0511">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0511' class='permalink'>0511</a>
+                    <span class='nav'>
+                    <a class='top' href='#0410'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0610'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0611'>0611</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Shattered megalithic arches of black jade float at the edge of the void. Priests of Set have recently built a temple complex around a pool of mithril beneath the grandest of the arches.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0601">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0601' class='permalink'>0601</a>
+                    <span class='nav'>
+                    <a class='top' href='#0501'>&#8662;</a>
+                    <a class='bottom' href='#0501'>&#8665;</a>
+                    <a class='top' href='#0701'>&#8663;</a>
+                    <a class='bottom' href='#0702'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                An enterprising group off misfits and pariahs from all over this world are attempting to turn one of the mountains into a ship, disconnect from land and float into the void.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0603">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0603' class='permalink'>0603</a>
+                    <span class='nav'>
+                    <a class='top' href='#0503'>&#8662;</a>
+                    <a class='bottom' href='#0503'>&#8665;</a>
+                    <a class='top' href='#0703'>&#8663;</a>
+                    <a class='bottom' href='#0704'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The Devastation begins here, where sorceries clashed. The city of <a href='#0603' class='city-link'>CANIS-3</a> after the Theta Bomb: a giant twisting gun-metal growth, home to Ant- and Dog-men, digging for relics in the white desert sand. Thirst, Slavery, and Unexploded Ordnance Hazard.<br /><br />Also, I guess that icon could also be cliffs or crumbling cyber-mega-city-structures, but whatever.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0604">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0604' class='permalink'>0604</a>
+                    <span class='nav'>
+                    <a class='top' href='#0504'>&#8662;</a>
+                    <a class='bottom' href='#0504'>&#8665;</a>
+                    <a class='top' href='#0704'>&#8663;</a>
+                    <a class='bottom' href='#0705'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The Devastation takes the form of hexagonal fracturing of the earth. Each hex is a different height, some tower above all, some plunge deep. Crystal centipedes live among the hexes.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0605">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0605' class='permalink'>0605</a>
+                    <span class='nav'>
+                    <a class='top' href='#0505'>&#8662;</a>
+                    <a class='bottom' href='#0505'>&#8665;</a>
+                    <a class='top' href='#0705'>&#8663;</a>
+                    <a class='bottom' href='#0706'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Here, it is a Devastation of thought; no new ideas can happen; the only thoughts here are thoughts carried in. Those present live in grey desperation, welcoming travelers; if they could hope, they'd hope someone suggests they leave.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0606">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0606' class='permalink'>0606</a>
+                    <span class='nav'>
+                    <a class='top' href='#0506'>&#8662;</a>
+                    <a class='bottom' href='#0506'>&#8665;</a>
+                    <a class='top' href='#0706'>&#8663;</a>
+                    <a class='bottom' href='#0707'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A massive golden sphinx watches over the edge of The Devastation. It's communication relay allows the Mind Sculptor from Hex <a class='hex-link' href='#0202'>0202</a> to monitor the area.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0607">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0607' class='permalink'>0607</a>
+                    <span class='nav'>
+                    <a class='top' href='#0507'>&#8662;</a>
+                    <a class='bottom' href='#0507'>&#8665;</a>
+                    <a class='top' href='#0707'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Small settlements of greyscale holograms dot the gentle hills of the <a href='#0607' class='city-link'>ONCELAND</a>. These quiet folk drain what little color that can be found here to empower their heroes; towering titans of hard light that summon rainbows to their aid.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0608">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0608' class='permalink'>0608</a>
+                    <span class='nav'>
+                    <a class='top' href='#0508'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0708'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The woods appear dead, but they hunger for life. Any life. Yours will do nicely.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0609">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0609' class='permalink'>0609</a>
+                    <span class='nav'>
+                    <a class='top' href='#0509'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0709'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The dead trees have begun to bloom and yet they are still dead. An aggressive algae from another world has granted them a sort of undead existence, living off starlight and whatever animals get too close.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0610">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0610' class='permalink'>0610</a>
+                    <span class='nav'>
+                    <a class='top' href='#0510'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0710'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A meteor has crashed into the dead forest throwing both the land and trees into upheaval. A chunk of glowing metal has been reported in the crater but rocks in the area have begun to grow teeth and tentacles.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0611">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0611' class='permalink'>0611</a>
+                    <span class='nav'>
+                    <a class='top' href='#0511'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0711'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A herd of psychic centaurs dwell amongst the rocky landscape. The neon tattoos on their flanks mark them as enemies of the Priests of Set in Hex <a class='hex-link' href='#0511'>0511</a>.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0701">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0701' class='permalink'>0701</a>
+                    <span class='nav'>
+                    &#8662;
+                    <a class='bottom' href='#0602'>&#8665;</a>
+                    &#8663;
+                    <a class='bottom' href='#0801'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Miles of gently rolling plains covered in crystalline star poppies are dotted with the interstellar ships of the pirates who harvest them.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0703">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0703' class='permalink'>0703</a>
+                    <span class='nav'>
+                    <a class='top' href='#0602'>&#8662;</a>
+                    <a class='bottom' href='#0604'>&#8665;</a>
+                    <a class='top' href='#0802'>&#8663;</a>
+                    <a class='bottom' href='#0803'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A port city in the Devastation. Once populated by transhumanist cyborgs, terrible events caused the deaths of all organics. Now, only the robotic husks continue, shambling along automated routines.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0704">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0704' class='permalink'>0704</a>
+                    <span class='nav'>
+                    <a class='top' href='#0603'>&#8662;</a>
+                    <a class='bottom' href='#0605'>&#8665;</a>
+                    <a class='top' href='#0803'>&#8663;</a>
+                    <a class='bottom' href='#0804'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Hundred foot tall trash heaps of the Devastation. Golden shelled stag beetles and copper shelled Heracles beetles the size of dinner plates are found here in abundance.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0705">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0705' class='permalink'>0705</a>
+                    <span class='nav'>
+                    <a class='top' href='#0604'>&#8662;</a>
+                    <a class='bottom' href='#0606'>&#8665;</a>
+                    <a class='top' href='#0804'>&#8663;</a>
+                    <a class='bottom' href='#0805'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A vast grassy plain stretches to the glowing trash heaps on the horizon to the north. Ancient metallic wrecks reach out from the ground to the sky, and small blue creatures with many limbs search for working parts to help them one day reach across the empty void to the north.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0706">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0706' class='permalink'>0706</a>
+                    <span class='nav'>
+                    <a class='top' href='#0605'>&#8662;</a>
+                    <a class='bottom' href='#0607'>&#8665;</a>
+                    <a class='top' href='#0805'>&#8663;</a>
+                    <a class='bottom' href='#0806'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                This pastoral plain of pink grass is home to the Glamazons, women-warriors who's collective fashion sense is as sharp as their spears. They raid the surrounding territories for mates, keeping the choicest men as servile pets who toil in mineral mines for gemstones which are ground up and used in their mistresses' elaborate facepaint.
+                
+            </p>
+            
+            <p class='description'>
+                The starflower fields that stretch across this plain capture and redirect light, causing anyone who disturbs them to become the focus of their lazer-like affection. The giant purple crickets tend these 4' tall plants.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0707">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0707' class='permalink'>0707</a>
+                    <span class='nav'>
+                    <a class='top' href='#0606'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0806'>&#8663;</a>
+                    <a class='bottom' href='#0807'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Is home of the Pale Tribes. A nocturnal people, they emerge from subterranean dwelling after smearing their faces with a white, stimulant-laced woad. This mystical substance gives them the power to wage their nightly battles over whose tribe composes the most sorrowful dirges.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0708">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0708' class='permalink'>0708</a>
+                    <span class='nav'>
+                    <a class='top' href='#0607'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0807'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Is guarded by the <a href='#0708' class='city-link'>CITADEL OF TONGUES</a>. Here, acolytes train day and night in the sacred rhyming martial art known only as The Word.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0709">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0709' class='permalink'>0709</a>
+                    <span class='nav'>
+                    <a class='top' href='#0608'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0808'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The spire of the Great Cathedral of Ohm is wreathed in lightning, while its long halls sit mostly empty of all, including dust. Rumor has it that a great complex below the cathedral houses the treasures of the Arch-Tesla.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0710">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0710' class='permalink'>0710</a>
+                    <span class='nav'>
+                    <a class='top' href='#0609'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0809'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The village of <a href='#0710' class='city-link'>ELECTRICIA</a> sits by a picturesque stream in a pastoral landscape. The inhabitants of the village tend their robo-sheep, apparently unaware of the destruction around them.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0711">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0711' class='permalink'>0711</a>
+                    <span class='nav'>
+                    <a class='top' href='#0610'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0810'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0812'>0812</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The <a href='#0711' class='city-link'>CRYSTALIAN MOSAIC</a> dominates here. Overseen by a titanic psi-angelic creature comprised of wings and tendrils, slave-artisans toil eternally to fulfill the beings ever shifting vision of sublime<br />beauty. A single crack in one of the city-block sized crystal tiles invites cataclysmic reprisal from the beast above, wiping out miles of intricate work.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0801">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0801' class='permalink'>0801</a>
+                    <span class='nav'>
+                    <a class='top' href='#0701'>&#8662;</a>
+                    <a class='bottom' href='#0701'>&#8665;</a>
+                    <a class='top' href='#0901'>&#8663;</a>
+                    <a class='bottom' href='#0902'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                <a href='#0801' class='city-link'>RAZOR PLANES</a> As you travel east, the rolling hills turn to sharp cliffs, and the beautiful poppies into crystal-toothed snappers. A wrong turn here will drop you into a pit of gigantic carnivorous snapping-poppies, whose poisonous bite lulls your mind into a euphoric and self-destructive state.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0804">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0804' class='permalink'>0804</a>
+                    <span class='nav'>
+                    <a class='top' href='#0704'>&#8662;</a>
+                    <a class='bottom' href='#0704'>&#8665;</a>
+                    <a class='top' href='#0904'>&#8663;</a>
+                    <a class='bottom' href='#0905'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A small tribe of goblins enslaved by war-witches mine the midnight clay pits.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0805">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0805' class='permalink'>0805</a>
+                    <span class='nav'>
+                    <a class='top' href='#0705'>&#8662;</a>
+                    <a class='bottom' href='#0705'>&#8665;</a>
+                    <a class='top' href='#0905'>&#8663;</a>
+                    <a class='bottom' href='#0906'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The plains are dotted with small moonstone pillars covered in geometric runes. Jackals, sacred to Set, roam the fields here.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0806">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0806' class='permalink'>0806</a>
+                    <span class='nav'>
+                    <a class='top' href='#0706'>&#8662;</a>
+                    <a class='bottom' href='#0706'>&#8665;</a>
+                    <a class='top' href='#0906'>&#8663;</a>
+                    <a class='bottom' href='#0907'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Rainbow colored alien grass covered in weird saliva attracts giant space moths and caterpillars. A sect of deadbeat apprentice wizard drop outs gather here to try and hitch a ride man.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0807">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0807' class='permalink'>0807</a>
+                    <span class='nav'>
+                    <a class='top' href='#0707'>&#8662;</a>
+                    <a class='bottom' href='#0707'>&#8665;</a>
+                    <a class='top' href='#0907'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Carnivorous unlife lies in wait just below the ashen ground, but high above: floating discs, dead sky-whales, and lots of tethering chain, support a pastoral &quot;utopia&quot;. Tyranny-of-Form lies murdered in her Grand Cathedral, slowly reviving, while the Murder Cube seeks the escapees from Hex <a class='hex-link' href='#0013'>0013</a>.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0808">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0808' class='permalink'>0808</a>
+                    <span class='nav'>
+                    <a class='top' href='#0708'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0908'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                &quot;How does one kill a Video Demon? Simple, apprentice - rewind his prison-cassette until he ceases to be...though our monastery has only one Sacred Implement, and more tapes come every day.&quot;
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0809">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0809' class='permalink'>0809</a>
+                    <span class='nav'>
+                    <a class='top' href='#0709'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0909'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                In the mines that go on for miles, a fire has burned for hundreds of years. The cinder trees live on, somehow, and salamanders nest in the branches.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0810">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0810' class='permalink'>0810</a>
+                    <span class='nav'>
+                    <a class='top' href='#0710'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0910'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Cyborg tyrannosaur guards the sacred drug grove of the mecha shaman. Outsiders are unwelcome to the contemplative philosophers.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0812">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0812' class='permalink'>0812</a>
+                    <span class='nav'>
+                    <a class='top' href='#0712'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0912'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0911'>0911</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The smashed ruins of the <a href='#0711' class='city-link'>CRYSTALIAN MOSAIC</a> (Hex <a class='hex-link' href='#0711'>0711</a>) span this side of the landbridge. Tiny orange people in silver slave away to rebuild the once glorious work.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0901">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0901' class='permalink'>0901</a>
+                    <span class='nav'>
+                    &#8662;
+                    <a class='bottom' href='#0802'>&#8665;</a>
+                    &#8663;
+                    <a class='bottom' href='#1001'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Cybercorns frolic and duel in the <a href='#0901' class='city-link'>FRUITLESS ORCHARD</a>. Their segmented steel-flesh is a delicacy to the people of the crystalline city located in Hex <a class='hex-link' href='#0902'>0902</a>.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0902">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0902' class='permalink'>0902</a>
+                    <span class='nav'>
+                    <a class='top' href='#0801'>&#8662;</a>
+                    <a class='bottom' href='#0803'>&#8665;</a>
+                    <a class='top' href='#1001'>&#8663;</a>
+                    <a class='bottom' href='#1002'>&#8664;</a>
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0013'>0013</a>, <a class='hex-link' href='#0504'>0504</a>, <a class='hex-link' href='#0901'>0901</a>, <a class='hex-link' href='#1005'>1005</a>, <a class='hex-link' href='#1101'>1101</a>, <a class='hex-link' href='#1102'>1102</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                <a href='#0902' class='city-link'>THE CRYSTAL METROPOLIS</a> towers over all, visible from every point in the land. It's citizens feast upon the bounty of the harvest of the world. Sad Ivory, the Sorceress Queen, spends her days atop the grand spire, reweaving the pattern of the stars in a mad attempt to woo the Sun to become her lover.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0904">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0904' class='permalink'>0904</a>
+                    <span class='nav'>
+                    <a class='top' href='#0803'>&#8662;</a>
+                    <a class='bottom' href='#0805'>&#8665;</a>
+                    <a class='top' href='#1003'>&#8663;</a>
+                    <a class='bottom' href='#1004'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A giant iridium hand and arm rises 500' into the air. Glitter harpies nest among its 15 fingers.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0905">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0905' class='permalink'>0905</a>
+                    <span class='nav'>
+                    <a class='top' href='#0804'>&#8662;</a>
+                    <a class='bottom' href='#0806'>&#8665;</a>
+                    <a class='top' href='#1004'>&#8663;</a>
+                    <a class='bottom' href='#1005'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Plains of the Purple Buffalo, and home of the bowcaster armed Iconian Riders.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0906">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0906' class='permalink'>0906</a>
+                    <span class='nav'>
+                    <a class='top' href='#0805'>&#8662;</a>
+                    <a class='bottom' href='#0807'>&#8665;</a>
+                    <a class='top' href='#1005'>&#8663;</a>
+                    <a class='bottom' href='#1006'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Oil pools and steel jawed crocodiles.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0907">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0907' class='permalink'>0907</a>
+                    <span class='nav'>
+                    <a class='top' href='#0806'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#1006'>&#8663;</a>
+                    <a class='bottom' href='#1007'>&#8664;</a>
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#1005'>1005</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                <a href='#0907' class='city-link'>GATETOWN</a> is a bustling city where beings from across the land may congregate under the watchful eye of the Beggar King. The only barrier to entry is that you must have something to trade, be it skill at arms or riches fine.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0908">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0908' class='permalink'>0908</a>
+                    <span class='nav'>
+                    <a class='top' href='#0807'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#1007'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                All plant, animal, and monstrous life appears to be made from yards of black tape. The only exception is the sphinx who lives on a glass boulder at the eastern edge.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0909">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0909' class='permalink'>0909</a>
+                    <span class='nav'>
+                    <a class='top' href='#0808'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#1008'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                At all times a <a href='#0909' class='city-link'>GREAT GOLDEN CITY</a> both exists and does not exist in the center of this land. when it is present the sky is purple, the grass is red, the wine makes you hunger, the food makes you thirst. when gone the sky is green, the grass is blue, the wine poison, the food reasonably priced.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0910">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0910' class='permalink'>0910</a>
+                    <span class='nav'>
+                    <a class='top' href='#0809'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#1009'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                <a href='#0910' class='city-link'>DWEOMERDALE</a>, a village of sentient illusions has migrated West from the <a href='#1109' class='city-link'>PRISMATIC MOUNTAINS</a> beginning in Hex <a class='hex-link' href='#1110'>1110</a>
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0911">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0911' class='permalink'>0911</a>
+                    <span class='nav'>
+                    <a class='top' href='#0810'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#1010'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The rubble here is mined for iridium by the same tiny orange slaves dresed in silver found in Hex <a class='hex-link' href='#0812'>0812</a>. They do not appear to have masters, but they are afraid to go out at night.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0912">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0912' class='permalink'>0912</a>
+                    <span class='nav'>
+                    <a class='top' href='#0811'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#1011'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The Desolation causes frequent earthquakes here, knocking chunks along the edge to fall into into the void. Velocer raptors nest among the peaks.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0913">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0913' class='permalink'>0913</a>
+                    <span class='nav'>
+                    <a class='top' href='#0812'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#1012'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The remains of the Ministry of Information are said to be in this area of the Desolation. The rumored crystal data spheres attracting a steady stream of pirates.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1001">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1001' class='permalink'>1001</a>
+                    <span class='nav'>
+                    <a class='top' href='#0901'>&#8662;</a>
+                    <a class='bottom' href='#0901'>&#8665;</a>
+                    <a class='top' href='#1101'>&#8663;</a>
+                    <a class='bottom' href='#1102'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                On mountaintop lies a great pulsing cube of flesh riddled with tunnels. Creatures and cults dwell inside the mucous filled corridors for life.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1002">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1002' class='permalink'>1002</a>
+                    <span class='nav'>
+                    <a class='top' href='#0902'>&#8662;</a>
+                    <a class='bottom' href='#0902'>&#8665;</a>
+                    <a class='top' href='#1102'>&#8663;</a>
+                    <a class='bottom' href='#1103'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The trees of this area bleed when cut, and their fruit are beating hearts. Local tradition holds that if the last fruit is taken from the tree it will hunt down all who have eaten from it.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1005">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1005' class='permalink'>1005</a>
+                    <span class='nav'>
+                    <a class='top' href='#0905'>&#8662;</a>
+                    <a class='bottom' href='#0905'>&#8665;</a>
+                    <a class='top' href='#1105'>&#8663;</a>
+                    <a class='bottom' href='#1106'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A sloping plain angling steeply towards the void, inhabited by meter-tall, spherical fur balls that try vainly to roll up hill far enough each night so as to not fall into the void as they sleep. They are a delicacy in the city of <a class='hex-link' href='#0902'>0902</a> (The Crystal Metropolis) and <a class='hex-link' href='#0907'>0907</a> (Gate Town).
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1006">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1006' class='permalink'>1006</a>
+                    <span class='nav'>
+                    <a class='top' href='#0906'>&#8662;</a>
+                    <a class='bottom' href='#0906'>&#8665;</a>
+                    <a class='top' href='#1106'>&#8663;</a>
+                    <a class='bottom' href='#1107'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Men and Women in traditional dress engage in bacchanalian excess around an enormous, sentient head who denounces their actions as barbaric and unclean. Beneath their garb they are outrageously attractive in a he-man, she-ra kind of way (all wear unitards into which they barely fit, and the men have impossibly full hair, the women are just straight up feathered and 80s-curled). Both sides will try to conscript the PCs into helping them (taint the wine with a purgative or else engage in lasciviousness in front of the head).<br /><br />If aided, the head will let up to three people climb into its mouth. Wait there for two minutes and when he reopens his mouth you can be anywhere else in the map. He'll only do this once.<br /><br /><a href="http://www.charlesfreger.com/works/big.php?no=<a class='hex-link' href='#1632'>1632</a>" class="ot-anchor" rel="nofollow">http://www.charlesfreger.com/works/big.php?no=<a class='hex-link' href='#1632'>1632</a></a>
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1007">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1007' class='permalink'>1007</a>
+                    <span class='nav'>
+                    <a class='top' href='#0907'>&#8662;</a>
+                    <a class='bottom' href='#0907'>&#8665;</a>
+                    <a class='top' href='#1107'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#1107'>1107</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The <a href='#1007' class='city-link'>STEEL CATHEDRAL</a> stands among blood-flower orchards. The Cobalt Knights who live here, consider themselves to be one of the last beacons of light left in Synthexia.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1008">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1008' class='permalink'>1008</a>
+                    <span class='nav'>
+                    <a class='top' href='#0908'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#1108'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Ranchers living aboard their giant land crabs, ride them across the great grasslands. They're currently on their way toward Gatetown to trade. It'll be a season before they arrive.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1009">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1009' class='permalink'>1009</a>
+                    <span class='nav'>
+                    <a class='top' href='#0909'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#1109'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The grass in this area grows as feathers instead of blades. Giant Chrome Scorpions.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1010">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1010' class='permalink'>1010</a>
+                    <span class='nav'>
+                    <a class='top' href='#0910'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#1110'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#1011'>1011</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Mounds of ancient scrap robot heaps pile here and demented self built droids search scrap for upgrades. Rust monster have been swarming of late and the poor robots are desperate.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1011">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1011' class='permalink'>1011</a>
+                    <span class='nav'>
+                    <a class='top' href='#0911'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#1111'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A necromancer and a scientist are teaming up to build a undead cyber beholder using scraps from <a class='hex-link' href='#1010'>1010</a>. They live in a cave served by zombies and lame scrap built robots.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1012">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1012' class='permalink'>1012</a>
+                    <span class='nav'>
+                    <a class='top' href='#0912'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#1112'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#1112'>1112</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The Desolation has caused this area to be under perpetual cloud cover resulting in a hot and humid land covered in black molds. A great circular pit miles deep has a carved stair leading down into it's depths. Rumor has it that a shadow dragon sleeps at the bottom.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1013">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1013' class='permalink'>1013</a>
+                    <span class='nav'>
+                    <a class='top' href='#0913'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#1113'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#1112'>1112</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The entrance to cryo-stations X4, Zenon3 and <a href='#1013' class='city-link'>I-R12</a> can be found here within the Desolation. An infestation of robo-cockatrice has resulted in most of the sleepers being turned to steel.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1101">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1101' class='permalink'>1101</a>
+                    <span class='nav'>
+                    &#8662;
+                    <a class='bottom' href='#1002'>&#8665;</a>
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The Desolation creeps closer to <a href='#0902' class='city-link'>THE CRYSTAL METROPOLIS</a> in the form of Rad-Roaches that eat all in their wake.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1102">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1102' class='permalink'>1102</a>
+                    <span class='nav'>
+                    <a class='top' href='#1001'>&#8662;</a>
+                    <a class='bottom' href='#1003'>&#8665;</a>
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A tribe of centaurs, defenders of <a href='#0902' class='city-link'>THE CRYSTAL METROPOLIS</a> in Hex <a class='hex-link' href='#0902'>0902</a> are slowly being warped by the Desolation. Some have begun building altars to dark things from beyond the void.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1103">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1103' class='permalink'>1103</a>
+                    <span class='nav'>
+                    <a class='top' href='#1002'>&#8662;</a>
+                    <a class='bottom' href='#1004'>&#8665;</a>
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Pirates of the Void have created a hidden Tortuga in the Desolation hollowed lands here. Anything in the multiverse can be had, for the right price.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1106">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1106' class='permalink'>1106</a>
+                    <span class='nav'>
+                    <a class='top' href='#1005'>&#8662;</a>
+                    <a class='bottom' href='#1007'>&#8665;</a>
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#1107'>1107</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The Beacon Tower is kept lit here by a librarian and a summoner who settled down here to have children and chart the stars. Their Void Hounds patrol the hills, answering their call.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1107">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1107' class='permalink'>1107</a>
+                    <span class='nav'>
+                    <a class='top' href='#1006'>&#8662;</a>
+                    &#8665;
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Cobalt Knights from the <a href='#1007' class='city-link'>STEEL CATHEDRAL</a> in Hex <a class='hex-link' href='#1007'>1007</a> are attempting to breed their Diamond Dogs with the Void Hounds of the librarian in <a class='hex-link' href='#1106'>1106</a>. Fearing explosions, the research facility is isolated in the mountains here.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1108">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1108' class='permalink'>1108</a>
+                    <span class='nav'>
+                    <a class='top' href='#1007'>&#8662;</a>
+                    &#8665;
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The Eastern Pharaoh Solartep and his cyber-zombies rules this area with a skeletal fist. The City of the Great Web surges with the power of it's living batteries.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1109">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1109' class='permalink'>1109</a>
+                    <span class='nav'>
+                    <a class='top' href='#1008'>&#8662;</a>
+                    &#8665;
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0910'>0910</a>, <a class='hex-link' href='#1111'>1111</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The Sun Forge in the foothills of the <a href='#1109' class='city-link'>PRISMATIC MOUNTAINS</a>, is an ancient structure purported to have once forged amazing weapons of light using Synthexia's sun. Currently controlled by the demi-lich Argus Claxfire and his gang of Skeletoids.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1110">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1110' class='permalink'>1110</a>
+                    <span class='nav'>
+                    <a class='top' href='#1009'>&#8662;</a>
+                    &#8665;
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0910'>0910</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Proud warrior Aurach Mintas sits in his remote palace on an improbable peak watching the images of his past battles as lasers flicker through the gem-backed memory crabs. He stirs rarely, and challengers are few these days; in his idleness an incorporeal demon has taken root in the palace, always whispering.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1111">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1111' class='permalink'>1111</a>
+                    <span class='nav'>
+                    <a class='top' href='#1010'>&#8662;</a>
+                    &#8665;
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The Western edge of the <a href='#1109' class='city-link'>PRISMATIC MOUNTAINS</a> contains a massive gateway leading down into the depths of the Magma Warrens that all eventually converge on Hex <a class='hex-link' href='#1311'>1311</a>. Demonic things emerge regularly and harass anything in the area before they cool off and fall to ash.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1112">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1112' class='permalink'>1112</a>
+                    <span class='nav'>
+                    <a class='top' href='#1011'>&#8662;</a>
+                    &#8665;
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                An odd adventurer's boomtown Swer-Al has sprung up here. Treasure seekers often venture into the lair of the robo-cockatrices and the shadow dragon's pit (see <a class='hex-link' href='#1012'>1012</a> and <a class='hex-link' href='#1013'>1013</a>). They say the town elders keep a robo-cockatrice in a dry well and use it to render steely justice to lawbreakers, lining the square with the unjust.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1113">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1113' class='permalink'>1113</a>
+                    <span class='nav'>
+                    <a class='top' href='#1012'>&#8662;</a>
+                    &#8665;
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The Desolation caused strange changes in the rock of the mountains, and weird mountain men mine the ore and sell it to the smiths of Swer-Al.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1201">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1201' class='permalink'>1201</a>
+                    <span class='nav'>
+                    <a class='top' href='#1101'>&#8662;</a>
+                    <a class='bottom' href='#1101'>&#8665;</a>
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Star Light Tower has fallen in the Desolation and is controlled by two factions of mecha-goblinoids. Those that control the remaining light pools, and those that want to.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1202">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1202' class='permalink'>1202</a>
+                    <span class='nav'>
+                    <a class='top' href='#1102'>&#8662;</a>
+                    <a class='bottom' href='#1102'>&#8665;</a>
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                In his polycrystaline tower the knight who holds himself personally responsible for the Desolation sits morosely strumming his nine-stringed harpsichron. The psychic strains of his music float over the hills, causing the rusty death machines to slumber on.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1203">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1203' class='permalink'>1203</a>
+                    <span class='nav'>
+                    <a class='top' href='#1103'>&#8662;</a>
+                    <a class='bottom' href='#1103'>&#8665;</a>
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#1207'>1207</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Here a great chain of lesser modrons hanging onto each other trails into the void. philosophers of cosmic order gather to contemplate the wonder. Modrons attempt to bridge the gulf between Hex <a class='hex-link' href='#1203'>1203</a> and Hex <a class='hex-link' href='#1207'>1207</a>.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1207">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1207' class='permalink'>1207</a>
+                    <span class='nav'>
+                    <a class='top' href='#1107'>&#8662;</a>
+                    <a class='bottom' href='#1107'>&#8665;</a>
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#1203'>1203</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The burning forest is a strain of diabolic trees from the hells. with ichor good for potions and their sticks make some wands. A lone modron stares into space from a cliff, awaiting modrons from Hex <a class='hex-link' href='#1203'>1203</a>.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1208">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1208' class='permalink'>1208</a>
+                    <span class='nav'>
+                    <a class='top' href='#1108'>&#8662;</a>
+                    &#8665;
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Firefruit trees tended by giant pillbugs. The Village of Haselour appears as if everyone just walked away 5 minutes ago. It's been deserted for 50 years.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+
+        
+<div id="about" class="write-up">
+    <h2>About this Project</h2>
+    <p>Another day another hexcrawl. As always these are a community effort. <a href="https://plus.google.com/112721851706837901923/about">Ben Hannigan</a>, who did a fantastic job editing <a href="http://save.vs.totalpartykill.ca/grab-bag/kraal/">The Kraal's</a> source material, wrote a script to automate the process of taking a Google+ thread and turning it into a Google Doc. As before, a bunch of <a href="https://github.com/funkaoshi/hexenbracken">Python code</a> then takes that Google Doc and makes the page you see.</p>
+    <p>A big thank you to <a href="http://swordfishislands.blogspot.ca/">Jacob Hurst</a> for <a href="https://plus.google.com/u/0/116357045271154658211/posts/SZfvffcHVZd`">organizing</a> and to all the contributors: Jacob Hurst (28), David Brawley (23), Shaine Edwards (10), Judd Karlman (9), Chris Tamm (8), Nigel O'Rear (6), Konstantin M (5), Joey Lindsey (4), Scott Kuban (4), Patrick Stuart (3), Ed Hackett (2), Ray Otus (1), Dave Sutton (1), Nathaniel Hull (1), kenrick encinas (1), Piratanegro Libre (1), Pearce Shea (1), Ramanan S (1).
+    </p>
+</div>
+
+        <div class="clear"></div>
+        <div class="footer">
+            <p>
+            This site was created by <a href="http://funkaoshi.com/">Ramanan Sivaranjan</a>. If you like this site, you might also enjoy my D&amp;D blog, <a href="http://save.vs.totalpartykill.ca/">Save vs. Total Party Kill</a>.
+            </p>
+        </div>
+    </div>
+    </body>
+</html>

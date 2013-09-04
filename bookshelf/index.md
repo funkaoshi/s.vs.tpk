@@ -31,19 +31,29 @@ I'd like to get some of the rule books and modules that were out before I starte
 ### Lamentations of the Flame Princess: Weird Fantasy Roleplaying
 
 * [Lamentations of the Flame Princess: Weird Fantasy Roleplaying (Gridnhouse Edition)][lotfp]
+* Rules & Magic Hardcover
 * Death Frost Doom (PDF)
 * Hammers of the God (PDF)
 * Weird New World (PDF)
 * [Vornheim: The Complete City Kit][vornheim]
 * [Carcosa][]
+* The Monolith Beyond Space and Time
 * The God that Crawls
 * [The Magnificent Joop van Ooms][ooms]
+* Tales of the Scarecrow
+* The Seclusium of Orphone of the Three Visions
+* Better Than Any Man
+* Qelong
+* Fuck for Satan
+
 
 ### 1st Edition
 
 * Premium Dungeon Master Guide
 * Premium Player's Handbook
 * Premium Monster Manual
+* [Dungeons of Dread: "S" Series Classic Adventure Compilation][dod]
+* Against the Slave Lords: "A" Series Classic Adventure Compilation
 * D1,2 - Descent into the Depths of the Earth
 * I1 - Dwellers of the Forbidden City  
 * F1 - The Fane of Poisoned Prophecies
@@ -68,7 +78,7 @@ I'd like to get some of the rule books and modules that were out before I starte
 ### Dungeon Crawl Classics RPG
 
 * The Random Esoteric Creature Generator For Classic Fantasy Games And Their Modern Simulacra (PDF)
-* The Dungeon Alphabet (PDF)
+* The Dungeon Alphabet
 * DCC RPG Core Rule Book
 * The Heroes Arise (Collects the following modules: DCC 7: The Secret of Smuggler's Cove; DCC 8: Mysteries of the Drow; DCC 12: The Blackguard's Revenge; DCC 43: Curse of the Barrens; DCC 45: Malice of the Medusa)
 * DCC 67: Sailors of the Starless Sea
@@ -101,3 +111,4 @@ I'd like to get some of the rule books and modules that were out before I starte
 [vornheim]: /review/vornheim/
 [ooms]: /review/joop-van-ooms
 [x1]: /review/isle-of-dread/
+[dod]: /review/dungeons-of-dread/

@@ -3,8 +3,8 @@ layout: bx_sheet
 system: Pahvelorn / Original
 title: Lama Karna, Level 6 Cleric
 location: Ilum Zugot
-xp: 50,273
-hp: HD 6
+xp: 64,323
+hp: HD 6 (14 HP)
 ac: 2
 THAC9: 7
 saves:
@@ -27,31 +27,43 @@ background_img: true
 
 ## Retainer
 
-* Haxeth, Level 1 Fighter
-  * STR 9, INT 15, WIS 10, DEX 11, CON 13, CHA 9
-  * Former gladiator
-  * Chain Armor, Spear, Bolas, Light Crossbow, Case With 30 Quarrels, 6 Torches, Backpack, Waterskin, 2 Week Iron Rations, 50' Rope, 11 gp
+* Haxeth, Level 2 Fighter, Former gladiator
+  * STR 9, INT 15, WIS 10, DEX 11, CON 12, CHA 9
+  * Saves: 12, 13, 14, 15, 16
+  * HD: 2
+  * Attack Rank 2: THAC9 - 7
+  * 2000 XP 
+  * Chain Armor, Spear, Bolas, 5 Torches, Backpack, Waterskin, 2 Week Iron Rations, 11 gp
+  * She has been brought back from the dead. It cost her a CON. Who knows what she has seen on the other side.
 * Torklan the Bald, Level 4 Fighter
   * STR 17, INT 14, WIS 10, DEX 7, CON 16, CHA 14
-* Drona's Servant (Level 0 Servant)
+  * Saves: 10, 11, 12, 13, 14
+  * HD: 4
+  * Attack Rank 3: THAC9 - 5
+  * 8,000 XP
+  * Plate Mail, Two-Handed Sword, Light Crossbow, Case With 30 Quarrels
+  * Magical Bow (seems to summon an arrow when drawn)
+* Drona's Servant (Level 0 Servant in Zorfath)
   * STR 10, INT 14, WIS 7, DEX 16, CON 9, CHA 11
 * Pack Ape
   * 2 Week Iron Rations
   * Waterskin
-  
+
 
 ### Equipment:
 
 * Plate Armor
 * Shield
-* Black Demon Mace
 * War Hammer
 * Backpack
 * Sling and 10 Stones
 * 10' Pole
 * Wooden Cross
 * Small Sack
-* 2563 GP
+* Talisman of Trolmun.
+* Foot long bronze nails.
+* 480 GP
+
 
 ### Turn Undead
 
@@ -73,10 +85,12 @@ background_img: true
 </tr>
 </table>
 
+
 ### Magical Research
 
 * Fear (**10,000** GP) - 100%
-* Commune with Dead (**12,562** GP) - 62%
+* Commune with Dead (**16,562** GP) - 77%
+
 
 ### Languages:
 
@@ -141,8 +155,26 @@ background_img: true
   * Spending: **9417 GP** on spell research (9417 GP on Commune with Dead), **+250 GP** on road project, **+10 GP** on retainer. (**+20049 XP**)  
 * **Pahvelorn Session #34**: \[[G+][session-34]] \[[Gus][gustie-34]]
   * The party parleys with the Dragon. They aren't interested in controlling him and would have him go on his way, but he can't allow Eriara to die lest he die as well, and is thus invested in her safety. He follows the party back to Ilum Zugot. After a long evening of spell research, Karna has a vivid dream that the demons are over-running the world, and is convinced that the party must intervene. He convinces the Priest King to change his position in regards to the demon invasion. The party then heads South to Zorfath. They talk to the Griffon King and their friendly Wizard friend, before venturing once more into Pahvelorn. The party doesn't make it past the first room. First shadow creatures take a level from Karna, and then a group of soldiers of some sort attack the party. Ginny Bo and Fitzwalter are killed during the skrimish. The party flees to Zorfath.
-  * Gains: **TODO**
-  * Spending: **+10 GP** on retainers**, **+250 GP** on road project ... **TODO**.
+  * Gains: **+389**
+  * Spending: **+10 GP** on retainers**, **+250 GP** on road project, **+5GP** on upkeep.
+* **Pahvelorn Session #35**: \[[Gus][gustie-35-36]]
+  * The party passes a strange floating rock, in some weird anti-gravity field on their way to the location of the ancient weapon. Along the path there are numerous grave markers from a long since gone militant order. They come across a giant tree marked with runes warning to "let the sleeping ones remain sleeping", a lean-to resting against it. Inside the party finds the pack of an adventurer, Audrey Belden, an adventurer from 50 years past. They confirm her name from a diary in the campsite. Continuing on to the site of the weapon, the party finds the body of who must be Audrey Belden outside the tower, frozen, missing her shoes. Entering the tower, the party does some exploration of its upper works. A book on the main floor contains a long list of names, the last of which is is Audrey Belden!
+* **Pahvelorn Session #36**: \[[Gus][gustie-35-36]]
+  * The party ventures back into the creepy tower dungeon. It continues to creep them the fuck out.
+* **Pahvelorn Session #37**:
+  * The party venture off to Trolum. On the way they encounter a group of strange crab like monsters, which they attack and defeat. The party moves on to Trollum, where they finally speak with Necromancer King after first speaking with his aid. They learn they are in search of a flute, and that a cleric is needed to descend into the depths of the tower, which he calls the Tower of Queen Orcus. Returning to this evil tower, the party decides to investigate the whistling sound they heard. A shaft covered by a grate leads down some 50'. The party traverses down to find the source of the sound: a person playing a flute, chained in a small cell. Beni yanks on the chains holding the fellow, the flute falls from his mouth. And then it all turns to shit. Escaping back up the shaft, flute in hand, the party hear the groans of undeath all around them, as skeletal hands reach up through the graveyard they find themselves in.
+* **Pahvelorn Session #38**: \[[G+][session-38]]
+  * The escape! It was epic.
+  * Gains: **+2500XP** from spending on a Wizard's tower and **+1738 GP**.
+* **Pahvelorn Session #39**:
+  * Back to Pahvelorn. Through the Lower Eastern gate once more.
+* **Pahvelorn Session #40**: \[G+][session-40]
+  * Hexeth is slain. Karna's loses his Demon Black Mace, which he loved. The party killed two wizards, so that's good.
+  * Gains: **+2055 GP** 
+  * Spending: **+1000 GP** on reviving Hexeth, and **+2000 GP** on training Hexeth in fighting, **+4000 GP** on spell research.
+* **Pahvelorn Session #41**
+  * The party meets a giant big, Fustiont. The party suspects it might be one of the bigs they left behind to feed the ants. He claims to be a god who rules over the ant.
+  
 
 
 [pahvelorn]: http://www.necropraxis.com/pahvelorn/
@@ -162,8 +194,9 @@ background_img: true
 [session-31]: https://plus.google.com/110795136999145840727/posts/iALAmahUWfK
 [session-32]: https://plus.google.com/110795136999145840727/posts/ixg4owRPh6f
 [session-33]: https://plus.google.com/110795136999145840727/posts/bwoimsREnfm
-[session-34]: /
-
+[session-34]: https://plus.google.com/110795136999145840727/posts/PYqNdGSNy9e
+[session-38]: https://plus.google.com/110795136999145840727/posts/agkUCdaysMp
+[session-40]: https://plus.google.com/110795136999145840727/posts/g7wuaNtTMn6
 
 [gustie]: http://dungeonofsigns.blogspot.ca/
 [gustie-22-23]: http://dungeonofsigns.blogspot.ca/2013/02/pahvelorn-tragedy-and-plunder.html
@@ -172,3 +205,4 @@ background_img: true
 [gustie-31-32]: http://dungeonofsigns.blogspot.ca/2013/05/on-familal-impulses-of-dragons.html
 [gustie-33]: http://dungeonofsigns.blogspot.ca/2013/06/bonfires-in-forest-pahvelorn-play.html
 [gustie-34]: http://dungeonofsigns.blogspot.ca/2013/06/the-death-of-ginny-bo-pahvelorn-play.html
+[gustie-35-36]:  http://dungeonofsigns.blogspot.ca/2013/06/beneath-tower-of-petrified-screams.html

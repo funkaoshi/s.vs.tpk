@@ -6,6 +6,7 @@ tags:
     - dccrpg
     - flgs
     - osr
+    - freerpgday
 gplus: https://plus.google.com/110118815125792309582/posts/AEpbb5f7cdp
 ---
 

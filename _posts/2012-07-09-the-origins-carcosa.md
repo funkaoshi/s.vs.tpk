@@ -10,7 +10,7 @@ tags:
 
 The author of [Carcosa][], Geoffrey McKinney, mentioned in a recent [interview][] that he published Carcosa because people on the [Dragonfoot][] forums seemed interested in the game he was running. This being the internet, we can travel back in time and look at [the first thread where McKinney starts discussing his setting and what he hopes to accomplish with it][carcosa-thread].
 
-**Updated**: In [a thread over on Original D&D Forums][carcosa-for-sale] McKinney announces that he is going to start selling a little booklet about his home campaign setting.
+In [a thread over on Original D&D Forums][carcosa-for-sale] McKinney announces that he is going to start selling a little booklet about his home campaign setting.
 
 
 [carcosa]: http://www.lotfp.com/RPG/products/carcosa

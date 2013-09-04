@@ -1,0 +1,1857 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=740, maximum-scale=1.0"/>
+
+        <title>The Kaltval</title>
+
+        <style type="text/css" media="screen">
+        body {
+            background: url("http://carcosa.totalpartykill.ca/static/ricepaper2.png")
+        }
+
+        #container {
+            width: 680px;
+            margin: 0 auto 0 auto;
+            padding: 25px;
+            font-family: 'Avenir', 'Helvetica', 'Arial';
+            font-size: 18px;
+            line-height: 24px;
+        }
+
+        #hexmap {
+            border: 3px solid #666;
+            margin-left: -3px;
+        }
+
+        #about {
+            clear:both;
+            margin-top: 1.5em;
+        }
+
+        a,
+        .hex:hover .location a.permalink {
+            color: #C65B53;
+        }
+        a {
+            font-weight: bold;
+            text-decoration: none;
+        }
+        h1, h2, h3, h4 {
+            font-family: 'Futura', 'Helvetica', 'Arial';
+            color: #8B96C7;
+            text-align: center;
+        }
+        h1 {
+            font-size: 32px;
+            margin-bottom: 1em;
+        }
+        h2 {
+            font-size: 24px;
+        }
+        p, td {
+            text-align: left;
+            margin: 0;
+        }
+        p + p {
+            text-indent: 1.5em;
+        }
+        p:first-child {
+            text-indent: 0;
+        }
+        ul {
+            padding-left: 0;
+        }
+        ul li {
+            list-style: none;
+        }
+
+        /* Hex Description */
+
+        .hex {
+            border-top: 2px solid #666;
+            margin:0; padding:2px;
+            clear: both;
+            font-size: 16px;
+        }
+        .hex .nav {
+            display: none;
+        }
+        .hex:hover span.nav {
+            display: inline;
+            margin-left: 1em;
+        }
+        .hex p {
+            text-indent: 0;
+        }
+        .hex .location {
+            float: left;
+            width: 160px;
+        }
+        .hex .location a.permalink {
+            color: black;
+        }
+        .hex .location p.location {
+            padding-top: 8px;
+            font-weight: bold;
+            font-size: 18px;
+        }
+        .hex .location p.references,
+        .hex .location p.references a {
+            font-weight: normal;
+            font-size: 14px;
+            text-align: left;
+        }
+        .hex p.description {
+            float: right;
+            padding: 6px 0;
+            width: 470px;
+        }
+        .hex p.description + p.description {
+            border-top: 2px solid #AAA;
+        }
+
+        .hex .more-info {
+            font-size: 0.8em;
+        }
+        .hex .more-info a {
+            font-weight: normal;
+        }
+
+        .hex .author {
+            display: none;
+            color: gray;
+            font-weight: bold;
+        }
+
+        .hex:hover .author {
+            display: inline;
+        }
+
+        .clear {
+            clear:both;
+        }
+
+        .footer {
+            padding-top: 10px;
+            border-top: 1px solid #ccc;
+            margin: 75px auto;
+            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+            font-size: 12px;
+            line-height: 18px;
+            color: #999;
+        }
+        .footer a {
+            color: #999;
+            font-weight: bold;
+        }
+        
+h1, h2, h3, h4 { color: #1A516A; }
+a, .hex:hover .location a.permalink { color: #6C9FA4; }
+img#hexmap { margin-left: -107px; }
+
+        </style>
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-2675737-17']);
+            _gaq.push(['_trackPageview']);
+            (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+    </head>
+
+    <body>
+    <div id="container">
+        
+<h1>The Kaltval</h1>
+
+<h2>A Map of The Kaltval</h2>
+<img id="hexmap" src="kaltval.jpg" alt="..." usemap="#hexenmap">
+
+
+
+        <h2>Hex Descriptions</h2>
+
+        
+        <div class='hex' id="0000">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0000' class='permalink'>0000</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    &#8663;
+                    <a class='bottom' href='#0101'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The redwoods here grow to over 500 feet, and over 60 feet in diameter at their bases. Due to traces of Pandemonium in the soil, no blade can cut the wood, and fire merely makes the bark laugh. Casting Stone to Flesh will (1d4) 1: Allow cutting as a normal redwood; 2-4: reflect the spell back on the caster as Petrification. Passwall, if cast on a trunk, will create a dimensional portal to another world, or dimension (each tree goes to a different world.). Using the wood from a tree to fashion a door, and then casting Petrification on it will allow it to be used as a similar portal when set in a door-frame.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0001">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0001' class='permalink'>0001</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0101'>&#8663;</a>
+                    <a class='bottom' href='#0102'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The hills are a live - no, seriously. Wayward travellers have 50% chance of being swallowed by mouths that appear on the surface, and only a save versus breath weapon/reflexes will spare them. Failure means they descend towards the digestive juices in side the hills, which disolve instantly.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0002">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0002' class='permalink'>0002</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0102'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0102'>0102</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The snow-crusted hills here leak and seep with a strange bloodly-mudded discharge.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0003">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0003' class='permalink'>0003</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0103'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A family of seven triclopsian ogrekin, led by their diabolist witch-matriarch, graze their herd of malpacas along the ridge; they do not care for visitors, and will hurl frozen dung-balls down on those who dare traverse the ravines.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0004">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0004' class='permalink'>0004</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0104'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0103'>0103</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The northern boundary of the nearby barbarian tribes, staked out with a winding wall of macabre wicker-things and rotting dismemberments. The ogrekin to the north have assumed the tasty morsels are offerings and do not stray past the boundary. Usually.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0005">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0005' class='permalink'>0005</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0105'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The surrounding cliffs of this glacial valley afford some protection and shelter, and the barbarians who camp nearby are know to let their war-caribou graze in the leafy glades and meadows.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0006">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0006' class='permalink'>0006</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0106'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                <a href='#0006' class='city-link'>MOUNT BRUNO</a>, a shrine at the summit will greatly improve your comeliness for 24hours providing a sufficient amount of human hair is offered in the sacred Blerta everflame.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0007">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0007' class='permalink'>0007</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0107'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                This mountain has a constant cold breeze blowing through it, it is rumored that an air elemental has been imprisoned here by a powerfull weather sorcerer.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0008">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0008' class='permalink'>0008</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0108'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                There is a cave network in this mountain that houses a clan of kobolds who worship a power-armoured space marine in an ancient stasis pod as a god.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0009">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0009' class='permalink'>0009</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0109'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                17 Bandits, exiled criminals from <a href='#1508' class='city-link'>KALTVAL</a> (<a class='hex-link' href='#1508'>1508</a>), camp in a small cave network, hidden in a forested a valley. Currently hold D3 prisoners, and are debating cannibalism, ransom and/or sacrifice.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0010">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0010' class='permalink'>0010</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0110'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The feathers of the great eagles whose aeries dot these high peaks are of immense spiritual value to the barbarians, but only if taken from a living bird. Somehow, the barbarian shamans can tell the difference...
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0011">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0011' class='permalink'>0011</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0111'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A party of 3d6 dwarves from <a href='#0802' class='city-link'>GEARING</a> prospects for Pandemonium in these hills. One of them is a doppelgänger who is anxious to get away from his unwitting hosts and will see any incautious passersby as likely targets.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0012">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0012' class='permalink'>0012</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0112'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                <a href='#0012' class='city-link'>MOUNT LURUN</a> - a tall, long-dead cinder cone. A thick mantle of snow covers its slopes, but in caverns deep within, hot springs bubble away. Mistress Alara operates a bathhouse and sauna in a longhouse at the base of the mountain. Baths are 10 coppers per hour alone, or 50 coppers per hour with one of Alara's professional bath-givers.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0013">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0013' class='permalink'>0013</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0113'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A nice long river can be found in this area, it is quite serene on its banks and the water in it never freezes. This is because the water has a much higher salt content then any of the closest oceans.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0014">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0014' class='permalink'>0014</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0114'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                -
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0016">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0016' class='permalink'>0016</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0116'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Many feel this barren wasteland of rocky sand would be unable to sustain life. However, just beneath the sand, a community of halflings have taken root. Surviving off of their farming of lichen and underground feral sand worms, the halflings have created a thriving community of about 400 souls.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0017">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0017' class='permalink'>0017</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0117'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A band of Ice Lizardmen believe the thermal vent near this mountain's peak will give their priests oracular powers if they can breathe in the fumes. A herd of Yak-men control the heights however and roll giant snowballs down on anyone they see trying to ascend.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0018">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0018' class='permalink'>0018</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0118'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                <a href='#0018' class='city-link'>MOUNT SLYZZMERAKKA</a> is a holy place for the Ice Lizardmen of the region. Three temples (to the gods of Prey, Storms and Afterlife) are neutral territory for the tribes in the region. Apostates and non-Lizardmen who trespass into the temples will be hunted relentlessly.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0019">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0019' class='permalink'>0019</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0119'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Actually a frozen wave (size of mountain). The water god that summoned it is said to be sleeping inside.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0020">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0020' class='permalink'>0020</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0120'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The peak of this mountain holds a small flower that grows only at this particular place. It is said that the fragrance of the flower could drive any creature to madness.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0100">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0100' class='permalink'>0100</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    &#8663;
+                    <a class='bottom' href='#0200'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The edge of this forested valley is very dense and ends abruptly at the face of the mountain. It is said strange wolf-men hide in the shadows of the trees. The supple wood of the steelepines here are treasured by bowyers.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0101">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0101' class='permalink'>0101</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    &#8663;
+                    <a class='bottom' href='#0201'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                <a href='#0101' class='city-link'>MOUNT TRACHURUS</a> This rocky crag is home to a tribe of berserkers and their specially trained, armored black bears.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0102">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0102' class='permalink'>0102</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0201'>&#8663;</a>
+                    <a class='bottom' href='#0202'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The bloody-mudded discharge from <a class='hex-link' href='#0002'>0002</a> collects in a valley between those hills and a snow-capped mountain. Florescent fungus grows where the snow runoff meets the blood-mud, and occasionally forms creatures shaped like bad memories of men or beasts, wailing in pain or stalking travelers with a low mad cunning.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0103">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0103' class='permalink'>0103</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0202'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Travelers emerge from here with no memory of passage but repetitive swaying plants. Once clear, they will notice strange wounds and possessions gone, rearranged, in a companion's pack, or replaced with odd items of unknown purpose. The Barbarians from <a class='hex-link' href='#0004'>0004</a> and <a class='hex-link' href='#0104'>0104</a> send youths into this area as a coming of age rite.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0104">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0104' class='permalink'>0104</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0203'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0103'>0103</a>, <a class='hex-link' href='#0110'>0110</a>, <a class='hex-link' href='#0205'>0205</a>, <a class='hex-link' href='#1318'>1318</a>, <a class='hex-link' href='#1903'>1903</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                <a href='#0104' class='city-link'>GRIMMROBE VILLAGE</a> - Home of the Barbarian Tribe of Korelath. 400 barbarian warriors, 20 champions, 1 shamanka, 8 elders. Hidden within the village is a secret blood cult of 12 werewolves. Only the shamanka knows which of the warriors are the lycanthopes.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0105">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0105' class='permalink'>0105</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0204'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                These woods are often inhabited by great herds of caribou, and can be easily tracked as they migrate up through Hex <a class='hex-link' href='#0106'>0106</a>. The local barbarians often hunt the beasts in gangs of 1d6+2. The caribou dung can also be collected and makes for an excellent fuel.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0106">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0106' class='permalink'>0106</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0205'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0105'>0105</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Within this hilly pass is a deep ice cave in which there lives a fearsome Wampa. The beast lives off the herds of caribou and is a most efficient hunter. It will not shy from attacking anything that looks like a good meal. If anyone is to search the monsters ice cave they can find 2xD20 gold teeth inside a huge pile of Wampa shit and also a +2 Flaming Longsword imbedded in a snowdrift.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0107">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0107' class='permalink'>0107</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0206'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Within a clearing in the woods, there is a circle of standing stones. During the first night of the Hunter's Moon, a white fox will appear in the stones. If someone feeds the fox a dish of cream mixed with seven drops of their own blood, the fox will transform into a white-haired woman who will offer three wishes in exchange for the instant death of three people within a 100 mile radius.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0108">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0108' class='permalink'>0108</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0207'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A crazy treant high on sap wielding two smaller trees as weapons.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0109">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0109' class='permalink'>0109</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0208'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                These frozen hills conceal a hidden Ice Troll lair. Within his lair are all manner of treasure stolen from caravans and wayward travelers.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0110">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0110' class='permalink'>0110</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0209'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                This forest grows on the site of the ancient clan blood battle that split the barbarians of <a class='hex-link' href='#0104'>0104</a> and <a class='hex-link' href='#0309'>0309</a> into separate tribes. Now it is a holy site for both tribes to reflect and commune with the dead. A small band of Axalotlic Kobolds from the east have begun tricking the barbarians into leaving offerings by hiding in the trees and pretending to be ghosts.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0111">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0111' class='permalink'>0111</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0210'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                These hills are riddled with old Pandemonium mines, considered tapped out by the Dwarves of <a href='#0802' class='city-link'>GEARING</a>. A warren of Lizardines has made them its home and will fiercely attack anyone venturing into the icy mines.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0112">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0112' class='permalink'>0112</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0211'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0213'>0213</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The foul, beaked prophet of an ancient sauropsid evil lies frozen in a tomb beneath the glacier here. The inexorable movements of the ice have carved away most of the stone and iron chambers surrounding the tomb, which contain treasure and chaotic varanis and corvid entities.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0113">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0113' class='permalink'>0113</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0212'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Some if the forested hills here are covered in what appear to be shining black scales. They were long thought to be alive until the mining operations began and the gold started pouring out.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0114">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0114' class='permalink'>0114</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0213'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A ring of seven icy hills surround a lake of boiling water. Steam mephits attempt to fuck then drown most any humanoid that enters area (after spreading rumors of great treasure in the lake's depths of course)
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0115">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0115' class='permalink'>0115</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0214'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0216'>0216</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A mile wide and half as high wall of broken ice tumbles down and melts into the lake at <a class='hex-link' href='#0215'>0215</a> - <a class='hex-link' href='#0314'>0314</a>. Sometimes the face of the glacier cracks wide enough to reveal low river tunnels that run beneath it, which are said to lead to a frozen city trapped in ice.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0116">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0116' class='permalink'>0116</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0215'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0216'>0216</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The glacier is riddled with cracks and crevasses and terribly dangerous to navigate. On moonless nights a faint glow emanates from the deepest cuts, and an echo of merriment and laughter can be heard.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0117">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0117' class='permalink'>0117</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0216'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0118'>0118</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                <a href='#0117' class='city-link'>THE BASTION</a>. A huge knuckle of black granite towers over the surrounding glacial plains, and is considered prize territory by the dragons that lurk in these frozen mountains. Its ownership is currently under dispute by three of the beasts from surrounding mountains, and they are often in open combat above its peaks.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0118">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0118' class='permalink'>0118</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0217'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                This area of mountain has been throughly ruined by the battling from <a class='hex-link' href='#0117'>0117</a> spilling over into it. There are quite a few skeletal remians and some frozen solid remians too.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0119">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0119' class='permalink'>0119</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0218'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                These craggy basalt towers are home to an ancient palace ruled by Druhir the Frost Giant and his pet White Dragons.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0120">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0120' class='permalink'>0120</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0219'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A giant cone birthday hat rests here, 10 miles wide and stretching up toward the sky. It is striped in wide spiral bands of green, purple and red. From the snow covered peak a quarter mile wide pair of silver ribbons trail down the eastern face.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0200">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0200' class='permalink'>0200</a>
+                    <span class='nav'>
+                    &#8662;
+                    <a class='bottom' href='#0100'>&#8665;</a>
+                    &#8663;
+                    <a class='bottom' href='#0301'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The hermit-wizard Kringalor dwells here in an isolated workshop where a dozen ice elves assist him in the creation of ingenious mechanical devices. Outwardly jovial, Kringalor is in fact paranoid and cruel; many innocent travellers who've incurred his wrath now wander the forest, polymorphed into deer.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0201">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0201' class='permalink'>0201</a>
+                    <span class='nav'>
+                    <a class='top' href='#0101'>&#8662;</a>
+                    <a class='bottom' href='#0101'>&#8665;</a>
+                    <a class='top' href='#0301'>&#8663;</a>
+                    <a class='bottom' href='#0302'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A lone huntsman has set up camp here; the barbarian tribes to the south like to trade with him for his deer steaks are delicious.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0202">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0202' class='permalink'>0202</a>
+                    <span class='nav'>
+                    <a class='top' href='#0102'>&#8662;</a>
+                    <a class='bottom' href='#0102'>&#8665;</a>
+                    <a class='top' href='#0302'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A small clan of naiads raise giant otters, feeding them silver muck from the bottom of the lake here. Eating the stuff makes the otters far stronger, smarter and more loyal (causing them to be prized as caravan guards) than their normal giant counterparts, but if fed too much, they tend to grow extra appendages (like tentacles or scythes) and go raving mad, at which point they are sold to barbarian tribes as arena terrors.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0203">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0203' class='permalink'>0203</a>
+                    <span class='nav'>
+                    <a class='top' href='#0103'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0303'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                While the whole lake freezes over in winter, here the ice rarely if ever thaws even in the heights of summer. Those foolish enough to risk a quick dip emerge to find themselves coated in rapidly freezing shell of ice. A number of frozen figures, can be found just beyond the edge of the adjacent woods.<br />
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0204">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0204' class='permalink'>0204</a>
+                    <span class='nav'>
+                    <a class='top' href='#0104'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0304'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                -
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0205">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0205' class='permalink'>0205</a>
+                    <span class='nav'>
+                    <a class='top' href='#0105'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0305'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A small forest that shields <a href='#0104' class='city-link'>GRIMMROBE VILLAGE</a> to the northwest tapers into ragged hills. In those hills lies a secret cave complex that serves as a refuge for the werewolves of Grimmrobe. In the furthest depths of the caverns, strange demonic effigies stand guard over a sealed stone portal.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0206">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0206' class='permalink'>0206</a>
+                    <span class='nav'>
+                    <a class='top' href='#0106'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0306'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Black feathered screamo harpies live in the forested hills here. Their plumage drips tar and the musical instruments they make from the bones of their meals are of legendary quality.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0207">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0207' class='permalink'>0207</a>
+                    <span class='nav'>
+                    <a class='top' href='#0107'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0307'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                -
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0208">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0208' class='permalink'>0208</a>
+                    <span class='nav'>
+                    <a class='top' href='#0108'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0308'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The players find a clearing in the woods here, where some players are playing an acting game and quite irate at the director. The performance is called New Feierland, and any group that watches will have a random member die from a horrid death unless they save. Despite this, it is quite enjoyable.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0209">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0209' class='permalink'>0209</a>
+                    <span class='nav'>
+                    <a class='top' href='#0109'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0309'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A tribe of ice trolls froze to death here. If thawed, they will revive, hungry and rapacious. A group of refugee lumberjacks are dismembering them and selling them as campfire fuel.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0210">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0210' class='permalink'>0210</a>
+                    <span class='nav'>
+                    <a class='top' href='#0110'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0310'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A dragon graveyard. White ribs clutch the sky, speckled with giant corpse fleas. Carrion worms mulch the earth, and diseased lepers search the decay for jewelled scales.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0213">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0213' class='permalink'>0213</a>
+                    <span class='nav'>
+                    <a class='top' href='#0113'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0313'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Entombed of a hill of black ice and white steel lies the body of the frigidian lizardine inquisitor, who slew the corvid prophet entombed in Hex <a class='hex-link' href='#0112'>0112</a>. Even in death, he guards the heretic he opposed in life. Each tomb holds the secrets of the other.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0214">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0214' class='permalink'>0214</a>
+                    <span class='nav'>
+                    <a class='top' href='#0114'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0314'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Amid the sulfurous hot-springs of this mountain lies the axolotlic kobold village of <a href='#0214' class='city-link'>HYUR-KEN-KEN</a>. Inquisitive and murderous, these pale kobolds are protected by their &quot;slumbering god&quot;: the icy and decapitated head of an elder dragon. Their enemies suffer the gelid wrath that emanates from the cold tonnage of the elder wyrm's dying brain.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0216">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0216' class='permalink'>0216</a>
+                    <span class='nav'>
+                    <a class='top' href='#0116'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0316'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                This hex is marked by an almost perfectly flat sheet of ice with an constant incline (down = west). A dropped stone might conceivably slide for miles westward into Hex <a class='hex-link' href='#0115'>0115</a> or <a class='hex-link' href='#0116'>0116</a>.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0217">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0217' class='permalink'>0217</a>
+                    <span class='nav'>
+                    <a class='top' href='#0117'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0317'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The broken remnants of an axlotlic kobold army wanders, starving and destitute. They cannot find their enemy. They cannot find their home or allies.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0309">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0309' class='permalink'>0309</a>
+                    <span class='nav'>
+                    <a class='top' href='#0208'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0408'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0110'>0110</a>, <a class='hex-link' href='#1318'>1318</a>, <a class='hex-link' href='#1903'>1903</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Barbarians (temporary)
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0802">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0802' class='permalink'>0802</a>
+                    <span class='nav'>
+                    <a class='top' href='#0702'>&#8662;</a>
+                    <a class='bottom' href='#0702'>&#8665;</a>
+                    <a class='top' href='#0902'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0011'>0011</a>, <a class='hex-link' href='#0111'>0111</a>, <a class='hex-link' href='#1318'>1318</a>, <a class='hex-link' href='#1903'>1903</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                <a href='#0802' class='city-link'>GEARING</a> a Dwarven mine for precious Pandemonium. (temporary)
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1010">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1010' class='permalink'>1010</a>
+                    <span class='nav'>
+                    <a class='top' href='#0910'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#1110'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The black dragon that laired in the ruins here has recently been slain. (temporary)
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1314">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1314' class='permalink'>1314</a>
+                    <span class='nav'>
+                    <a class='top' href='#1213'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#1413'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A high mountain pass with the frozen remains of a settler caravan, trapped and fallen to cannibalism. 3 ghouls lurk within the remains of wagons and frigid bones.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1318">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1318' class='permalink'>1318</a>
+                    <span class='nav'>
+                    <a class='top' href='#1217'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#1417'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#1903'>1903</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The Kaltvalians guard their lands at a watchtower (also <a class='hex-link' href='#1903'>1903</a>) from the depredations of the barbarians (<a class='hex-link' href='#0104'>0104</a> and <a class='hex-link' href='#0309'>0309</a>) and from the far worse creatures that linger in the mountains and glaciers, and maintain trade with the dwarves of <a href='#0802' class='city-link'>GEARING</a> (<a class='hex-link' href='#0802'>0802</a>) who mine for precious Pandemonium. (temporary)
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1406">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1406' class='permalink'>1406</a>
+                    <span class='nav'>
+                    <a class='top' href='#1306'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#1506'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Woodsman's village (temporary)
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1508">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1508' class='permalink'>1508</a>
+                    <span class='nav'>
+                    <a class='top' href='#1407'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#1607'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0009'>0009</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                <a href='#1508' class='city-link'>KALTVAL</a> Civilization lingers in this town. (temporary)
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1614">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1614' class='permalink'>1614</a>
+                    <span class='nav'>
+                    <a class='top' href='#1514'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#1714'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Woodsman's village (temporary)
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1809">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1809' class='permalink'>1809</a>
+                    <span class='nav'>
+                    <a class='top' href='#1709'>&#8662;</a>
+                    &#8665;
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Woodsman's village (temporary)
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1817">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1817' class='permalink'>1817</a>
+                    <span class='nav'>
+                    <a class='top' href='#1717'>&#8662;</a>
+                    &#8665;
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Woodsman's village (temporary)
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1903">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1903' class='permalink'>1903</a>
+                    <span class='nav'>
+                    <a class='top' href='#1802'>&#8662;</a>
+                    &#8665;
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#1318'>1318</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The Kaltvalians guard their lands at a watchtower (also <a class='hex-link' href='#1318'>1318</a>) from the depredations of the barbarians (<a class='hex-link' href='#0104'>0104</a> and <a class='hex-link' href='#0309'>0309</a>) and from the far worse creatures that linger in the mountains and glaciers, and maintain trade with the dwarves of <a href='#0802' class='city-link'>GEARING</a> (<a class='hex-link' href='#0802'>0802</a>) who mine for precious Pandemonium. (temporary)
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+
+        
+<div id="about" class="write-up">
+    <h2>About this Project</h2>
+    <p>Another day another hexcrawl. As always these are a community effort. <a href="https://plus.google.com/112721851706837901923/about">Ben Hannigan</a>, who did a fantastic job editing <a href="http://save.vs.totalpartykill.ca/grab-bag/kraal/">The Kraal's</a> source material, wrote a script to automate the process of taking a Google+ thread and turning it into a Google Doc. As before, a bunch of <a href="https://github.com/funkaoshi/hexenbracken">Python code</a> then takes that Google Doc and makes the page you see.</p>
+    <p>A big thank you to <a href="http://gibletblizzard.blogspot.com/">Jez Gordan</a> for <a href="https://plus.google.com/118026322016597085304/posts/Jh9qj16KvWH">organizing</a> and to all the contributors: Ben Hannigan (11), Jez Gordon (8), Ben Djarum (7), Arnold K. (6), Jacob Hurst (4), Joey Lindsey (4), Michael Currie (3), Reece Carter (3), Mak H (3), Jensan Thuresson (2), Craig Brasco (2), Brock Cusick (2), Trent B (2), David Rollins (1), Reynaldo Madriñan (1), matt jackson (1), Evan Edwards (1), Claytonian JP (1), trey causey (1), Nadav Ben Dov (1), Ramanan S (1), Erik Jensen (1), Pearce Shea (1).
+    </p>
+</div>
+
+        <div class="clear"></div>
+        <div class="footer">
+            <p>
+            This site was created by <a href="http://funkaoshi.com/">Ramanan Sivaranjan</a>. If you like this site, you might also enjoy my D&amp;D blog, <a href="http://save.vs.totalpartykill.ca/">Save vs. Total Party Kill</a>.
+            </p>
+        </div>
+    </div>
+    </body>
+</html>

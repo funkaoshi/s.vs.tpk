@@ -12,7 +12,7 @@ It's been a few months since [I last wrote about Kickstarter][ks]: I thought I s
 
 I'm still waiting for quite a few projects. The two other [LotFP][] projects I backed are still outstanding. It sounds like the [Rules and Magic][10] book is on the cusp of being shipped. Updates aren't as frequent as I like, but it sounds like there is good progress being made on most of the projects. Some of the [modules I backed][7] sound like they are shaping up to be quite great. [The Seclusium of Orphone][baker] went from being a 32 page booklet to a 160 page hard cover book! [Dwimmermount][13] looks like it might actually be finished before the year is out. The goal is to get the version I backed out by [Gencon][8]. The recent updates on the project sound both interesting and promising.
 
-I have so much stuff outstanding from [Brave Halfling Publishing][bhp] in addition to the [Appendix N Adventure Toolkits][6]. The man behind the project has had a very hard year, so I find it hard to get worked up about, but i'm not sure I'd have backed this project or bought anything in hindsight. [Champions of Zed][9] continues to be the most lacking of all the projects I've backed, though [Machinations of the Space Princess][4] has also had some pretty lackluster communication about what's been going on.
+I have so much stuff outstanding from [Brave Halfling Publishing][bhp] in addition to the [Appendix N Adventure Toolkits][6]. The man behind the project has had a very hard year, so I find it hard to get worked up about, but i'm not sure I'd have backed this project or bought anything in hindsight. [Champions of Zed][9] continues to be the most lacking of all the projects I've backed, though [Machinations of the Space Princess][4] has also had some pretty lackluster communication about what's been going on. (**Update 2013-06-19** A few days after posting this I got a PDF in the mail for Machinations of the Space Princess, so that's that.)
 
 I have backed one new project since my last post, [Domains at War][0], which are rules for running a war game. Learning from their past mistakes with Kickstarter projects, it looks like [Autarch][] went into this Kickstarter with the manuscript for their book almost complete and play tested. They are estimating the book will ship in October, and I almost believe them.
 
@@ -23,7 +23,7 @@ I have backed one new project since my last post, [Domains at War][0], which are
 | 1  | [LotFP 2013 Free RPG Day Adventure][1]          | February 2013   | Partially
 | 2  | [Spears of Dawn][2]                             | November 2012   | **Yes!**
 | 3  | [The Art of Brom][3]                            | October 2012    | No
-| 4  | [Machinations of the Space Princess][4]         | September 2012  | No
+| 4  | [Machinations of the Space Princess][4]         | September 2012  | **Yes!**
 | 5  | [Crawlers Companion for All][5]                 | July 2012       | **Yes!**
 | 6  | [Appendix N Adventure Toolkits][6]              | July 2012       | Hells No!
 | 7  | [LotFP Summer Adventure Campaign][7]            | July 2012       | Hells No!
