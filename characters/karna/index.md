@@ -2,8 +2,8 @@
 layout: bx_sheet
 system: Pahvelorn / Original
 title: Lama Karna, Level 6 Cleric
-location: Ilum Zugot
-xp: 64,323
+location: Zorfath
+xp: 69,573
 hp: HD 6 (14 HP)
 ac: 2
 THAC9: 7
@@ -42,7 +42,6 @@ background_img: true
   * Attack Rank 3: THAC9 - 5
   * 8,000 XP
   * Plate Mail, Two-Handed Sword, Light Crossbow, Case With 30 Quarrels
-  * Magical Bow (seems to summon an arrow when drawn)
 * Drona's Servant (Level 0 Servant in Zorfath)
   * STR 10, INT 14, WIS 7, DEX 16, CON 9, CHA 11
 * Pack Ape
@@ -62,7 +61,7 @@ background_img: true
 * Small Sack
 * Talisman of Trolmun.
 * Foot long bronze nails.
-* 480 GP
+* 940 GP
 
 
 ### Turn Undead
@@ -89,7 +88,7 @@ background_img: true
 ### Magical Research
 
 * Fear (**10,000** GP) - 100%
-* Commune with Dead (**16,562** GP) - 77%
+* Commune with Dead (**19,062** GP) - 95%
 
 
 ### Languages:
@@ -173,8 +172,12 @@ background_img: true
   * Gains: **+2055 GP** 
   * Spending: **+1000 GP** on reviving Hexeth, and **+2000 GP** on training Hexeth in fighting, **+4000 GP** on spell research.
 * **Pahvelorn Session #41**
-  * The party meets a giant big, Fustiont. The party suspects it might be one of the bigs they left behind to feed the ants. He claims to be a god who rules over the ant.
-  
+  * The party meets a giant pig, Fustion. The party suspects it might be one of the bigs they left behind to feed the ants. He claims to be a god who rules over the ant.
+  * Gains: **+460 GP**
+  * Spending: **+100 GP** on crown for Fustion.
+* **Pahvelorn Session #42**
+  * Gains: **+2500 GP**
+  * Spending: **2500 GP** researching commune with the dead. (**+5250 XP**)
 
 
 [pahvelorn]: http://www.necropraxis.com/pahvelorn/
