@@ -122,26 +122,26 @@ background_img: true
   * Once more into the barrows, the party retraces their last steps through lower levels. Exploring the level below the 'punishment room', the party discovers a crypt full of bodies. There is a small alter dedicated to some snake god, where giant flies steal Beni's hat and Darulin's magic sword. After some misadventures everything is recovered, with extra loot to boot. While exploring natural caverns Shalya, Ratling Porter, is killed by a falling boulder. **Tragedy**.
   * Gains: **13,835 GP**: holy shit.
   * Spending: 9145 GP on spell research (6000 GP Fear, 3145 GP on Commune with Dead), 5 GP upkeep, 1800 GP to train Ginny Bo (**+21,010** XP)
-* **Pahvelorn Session #25**  \[[G+][session-25]] \[[Gus][gustie-24-27]]
+* **Pahvelorn Session #25**:  \[[G+][session-25]] \[[Gus][gustie-24-27]]
   * The party takes a break from dungeoneering to clear a road! On the way they come across a group of giants attacking a farm house. There is some killing, but they manage to subdue the last of the giants Margosk. An agreement is made between the players and the giant. Each player carves a bell in their arm, to commemorate the occasion. After making sure the farmstead is safe and secure, the party continues their journey. Making camp in the ruins of a guard tower over looking a small river, the party encounters ...
-* **Pahvelorn Session #26**  \[[G+][session-26]] \[[Gus][gustie-24-27]]
+* **Pahvelorn Session #26**:  \[[G+][session-26]] \[[Gus][gustie-24-27]]
   * ... bandits! They attack the party, but are quickly overwhelmed. (**+900 XP** for the fight.) They interrogate the group, and learn they serve a fellow that worships the evil purple worms of the under dark. The party makes captives of the lot of them. The next day they continue their trek towards Gosmermorul. The party arrives at the fantastic city at night. They party with their captives. The following day they meet up with the leader of the city, a teenager, and discuss their plans for building a road between Ilum Zugot and Gosmermorul. It is agreed that some sort of arrangement will be made, though specifics aren't decided on. The following day the party ventures out to inspect a boat stuck in a tree, that one of their captives mentioned to them. As they make their way they, they discover the town leader--the Hegemon--has followed them! He is bored and wants to join the party.
   * Spells: Cure Light Wounds x 2; Bless, Hold Person; Continual Light; Sticks to Snakes.
   * Gains: **+342 GP**
   * Spending: **50 GP** on the inn; **5 GP** on upkeep.
-* **Pahvelorn Session #27**  \[[G+][session-27]]  \[[Gus][gustie-24-27]]
+* **Pahvelorn Session #27**:  \[[G+][session-27]]  \[[Gus][gustie-24-27]]
   * The party investigates the boat in a tree. It's 100' feet, and probably just as high up. Beni climbs a rope to take a look, and is swarmed by 4 spiders. The party makes short work of them, thanks to some Sticks to Snakes. While deciding what to do next, and cautious investigation, a mother-fucking wyvern flies down and attacks. Luckily, the demon knife that the party has been hanging on to for weeks is put to good use, destroying the beast in one hit. The party climbs up to investigate the ship. Tarvice uses Speak with Animals to negotiate with the spiders, asking them to leave us alone. They had no love for the Wyvern living in their boat, so they oblige. Inside the boat is treasure and evil statues the clerics quickly destroy. Sadly, Darulin goes insane upon looking at their visage. The boat explored and a wyvern killed, the party heads back to town.
   * The next day the party decides to harass the cultists. The bandit they turned leads them to their hide out. After some ultraviolence the party heads back to town with a knocked out cultist, leaving behind dead cultists and bandits. They mark the bodies and trees with the symbol of the snake cult, to confuse these cultists.
   * Gains: **+796GP**
   * Spending: **5 GP** on upkeep, **50 GP** on inn;
-* **Pahvelorn Session #28** \[[Gus][gustie-28-30]]
+* **Pahvelorn Session #28**: \[[Gus][gustie-28-30]]
   * A raid on the cultists goes awry, with the party ambushing a watch tower only to be ambushed themselves by returning bandits. Many magical weapons are used to aid in the destruction of evil cultists, and the party survives another day with only one casualty: a woodsmen was eaten by a giant worm. The party plans to attack the cultists compound itself. ...
-* **Pahvelorn Session #29** \[[G+][session-29]] \[[Gus][gustie-28-30]]
+* **Pahvelorn Session #29**: \[[G+][session-29]] \[[Gus][gustie-28-30]]
   * The party decides to take out the cultists, once and for all. After a short rest to catch their breath, the party storms the temple. Eriara summons a phantasmal force to scare the remaining cultists. Breaching their defenses Darulin uses the magical crossbow to destroy the last remaining guards in front of the cultist's temple. The party then ventures up the step pyramid and into the temple via an alternate entrance. Much adventure is had within, including the capture of the presumed leader of the cult. ...
-* **Pahvelorn Session #30** \[[G+][session-30]] \[[Gus][gustie-28-30]]
+* **Pahvelorn Session #30**: \[[G+][session-30]] \[[Gus][gustie-28-30]]
   * The party enter a room where a worm like creature is being constructed. There is some ultraviolence. There are demons. It was emotional. Back in town, the party are accosted by people looking for Satyavati! They are from his home town, hoping to recruit the Order of Gavin to retrieve a magical item. The party aren't too keen on helping the necromancer, just yet, so Beni just steals the map to the location. Sneaky.
   * Gains: **++1800 XP** from killing monsters, **+3800 GP** 
-* **Pahvelorn Session #31** \[[G+][session-31]] \[[Gus][gustie-31-32]]
+* **Pahvelorn Session #31**: \[[G+][session-31]] \[[Gus][gustie-31-32]]
   * There is much negotiation with the priest king, and construction of the road is arranged. The party heads South towards their former home town Zorfath. Along the way the party encounter some creepy flying demons. Once they arrive at Zorfath they learn the town has been taken over by the Griffon King and the Snake Cult. The party sells their Black Demon armor. Eriara learns she's been charmed by a purple worm since destroying the ziggurat. She is now its willing familiar. Asking the sage for information about the Wyvern eggs and their other junk. The party ventures off to find mushrooms for the sage. In doing so they also find a dragon: which they kill!
   * Gains: **+4238 GP**
   * Spending: **250 GP** on road project, **25 GP** on Pack Ape, **10 GP** on retainers.
@@ -171,13 +171,16 @@ background_img: true
   * Hexeth is slain. Karna's loses his Demon Black Mace, which he loved. The party killed two wizards, so that's good.
   * Gains: **+2055 GP** 
   * Spending: **+1000 GP** on reviving Hexeth, and **+2000 GP** on training Hexeth in fighting, **+4000 GP** on spell research.
-* **Pahvelorn Session #41**
+* **Pahvelorn Session #41**:
   * The party meets a giant pig, Fustion. The party suspects it might be one of the bigs they left behind to feed the ants. He claims to be a god who rules over the ant.
   * Gains: **+460 GP**
   * Spending: **+100 GP** on crown for Fustion.
 * **Pahvelorn Session #42**
+  * TODO
   * Gains: **+2500 GP**
   * Spending: **2500 GP** researching commune with the dead. (**+5250 XP**)
+* **Pahvelorn Session #43**
+  * TODO
 
 
 [pahvelorn]: http://www.necropraxis.com/pahvelorn/
