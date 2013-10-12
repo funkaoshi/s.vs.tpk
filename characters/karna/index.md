@@ -3,7 +3,7 @@ layout: bx_sheet
 system: Pahvelorn / Original
 title: Lama Karna, Level 6 Cleric
 location: Zorfath
-xp: 69,573
+xp: 78,023
 hp: HD 6 (14 HP)
 ac: 2
 THAC9: 7
@@ -27,13 +27,13 @@ background_img: true
 
 ## Retainer
 
-* Haxeth, Level 2 Fighter, Former gladiator
+* Haxeth, Level 3 Fighter, Former gladiator
   * STR 9, INT 15, WIS 10, DEX 11, CON 12, CHA 9
-  * Saves: 12, 13, 14, 15, 16
+  * Saves: 10, 11, 12, 13, 14
   * HD: 2
-  * Attack Rank 2: THAC9 - 7
+  * Attack Rank 3: THAC9 - 5
   * 2000 XP 
-  * Chain Armor, Spear, Bolas, 5 Torches, Backpack, Waterskin, 2 Week Iron Rations, 11 gp
+  * Plate Armor, Spear, Bolas, 5 Torches, Backpack, Waterskin, 2 Week Iron Rations, Cloak from Pahvelorn Castle
   * She has been brought back from the dead. It cost her a CON. Who knows what she has seen on the other side.
 * Torklan the Bald, Level 4 Fighter
   * STR 17, INT 14, WIS 10, DEX 7, CON 16, CHA 14
@@ -41,7 +41,7 @@ background_img: true
   * HD: 4
   * Attack Rank 3: THAC9 - 5
   * 8,000 XP
-  * Plate Mail, Two-Handed Sword, Light Crossbow, Case With 30 Quarrels
+  * Plate Mail, Two-Handed Sword, Light Crossbow, Case With 30 Quarrels, Cloak from Pahvelorn Castle
 * Drona's Servant (Level 0 Servant in Zorfath)
   * STR 10, INT 14, WIS 7, DEX 16, CON 9, CHA 11
 * Pack Ape
@@ -53,6 +53,7 @@ background_img: true
 
 * Plate Armor
 * Shield
+* Cloak from Pahvelorn Castle
 * War Hammer
 * Backpack
 * Sling and 10 Stones
@@ -61,7 +62,7 @@ background_img: true
 * Small Sack
 * Talisman of Trolmun.
 * Foot long bronze nails.
-* 940 GP
+* 4002 GP
 
 
 ### Turn Undead
@@ -88,8 +89,7 @@ background_img: true
 ### Magical Research
 
 * Fear (**10,000** GP) - 100%
-* Commune with Dead (**19,062** GP) - 95%
-
+* Commune with Dead (**20,000** GP) - 100%
 
 ### Languages:
 
@@ -170,7 +170,7 @@ background_img: true
 * **Pahvelorn Session #40**: \[G+][session-40]
   * Hexeth is slain. Karna's loses his Demon Black Mace, which he loved. The party killed two wizards, so that's good.
   * Gains: **+2055 GP** 
-  * Spending: **+1000 GP** on reviving Hexeth, and **+2000 GP** on training Hexeth in fighting, **+4000 GP** on spell research.
+  * Spending: **+1000 GP** on reviving Hexeth, and **+4000 GP** on training Hexeth in fighting, **+4000 GP** on spell research.
 * **Pahvelorn Session #41**:
   * The party meets a giant pig, Fustion. The party suspects it might be one of the bigs they left behind to feed the ants. He claims to be a god who rules over the ant.
   * Gains: **+460 GP**
@@ -180,7 +180,12 @@ background_img: true
   * Gains: **+2500 GP**
   * Spending: **2500 GP** researching commune with the dead. (**+5250 XP**)
 * **Pahvelorn Session #43**
-  * TODO
+  * Gains: **+10000 GP** from selling the platinum disk.
+  * Spending: **938 GP** on researching commune with the dead (**+1876 XP**), **4000 GP** on training Hexeth (**+4000 XP**).
+* **Pahvelorn Session #44** 
+  * The mutations from our fight with Kalia have activated. Karna's mutation is an exoskeleton made of bone, that covers his bone. The party travel up to the floating sky castle with Lortherian the Astromancer. They encounter another ship that has crashed into the castle. Near it they fight a giant plant that almost eats Ariara's retainer "cool guy". Moving on they venture into the castle, exploring its towers and courtyards. Finally they encounter the wizard Almetrabe. Karna sends him on a quest to harvest blue goop from a giant's arm they encountered.
+  * Gains: **+2,977 GP** from various loot.
+  * Spending: **TODO**
 
 
 [pahvelorn]: http://www.necropraxis.com/pahvelorn/
