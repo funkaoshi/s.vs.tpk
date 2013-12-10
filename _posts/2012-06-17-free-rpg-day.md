@@ -20,6 +20,8 @@ We managed to get through it all in about 2-3 hours of play. I felt like we acco
 
 Free RPG Day was a big success. I left Duelling Grounds with the DCC RPG module I was hoping for, a module for 4th Edition D&D from Wizards of the Coast, and a map of some fictional world called Harn. I finally got to play a game of DCC RPG, and meet a fellow DCC RPG fan. It was a good day.
 
+---
+
 **Update June 18th 2012**: [Raven Crowking shares his thoughts on Free RPG Day][10]
 
 

@@ -25,6 +25,7 @@ portrait: /assets/img/karna-by-gus-bg.jpg
 background_img: true
 ---
 
+
 ## Retainer
 
 * Haxeth, Level 3 Fighter, Former gladiator
@@ -36,15 +37,16 @@ background_img: true
   * Plate Armor, Spear, Bolas, 5 Torches, Backpack, Waterskin, 2 Week Iron Rations, Cloak from Pahvelorn Castle
   * She has been brought back from the dead. It cost her a CON. Who knows what she has seen on the other side.
 * Torklan the Bald, Level 4 Fighter
-  * STR 17, INT 14, WIS 10, DEX 7, CON 16, CHA 14
+  * STR 17, INT 14, WIS 10, DEX 7, CON 14, CHA 14
   * Saves: 10, 11, 12, 13, 14
   * HD: 4
   * Attack Rank 3: THAC9 - 5
   * 8,000 XP
   * Plate Mail, Two-Handed Sword, Light Crossbow, Case With 30 Quarrels, Cloak from Pahvelorn Castle
+  * Torklan brought back from the dead after being killed on the air ship.
 * Drona's Servant (Level 0 Servant in Zorfath)
   * STR 10, INT 14, WIS 7, DEX 16, CON 9, CHA 11
-* Pack Ape
+* Pack Ape (in Zorfath)
   * 2 Week Iron Rations
   * Waterskin
 
@@ -62,7 +64,7 @@ background_img: true
 * Small Sack
 * Talisman of Trolmun.
 * Foot long bronze nails.
-* 4002 GP
+* 2979 GP
 
 
 ### Turn Undead
@@ -186,6 +188,15 @@ background_img: true
   * The mutations from our fight with Kalia have activated. Karna's mutation is an exoskeleton made of bone, that covers his bone. The party travel up to the floating sky castle with Lortherian the Astromancer. They encounter another ship that has crashed into the castle. Near it they fight a giant plant that almost eats Ariara's retainer "cool guy". Moving on they venture into the castle, exploring its towers and courtyards. Finally they encounter the wizard Almetrabe. Karna sends him on a quest to harvest blue goop from a giant's arm they encountered.
   * Gains: **+2,977 GP** from various loot.
   * Spending: **TODO**
+* **Pahvelorn Session #45** 
+  * The party are ambushed by bird men and wyvern on their way up to the floating castle. They appear to be led by a wizard and elemental. Torklan is struck dead by a death spell! Son of a bitch. I loved that guy. The wizard is apparently Ostherna the Dark, an evil necromancer. 
+  * Spending: **4000 GP** raising Torklan back from the dead.
+* **Pahvelorn Session #46**
+  * I missed this one.
+* **Pahvelorn Session #46**
+  * The party takes the magical underground river that leads to the floating castle.
+  * Spending: **4000 GP** to raise Torklan from the dead.
+  
 
 
 [pahvelorn]: http://www.necropraxis.com/pahvelorn/

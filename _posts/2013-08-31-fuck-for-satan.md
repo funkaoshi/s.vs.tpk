@@ -22,6 +22,16 @@ A portion of the dungeon is a sort of prison for creepy monsters and I thought t
 
 _Fuck For Satan_ feels like it's trying too hard. It's supposed to be a funny fuck you to people who get worked up about the stuff James Raggi puts out. I mean, it's called "Fuck for Satan". There is a walking alien penis monster. There is a giant gay orgy. There is a monster that forces players to shit themselves, and then they have to fight their shit. The adventure feels like a parody of an LotFP adventure. I'd skip this module unless you are a collector of LotFP books. Compared to all the other recent releases from LotFP this one seems particularly weak.
 
+---
+
+**Update 2013-10-28:** This is an interesting little tidbit from James Raggi over on G+:
+
+>The Twinkly bit from Fuck For Satan, continues to get a lot of response, and I can only assume the occasional group of players sending me character sheets is indicative of the adventure being used for actual play.
+>
+> Interesting how few of them are actually using LotFP stats. :D Lots of 3.x/Pathfinder, some DCC, and then a bunch that could be whatever old D&D.
+
+Even though I feel the adventure is far more gag than functional, it is still being used in the wild. I'm curious to see how much, if at all, people tweak the adventure.
+
 
 [1]: http://lotfp.blogspot.com
 [2]: http://www.lotfp.com/store/index.php?route=product/product&product_id=176

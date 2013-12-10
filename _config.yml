@@ -14,6 +14,6 @@ exclude: ['Makefile', 'README.md', 'new.rb', 'new_post_template.md']
 tag_title_prefix: '#'
 tag_title_suffix: ''
 
-markdown: 'redcarpet'
+markdown: 'kramdown'
 redcarpet:
   extensions: ['tables', 'footnotes']

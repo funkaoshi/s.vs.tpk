@@ -7,9 +7,9 @@
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
     <link rel="icon" type="image/png" href="/assets/img/favicon.png" />
     <link rel="apple-touch-icon-precomposed" href="/assets/img/apple-touch-icon-precomposed.png" />
-    
+
     <style type="text/css" media="screen">
-        body { 
+        body {
             margin: 0;
             margin-left: 1em;
             padding: 0;
@@ -22,7 +22,7 @@
             padding-left: 389px;
             padding-top: 3em;
             padding-right: 3em;
-            padding-bottom: 10em; 
+            padding-bottom: 10em;
         }
         h1 {
             font-size: 3em;
@@ -68,78 +68,152 @@
         }
     </style>
   </head>
-  
   <body>
       <article id="text">
+          <h1 id="toc_0">Psionics <small>Beta</small></h1>
 
+<p>Some rules for psionics inspired by the specialist class from Lamentations of the Flame Princess. Suitable for any &quot;old-school&quot; Dungeons and Dragons game. This is still a work in progress. If you have any feedback please get in touch.</p>
 
-          <h1>Psionics <small>beta</small></h1>
+<h2 id="toc_1">Mindbenders</h2>
 
-          <p>Psionicists begin the game with one psionic power and one mental hit point (MHP). Psionicists gain an additional MHP when they gain a level. When Psionicists gain an <em>even</em> level they may choose an additional psionic power or choose to gain an additional MHP. Psionicists recover all their MHP after a night of rest.</p>
+<!--
+Those who have mastered both the Will and the Way are called Mindbenders. Many people in Athas have latent psionic power, so called wild talents, but few are able to harness those powers into something more.
+-->
 
-          <p>Psionicists expend 1 MHP to use one of their psionic power. Most psionic powers can be augmented by expending additional MHP when they are used: augmenting a power with more psionic energy usually increases the powers range, duration, and effects.</p>
+<p>Mindbenders are the only characters in the game with access to psionic powers. They improve in their ability to use these powers as they gain levels. Characters begin the game with X &quot;points&quot; to allocate between the various psionic powers. They gain Y more points to allocate to these powers each time they gain a level. All skills begin with no points allocated and are unusable by the Mindbender until they spend a point to learn them. Each power has an <em>x</em> in 6 chance of succeeding, where <em>x</em> is the number of points a player as allocated to the power. (Clearly no skill can have more than a 6 in 6 chance of success.)</p>
 
-          <p>All psionic powers also have a surge effect. To trigger a power's surge effect a Psionicist must expend all their MHP, and this amount must be higher than 6. Most surge effects require a saving throw to avoid some sort of detriment that occurs after the power takes effect.</p>
+<p>To use a power a player simply rolls a d6 and attempts to roll equal to or under the points allocated to the skill. The result of the die roll is called the <em>power roll</em> and is sometimes referred to in the power descriptions. Anytime a 1 is rolled that power is exhausted for the day. A Mindbender must rest for 8 hours to regain their exhausted powers.</p>
 
-          <p>A Psionicist can expend hit points to use their psionic powers as well: 1d6 HP can be converted to 1 MHP. The character is knocked out if this reduces them to 0 or less HP: they will be completely catatonic for 1d6 days.</p>
+<p>In addition to the guaranteed success that comes with allocating 6 points to a power, there is one further benefit: when a 6 is rolled while attempting to use the power the Mindbender experiences a psychic surge. Each psionic power has a surge effect, that explains what happens in this case.</p>
 
-          <p>When the target of a psionic power is another Psionicist, they may choose to expend MHP equal to the MHP spent to use the power in order to ignore the effects of the power. Both Psionicists must make a Save vs. Magic or be dazed for 1 round.</p>
+<p>Mindbender&#39;s can expend 1d6 HP to use a power they have exhausted for the day with guaranteed success, or to succeed in any failed power roll. In both cases their <em>power roll</em> will be the amount of HP they lose. The character is knocked out if this reduces them to 0 or less HP: they will be completely catatonic for 1d6 days.</p>
 
-          <h2>Psionic Powers</h2>
+<h2 id="toc_2">Wild Talents</h2>
 
-          <p>All powers last 1 turn per MHP spent and have a range of 50’ per MHP spent where appropriate, unless otherwise noted.</p>
+<p>If a character isn&#39;t playing a Mindbender, they still may have some latent psionic power. The player should roll under their Wisdom score to determine if their character has a wild psionic talent. If they succeed, the amount they succeed by determines their wild talent as follows:</p>
 
-          <div class='power'>
-              <p><strong>Telekinesis</strong> - The character moves and manipulates objects with their mind. They can move 50 lbs of weight per MHP spent. They may levitate themselves above the ground (up to 10') regardless of their weight. Any creatures targeted by this power may make a Save vs. Paralysis to avoid being moved.</p>
-              <p><strong>Surge: Disintegrate</strong> - The character rips apart their opponents with their mind: 1 HD per MHP monsters are instantly killed. Each target may make a Save vs. Death to instead take half their hit dice in damage <s></s> e.g. A 4 HD creature will take 2d6 damage if they make their saving throw. The character must make a Save vs. Magic or be knocked out after using the power.</p>
-          </div>
-          
-          <div class='power'>
-              <p><strong>Clairvoyance</strong> - The character can see through walls and over long distance. They must be able to see the location they want to divine or know of its existence. </p>
-              <p><strong>Surge: Sight Beyond Sight</strong> - The character can both see and hear any location in the world. The character must make a Save vs. Magic or be blinded for 1d6 days.</p>
-          </div>
+<table><thead>
+<tr>
+<th>d</th>
+<th>Power</th>
+</tr>
+</thead><tbody>
+<tr>
+<td>0</td>
+<td><strong>Know Direction</strong> - The character knows which way is North.</td>
+</tr>
+<tr>
+<td>1</td>
+<td><strong>Far Hearing</strong> - For one turn the character hears all sounds within 50’ as if they were being whispered directly into their ear. The character may choose what sounds to focus on.</td>
+</tr>
+<tr>
+<td>2</td>
+<td><strong>Far Seeing</strong> - For one turn the character may view a scene up to 50&#39; away as if they were right there. They may see through walls and other obstacles, but not through lead.</td>
+</tr>
+<tr>
+<td>3</td>
+<td><strong>Thought Projection</strong> - The character may communicate a brief message mentally with a creature up to 50&#39; away. The target understands the character, even if they share no common language.</td>
+</tr>
+<tr>
+<td>4</td>
+<td><strong>Object Projection</strong> - The character may teleport a small object in their possession up to 50&#39; away.</td>
+</tr>
+<tr>
+<td>5</td>
+<td><strong>Telekinetic Grasp</strong> - For one turn the character may manipulate small objects from up to 50&#39; away.</td>
+</tr>
+<tr>
+<td>6</td>
+<td><strong>Spark</strong> - The character may ignite any flammable object within 50&#39; of them. (The “heat” this power generates is no greater than that of a candle.)</td>
+</tr>
+<tr>
+<td>7</td>
+<td><strong>Levitate</strong> - For 1 turn, the character can float above the ground (up to 10&#39;).</td>
+</tr>
+<tr>
+<td>8</td>
+<td><strong>Minor ESP</strong>: For 1 turn the character may read the mind of another creature. (The character understand the creature even if they share no common language.)</td>
+</tr>
+<tr>
+<td>9</td>
+<td><strong>Cell Adjustment</strong> - The character regains up to 1d3 lost hit points. (This increases to 1d6 at level 3, 1d8 at level 6, 1d10 at level 9 and 1d12 at level 12.) The character may make a Save vs. Poison to cure themselves of any non-magical disease.</td>
+</tr>
+<tr>
+<td>10</td>
+<td><strong>&quot;Invisiblity&quot;</strong>: For 1 turn the character can completely hide his presence from up to one sentient creature per level. The target may make a Save vs. Magic to resist the character&#39;s power.</td>
+</tr>
+<tr>
+<td>11</td>
+<td><strong>Id Insituation</strong>: All sentient characters, friend or foe, within 25&#39; of the character feel an uncontrollable urge to eat, murder or fornicate.</td>
+</tr>
+<tr>
+<td>12</td>
+<td><strong>Psychic Distress</strong>: All sentient characters, friend or foe, within 25’ of the character are immobilized for 1 turn.</td>
+</tr>
+<tr>
+<td>13</td>
+<td><strong>Minor Mind Control</strong>: For 1 turn, the character may manipulate the target into doing whatever the character wants. The target will have no memory of any events that transpire while under this mind control. The target my make a Save vs. Magic to resist the mind control.</td>
+</tr>
+<tr>
+<td>14</td>
+<td><strong>Minor Precognition</strong>: The character may re-roll any saving throw.</td>
+</tr>
+<tr>
+<td>15</td>
+<td><strong>Psionic Defence</strong> - Once per day per level, the character may make a Save vs. Magic to avoid the effects of any psionic power that targets them. (This is in addition to any saving throws the power may allow for.)</td>
+</tr>
+<tr>
+<td>16</td>
+<td><strong>Psionic Immunity</strong>: The character can not be the target of any psionic power.</td>
+</tr>
+<tr>
+<td>17</td>
+<td><strong>The Haitian</strong>: no character within 10&#39; of the character, friend or foe, may use their psionic powers. The character also gains <strong>Psionic Immunity</strong>.</td>
+</tr>
+</tbody></table>
 
-          <div class='power'>
-              <p><strong>Telepathy</strong> - The character can read the minds of any creature around them and can communicate thoughts to them. If the character spends additional MHP they may also attempt to mentally control the creature. The creature may make a Save vs. Magic to avoid the mind control. By spending additional MHP the character may target more creatures at once: the number of creatures effected in Hit Dice equals the amount of MHP spent. </p>
-              <p><strong>Surge: Mind Wipe</strong> - The character leaves any creatures targeted by their telepathy completely catatonic. The number of creatures effected in Hit Dice equals the amount of MHP spent. Each creature gets a Save vs. Magic with a +1 penalty for each MHP spent. The character must make a Save vs. Magic or be knocked out after using the power.</p>
-          </div>
-          
-          <div class='power'>
-              <p><strong>Precognition</strong> - The character sees their near future. They may re-roll one of their dice rolls with a +1 bonus for each MHP spent. (This power may be used at any time during combat.)</p>
-              <p><strong>Surge: Beyond Time</strong> - The character exists beyond time and space, seeing all events unfold around them at once. Though they can never truly comprehend what they witness, they may re-roll any dice roll (theirs, another player's, or the DM's) with a +1 bonus or penalty for each MHP spent.</p>
-          </div>
-          
-          <div class='power'>
-              <p><strong>Cell Adjustment</strong> - The character is attuned to the minute processes of their body. They may recover 1d6 HP for every two MHP spent (round down).</p>
-              <p><strong>Surge: Psychometabolism</strong> - The character has perfect understanding and control of their body. They recover all their HP. They may polymorph their body into any shape and size. Creatures trying to hit the character's new form take a -1 penalty for each MHP spent. The character must make a Save vs. Poison: if they fail the saving throw they lose control over their transformation, mutating into a grotesque growing pile of human flesh and muscle. Each round thereafter they may make a Save vs. Poison to attempt to regain control of their transformation. If they fail their body doubles in size and grotesqueness.</p>
-          </div>
-          
-          <h2>Wild Talents</h2>
+<p>If they fail the roll the character has no wild talent. Instead, the character gains a bonus to all saving throws when targeted by psionic power equal to the amount they failed by.</p>
 
-          <p>Player's should roll under their Wisdom score to determine if their character has a wild psionic talent. If they fail the roll the character has no wild talent; if they succeed, the amount they succeed by determines their wild talent as follows: </p>
+<p>For example, if a character has 14 Wisdom, and rolls a 9 when checking to see if they have a psionic power, they would gain the power Telekinetic Grasp. If on the other hand they rolled a 16, they would gain a +2 bonus to all saving throws against psionic powers.</p>
 
-          <table>
-          <tr><td>0 </td><td></td></tr>
-          <tr><td>1 </td><td><strong>Far Hearing</strong> - For one turn the character hears all sounds within 50’ as if they were being whispered directly into their ear. The character may choose what sounds to focus on.</td></tr>
-          <tr><td>2 </td><td><strong>Far Seeing</strong> - For one turn the character may view a scene up to 50' away as if they were right there. They may see through walls and other obstacles, but not through lead.</td></tr>
-          <tr><td>3 </td><td><strong>Thought Projection</strong> - The character may communicate a brief message mentally with a creature up to 50' away. The target understands the character, even if they share no common language. </td></tr>
-          <tr><td>4 </td><td><strong>Object Projection</strong> - The character may teleport a small object in their possession up to 50' away.</td></tr>
-          <tr><td>5 </td><td><strong>Telekinetic Grasp</strong> - For one turn the character may manipulate small objects from up to 50' away.</td></tr>
-          <tr><td>6 </td><td><strong>Spark</strong> - The character may ignite any flammable object within 50' of them. (The “heat” this power generates is no greater than that of a candle.)</td></tr>
-          <tr><td>7 </td><td><strong>Know Direction</strong> - The character knows which way is North.</td></tr>
-          <tr><td>8 </td><td><strong>Levitate</strong> - For 1 turn, the character can float above the ground (up to 10').</td></tr>
-          <tr><td>9 </td><td><strong>Minor ESP</strong>: For 1 turn the character may read the mind of another creature. (The character understand the creature even if they share no common language.)</td></tr>
-          <tr><td>10</td><td><strong>Cell Adjustment</strong> - The character regains up to 1d3 lost hit points. (This increases to 1d6 at level 3, 1d8 at level 6, 1d10 at level 9 and 1d12 at level 12.) The character may make a Save vs. Poison to cure themselves of any non-magical disease.</td></tr>
-          <tr><td>11</td><td></td></tr>
-          <tr><td>12</td><td></td></tr>
-          <tr><td>13</td><td><strong>Psychic Distress</strong>: All sentient characters, friend or foe, within 25’ of the character are immobilized for 1 turn.</td></tr>
-          <tr><td>14</td><td><strong>Minor Mind Control</strong>: For 1 turn, the character may manipulate the target into doing whatever the character wants. The target will have no memory of any events that transpire while under this mind control. The target my make a Save vs. Magic to resist the mind control.</td></tr>
-          <tr><td>15</td><td><strong>Minor Precognition</strong>: The character may re-roll any saving throw.</td></tr>
-          <tr><td>16</td><td><strong>Psionic Immunity</strong>: The character can not be the target of any psionic power.</td></tr>
-          <tr><td>17</td><td><strong>The Haitian</strong>: no character within 10' of the character, friend or foe, may use their psionic powers. The character also gains <strong>Psionic Immunity</strong>.</td></tr>
-          </table>
-          
-          <p>A character may use their psionic power once per day. (<strong>Psionic Immunity</strong> and <strong>The Haitian</strong> are exceptions here: they are always active.)</p>
+<p>A character may use their psionic power once per day. (<strong>Psionic Immunity</strong> and <strong>The Haitian</strong> are exceptions here: they are always active.)</p>
+
+<h2 id="toc_3">Psionic Powers</h2>
+
+<h3 id="toc_4">Clairaudience</h3>
+
+<h3 id="toc_5">Clairvoyance</h3>
+
+<h3 id="toc_6">Mind Control</h3>
+
+<h3 id="toc_7">Mind Wipe</h3>
+
+<p>The character leaves any creatures targeted by their telepathy completely catatonic. The number of creatures effected in Hit Dice equals the character&#39;s level plus their power roll.</p>
+
+<h3 id="toc_8">Telekinesis</h3>
+
+<h3 id="toc_9">Telepathy</h3>
+
+<p>The character can read the minds of any creature around them and can communicate thoughts to them. The character need not share a common language with any creature he is communicating with in order to be understood.</p>
+
+<h3 id="toc_10">Precognition</h3>
+
+<p>The character sees their near future. They may re-roll one of their dice rolls with a bonus equal to their power roll. (This power may be used at any time during combat.)</p>
+
+<p><strong>Surge - Beyond Time:</strong> The character exists beyond time and space, seeing all events unfold around them at once. Though they can never truly comprehend what they witness, they may re-roll any dice roll (theirs, another player&#39;s, or the DM&#39;s) with a +6 bonus.</p>
+
+<h3 id="toc_11">Cell Adjustment</h3>
+
+<p>The character is attuned to the minute processes of their body. They may recover Xd6 HP, where X is half their power roll (round down).</p>
+
+<p><strong>Surge - Psychometabolism:</strong> The character has perfect understanding and control of their body. They recover all their HP. They may polymorph their body into any shape and size. Creatures trying to hit the character&#39;s new form take a penalty equal to the character&#39;s power roll. The character must make a Save vs. Poison: if they fail the saving throw they lose control over their transformation, mutating into a grotesque growing pile of human flesh and muscle. Each round thereafter they may make a Save vs. Poison to attempt to regain control of their transformation. If they fail their body doubles in size and grotesqueness.</p>
+
+<h3 id="toc_12">Mental Blast</h3>
+
+<p>A psionic blast of energy deals Xd6 damage to one creature, where X is the character&#39;s power roll.</p>
+
+<p><strong>Surge: Ego Whip</strong> - Chords of psionic energy deal Xd6 damage to each enemy in a 50&#39; radius around the Mindbender, where X is the character&#39;s power roll. </p>
+
       </article>
   </body>
 </html>

@@ -15,6 +15,8 @@ There is D&D the the role-playing game, and then there are all the meta-games th
 
 To be honest, I wasn't particularly interested in the book when I first heard about it. There were other adventures I had hoped would fund. The reviews for this book have been a little bit mixed[^2], but I quite like it. I own nothing else like it. I'm really glad it funded after all.
 
+---
+
 **Update 2013-08-21**: Alex Schroeder has posted [a great follow-up][9] to his [earlier review][7] on his blog. His opinions of the book now more closely mirror [Zak's][6].
 
 **Update 2013-08-23**: I got the actual book a couple days ago, and it is so damn nice in real life.

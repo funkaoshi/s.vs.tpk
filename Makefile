@@ -9,6 +9,7 @@ deploy:
 	      --exclude new.rb \
 	      /Users/ramanan/Documents/Code/s.vs.tpk/_site/ \
 	      funkaoshi.com:/home/ramanan/save.vs.totalpartykill.ca/
+	ssh ramanan@funkaoshi.com chmod 644 save.vs.totalpartykill.ca/grab-bag/synthexia/synthexia-header.gif
 
 clean:
 	rm -rf _site/*

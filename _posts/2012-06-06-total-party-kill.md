@@ -5,6 +5,7 @@ category: play-report
 tags: 
     - 4e
     - encounters
+    - tpk
 gplus: https://plus.google.com/110118815125792309582/posts/GukK4Dm2p6x    
 ---
 
