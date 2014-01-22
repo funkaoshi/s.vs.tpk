@@ -24,7 +24,7 @@ To be honest, I wasn't particularly interested in the book when I first heard ab
 
 [^1]: A seclusion being, "a place to which a wizard withdraws from the world to pursue mastery," of course.
 
-[^2]: [Wayne Rossi really didn't like it.][5] He felt it could have been put together much better. [Zak Smith seems to have enjoyed it for the most part][6], but finds it lacking in how it presents and uses random tables. [Alex Schroeder seems to share my generally positive opinion of the book.][7] Finally we have [this review by Patrick Stuart][8] in the style of the book itself.
+[^2]: [Wayne Rossi really didn't like it.][5] He felt it could have been put together much better. [Zak Smith seems to have enjoyed it for the most part][6], but finds it lacking in how it presents and uses random tables. [Alex Schroeder seems to share my generally positive opinion of the book.][7] Finally we have [this review by Patrick Stuart][8] in the style of the book itself. [10' Pole reviewed the book: they are not a fan.][10] At all.
 
 
 [1]: http://www.lotfp.com/store/index.php?route=product/product&product_id=171
@@ -36,3 +36,4 @@ To be honest, I wasn't particularly interested in the book when I first heard ab
 [7]: http://alexschroeder.ch/wiki/2013-08-06_The_Seclusium_of_Orphone_of_the_Three_Visions
 [8]: http://falsemachine.blogspot.ca/2013/08/or-another-of-your-own-creation.html
 [9]: http://alexschroeder.ch/wiki/2013-08-21_Moldvay_Dungeon_Stocking_vs._Seclusium
+[10]: http://tenfootpole.org/ironspike/?p=2311
