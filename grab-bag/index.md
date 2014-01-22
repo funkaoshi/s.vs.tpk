@@ -10,6 +10,7 @@ There is a lot of creative output on the internet. This page collects some of th
 * [My 'beta' rules for OD&D Psionics][5]
 * The infamous and notorious [PHILOTOMY’S Dungeons and Dragons Musings][6] by Jason Cone.
 * [Adam Taylor][7] giant list of spells for both [wizards][8] and [clerics][9], that you can filter by school and level. It's fantastic.
+* [Zak Smith][10] on [Storygames and the OSR][11].
 
 [1]: /grab-bag/hexenbracken/
 [2]: /grab-bag/kraal/
@@ -20,3 +21,5 @@ There is a lot of creative output on the internet. This page collects some of th
 [7]: https://plus.google.com/u/0/102353265648840654058/posts
 [8]: /grab-bag/spells/Pangean_wizard_spells.html
 [9]: /grab-bag/spells/Pangean_priest_spells.html
+[10]: http://dndwithpornstars.blogspot.com/
+[11]: /grab-bag/osr-storygames/
