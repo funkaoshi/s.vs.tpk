@@ -78,6 +78,12 @@ article hgroup p {
     color: #666;
     text-align: center;
 }
+article hgroup .preamble p {
+    margin-top: 2em;
+    text-align: left;
+    width: 75%;
+    line-height: 100%;
+}
 article hgroup p a, article hgroup p a:visited {
     color: #666;
 }

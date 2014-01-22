@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+<article>
+    <p>
+        The <a href="/grab-bag">grab bag</a> portion of this site is where I
+        republish articles and comments found within less accessible place on
+        the Internet, like social networks that are a nuisance or impossible to
+        link to. This is all stuff I think is great, that wasn't written by me,
+        that's been reposted with the original author's permission. (Usually.)
+    </p>
+    
+    <hgroup>
+        <h1>
+            <a href="{{ page.permalink }}">{{ page.title }}</a>
+        </h1>
+        <p>
+        <strong>
+        {% if page.author_url %}
+            by <a href="{{ page.author_url }}">{{ page.author }}</a>
+        {% else %}
+            by {{ page.author }}
+        {% endif %}
+        </strong>
+        </p>
+    </hgroup>
+
+    {{ content }}
+
+    {% if page.gplus %}
+    <p class="discuss">
+        <em>Add me to your circles and we can discuss post on <strong><a href="{{ page.gplus }}">on google+</a></strong>.</em>
+    </p>
+    {% endif %}
+</article>
+
+
+
