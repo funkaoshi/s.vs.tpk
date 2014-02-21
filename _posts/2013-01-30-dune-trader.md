@@ -9,7 +9,7 @@ date: 2013-01-30 11:45 PM
 gplus: https://plus.google.com/110118815125792309582/posts/UDpCVik9vUc
 ---
 
-![Dune Trader](/assets/img/dune-trader@2x.jpg)
+![Dune Trader](/assets/img/dune-trader@2X.jpg)
 
 The last of [my recent Dark Sun purchases][1] I read was [_Dune Trader_][2]. The book is a detailed look at the merchants and merchant houses of Athas. It's similar to [_Elves of Athas_][3] and _Slave Tribes_ in its overall structure: a detailed look at specific merchant houses in Athas is followed by some more general exposition on mercantile adventure.
 

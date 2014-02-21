@@ -9,7 +9,7 @@ date: 2013-01-24 12:35 PM
 gplus: https://plus.google.com/110118815125792309582/posts/brnZdRttwpZ
 ---
 
-![Elves of Athas](/assets/img/elves-of-athas@2x.jpg)
+![Elves of Athas](/assets/img/elves-of-athas@2X.jpg)
 
 [_Elves of Athas_][1] is an early supplement for the AD&D 2nd Edition setting [Dark Sun][2]. The book pulls in details from the [Troy Denning][3] Dark Sun novels to present a fuller picture of what makes Elves different on Athas from those found in other typical fantasy campaigns. Most of the book is what people refer to as [fluff][4]: setting description and flourish. As such it can be used with a variety of rule sets beyond 2nd Edition.
 
