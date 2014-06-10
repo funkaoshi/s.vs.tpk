@@ -1,7 +1,7 @@
 title: Save vs. Total Party Kill
 author: Ramanan Sivaranjan
 
-pygments: false
+highlighter: false
 
 permalink: /:categories/:title/
 
@@ -15,5 +15,3 @@ tag_title_prefix: '#'
 tag_title_suffix: ''
 
 markdown: 'kramdown'
-redcarpet:
-  extensions: ['tables', 'footnotes']

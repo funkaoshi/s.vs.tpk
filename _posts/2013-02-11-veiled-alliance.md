@@ -21,7 +21,7 @@ One thing that makes this book interesting is that it expands on the information
 On the whole Veiled Alliance just isn't very good. It's definitely the weakest of these four splat books. All of these books have been overly verbose, but this one really does feel like it is mostly filler with all the tangential information about the city-states. The book does do a good job at showcasing what different sorts of Veiled Alliance themed adventures might look like. Each alliance chapter is reasonably different than the next. If you're looking for used Dark Sun books, this feels like one you could safely skip.
 
 
-[1]: /tags/darksun/
+[1]: /tag/darksun/
 [2]: /review/elves-of-athas/
 [3]: /review/dune-trader/
 [4]: /review/slave-tribes/

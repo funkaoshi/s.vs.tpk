@@ -4,7 +4,7 @@ system: B/X D&D
 title: Maria, the Neutral Level 1 Rune Knight of Baroviania
 location: the Jova City Tavern
 hp: 4
-curr_hp: 2
+curr_hp: 4
 ac: 18
 xp: 214
 THAC9: 10
@@ -46,7 +46,8 @@ attributes:
 * [Session 1][1]: The most prudent, peaceful, and pragmatic adventurers to ever grace Baroviania have let Cody loose on the world. (**+100xp** for write-up, **+114xp** for adventuring)
 * Maria is hanging out with Cody in the Jova City Tavern and has been given a small cut (**+8gp**) of his winnings.
 * Session 2: A band of battle and murder princesses, along with Maria, investigate who is harassing Puella Potions of Akenia. After harassing the maids of Raspberry Tea Cafe, who are clearly not the culprits, they move on to the Silver Blade Armaments, where Mariah buys a giant Horse Killing Sword. The fellow there is a fool so they move on to Mammy Gorbo's Home Remedies. Clearly she is evil and a fight breaks out. Potions are split, a demon Meloch is summoned, and the shop starts running on chicken legs. Still, the party is successful and all is well.
+* Session 3: Maria is deposited by dungeon faeries somewhere in Akenia. They come upon a room with a giant worm. A fight ensues. Norb, a strange alien, is eaten. The parties attempts to get the monster to cough up their friend, but that ends up with a room full of stomach acid. Maria disintegrates.
+* **DEAD!**
 
 
 [1]: http://save.vs.totalpartykill.ca/blog/baroviania-session-7/
-

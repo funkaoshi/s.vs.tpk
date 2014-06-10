@@ -22,7 +22,7 @@ Unlike many of the Dark Sun books, there is no art by [Tom Baxa][5] to be found 
 As supplements go I thought this book was pretty good. Like most TSR splat books, it uses more words than it needs to in order to make its points, but there is still a lot of fun stuff for DM and players here.
 
 [1]: http://www.tsrinfo.net/archive/ds/ds-dss3.htm
-[2]: /tags/darksun
+[2]: /tag/darksun
 [3]: http://en.wikipedia.org/wiki/Troy_Denning
 [4]: http://www.montecookgames.com/crunch-vs-fluff/
 [5]: http://www.baxaart.com/

@@ -40,5 +40,5 @@ Player's should roll under their Wisdom score to determine if their character ha
 
 A character may use their psionic power once per day. (**Psionic Immunity** and **The Haitian** are exceptions here: they are always active.)
 
-[1]: /tags/darksun/
-[2]: /tags/od&d/
+[1]: /tag/darksun/
+[2]: /tag/od&d/

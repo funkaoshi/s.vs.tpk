@@ -16,7 +16,7 @@ Continuing [my series of great D&D blogs][1], may I suggest the consistently goo
 [^1]: I now play D&D with him weekly, so this review isn't completely unbiased: though I thought the blog was pretty great before we had ever met.
 
 
-[1]: /tags/blogfaves
+[1]: /tag/blogfaves
 [2]: http://dungeonofsigns.blogspot.ca/
 [3]: http://dungeonofsigns.blogspot.ca/2012/11/hms-apollyon-plague-senechal-more.html
 [4]: http://dungeonofsigns.blogspot.ca/2012/08/hms-apollyon-welcome-aboard.html

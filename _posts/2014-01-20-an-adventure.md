@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Adventure
-category: Review
+category: review
 tags:
     - osr
     - module

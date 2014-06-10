@@ -14,3 +14,8 @@ Redirect /blog/broken-web-apps/ /meta/broken-web-apps/
 Redirect /blog/dmg-thieves/ /blog/reading-the-dmg-ii/
 Redirect /review/carcosa-II/ /review/carcosa-ii/
 Redirect /review/carcosa-III/ /review/carcosa-iii/
+
+Redirect /blog/city-by-the-silt-sea/ /review/city-by-the-silt-sea/
+Redirect /blog/an-adventure/ /review/an-adventure/
+Redirect /blog/pits-perils/ /review/pits-perils/
+

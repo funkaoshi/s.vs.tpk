@@ -21,4 +21,4 @@ As players move around they're going to effect the world they are wandering arou
 I'm curious if anyone else has thought about this stuff? Is there other stuff about running a hex crawl that could benefit from the power of modern computing?
 
 
-[1]: /tags/carcosa/
+[1]: /tag/carcosa/

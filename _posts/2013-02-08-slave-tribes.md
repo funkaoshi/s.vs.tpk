@@ -29,6 +29,6 @@ The last of this series of splat books is the _Veiled Alliance_, which I plan to
 
 
 [1]: http://www.tsrinfo.net/archive/ds/ds-dsr1.htm
-[2]: /tags/darksun/
+[2]: /tag/darksun/
 [3]: /review/elves-of-athas/
 [4]: /review/dune-trader/
