@@ -22,6 +22,7 @@ layout: character_sheet
     </tr>
 </table>
 
+{% if page.saves %}
 <table>
     <tr>
         <td class="save">Death Ray or Poison</td>
@@ -49,7 +50,17 @@ layout: character_sheet
 		<td></td>
     </tr>
 </table>
+{% else %}
+<table>
+    <tr>
+		<td><strong>HP</strong>: {{ page.hp }}</td>
+		<td><strong>AC</strong>: {{ page.ac }}</td>
+		<td><strong>XP</strong>: {{ page.xp }} </td>
+    </tr>
+</table>
+{% endif %}
 
+{% if page.THAC9 %}
 <table class="weapon">
     <tr>
         <td><strong>AC</strong></td>
@@ -64,5 +75,6 @@ layout: character_sheet
         {% endfor %}
     </tr>
 </table>
+{% endif %}
 
 {{ content }}
