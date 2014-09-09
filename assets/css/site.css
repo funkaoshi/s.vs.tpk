@@ -44,11 +44,7 @@ nav {
 nav p {
     margin-top: 0;
     font-size: 0.7em;
-    display: inline
-}
-
-nav#site-navigation p + p {
-    float: right;
+    text-align: center;    
 }
 
 h2.tag-title {
