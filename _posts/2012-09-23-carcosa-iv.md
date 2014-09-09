@@ -15,7 +15,7 @@ gplus: https://plus.google.com/110118815125792309582/posts/f4vfWvdPvmq
 
 > **1507**: On a lifeless island of black stone stands the alien city of Carcosa.
 
-A silhouette this city is featured on the cover of _Carcosa_. The city is only mentioned once in the book, in this description. It's certainly an evocative sentence.
+A silhouette of this city is featured on the cover of _Carcosa_. The city is only mentioned once in the book, in this description. It's certainly an evocative sentence.
 
 _Carcosa_ concludes with a tour of its world via a hex map and descriptions of those hexes. As has been a running theme in my reviews of the book[^1], the details of each hex are quite terse. Geoffrey McKinney continues to say the bare minimum needed to convey anything at all about the world he has created. There is definitely something old-school in this sort of presentation.
 
