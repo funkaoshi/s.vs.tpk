@@ -1,0 +1,30 @@
+---
+layout: carcosa
+---
+
+<h1><a href="/masters-of-carcosa/">Masters of Carcosa</a> - Session {{ page.session }}</br /><a href="http://save.vs.totalpartykill.ca/">Ramanan Sivaranjan</a></h1>
+<div class="write-up">
+    <p>This is a write up for session {{ page.session }} of my D&amp;D campaign Masters of Carcosa. The game is currently run online using Google+ hangouts. You can join <a href="https://plus.google.com/communities/103865168223422597726">the online community</a> there to learn more, or <a href="/tag/mastersofcarcosa/">read my blog</a>.</p>
+</div>
+
+{% for hex in page.hexes %}
+<div class='hex'>
+    <p class='location'>{{ hex[0] }}</p>
+    
+    {% for description in hex[1] %}
+    <p class='description'>{{ description }}</p>
+    {% endfor %}
+    
+    {% if page.restock and forloop.last %}
+    <p class='restock'>
+        You may restock using the following table.
+    </p>
+    <table class="random-table">
+        <tr><th>d4</th><th colspan="2">Hex Description</th></tr>
+        {% for description in page.restock %}
+        <tr><td>{{ forloop.index }}</td><td>{{ description }}</td></tr>
+        {% endfor %}
+    </table>
+    {% endif %}
+</div>
+{% endfor %}
