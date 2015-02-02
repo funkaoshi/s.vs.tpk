@@ -15,3 +15,12 @@ tag_title_prefix: '#'
 tag_title_suffix: ''
 
 markdown: 'kramdown'
+
+defaults:
+  -
+    scope:
+        path: "masters-of-carcosa"
+        type: "pages"
+    values:
+      layout: "carcosa_recap"
+
