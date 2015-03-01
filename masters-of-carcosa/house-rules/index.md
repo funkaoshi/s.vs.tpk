@@ -1,4 +1,5 @@
 ---
+title: House Rules
 layout: carcosa
 ---
 
@@ -22,9 +23,9 @@ You will use a dCarcosa to roll your hit dice and damage.
 
 ## Hit Dice and Healing
 
-In traditional OD&D a hit dice is a d6. In this game a hit dice is a dCarcosa. At the start of each session players re-roll their HP.
+In traditional OD&D a hit dice is a d6. In this game a hit dice is a dCarcosa. 
 
-There is no (natural) partial HP recovery during a session. (Your characters don't feel rested if you haven't rested.)
+HP is recovered as one of the steps during the "Haven Turn" (see below). There is no (natural) partial HP recovery during a session. (Your characters don't feel rested if *you* haven't rested.)
 
 ## Classes
 
@@ -36,11 +37,13 @@ The most common adventurer is the fighter, skilled in the use of all armour and 
 
 ### Sorcerer
 
-The Sorcerer is similar to a fighter, but can also learn to cast the horrific sorcery of the ancient Snake-Men. A sorcerer can learn any number of rituals, and cast them as often as they like, though the costs to do so are quite high to say the least. Sorcerous rituals banish, conjure, invoke, bind, torment, or imprison entities such as the Old Ones and their spawn. All rituals (except for rituals of banishment) require human sacrifice, and all except banishings require long ceremonies (typically at least an hour) to perform along with much paraphernalia. Thus the model for a Lawful sorcerer would be one that only focuses on the rituals of banishment.
+The Sorcerer is similar to a fighter, but can also learn to cast the horrific sorcery of the ancient Snake-Men. A sorcerer can learn any number of rituals, and cast them as often as they like, though the costs to do so are quite high to say the least. Sorcerous rituals banish, conjure, invoke, bind, torment, or imprison entities such as the Old Ones and their spawn. All rituals (except for rituals of banishment) require human sacrifice, and all except banishing require long ceremonies (typically at least an hour) to perform along with much paraphernalia. (The model for a Lawful sorcerer would be one that only focuses on the rituals of banishment.)
 
 All sorcerers can read the ancient language of the Snake-Men.
 
-### Tinkerer
+[Sorcerers can eat other sorcerers brains in an attempt to learn any rituals their victim may know.][brains]
+
+### Specialist
 
 TODO
 
@@ -50,7 +53,7 @@ TODO
 
 ## Encumbrance
 
-Characters can carry up to the greater of their strength score or ten number of items. An item is anything one could imagine taking up a non-trivial amount of space. So a ration would take up one item slot, another ration would take up another; armour is a slot; your weapons are each a slot; 100 GP in coins is a slot.
+Characters can carry up to the greater of their strength score or ten number of items. An item is anything one could imagine taking up a non-trivial amount of space. So a ration would take up one item slot, another ration would take up another; armour is a slot; your weapons are each a slot; **100 GP** in coins is a slot.
 
 A character takes a -1 to all rolls for each extra item they carry over their allowed amount.
 
@@ -86,3 +89,4 @@ The attack progression for specialists and psionicsts is:
 | 13–16 | +7
 
 
+[brains]: http://save.vs.totalpartykill.ca/blog/eating-sorcerer-brains/

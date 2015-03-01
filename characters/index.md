@@ -14,6 +14,7 @@ All the characters I have loved and lost, eventually. The active and the living:
  * [\[OD&D, 2013--\] Karna][karna], Level 1 Cleric of [Pahvelorn][].
  * [\[Finchbox, 2013--\] Jubei Kamata][jubei], Level 2 Fighter Protagonist.
  * [\[B/X D&D, 2014--\] Turgeon Narof][turgeon], Level 1 Elf of Akenia.
+ * [\[LotFP, 2015--\] The Lady Duggan][duggan], 1st Level Cleric
 
 And the dead and the retired:
 
@@ -30,6 +31,10 @@ And the dead and the retired:
  * \[4e, 2013\] Thom, Level 3 Invoker.
  * [\[B/X D&D, 2012--2014\] Maria][maria], the Neutral Level 1 Rune Knight of Baroviania. Killed by a purple worm puking up acid.
 
+All the characters I played back in high school and grade school are lost to history. They will be missed.
+
+
+
 [maria]: /characters/maria/
 [theotorman]: /characters/theotorman/
 [greggor]: /characters/greggor/
@@ -41,6 +46,7 @@ And the dead and the retired:
 [karna]: /characters/karna/
 [turgeon]: /characters/turgeon/
 [jubei]: /characters/jubei/
+[duggan]: /characters/duggan/
 
 [pahvelorn]: http://www.necropraxis.com/pahvelorn/
 [ase]: https://plus.google.com/112666135831357830942/posts
@@ -55,4 +61,3 @@ And the dead and the retired:
 [bone-hoard]: http://rpg.drivethrustuff.com/product/103661/AL1%3A-Bone-Hoard-of-the-Dancing-Horror-%5BDCC%5D
 
 
-All the characters I played back in high school and grade school are lost to history. They will be missed.

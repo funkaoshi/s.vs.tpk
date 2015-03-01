@@ -6,11 +6,11 @@
         <meta name="author" content="Ramanan Sivaranjan">
         <meta name="viewport" content="width=740, maximum-scale=1.0"/>
 
-        <title>Masters of Carcosa - Hex {{ page.hex }} - Session {{ page.session }}</title>
+        <title>Masters of Carcosa - {% if page.hex %}Hex {{ page.hex }} - Session {{ page.session }}{% else %}{{ page.title }}{% endif %}</title>
 
         <link href='http://fonts.googleapis.com/css?family=Simonetta:400,900' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" type="text/css" href="http://carcosa.totalpartykill.ca/static/bootstrap.css"/>
-        <link rel="stylesheet" type="text/css" href="http://carcosa.totalpartykill.ca/static/carcosa.css?2012-11-06"/>
+        <link rel="stylesheet" type="text/css" href="http://carcosa.totalpartykill.ca/static/carcosa.css?;2015-02-15"/>
         <script type="text/javascript">
           var _gaq = _gaq || [];
           _gaq.push(['_setAccount', 'UA-2675737-20']);

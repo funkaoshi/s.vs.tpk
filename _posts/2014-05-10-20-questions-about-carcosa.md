@@ -5,6 +5,7 @@ category: blog
 tags:
     - carcosa
     - campaign
+    - mastersofcarcosa
 gplus: https://plus.google.com/+RamananS/posts/AZSSwJ5mTX9
 date: 2014-05-10 01:00 pm
 ---
