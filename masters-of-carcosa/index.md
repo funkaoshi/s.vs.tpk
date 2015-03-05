@@ -25,8 +25,10 @@ You can find "session recaps" from this D&amp;D campaign here. Each recap is pre
 
 - November 17th, 2014 - [Session 1][1] - Hex 1011
 - December 1st, 2014  - [Session 2][2] - Hex 1011
-- December 15th, 2014 - [Session 3][3] - Hexes 0910, 1010, 1011, 1112, 1212
-- January 26, 2015    - [Session 4][4] - Hexes 0910, 1010, 1011
+- December 22nd, 2014 - [Session 3][3] - Hexes 0910, 1010, 1011, 1112, 1212
+- January 26th, 2015  - [Session 4][4] - Hexes 0910, 1010, 1011
+- February 23rd, 2015 - [Session 5][5] - Hexes 0910, 0911, 1011
+- March 9th, 2015     - Session 6 - 
 
 ## Blog Posts
 
@@ -37,6 +39,7 @@ You can learn more about this campaign by reading my blog posts tagged [#masters
 [2]: session-2/
 [3]: session-3/
 [4]: session-4/
+[5]: session-5/
 
 
 [carcosa]: /tag/carcosa/
