@@ -27,6 +27,10 @@ In traditional OD&D a hit dice is a d6. In this game a hit dice is a dCarcosa.
 
 HP is recovered as one of the steps during the "Haven Turn" (see below). There is no (natural) partial HP recovery during a session. (Your characters don't feel rested if *you* haven't rested.)
 
+## Attribute Scores
+
+Roll 3d6 in order for your stats. They provide no bonuses for high scores, or detriments for low scores. They are sometimes used to determine the success of actions your character wishes to perform, and to give you a rough sense of what your character might be like.
+
 ## Classes
 
 Players can pick from the following classes: Fighter or Sorcerer as described in _Carcosa_.
@@ -42,14 +46,6 @@ The Sorcerer is similar to a fighter, but can also learn to cast the horrific so
 All sorcerers can read the ancient language of the Snake-Men.
 
 [Sorcerers can eat other sorcerers brains in an attempt to learn any rituals their victim may know.][brains]
-
-### Specialist
-
-TODO
-
-### Psionicist
-
-TODO
 
 ## Encumbrance
 
