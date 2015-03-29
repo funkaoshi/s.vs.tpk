@@ -2,6 +2,7 @@
 layout: post
 title: "The monsters of <em>Carcosa</em>"
 category: review
+slug: carcosa-iii
 tags:
   - carcosa
   - lotfp

@@ -2,6 +2,7 @@
 layout: post
 title: "<em>Carcosa's</em> vile black magic"
 category: review
+slug: carcosa-ii
 tags:
   - carcosa
   - lotfp
