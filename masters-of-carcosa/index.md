@@ -28,7 +28,8 @@ You can find "session recaps" from this D&amp;D campaign here. Each recap is pre
 - December 22nd, 2014 - [Session 3][3] - Hexes 0910, 1010, 1011, 1112, 1212
 - January 26th, 2015  - [Session 4][4] - Hexes 0910, 1010, 1011
 - February 23rd, 2015 - [Session 5][5] - Hexes 0910, 0911, 1011
-- March 9th, 2015     - Session 6 - 
+- March 9th, 2015     - Session 6 - Hex 1012
+- March 23rd, 2015    - Session 7 - Hex 1012
 
 ## Blog Posts
 
