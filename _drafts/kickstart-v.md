@@ -8,9 +8,12 @@ gplus:
 date:
 ---
 
+Champions of Zed arrived, finally, about 3 years after it was funded.
+
+
 | #  | Project                                                 | Funded        | Expected Delivery | Shipped?
 |----|---------------------------------------------------------|---------------|-------------------|----------
-|  2 | [Dungeon Crawl Classics: Peril on the Purple Planet][2] | August 2014   | November 2014     | **Yes!** 
+|  2 | [Dungeon Crawl Classics: Peril on the Purple Planet][2] | August 2014   | November 2014     | **Yes!**
 |  3 | [The Great Kingdom][3]                                  | July 2014     | July 2015         | **Hells No!**
 |  5 | [Dungeon Crawl Classics: The Chained Coffin][5]         | June 2014     | August 2014       | **Yes!**
 |  8 | [Playsets The future of social storytelling.][8]        | November 2013 | February 2014     | Partially
@@ -19,7 +22,7 @@ date:
 | 12 | [LotFP 2013 Free RPG Day Adventure][12]                 | February 2013 | July 2013         | Partially
 | 13 | [Appendix N Adventure Toolkits][13]                     | July 2012     | July 2012         | Partially
 | 14 | [LotFP Summer Adventure Campaign][14]                   | July 2012     | December 2012     | Partially
-| 15 | [Champions of Zed][15]                                  | June 2012     | August 2012       | Partially
+| 15 | [Champions of Zed][15]                                  | June 2012     | August 2012       | **Yes!**
 
 [2]:  https://www.kickstarter.com/projects/1409961192/dungeon-crawl-classics-peril-on-the-purple-planet
 [3]:  https://www.kickstarter.com/projects/720223857/the-great-kingdom
