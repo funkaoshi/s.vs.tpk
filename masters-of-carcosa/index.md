@@ -23,13 +23,13 @@ This game is currently being run using Original Dungeons and Dragons, with a "fe
 
 You can find "session recaps" from this D&amp;D campaign here. Each recap is presented in the style of new hex descriptions for <em>Carcosa</em>, which is where my game takes place. (The last entry in the re-stocking tables is how the session actually concluded. The other entries are alternate ways things might have gone.)
 
-- November 17th, 2014 - [Session 1][1] - Hex 1011
-- December 1st, 2014  - [Session 2][2] - Hex 1011
-- December 22nd, 2014 - [Session 3][3] - Hexes 0910, 1010, 1011, 1112, 1212
-- January 26th, 2015  - [Session 4][4] - Hexes 0910, 1010, 1011
-- February 23rd, 2015 - [Session 5][5] - Hexes 0910, 0911, 1011
-- March 9th, 2015     - Session 6 - Hex 1012
-- March 23rd, 2015    - Session 7 - Hex 1012
+- [Session 1][1] - November 17th, 2014 - Hex 1011 ([G+ Recap Thread][1G])
+- [Session 2][2] - December 1st, 2014  - Hex 1011 ([G+ Recap Thread][2G])
+- [Session 3][3] - December 22nd, 2014 - Hexes 0910, 1010, 1011, 1112, 1212 ([G+ Recap Thread][3G])
+- [Session 4][4] - January 26th, 2015  - Hexes 0910, 1010, 1011 ([G+ Recap Thread][4G])
+- [Session 5][5] - February 23rd, 2015 - Hexes 0910, 0911, 1011 ([G+ Recap Thread][5G])
+- [Session 6][6] - March 9th, 2015     - Hex 1012 ([G+ Recap Thread][6G])
+- [Session 7][7] - March 23rd, 2015    - Hex 1012 ([G+ Recap Thread][7G])
 
 ## Blog Posts
 
@@ -37,11 +37,19 @@ You can learn more about this campaign by reading my blog posts tagged [#masters
 
 
 [1]: session-1/
+[1G]: https://plus.google.com/u/0/+RamananS/posts/TwcaGrqcakR
 [2]: session-2/
+[2G]: https://plus.google.com/u/0/+RamananS/posts/JFfgADFFM7K
 [3]: session-3/
+[3G]: https://plus.google.com/u/0/+RamananS/posts/WtLV3acPugA
 [4]: session-4/
+[4G]: https://plus.google.com/u/0/+RamananS/posts/4djg9FqAzoM
 [5]: session-5/
-
+[5G]: https://plus.google.com/u/0/+RamananS/posts/fRX3LStMoti
+[6]: session-6/
+[6G]: https://plus.google.com/u/0/+RamananS/posts/eVUq3WLEAn8
+[7]: session-7/
+[7G]: https://plus.google.com/u/0/+RamananS/posts/9QPB83gPTrq
 
 [carcosa]: /tag/carcosa/
 [#mastersofcarcosa]: /tag/mastersofcarcosa/
