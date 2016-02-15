@@ -23,4 +23,9 @@ defaults:
         type: "pages"
     values:
       layout: "carcosa_recap"
-
+  -
+    scope:
+        path: "masters-of-carcosa/wilderness"
+        type: "pages"
+    values:
+      layout: "carcosa_wilderness"
