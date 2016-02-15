@@ -9,5 +9,5 @@ restock:
   - "A group of Carcosans lay dead in the wastes, snake men sigils carved into their bodies. They have some amount of wealth, but in particular were transporting the body of a dead armoured space alien."
   - "2 Mutant Lambeosaurus (AC 15, MV 120', HD 14, neutral). Scaled Brown hide. Suckered mouth, metal body. Poisoned tail spikes has the effect of green lotus powder. They feast on the remains of 6 dead White Men."
   - "8 Space Aliens (AC 12, MV 120', HD 3), part of an elite combat squad, pursue a group of Carcosan who have defiled one of their tombs through the badlands. They are armed with laser rifles."
-  - "5 Carcosans are transporting a captured Bone Man to a nearby town, where he will be tortured and killed for information. The party believes the Bone Man is a cultist.
+  - "5 Carcosans are transporting a captured Bone Man to a nearby town, where he will be tortured and killed for information. The party believes the Bone Man is a cultist."
 ---
