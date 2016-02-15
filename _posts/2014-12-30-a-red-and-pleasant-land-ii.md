@@ -7,6 +7,7 @@ tags:
     - osr
     - zaksmith
     - art
+    - rapl
 gplus: https://plus.google.com/+RamananS/posts/JsXf5E1S9C1
 date: 2014-12-30 01:48 am
 ---

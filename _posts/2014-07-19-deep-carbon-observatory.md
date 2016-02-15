@@ -4,6 +4,7 @@ title: Deep Carbon Observatory
 category: review
 tags:
     - osr
+    - falsemachine
 gplus: https://plus.google.com/u/0/+RamananS/posts/CH1Ph3yfPWY
 date: 2014-07-19 07:13 pm
 ---
