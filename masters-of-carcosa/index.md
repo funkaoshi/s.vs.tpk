@@ -42,6 +42,8 @@ You can find "session recaps" from this D&amp;D campaign here. Each recap is pre
 - [Session 17][17] - November 9th, 2015   - Hex 1012 ([G+ Recap][17G])
 - [Session 18][18] - December 14th, 2015  - Hex 0911, 1012 ([G+ Recap][18G])
 - [Session 19][19] - December 21st, 2015  - Hex 1112 ([G+ Recap][19G])
+- [Session 20][20] - January 25th, 2016   - Hex 1211 ([G+ Recap][19G])
+- [Session 21][21] - February 29th, 2016  - Hex 1010, 1110 ([G+ Recap][19G])
 
 ## Blog Posts
 
@@ -88,7 +90,9 @@ You can learn more about this campaign by reading my blog posts tagged [#masters
 [19]: session-19/
 [19G]: https://plus.google.com/+RamananS/posts/Q6ArH9KHtYV
 [20]: #
-[20G]: #
+[20G]: https://plus.google.com/+RamananS/posts/L7LVr84qJCP
+[21]: #
+[21G]: https://plus.google.com/+RamananS/posts/erYTAaW8n6k
 
 [carcosa]: /tag/carcosa/
 [#mastersofcarcosa]: /tag/mastersofcarcosa/

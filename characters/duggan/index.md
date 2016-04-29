@@ -7,19 +7,13 @@ xp: 1703
 hp: 4
 ac: 19 (with shield)
 THAC9: 10
-saves:
-    death: 9
-    stone: 12
-    wands: 10
-    breath: 14
-    magic: 13
 attributes:
-    str: 12
-    int: 11
-    wis: 17 (+2)
-    dex: 11
-    con: 10
-    cha: 15 (+1)
+    str: 0
+    int: 0
+    wis: +2
+    dex: 0
+    con: 0
+    cha: +1
 appearance: Female, Decrepit, Formal Attire, Ugly
 ---
 
@@ -113,3 +107,4 @@ appearance: Female, Decrepit, Formal Attire, Ugly
 [1]: https://plus.google.com/+BryanMullins/posts/gABMyswAyr7
 [2]: https://plus.google.com/+BryanMullins/posts/1JciyMqcMhM
 [3]: https://plus.google.com/+BryanMullins/posts/5jsXHJbS3or
+[4]: #

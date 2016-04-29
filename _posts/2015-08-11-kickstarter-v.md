@@ -8,7 +8,7 @@ gplus: https://plus.google.com/+RamananS/posts/DMmJHmJVQa8
 date: 2015-08-11
 ---
 
-Overall I am quite happy with how Kickstarter has been treating me. Most of my recent Kickstarters have delivered without a hitch. [Reaper Bones][10] managed to ship a bajillion minis without breaking a sweat. Goodman Games shipped [Peril on the Purple Planet][6] and [The Chained Coffin][8] more or less when they said they would, with lots of bonus goodies. I've already got the PDF of [The Stygian Garden of Abelia Prem][4], and am now just waiting for the hardcopy. Overall, projects seem to be better run and handled now.
+Overall I am quite happy with how Kickstarter has been treating me. Most of my recent Kickstarters have delivered without a hitch. [Reaper Bones][10] managed to ship a bajillion minis without breaking a sweat. Goodman Games shipped [Peril on the Purple Planet][6] and [The Chained Coffin][8] more or less when they said they would, with lots of bonus goodies. I've got the PDF of [The Stygian Garden of Abelia Prem][4] without any fuss. Overall, projects seem to be better run and handled now.
 
 It wouldn't be a Kickstarter update if I didn't mention i'm still waiting for books from [LotFP][]. That said, James Raggi has sent me so many random adventures and bonus books the wait doesn't feel particularly onerous. Of the 4 books funded in the LotFP Summer Adventure Campaign, each has grown in scope and [awesomeness][]. As I've mentioned before, more project creators should follow Raggi's lead with respect to how he handles projects that are off the rails.
 
@@ -23,7 +23,7 @@ In contrast to LotFP, we have [Brave Halfling Publishing][13]. I don't have anyt
 |  1 | [The Warren][1]                                         | August 2015   | October 2015      | No
 |  2 | [The Zine Vault][2]                                     | June 2015     | November 2015     | No
 |  3 | [Perilous Journeys][3]                                  | May 2015      | September 2015    | No
-|  4 | [The Stygian Garden of Abelia Prem][4]                  | March 2015    | July 2105         | Partially
+|  4 | [The Stygian Garden of Abelia Prem][4]                  | March 2015    | July 2105         | **Yes!**
 |  5 | [Sol][5]                                                | February 2015 | August 2015       | No
 |  6 | [Dungeon Crawl Classics: Peril on the Purple Planet][6] | August 2014   | November 2014     | **Yes!**
 |  7 | [The Great Kingdom][7]                                  | July 2014     | July 2015         | **Hells No!**
