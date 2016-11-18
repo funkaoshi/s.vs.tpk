@@ -30,6 +30,7 @@ And the dead and the retired:
  * \[4e, 2013\] Vistra, Level 3 Battlemind. Retired after completing the [D&D Encounters Season 12: Against the Cult of Chaos][d&d-season-12] campaign.
  * \[4e, 2013\] Thom, Level 3 Invoker.
  * [\[B/X D&D, 2012--2014\] Maria][maria], the Neutral Level 1 Rune Knight of Baroviania. Killed by a purple worm puking up acid.
+ * \[5e, 2015-2016\]  Soon, Jungle Halfling Barbarian Outlander of Dark Sun. Killed in a room glass orbs that exploded. 
 
 All the characters I played back in high school and grade school are lost to history. They will be missed.
 

@@ -25,19 +25,27 @@ appearance: Female, Decrepit, Formal Attire, Ugly
 
 ### Equipment:
 
-* Plate Armor (formally cursed)
-* Shield
-* War Hammer
-* Sling
-* Backpack
-* Waterskin
-* 1 Week Iron Rations
-* 10' Pole
-* Steel Cross
-* 1 Small Sacks
-* 3 Stakes & Mallet
-* Steel Mirror
-* 15 GP, 131 SP
+Ready:
+
+1. Plate Armor (formally cursed)
+2. Shield
+3. War Hammer
+4. Sling
+5. Steel Cross
+
+Stowed:
+
+1.  Backpack
+2.  Waterskin
+3.  1 Week Iron Rations
+4.  10' Pole
+5.  
+6.  1 Small Sacks
+7.  3 Stakes & Mallet
+8.  Steel Mirror
+9.
+10. 15 GP, 131 SP
+
 
 #### Retainers: 
 
@@ -100,7 +108,7 @@ appearance: Female, Decrepit, Formal Attire, Ugly
   * We cleanse one suit of armour.
   * We go and visit a captured talking chimp called Tiselo. Lady Duggan is so offended by this that she pays for the creature and sets him free. The party escorts the creature back to his home.
 * [**Session 4**][4]
-  * !!!
+  * Switch to World of Dungeon Blackmash edition: Cabalist Left Hand, Cabalist Command, 
  
   
 

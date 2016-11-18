@@ -5,14 +5,16 @@ highlighter: false
 
 permalink: /:categories/:title/
 
-relative_permalinks: true
-
 paginate: 10
 
 exclude: ['Makefile', 'README.md', 'new.rb', 'new_post_template.md']
 
 tag_title_prefix: '#'
 tag_title_suffix: ''
+
+gems: [
+  'jekyll-paginate'
+]
 
 markdown: 'kramdown'
 
