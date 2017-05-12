@@ -83,6 +83,10 @@ Three shepherds cull a herd of blue-eyed piebald sheep, slaughtering any animal 
 
 These well manicured meadows are filled with small streams and numerous butterflies.
 
+## 0121
+
+A herd of wild aurochs graze the luscious grasses here.  The massive patriarch-bull has blue-hued hair and hide.
+
 ## 0122
 
 The Steward of Drogat Castle believes that the luscious blue grass here provides the best feed for the "King's Herd" and all other domestic animals are forbidden from grazing here under penalty of fine for thier masters and 2 days of hanging by thier thumbs for the unfortunate beast.  This fact is noted by an ocassional post with a worn handbill tacked to it.  Herdsmen armed with long whips, slings and steerhide jackets (some with horns attached) graze a herd of over one hundred fine cattle here most days.
@@ -157,9 +161,21 @@ The sheep herd of Galden are often grazed here before slaugther, fattened on the
 
 The eyes of the people of GALDEN have rectangular pupils. The citizens are never seen in less than groups of three. The town's economy is heavily based on processing the piebald sheep raised in the surrounding countryside. Spinners, weavers, tanners, butchers, and even a glue factory do brisk trade here. A visit to the slaughterhouse reveals that Galden sheep have human-shaped skulls.
 
+## 0217
+
+The fields, once fertile, have been burned and thrice-blessed in an attempt to clear a fungal rust that infested the farmers' prize barley.
+
+## 0218
+
+The forest here has been spared the axe in deference to a 'methuselah' tree which has engulfed and lifted a bluestone menhir 40 feet into the air.  While the tree is regularly struck by lightning during storms, it does not burn.  The only result of the strikes is to cause the menhir to glow in an uneartly green light.
+
 ## 0219
 
 The tyrannical Steward of Drogat Castle has decreed that a giant compass rose is cut here in the turf, carefully tended by starving wretches fro the Steward's expansive dungeons.  Lime filled trenches are cut into the land by skeletal figures under the watchful eye of manitocre mounted knights far above.  The knights will swoop down on any who appear to slack or falter, offering them to thier mounts to devour.  The compass is allegedly an act of devotion to encourage the return of the lost king of Drogat Castle.
+
+## 0220
+
+In a copse in the wood is a massive, gnarled tree in what appears to the the shape of a gaint, grasping hand.  There is a hole bi g enough for a demi-human or goblin to walk through and a full human to walk through.  Following the hold into the tree and underground leads one to  THE TEMPLE OF THE HAND.  Here you will find goblins whose hands were cut off in the town of OGON (Hex 101) supplicating themslves.  If one successfully sneaks in undetected, they will witness hands crawl out of nooks and crevasses and, after feeling around for a worthy recipient, attach themselves to selected amputees.  The hands are intelligent parasites that will make their hosts stronger, more dextrous and able to cast wizard or cleric spells.  They will dominate the goblins, and attempt to kill any intruders they detect..unless the intruder is herself an amputee.  If captured by a PC who has lost a hand, and its ego is overcome, the PC may attach the hand to herself and treat it as an intelligent sword that imbues one of the abilities mentioned above.  If the ego overcomes them, they will become a servant to The Cult of The Hand and face an strong compulsion to cut off the hands of others and lead them back here.  The Cult has members in OGON and throughout the realm.  The hands purpose beyond attacting more hosts is unknown.
 
 ## 0222
 
@@ -203,13 +219,25 @@ Sparse trees soon turn into a forest of oak and beech, filled with feral pigs th
 
 The stream the party has been following through the forest is suddenly running with gold: and growing from the bank is a silver tree with diamonds in place of leaves. These are both illusions, sprung by a satyr (the stream) and a sprite (the tree) having a competition (DC18 to detect): whichever one the party “falls for” first, the corresponding creature wins the bet. They will reveal themselves at this point and fight over the winnings, the loser refusing to pay up. The party could offer a trinket to settle it, or help the winner beat up the loser and take what's theirs, or whatever.
 
+## 0312
+
+A tribe of lizardfolk inhabit the moors, fiercely defending their territory from interlopers.  Their shaman-priestess, Gugh, carries an enchanted trident, insurance against the occasional restless undead found in the moors.
+
+## 0313
+
+The Moors here were the last stand of the Kipht, a rebel fanatic-army vanquished a few generations back.  They were slaughtered to the last man in the boggy terrain.  Their dead do not rest easily, and skeletons and wights plague the moors..
+
+## 0314
+
+Guar herds occupy the forests ringing the moors.  The reticent herbivores are generally noctunal, avoiding explorers and poachers.  The scarred dominant male bristles with broken arrows and boarspears, trophies of his run-ins with poachers.
+
 ## 0319
 
 A farmer & his daughter stand on the roof of a barn as a herd of Carnivorous Antelope devour a flock of chickens. The daughter pines for a life of adventure away from home.
 
 ## 0321
 
-A herd of Carnivorous Antelope battle a mischief of Ratcoons. A squadron of Flying Monkeys watches from the branches of a small crop of trees, swapping bets and pointing out the better parts of the action. The monkeys are led by Serjeant Red Hand and are armed with javelins and short swords. They are currently under contract to the Steward of Drogat Castle (Hex 0323).
+A herd of Carnivorous Antelope battle a mischief of Ratcoons. A squadron of Flying Monkeys watches from the branches of a small copse of trees, swapping bets and pointing out the better parts of the action. The monkeys are led by Serjeant Red Hand and are armed with javelins and short swords. They are currently under contract to the Steward of Drogat Castle (Hex 0323).
 
 ## 0322
 
@@ -217,7 +245,7 @@ Beautifully maintained farmland, with picturesque farms of unusual wealth.  The 
 
 ## 0323
 
-Drogat Castle is know as the Castle of (false) Smiles by most in the region.  It is a formidable fortress, its lower works made from ancient black stone, sagging with time and the effect of ancient seige weapons in places, and its upper works newer, fashion of dark and light stone to give the entire place a checkerboard pattern.  Drogat is well garrisoned, rish and very proud.  It is ruled by the 19th Steward of Drogat, as the last Kign vanished, leaving only a young son who died mysteriously.  The stewards have been excellent in maintaining Drogat's marches, but have a tendency to claim the misisng King's rights as an excuse to minutely manage and direct everything in thier perview towards greater and greater profit.  The knights of Drogat ride Black or white manticores and number 24, whicle the guards, foresters, footmen and levies are far more numerous.
+Drogat Castle is know as the Castle of (false) Smiles by most in the region.  It is a formidable fortress, its lower works made from ancient black stone, sagging with time and the effect of ancient seige weapons in places, and its upper works newer, fashioned of dark and light stone to give the entire place a checkerboard pattern.  Drogat is well garrisoned, rish and very proud.  It is ruled by the 19th Steward of Drogat, as the last King vanished, leaving only a young son who died mysteriously.  The stewards have been excellent in maintaining Drogat's marches, but have a tendency to claim the missing King's rights as an excuse to minutely manage and direct everything in thier purview towards greater and greater profit.  The knights of Drogat ride Black or white manticores and number 24, while the guards, foresters, footmen and levies are far more numerous.
 
 ## 0401
 
@@ -343,9 +371,17 @@ Generations of fervent belief by the warren of Hole People to the Northeast have
 
 A band of bards and troubadors have set up camp and challenge all whom they encounter to a singing contest. Winners are awarded a half-keg of fine mead. Losers must swallow a live newborn giant slug. The encampment has converted an entire wagon into a slug-egg nursery. There is a 30% chance that one of the bards, if drunk enough, will reveal he was born to the Hole People but escaped several years ago.
 
-## 0816
+## 0811
 
--
+The halfling settlement of Doonsbarrow has been overrun by telepathic giant spiders.  Those halflings remaining alive are trussed up in silk, mewling in madness as the spiders consume both body and mind.
+
+## 0812
+
+The camp of several halflings from Doonsbarrow, who were out picking mushrooms when their village was attacked. They have built completely convincing-looking giant-spider-outfits out of unlikely materials, and use them to try to scare off danger. They are planning to infiltrate Doonsbarrow wearing the suits, and free their families from the spiders' silky larder. If they do this, they will all probably die.
+
+## 0821
+
+The grassland here is home to several rabbit warrens.  Close inspection of the grass will reveal a faint grid of different grass species.  The rabbits, colored according to their warren, appear to move and displace one another in a giant, undiscernable strategy game.
 
 ## 0901
 
@@ -353,7 +389,7 @@ Jakor was only the most recent of a long line of foolish men to try to rebuild a
 
 ## 0905
 
-A group of three filthy, scabby Hole People, exiles from the Warren to the Northeast (1102), cower in shallow pits during the day and wander confused by night.  All three are starving as lichen and slugs are hard to find in this lush grassland. The Hole People speak rudimentary common and if taught about a non-slug based diet might be convinced to act as henchmen (1st level halflings).  They are named: Skuto, Reft, and Slugibella are extremely agoraphobic and carry only stone chopper knives and dirty moleskin cloaks.
+A group of three filthy, scabby Hole People, exiles from the Warren to the Northeast (1102), cower in shallow pits during the day and wander confused by night.  All three are starving as lichen and slugs are hard to find in this lush grassland. The Hole People speak rudimentary common and if taught about a non-slug based diet might be convinced to act as henchmen (1st level halflings).  They are named: Skuto, Reft, and Slugibella, are extremely agoraphobic and carry only stone chopper knives and dirty moleskin cloaks.
 
 ## 0907
 
@@ -363,6 +399,14 @@ The river here is fast, as it narrows between cliff faces carved with ancient st
 
 Nanofossil studded limestone broken into fantastic shapes and natural bridges, home to wandering cybernetically enhanced terror birds and their natural prey, scab monkey troups who farm the air-filtering anemone-bushes. Chance of space-bending jumpfish mushrooms (on eating, dimension door 1d1000' feet and take 1d6 INT damage, exploding).
 Also here is a Tomb Museum of the Prelithics carved inside a great eroded cube of nephrite studded concrete. Protected by madmen drawn here by the riddle of meteoric iron, inside a small labyrinth stands the _First Portal_ and the _Statue of Meteoric Iron_. Using the statue at the Triportal at (204)) opens a permanent teleportation tunnel between the two locations. Each use of the tunnel has a 20% chance of casting ironskin on the traveller and a 20% chance of casting sleep. Protective magics or a nephrite amulet protect from this.
+
+## 0913
+
+This area of forest is silent: there are no sounds of any creature, the wind doesn't stir the trees. The flowers stay closed in daytime, and even the leaves on the trees seem to droop. A very keen-eared person might hear the sounds of many distant weeping voices. A lone elf, wanders the woods destraught for a lost love. They are followed by a band of fairies, who are greatly enjoying their part as a despairing chorus, and magically 'redecorating' the path before and behind them to 'suit the mood'. The elf returns frequently to the side of their dead lover, who fell in battle- the dead elf still wears their bright armor (loots?), and looks as though asleep but for the crimson blossom upon their breast.
+
+## 0915
+
+Hill giant chosen by fairies as their king. He is greatly confused by this state of affairs, but not a little pleased. the fairies will demand proper respect & tribute for their king- all party members should be asked for something, and are expected to one-up each other. If the king is given sufficent tribute, or if the fairies are sufficiently impressed for other reasons, they will prompt their king to somehow reward his loyal subjects. If sufficient tribute is not given, or if attacked, they will call upon their 'king' to save them, and all of them fall about in a great play of distress, avoiding combat themselves but playfully using their magic to interfere with the party.
 
 ## 0919
 
@@ -408,6 +452,10 @@ A lovely knight's pavillion of black silk, embroidered with roses and cranes sta
 
 A new colony of filth smeared diminuative Hole People (as halflings) is digging in here, destorying the lush meadowlands with stone maddocks and intentionally spreading urine to kill plantlife.  The colony of 102 (88 combatants) is only a month old and on its first set of shalllow pits, but if asked its members will claim to have "always been here".  They are not antisocial and have had a bumper crop of slugs lately that they will offer to outsiders.  If they learn of the existence of Filthsqualor the Unhealthful (0804) they will begin praying fervently to him and greatly increase his power.  If told of the Hole Person colony to the North ([1102]]) they will deny the possibility of its existence before becoming cranky and hostile.
 
+## 1021
+
+A temple entirely composed of menhirs, iron blocks (an ostentatious absurdity) and cold grey slate tile.  Sulwyth is a god of Stregth, but not self-reflective 'strength of the soul' sort of strength - breaking things strength.  the priests of Sulwyth a big muscular fellows, and not a few of them are hill giants, because beign stronger then the other guy, or looking it, is the entrity of Sulwyth's creed.  Sulwyth has a fair number of followers, because he's a generous diety to those who have bulging muscles, and his faovrite act of devotion is smashing things.  Sulwyth is popular with less thoughtful and skilled blacksmiths and giants.  Indeed the mark of Sulwyth (two pythons opposed) can be invoked as a parley sgn with many lesser (hill, mud, stone and forest) giants.  The greatest mystery of the temple is a huge iron monolith, called "The immovable" - legend claims that only the avatar of Sulwyth is capable of moving it (though 50lbs of blackpowder would be a start).
+
 ## 1102
 
 Mounds of dirt and rock abruptly rip up from beneath the grasslands.  This range of low hills is entirely unnatural, the product of generations of labor by a warren of Hole People.  The 3' tall human-like creatures (as halflings) live underground in filthy dirt chambers carved with crude stone tools and subsist on a diet of slugs and lichens they grow in thier holes.  Because of thier unsanitary habits Hole People warrens appear largely abandoned, with chamber after chamber of refuse and filth above the inhabited holes of the band. They worship a not entirely unreal slug diety (0804).
@@ -424,9 +472,17 @@ Above the blasted wastes of this area, a black scree of flint, orange lichen and
 
 The black flint scree here contains a fair number of glimmering bleached bones.
 
+## 1109
+
+Journeyman-morticians drive their black and offal-stinking tumbrills through the pass.  They are seeking the battlefield 1205 to pick over the dead and properly inter the dead of the Red Hands.
+
 ## 1111
 
 A band of four (4) robust young hill giants wander, entirely lost, through these mountains snacking on bighorn sheep. The giants are on a pillgramage to Sulwyth temple to try thier strength at shifting the immovable" and wrestling the priests there (they will lose).  They don't want to get into any tussels in the meantime, but could really use some 'muscle food' - especially a few juicy bullocks (0122), for which they would pay with the contents of thier sacks (gold and rotten meat) and promises of friendship.  The giants are also flumoxed by the twisty little mountain paths here and could use some directions/guidance to Sulwyth Temple, but they won't admit they are lost.
+
+## 1116
+
+A trio of gnome aeronauts attempt to repair their crashed dirigible.  Two of their kin perished in the crash, one of whom was their chief fabricator.  Anyone with above-average seamstressing skills will be greatly appreciated to help patch up the airbag.  The craft is propelled by an alcohol-fueled Stirling engine.
 
 ## 1119
 
@@ -451,6 +507,10 @@ A knight of St. Cindilla lays dead here, back against a wind twisted tree his wh
 ## 1303
 
 A group of men and women (5) are camped on the plains. They are very aggressive, seeking people they can sacrifice to their ancient pagan gods. When first encountered they will be loudly praying.
+
+## 1304
+
+Anyone crossing through the forest hex will spy white-furred humanoids out of the corner of their eye.  It is yeti breeding season, with the brutes descending from the three surrounding mountain ranges to find appropriate mates. Anyone disturbing a yeti will be pugnaciously attacked. Anyone disturbing a pair in flagrante delicto, doubly so...
 
 ## 1305
 
@@ -484,6 +544,10 @@ There is nothing here, and the wind whispers it in the ears of travellers as the
 
 19 very devoted lay brothers of the 'reformed' Church of St. Cindilla, led by 'Exalted' Inquistor Remedius Fear Only Hell's Fires have set up an ambush on the North side of the bridge across the Dienstal Branch.  They are currently refortifying a long abandoned (and throughly haunted) tower some distance East with more of thier band, but currently guard the bridge and waylay travellers from ambush to force a toll of 10GP each out of them, and 'certifiy purity'.  The cultists are obsessed with lychnthropy, but have no reliable method of detecting its taint. They are suspicious of hair eyebrows, silver weapons (how else do werewolves fight eachother), druids, elves, anyone wearing red and bearded men.
 
+## 1320
+
+An itinerant butcher and his abattoir-wagon are travelling and seeking certain circles of cows.  He will cull one, dragging its corpse from the ring, for the meat is held sacred by certain fey, and the butcher recieves good pay in their majicked silver in exchange for the beef.
+
 ## 1401
 
 Hot and fertile these swamps are a balnket of green duckweed and large lotus in many colors.  Unlike the fishers across the river (1502) these swamp folk are devote followers of St. Cindilla and pay 60% of thier catch to the bishop at Weshor.  There children are skinny, there nets filled with holes and thier boats unpainted.
@@ -492,9 +556,21 @@ Hot and fertile these swamps are a balnket of green duckweed and large lotus in 
 
 A hallowed plot of land, roughly 50', stands out amongst the wilderness. Those of Lawful or Neutral alignment who enter the small patch feel a deep sense of tranquility crossed with the strange urge to stamp out the forces of chaos wherever they may be. Chaotic characters that enter the grove will collapse to the ground in agonizing pain (taking 1 damage per round they remain in the patch) and will be filled with a deep sense of melencoly and foreboding.
 
+## 1403
+
+Dull countryside, once under cultivation, but now overgrown with brambles and weeds.  Crumbled cottages and a few root sellers are haunted by madmen and cannibals.
+
 ## 1404
 
 Crows circle a tree hung with bodies (Hag King Warriors),  dangling by their ankles. One,  a young woman,  lives yet.  She claims to be from civilised lands. Her  husband was slain by a she devil.  Ghouls claw at the bark.
+
+## 1405
+
+Numerous termite hills, up to 20 feet tall, line the juncture between the plains and badlands. The termites are hyper-intelligent, but communication with these miniscule geniuses is nigh-impossible.  The termite hills are heated by nuclear piles excavated and coalesced by the various colonies.  While the termites are immune to the effects of radiation, anyone tarrying for three days or more in the presence of the hills will begin to show the effects of radiation poisoning.
+
+## 1406
+
+Broken lands, where swirling dust shurns constantly above rocks formed into outlandish spirals of black and red.
 
 ## 1407
 
@@ -546,13 +622,29 @@ Fisherfolk and religious exiles from Weshor dwell here, living thier lives on fl
 
 18 Exhausted warriors fleeing the battlefield to the Southeast rest here under the trees at the forest edge.  They wear iron and bronze armor and thier helmets are decorated with tall hand shaped crests, some dipped in blood.  Thier leader, a giant of a woman with a broken nose says prayers over a grave containing 54 hand crested helmets.  The band will not explain itself, and becomes threatening is pressed.  They claim to seek the 'Secret of Steel' and are looking for a group of bone wearing desert dwellers they describe as "The Gristlemen" who they claim have stolen it.
 
+## 1506
+
+Qarraq the Tamarin, small monkey who keeps an eye on the Vultures of Roc (hex 1908). Secret caretaker of the antidote that may cure the Egg of Rot, should the mighty Roc return. Communicates through sign language, understands common. Carries a small bo staff.
+
 ## 1510
 
 Tarantula stampede!  In the middle of the night, a seemingly endless wave of tightly packed enormous hairy spiders crawls over everything in their path like nightmarish multilegged lemmings with fangs.  They will not cross flames or pooled liquids, but climb over pretty much anything else.  Needless to say, this tends to sow panic amongst hirelings and pack animals, who will attempt to scatter into the surrounding desert.  After 15 minutes, the spiders are gone, leaving nothing but a genuinely enormous number of itty bitty footprints.
 
+## 1513
+
+A number of Carnivorous Antelope corpses are visible, rended apart by a mighty predator. A few large feathers and huge clawed footprints are visible in the grasses.
+
 ## 1516
 
 Marcos Drury lives here on a Mulberry farm.  He is famous around the region as the Muffin Man. He travels far and wide selling his Mulberry muffins to all. But he escpecially likes to give muffins away to children.  Recently Mr. Drury has come under the influence of an ancient evil force of Chaos and now makes his muffins with a special ingredient.  The ingredient causes children who eat the muffin to transform into hideous, murderous monsters. There is no known cure.
+
+## 1517
+
+A herd of spider-pigs root in the undergrowth and browse in the canopy above.  Their pig-herders, wearing the traditional lederhosen and climbing tack of their profession, keep watch on their charges.  They will not sell a pig, as they are reserved for roasting at a harvest festival at Lullwyn
+
+## 1522
+
+A flight of 15 Flying Monkeys harry an enraged Slothapotamus.  They are slowly wearing down the giant beast, although one or two of their number has been downed by its fearsome claws.  They hope to slay it for meat and to make trophes of its incisors and canines.
 
 ## 1601
 
@@ -562,9 +654,17 @@ The dour and penetient followers of St. Cindilla farms this land from neat villa
 
 Dull grasslands, where dry grasses cling to life and long, lean hares gaze at anything larger then them with open defiance.  The Northern edge is marked with small cairns, each flying a flag of St. Cindilla's scared ram.
 
+## 1603
+
+The southernmost mountain is unnaturally shaped. The southern side of it has been smoothed off into a curve. It is almost vertical at the top, but falls away to merge with the flat valley floor below. A light covering of grass, moss, or lichen covers the continuation of the stone road hidden in 1604
+
 ## 1604
 
 A "natural" corridor runs through an ancient forest here... Used for ages by men and dwarves traveling from north to south through this sacred elven forest, this road seems anything but natural. If one were to dig just a handspan down into the rich earth they would find ancient red pavers. Huge stones roughly 3' x 3' x 3' with images of flying animals of all types carved into their surfaces. How far do these go? Who laid these cyclopean stones? No one knows, for they are ancient and the architects long dead. Magic suffuses them still though, if looked for, but it is a strange and narrowly focused enchantment. Any creature that flies no higher than 15' above this surface will be able to move 3x their normal speed w/ no ill effects. This potent magic ends at each end of the corridor through the trees.
+
+## 1605
+
+The northernmost mountain in this range has been treated similarly to the feature in 1603. However, above the massive 'ski slope' like formation, hanging directly in line with the hidden red pavers, is a modest 4 story wizard's tower. It was/is the home of Artosaari the Radical (and probably contains sick skater wizard loot). The tower is enchanted; not only is it unreachable from the ground, but also to anyone not going sufficiently quickly. A person would have to build momentum on the valley-sized 'fligher's skate ramp', whizzing back and forth along it and going higher/faster each time, to be able to build enough speed to enter the tower.  Artosaari the Radical is not at home.
 
 ## 1607
 
@@ -578,9 +678,21 @@ Around a fresh water spring is a lush oasis with numerous date, fig, apricot, an
 
 Lone and forbidding, the ancients called this mountian the "Maker of Men" and the children of ancient tribes claimed warrior status by climbing its razor edged cliffs and bringing back a single timeless bloom from the thorny black brambles that grace its top (such blooms will appear 1 per climber and allow a deathblow to be avoided at the cost of 1 level of experience). The climb is long, arduous and deadly, and in addition to the magical briars the mountian top is also the current home of the abbott of Donat, absent from Donat's Temple a time sorcerer of great power.  He hides here as his friendly demeanor makes it difficult for him to deny a reasonable request.
 
+## 1613
+
+A crushed palanquin lies here, miles from any road.  Its silk curtains are rended and bloody.  A few large feathers are strewn about.  Tucked between the shreaded cushions is a holy symbol to a minor god of lost things and a will granting legitimacy to the bastard child of a foreign duke.  There is little other information regarding the passenger(s).
+
+## 1614
+
+A wandering tinker plies his way down the road, his overloaded cart rocking and swaying.  There is a 25% chance that has any piece of mundane adventuring gear available for sale at 2x list price.  He will also repair damaged equipment and light armor for a few silvers or for trade (negotiable).  There is a 30% chance that he has useful information regarding any hex adjoining a roadway.
+
 ## 1616
 
 Meadowland with more then its fair share of voles, moles, and gophers. Inexplicably these meadows are also overrun with feral housecats.  If anyone sleeps here, ignoring the pungent scent of feline territorial claims, the "Prince of Cats" will appear in thier dreams, asking them to free his 'people' from the curse of the Baleful Sign, and the lure of the  hypnotic oasis (1609).
+
+## 1617
+
+Several springs feed the swamp and, in turn, the Dienstal Branch tributary to the Greater Nesser River.  A pair of naiads guard the springs from corruption.  They are quite gregarious, and seek tales and gossip from the surrounding area.  Any party coming upon the pair must save from charm or be stuck there telling stories for five days.  A successful save means that the party will only tarry for eight hours at the spring..
 
 ## 1701
 
@@ -594,6 +706,10 @@ A Pardoner of St. Cindilla meets with a gang of ressurectionists (1503) at the f
 
 Leaping from precarious rock to tettering crag is a magnificent bighorn sheep, its white coat covered in black star shaped patches.  This creature is the immortal embodiment of ovine perfection.  It will stare at travellers, seemingly daring them to catch it on the rocky slopes and sheer cliffs of the mountains.  Those that try will fail, as the sheep's path is incredibly dangerous, full of crumbling rocks, hidden chasms and loose scree.  Any who manage to follow the sheep for more then a few minutes will be granted its boon (a permenant bonus to agility, the ability to speak to sheep or impressive curling rams horns).  The sheep will dodge any missile attacks directed at it and punish those who seek to harm it with crippling joint pain, clusminess or sheep-like stupidity.
 
+## 1707
+
+Bedouin nomads seek an arbiter for a tribal dispute. One tribe accuses another of theft of livestock. Once embroiled, both tribes ambush the party and try to eat them.
+
 ## 1708
 
 A devil in red laquer armor with the face of a dead maggot gnawed dog has been banished here to eke out the few souls he can.  He's a murderous combatant, and  resort to violence, forgeting his mission to gather souls via legitimate contracts and bargin for exchange if made angry.  He fights with small barbed darts and a flail made of posionous snakes.  The devil has little to offer in exchange for souls beyond directions of guidance to the desert's oasis.
@@ -606,6 +722,18 @@ These jagged dry hills contain numerous dusty cairns of stone.  One cairn, toppe
 
 The robot. Basic explorer droid repairing fusion powered hot air ballon. "Artie" came under fire, shortly after recording Ruins of Pelgar 2009, by unknown source(s) 1809. In desperate need of textiles to complete job and resume mission. More than willing to trade information for materials, also not adverse to using humanoid leather.
 
+## 1711
+
+Low rolling hills, covered in a rich crop of lichens and short bright grasses.  The hills are pocked with small caves (most filled with carnivorous slugs) and holes, easy for a traveller to fall into. Exploration of this land will reveal that the hills are artificial, the product of a vanished Hole Person colony, long lost to cannibalism, infighting and stravation after an ancient slug blight destroyed it food sources.  The mad spirits of the Hole People may remain, thier muffled howls rising at night from deep beneath the surface.
+
+## 1713
+
+The hills are filled with the barrows of nomads driven from the region a generation ago.  The barrows are generally well picked-over, but a few unmolested ones may be found, with modest grave goods and feisty undead.
+
+## 1715
+
+The so-called 'Balancing Rock' is comprised of black, meteoric iron.  The hulking chunk of iron was transported and set at this location in time immemorial.  Some say it originally landed in the Samain Marshes, others claim it crashed into the peaks above the ruins of Pelgar.  Regardless, the reason for its precarious position is a mystery.  It is tended by three mute priestesses who hum tunelessly.
+
 ## 1717
 
 These dry oak and bay forests are rife with with blackberry brambles.  The only evidence of human presence is the ocassional yellowed skull, set in the crotch of a tree.  The spirits are spiteful here and the forest is home to several murderous hermits who stalk lone travellers at thier direction.
@@ -613,6 +741,10 @@ These dry oak and bay forests are rife with with blackberry brambles.  The only 
 ## 1718
 
 Grasses spotted with lilac and sage, jackrabbits and quail are abundant here.
+
+## 1719
+
+Brother Donal Seld rails and sobs over his lamed riding-jackalope.  The mount broke its leg as the wold-cleric attempted to shortcut through the rough lands in a desperate attempt to undo the sleeping curse of Aeravir Castle. Among the relics in his bulging saddlebags is the 'Sleeping Princess,' a mummified alien child he hopes wil be the key to lifting the curse and allowing the few survivors their rest...
 
 ## 1720
 
@@ -626,6 +758,10 @@ More land newly reclaimed from the marshes for the glory of Aeravir Castle.  Gre
 
 High cliffs, deceptive paths and overhanging, icicle covered rock ledge make these mountains extremely forbidding.
 
+## 1802
+
+A tribe of goat people are accosting travelers and searching their belongings. Their shaman and goat God idol have been stolen. They fear a prophecy of destruction without their idol. They don't know that their shaman abandoned them and took the idol with them. He is hidden nearby and awaits their destruction before leaving his lair.
+
 ## 1803
 
 128 cows walk unceasingly in a circle, Should a cow die (naturally or by the sword), another cow wanders in from the northeast and assumes its place, the dead being pummeled into the earth. The ground beneath their hooves is trampled to bloody, pulpy mud. In the middle of the circle, a strange rune has been burned into the earth.
@@ -635,6 +771,18 @@ High cliffs, deceptive paths and overhanging, icicle covered rock ledge make the
 In the near-fabled Temple of Zhor, emaciated priests spend their days deciphering fever dreams brought on by consumption of the Yrr leaf.  Young acolytes are sent forth beyond the mountains to infiltrate settlements and work on bringing about the deciphered revelations of Zhor.
 
 The priests will pay handsomely for Yrr leaf, which can be found growing on bog corpses in the Llewylla Moor (Hex 0214)
+
+## 1811
+
+Wretched lands, covered in pale rocks and fine irritating dust.  Nothing glows here except pale blue lichen.
+
+## 1813
+
+The Underground Road - a dwarf-carved tunnel - connects the Ruins of Pelgar to the more civilized ares to the south.  The Road has fallen into disrepair, and certain protective wards placed by the dwarven rock-wardens have faded with time, causing the Road to be seasonally inundated with groundwater.
+
+## 1815
+
+It is quiet here.  Too quiet...
 
 ## 1818
 
@@ -656,9 +804,25 @@ The cave bear. Ancient lord in his garden of bones and berries. Knowledge of the
 
 You shouldn't have found this place. Technologicaly advanced partially bipedal insect peoples. Their colony ship shunted a hostile dimension (Carcosa) with insufficient calculation now merged with the mountain. They near completion after a hundred generations, to return to the stars, but the arachnids 2002 have found them.
 
+## 1904
+
+A gang of bandits, led by a defrocked priest, prey on travellers along the road.  They hide in caves above the Pass.  Efforts to root them out have been generally fruitless, as the caves networks are tortuous and interconnected.
+
+## 1905
+
+Scrubby plains, populated by wild goats. A lamed mountain lion, unsuccessful at catching goats, may attempt to slay a lagging pack animal or traveler.
+
+## 1906
+
+Scrubby plains, populated by wild goats.
+
 ## 1907
 
 A roving herd of Venomous Mountain Goats attack travellers on a mid-level mountain pass. Their wool is extremely toxic with an 85% chance of death if it comes in contact with bare skin.
+
+## 1908
+
+Vultures of Roc, large intelligent birds that awaits the coming of the mighty Roc, the legendary bird of prey who'll peck a hole in the mountain side and lay its Egg of Rot there, to mark the end of the world. The vultures are not hostile, and keen to converse.
 
 ## 1914
 
@@ -671,6 +835,10 @@ Largos Nomads - a hundred tiny villages, just a few families each dot these plai
 ## 1917
 
 A young forest, pushing up through the burnt remains of a much older one.
+
+## 1919
+
+A band of slavers hunting goblins makes their way up the road in their heavy, covered wagons.  The moans of captured and roughly-sedated goblins can be heard emanating from the wagons.
 
 ## 1921
 
@@ -700,6 +868,14 @@ Ettin Olympics. The present event is antelope bombardment. Presided over from th
 
 Grasslands and meadows, home to heards of small large eyed antelope.  At their center is a large stone disk, like a giant plug; a deep humming can be heard pulsing rythimically from the earth around it.
 
+## 2006
+
+A tribe of garuda (bird-men) inhabit the highest, isolated peak, called Usk'nso in their tongue (and Mt. Perdar by the locals).  The garuda are insular, descending only to hunt wild goats and abscond with any books carried by pilgrims or other travellers on the road to the Temple of Zhor 1805
+
+## 2007
+
+Clusters of ceramic urns are set in hollows in the rocks or arranged in geometric patterns on plateaus and flats.  The urns contain the cremated remains of members of the horse-warden tribes to the east.  Many of the urns are cracked or broken, from the elements or prowlers, and are returning to the earth.  Some of the undisturbed urns will have small grave-good trinkets.  There is a 20% chance that any of these items is cursed.
+
 ## 2010
 
 A great pillar of light nacreous stone has been driven into the rocky earth here as if it fell from a great height.  It stands 40' tall and resembles the pillars of the Baleful Sign.  Anyone with knowledge of the area, such as the nomads to the South 2014, will say the pillars was absent in the recent past.
@@ -707,6 +883,10 @@ A great pillar of light nacreous stone has been driven into the rocky earth here
 ## 2011
 
 Mooncalf, a potent monsterous sorcerer from the moon has holed up in an old tomb carved into the side of this imposingly bare mountain.  Mooncalf appears as a centuar like figure with a lower body of dappled pale fungus and eyes that glow with white fire.  He has been sent by the masters of the moon to reactivate an ancient army of moon men (now the unsuspecting residents of Angleae) to continue a war of spite and destruction.  Mooncalf knows the correct order of glyphs to activate the Baleful Sign and will do so to destory Angleae and its people if he discovers them in thier degenerate state.  He is pained by gravity, depressed at being forever exiled from his home, and confused by the profusion of life on the terrestial sphere.  Mooncalf will trade sorcerous knowledge and euphoria producing moon fungus, golden pearls and starstuff for information on the wereabout of the Baleful Sign, captive locals to interrogate or allies to do his masters' spiteful bidding.
+
+## 2012
+
+Crags of dry stone, with a few winding pathes between and over them.  Here and there great growths of crystal make these mountains sparkle at dusk and midday.
 
 ## 2014
 
@@ -716,9 +896,13 @@ Largos Nomads - a hundred tiny villages, just a few families each dot these plai
 
 The forest of misfit gods.
 
+## 2016
+
+The corpse of an adult black dragon lies on its back sinking into the swamp. 2d6 large alligators are feasting on it. A moderate DC search or perception check will reveal that the canopy above is unbroken and clear tracks through the cypress roots show that a large group of humanoids battled it from deeper in the swamp to here. Following the tracks will lead to a group of dragonslayers (random NPC adventuring party) looting the dragon's nest. They are injured and many of their spells are expended from the fight. They will be cautious and will fight to protect their loot but will flee obviously more powerful parties. If they flee, they will follow to reclaim their loot at the most opportune time.
+
 ## 2018
 
-Duffyd, the Petty Goddess of Heroic Dreams of Groveling Cowards, is currently residing in a small ceramic tureen on the third step of the altar. Should a groveling coward come with twenty feet of Her current domicile, She will manifest and promise a boon to anyone who retrieves a silver band from a harpy's talon and returns it to her. There is a 50% chance this is a false promise.
+Duffyd, the Petty Goddess of Heroic Dreams of Groveling Cowards, is currently residing in a small ceramic tureen on the third step of the altar. Should a groveling coward come within twenty feet of Her current domicile, She will manifest and promise a boon to anyone who retrieves a silver band from a harpy's talon and returns it to her. There is a 50% chance this is a false promise.
 
 ## 2019
 

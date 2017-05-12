@@ -1,0 +1,1070 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=740, maximum-scale=1.0"/>
+
+        <title>The Lavender Marshes</title>
+
+        <style type="text/css" media="screen">
+        body {
+            background: url("http://carcosa.totalpartykill.ca/static/ricepaper2.png")
+        }
+
+        #container {
+            width: 680px;
+            margin: 0 auto 0 auto;
+            padding: 25px;
+            font-family: 'Avenir', 'Helvetica', 'Arial';
+            font-size: 18px;
+            line-height: 24px;
+        }
+
+        #hexmap {
+            border: 3px solid #666;
+            margin-left: -3px;
+        }
+
+        #about {
+            clear:both;
+            margin-top: 1.5em;
+        }
+
+        a,
+        .hex:hover .location a.permalink {
+            color: #3B62B0;
+        }
+        a {
+            font-weight: bold;
+            text-decoration: none;
+        }
+        h1, h2, h3, h4 {
+            font-family: 'Futura', 'Helvetica', 'Arial';
+            color: #8B96C7;
+            text-align: center;
+        }
+        h1 {
+            font-size: 32px;
+            margin-bottom: 1em;
+        }
+        h2 {
+            font-size: 24px;
+        }
+        p, td {
+            text-align: left;
+            margin: 0;
+        }
+        p + p {
+            text-indent: 1.5em;
+        }
+        p:first-child {
+            text-indent: 0;
+        }
+        ul {
+            padding-left: 0;
+        }
+        ul li {
+            list-style: none;
+        }
+
+        /* Hex Description */
+
+        .hex {
+            border-top: 2px solid #666;
+            margin:0; padding:2px;
+            clear: both;
+            font-size: 16px;
+        }
+        .hex .nav {
+            display: none;
+        }
+        .hex:hover span.nav {
+            display: inline;
+            margin-left: 1em;
+        }
+        .hex p {
+            text-indent: 0;
+        }
+        .hex .location {
+            float: left;
+            width: 160px;
+        }
+        .hex .location a.permalink {
+            color: black;
+        }
+        .hex .location p.location {
+            padding-top: 8px;
+            font-weight: bold;
+            font-size: 18px;
+        }
+        .hex .location p.references,
+        .hex .location p.references a {
+            font-weight: normal;
+            font-size: 14px;
+            text-align: left;
+        }
+        .hex p.description {
+            float: right;
+            padding: 6px 0;
+            width: 470px;
+        }
+        .hex p.description + p.description {
+            border-top: 2px solid #AAA;
+        }
+
+        .hex .more-info {
+            font-size: 0.8em;
+        }
+        .hex .more-info a {
+            font-weight: normal;
+        }
+
+        .hex .author {
+            display: none;
+            color: gray;
+            font-weight: bold;
+        }
+
+        .hex:hover .author {
+            display: inline;
+        }
+
+        .clear {
+            clear:both;
+        }
+
+        .footer {
+            padding-top: 10px;
+            border-top: 1px solid #ccc;
+            margin: 75px auto;
+            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+            font-size: 12px;
+            line-height: 18px;
+            color: #999;
+        }
+        .footer a {
+            color: #999;
+            font-weight: bold;
+        }
+        
+#hexmap {
+    margin-left: 20px;
+}
+
+        </style>
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-2675737-17']);
+            _gaq.push(['_trackPageview']);
+            (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+    </head>
+
+    <body>
+    <div id="container">
+        
+<h1>The Lavender Marshes</h1>
+
+<div id="introduction" class="write-up">
+    <p>South of the mountain range made famous by the Faithless Twins lays The Lavender Marshes, home to wasp-women, tar-men, and savages, who all make their homes in the ruins and decay of a once advanced civilization.</p>
+</div>
+
+<h2>A Map of the Marshes</h2>
+<img id="hexmap" src="hexkit.png" alt="The Kraal" usemap="#hexenmap">
+
+
+
+        <h2>Hex Descriptions</h2>
+
+        
+        <div class='hex' id="0101">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0101' class='permalink'>0101</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    &#8663;
+                    <a class='bottom' href='#0201'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A tribe of savages make their home in a network of caves at the base of this mountain range. Their homes are littered with super-technogolgy far beyond their comprehension, which they use as crude tools and furniture.
+                
+            </p>
+            
+            <p class='description'>
+                A small monastry sits on one of the craggy peaks of this mountain range. The monks within worhship an ancient computer, it's terminal blinking waiting for its next comand.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0102">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0102' class='permalink'>0102</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0201'>&#8663;</a>
+                    <a class='bottom' href='#0202'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A hermit shaman collect broken technogical artifacts. He(she?) can talk to the machine spirits. Secret tunnels lead to 0101.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0103">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0103' class='permalink'>0103</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0202'>&#8663;</a>
+                    <a class='bottom' href='#0203'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                These mountains are suspciously filled with round holes and dangerously susceptible to cave-ins. A great hole in the side of one moutains marks the entrance to a burrowing Titan’s lair. It collects big, shiny pieces of scrap metal (half-broken ancient tech). It won’t bother to hunt anything smaller than a horse, unless it becomes very hungry.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0104">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0104' class='permalink'>0104</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0203'>&#8663;</a>
+                    <a class='bottom' href='#0204'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The MIre Man lives here, a grotesque bloated hybrid of elf and ooze. He tried to destroy <a href='#0105' class='city-link'>OOL-LENG</a>, failed, and paid a terrible price. He hates everything that has bones. His territory is marked by a countless number of strange sculptures made from the broken bones of creatures that crossed his path, from frogs to unwary travelers.
+                
+                <span class="more-info"><a href="http://deadcyclops.blogspot.com/2014/07/mire-man.html">Read More</a></span>
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0105">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0105' class='permalink'>0105</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0204'>&#8663;</a>
+                    <a class='bottom' href='#0205'>&#8664;</a>
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0104'>0104</a>, <a class='hex-link' href='#0106'>0106</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                FALSE PYRAMID OF OOL-LENG. Ool-leng is an immobile, giant, pyramid-shaped, intelligent, philosophical ooze. It longs for information about obscure subjects and rewards entities that fulfill quests on its behalf with parts of its own substance, which has various magical properties.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0106">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0106' class='permalink'>0106</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0205'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Some shrooms are absorbing the spores of <a href='#0105' class='city-link'>OOL-LENG</a> and are growing in pyramidal grooves. This forest is a melting pot of weirdly shaped slimes and shrooms. Some native hunters know their way around the place. A trail lead to a pool of dreaming ooze.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0201">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0201' class='permalink'>0201</a>
+                    <span class='nav'>
+                    <a class='top' href='#0101'>&#8662;</a>
+                    <a class='bottom' href='#0101'>&#8665;</a>
+                    <a class='top' href='#0301'>&#8663;</a>
+                    <a class='bottom' href='#0302'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Roc corpse. Upon inspection, 2d8 bloated spiders burst from its breast. Partially digested gnome in stomach wears ring of x-ray vision.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0203">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0203' class='permalink'>0203</a>
+                    <span class='nav'>
+                    <a class='top' href='#0103'>&#8662;</a>
+                    <a class='bottom' href='#0103'>&#8665;</a>
+                    <a class='top' href='#0303'>&#8663;</a>
+                    <a class='bottom' href='#0304'>&#8664;</a>
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0205'>0205</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                VESPID. A rock outcrop rises from the surrounding mire. Lodged in its fissures: the bulb-like cement apartments of the wasp-women. A hospitable community, led by an iridescent priestess. Communal creche filled with captive humanoids - paralysed, implanted with larvae.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0204">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0204' class='permalink'>0204</a>
+                    <span class='nav'>
+                    <a class='top' href='#0104'>&#8662;</a>
+                    <a class='bottom' href='#0104'>&#8665;</a>
+                    <a class='top' href='#0304'>&#8663;</a>
+                    <a class='bottom' href='#0305'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Slug Wallow. A shallow basin 100' across and filled with stagnant slime and massive bloated slugs 10-12' in length which gorge on the fetid marsh weeds.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0205">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0205' class='permalink'>0205</a>
+                    <span class='nav'>
+                    <a class='top' href='#0105'>&#8662;</a>
+                    <a class='bottom' href='#0105'>&#8665;</a>
+                    <a class='top' href='#0305'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Sarria, a wasp-women from <a href='#0203' class='city-link'>VESPID</a>, is searching the mushroom forest for a rare fungus to cure her ailling child. She will gladly accept the aid of any friendly adventurers. Any assistence provided will raise the party's standing in the village.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0206">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0206' class='permalink'>0206</a>
+                    <span class='nav'>
+                    <a class='top' href='#0106'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0306'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                SYNDER'S OUTPOST: Vaine Synder is a hermit trapper that has built a small permanent outpost on a dry patch of the land, consisting of a couple of log cabins, a well and a field of marsh pumpkins. He is not interested in money, but will gladly trade accomodation for goods, equipment or a helping hand. He is knowlegable about all surrounding hexes, and gives information freely. There's a 1 in 6 chance that 1d3 hunters are currently staying in the outpost.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0301">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0301' class='permalink'>0301</a>
+                    <span class='nav'>
+                    &#8662;
+                    <a class='bottom' href='#0202'>&#8665;</a>
+                    &#8663;
+                    <a class='bottom' href='#0401'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                FAITHLESS TWINS: Two small jagged peaks in the range - the westernmost peak has carved in its east-facing side a bas-relief style effigy of the Torn God, carved ages ago by unknown hands.  Around its face are hundreds of unexplored caves speckled across the mountainside.  The easternmost peak is spiraled by miles of rough-hewn steps in the stone of the mountain, which lead to an overlook from which to view the Torn God.  Over the centuries, hundreds of people have leapt to their death from the overlook.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0302">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0302' class='permalink'>0302</a>
+                    <span class='nav'>
+                    <a class='top' href='#0201'>&#8662;</a>
+                    <a class='bottom' href='#0203'>&#8665;</a>
+                    <a class='top' href='#0401'>&#8663;</a>
+                    <a class='bottom' href='#0402'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                TRAGEDY TOWER: At first glance, this eerie, forsaken tower seems to be the remnant of a long-dead wizard empire. In fact, the wizard empire never existed. This "tower" is merely the steeple for the CATHEDRAL OF SUNKEN DREAMS, a much grander structure that sank into the bloody bogs eons ago. The FUNGAL MUMMIES of the dead churchmen do their best to conceal the Cathedral's true nature.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0303">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0303' class='permalink'>0303</a>
+                    <span class='nav'>
+                    <a class='top' href='#0202'>&#8662;</a>
+                    <a class='bottom' href='#0204'>&#8665;</a>
+                    <a class='top' href='#0402'>&#8663;</a>
+                    <a class='bottom' href='#0403'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                THE WILLOW'S COVEN: What appears to be a mere grove of weeping willows is actually the home of a coven of dryad swamp witches and the treants they are bonded to. Although plants, the treants weep tears of cursed blood.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0304">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0304' class='permalink'>0304</a>
+                    <span class='nav'>
+                    <a class='top' href='#0203'>&#8662;</a>
+                    <a class='bottom' href='#0205'>&#8665;</a>
+                    <a class='top' href='#0403'>&#8663;</a>
+                    <a class='bottom' href='#0404'>&#8664;</a>
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0305'>0305</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                TAR SLOPE MOUNTAIN: A trio of tar men have swum up from the depths of the crater of bubbling tar, seeking curse removal from a surface cleric. In an attempt to communicate, they have crafted four semi-sentient flesh golems from animals caught in the adjacent forest.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0305">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0305' class='permalink'>0305</a>
+                    <span class='nav'>
+                    <a class='top' href='#0204'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0404'>&#8663;</a>
+                    <a class='bottom' href='#0405'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Discharges from the <a href='#0304' class='city-link'>TAR SLOPE MOUNTAIN</a> periodically spill down into this TAR FOREST and bury anything inside. Although creatures brachiate through the tar-covered willows above, passage aboard a vessel of the pale, bug-eyed Tar Gnomes allows the safest means of egress through much of the hex. Those who sink into the tarry swamp below are said to never come out alive, a fact many an evildoer have taken advantage of.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0306">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0306' class='permalink'>0306</a>
+                    <span class='nav'>
+                    <a class='top' href='#0205'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0405'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Stubby trees atop arcing roots. These quickly grow thick; to walk between them is to lose sight of sun. The northernmost reach of the MANGROVE MAZE. Teeming with poison tree crabs, carnivorous swarm-fish. Tended to by a salt-golem gardeners, enacting a patient conquest of freshwater marshes.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0401">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0401' class='permalink'>0401</a>
+                    <span class='nav'>
+                    <a class='top' href='#0301'>&#8662;</a>
+                    <a class='bottom' href='#0301'>&#8665;</a>
+                    <a class='top' href='#0501'>&#8663;</a>
+                    <a class='bottom' href='#0502'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                BEHEMOTH'S MAW: Ages ago, this now-dormant volcano belched forth flows of lava that engulfed all the life nearby. However, yesterday's annhilation made the surrounding environs fertile for the fecud (if usually malformed) life that dominates the land today. Today, Behemoth's Maw only spews bands of exiled monsters from below, always warning their coming with the release of toxic miasmas.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0402">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0402' class='permalink'>0402</a>
+                    <span class='nav'>
+                    <a class='top' href='#0302'>&#8662;</a>
+                    <a class='bottom' href='#0302'>&#8665;</a>
+                    <a class='top' href='#0502'>&#8663;</a>
+                    <a class='bottom' href='#0503'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                This area is infested with bog imps that breed in shallow pools of mud water. They are feared for the often infectious wounds their claws can inflict. An even greater danger are the Tower Traps that sprout here, huge carnivorous plants that grow up to 60' high. They look like huge green trunks crowned by large bladder sacks. They can throw the bladders up to 50' to trap food in the digestive and sticky goo of the bladder. The bladders are big enought to trap human-sized prey and are attached to the trunk by vines that can pull them back up to the top of the plants. The tower traps will happily eat something other than bog imp for a change.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0403">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0403' class='permalink'>0403</a>
+                    <span class='nav'>
+                    <a class='top' href='#0303'>&#8662;</a>
+                    <a class='bottom' href='#0303'>&#8665;</a>
+                    <a class='top' href='#0503'>&#8663;</a>
+                    <a class='bottom' href='#0504'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Shallow water changing in depth from just over the foot to slightly more then ankle deep, softly bubbles. Mosquitoes buzz around and bite the PCs as they move through the area. A soft rotten egg smell permeates though the area but it's not so overpowering as to be a distraction. As the player walk through the area roll 1d6: if the number is equal to or less then the number of players 1d2 of them have stepped into the bog. These players begin to slowly sink and are treated as though grappled. A strength check (roll under half strength score) is required for the player to get out. Other players can aid this but you can decide how that will work.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0404">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0404' class='permalink'>0404</a>
+                    <span class='nav'>
+                    <a class='top' href='#0304'>&#8662;</a>
+                    <a class='bottom' href='#0304'>&#8665;</a>
+                    <a class='top' href='#0504'>&#8663;</a>
+                    <a class='bottom' href='#0505'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Wild Arachnaurochs Herd. Ancient cousins of the silk producing Holstein Spidercattle, these vicious creatures roam about the forest preying upon unsuspecting herbivores. Their eggs are a prized delicacy, and their nests tend to have the belongings of lost travelers.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0405">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0405' class='permalink'>0405</a>
+                    <span class='nav'>
+                    <a class='top' href='#0305'>&#8662;</a>
+                    <a class='bottom' href='#0305'>&#8665;</a>
+                    <a class='top' href='#0505'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Ruins of a Holstein automated spidercattle farm pod, contain ancient skeletons covered in calcified webs. Local mudwalker avoid the place.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0406">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0406' class='permalink'>0406</a>
+                    <span class='nav'>
+                    <a class='top' href='#0306'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0506'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                BLIGHT RANGER HEADQUARTERS: A fortification rests in a clearing seperated from the surrounding mire by walls made of the region's sturdiest logs. This is the base of the BLIGHT RANGERS, a taskforce of would-be peacekeepers for the Lavender Marshes. Originally organized from the survivors of the spidercattle farm pod disaster in 405, the Blight Rangers have since then gathered membership from all sorts of people touched by the misfortune and degenerative influence of the Marshes. Many of the members therefore bear marked warping of the flesh and sometimes of the mind. Despite the ragtag misfit nature of its membership, the hidden influence of Megol (see 506) upon the Rangers' leadership keep the upper ranks rather organized.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0501">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0501' class='permalink'>0501</a>
+                    <span class='nav'>
+                    &#8662;
+                    <a class='bottom' href='#0402'>&#8665;</a>
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The mountain is naturally the source of an extremely rare fungus that is highly valued by wizards and alchemists as an ingredient in potions. However, the fungus is tended by a colony of giant ants (roughly the size of dogs), which will fiercely defend it if provoked. Warrior ants have a bonus to ambush anyone disturbing the fungus.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0502">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0502' class='permalink'>0502</a>
+                    <span class='nav'>
+                    <a class='top' href='#0401'>&#8662;</a>
+                    <a class='bottom' href='#0403'>&#8665;</a>
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                SPORE FOREST: A particularly dangerous part of the fungal forests: here it snows deadly spores that infest living creatures with mind-controlling cordiceps. The tops of the shrooms are decorated with the hollowed out corpses of giant ants who had fallen victim to them; from their heads grow valuable fungal branches.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0503">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0503' class='permalink'>0503</a>
+                    <span class='nav'>
+                    <a class='top' href='#0402'>&#8662;</a>
+                    <a class='bottom' href='#0404'>&#8665;</a>
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0504'>0504</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A secret hideaway is buried here among the drooping trees of this area. A chapter of the Corpsebloom Poisoner's Guild lurks here, gathering ingredients and training agents away from prying eyes. Their current project involves the collection of spores from area 502 and developing them into ever more potent biological weapons.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0504">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0504' class='permalink'>0504</a>
+                    <span class='nav'>
+                    <a class='top' href='#0403'>&#8662;</a>
+                    <a class='bottom' href='#0405'>&#8665;</a>
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                BLIGHT RANGER WATCHTOWERS: To find the encroachment of the Shroom Forest into the Lavendar Marshes (for example, see 505), the BLIGHT RANGERS (see Area 406]) have began the construction of a line of watchtowers in this hex. As of yet, they are unaware of the <a href='#0503' class='city-link'>SECRET ENCLAVE OF THE CORPSEBLOOM GUILD</a>. This ignorance may prove fatal when the Guild strikes preemptively.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0505">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0505' class='permalink'>0505</a>
+                    <span class='nav'>
+                    <a class='top' href='#0404'>&#8662;</a>
+                    &#8665;
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                WEEPING FOREST: Limp leaves and hanging branches give the impression of a forest on the verge of collapse and the constant drip of water from above creates the sense the that the plants are themselves weeping.  The Shroom forest to the East is slowly expanding here, and fungus carpets the undergrowth.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0506">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0506' class='permalink'>0506</a>
+                    <span class='nav'>
+                    <a class='top' href='#0405'>&#8662;</a>
+                    &#8665;
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0605'>0605</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                MONOLITHIC SHRINE OF MEGOL, master of automatons.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0601">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0601' class='permalink'>0601</a>
+                    <span class='nav'>
+                    <a class='top' href='#0501'>&#8662;</a>
+                    <a class='bottom' href='#0501'>&#8665;</a>
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                BLADEWIND PEAKS: Caves under the mountain, made by the worm god Quoolak. A clan of reclusive, worm-worshipping dwarves dwells there. It is devided into two warring factions, the stone-born who live in the caves and the womb-born who live in the carcass of the worm god. Both have gone insane over the centuries and their numbers are dwindling. A wizard king has promised eternal gratitude and unknown riches for those who can steal and bring him the worm god's heart.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0602">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0602' class='permalink'>0602</a>
+                    <span class='nav'>
+                    <a class='top' href='#0502'>&#8662;</a>
+                    <a class='bottom' href='#0502'>&#8665;</a>
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                HEART OF THE SHROOM-FOREST The shroom dryads have captured the sorcerer Parnea <a class='hex-link' href='#0604'>0604</a> and drain the energy from his lichen-cocooned body to feed the forest's psycho-hallucigenic veil. After three decades of imprisonment, Parnea has learned to manipulate the veil enough to send out telepathic messages and weaken the bonds of his prison. The dryads are alarmed and might seek outside assistance to contain the sorcerer. Parnea seeks allies of his own to help him escape.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0603">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0603' class='permalink'>0603</a>
+                    <span class='nav'>
+                    <a class='top' href='#0503'>&#8662;</a>
+                    <a class='bottom' href='#0503'>&#8665;</a>
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Walking Spore Forest. Quiet except for the multiple mushrooms clones of a lost adventurer, walking around looking for traps and secret stuff. His or her original body holds something precious in his or her arms.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0604">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0604' class='permalink'>0604</a>
+                    <span class='nav'>
+                    <a class='top' href='#0504'>&#8662;</a>
+                    <a class='bottom' href='#0504'>&#8665;</a>
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0602'>0602</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                THE OLD GARDEN AKA the Death Garden of Parnea. A ruined manse situated in a malevolent sorcerer's garden grown wild with years of neglect.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0605">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0605' class='permalink'>0605</a>
+                    <span class='nav'>
+                    <a class='top' href='#0505'>&#8662;</a>
+                    <a class='bottom' href='#0505'>&#8665;</a>
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A group of broken adventures have recently fled the <a href='#0506' class='city-link'>MONOLITHIC SHRINE OF MEGOL</a>. They lament the treasures they were foced to leave behind. They can provide players with a partial map of the shrine for a small price.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0606">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0606' class='permalink'>0606</a>
+                    <span class='nav'>
+                    <a class='top' href='#0506'>&#8662;</a>
+                    &#8665;
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Rusted forest of lost automatons. Willows trees grow over the metal husks, their dryads cry for the broken and discarded automatons. One automaton contain a moss covered prime spark core. The prime spark is damaged.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+
+        
+<div id="about" class="write-up">
+    <h2>About this Project</h2>
+    <p>I am part of the beta for <a href="https://www.kickstarter.com/projects/cecil-howe/hex-kit">HexKit</a>, and decided to make a small hex map I could use for my Carcosa game. I posted the thing on Google+ and <a href="https://plus.google.com/+RamananS/posts/ZqGuLkPUZ1h"asked for help filling in the hexes</a>. My people came through. This page is based on work I did for the <a href="http://save.vs.totalpartykill.ca/grab-bag/hexenbracken/">Hexenbracken</a>. Contributors: Jürgen Mayer (7), Chris P. (7), Cédric Plante (4), Ramanan Sivaranjan (4), Zedeck Siew (2), Wayne Snyder (2), Wayne Rossi (1), Jennifer Erixon (1), Eric Diaz (1), Joel Bethell (1), Reece Carter (1), Cédric Plante  (1), Brandon Daggerhart (1), Gus L.  (1), Jeremy "frothsof" Smith (1), Michael Prescott (1).</p>
+</div>
+
+        <div class="clear"></div>
+        <div class="footer">
+            <p>
+            This site was created by <a href="http://funkaoshi.com/">Ramanan Sivaranjan</a>. If you like this site, you might also enjoy my D&amp;D blog, <a href="http://save.vs.totalpartykill.ca/">Save vs. Total Party Kill</a>.
+            </p>
+        </div>
+    </div>
+    </body>
+</html>
