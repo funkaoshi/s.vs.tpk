@@ -4,7 +4,7 @@ title: Delving Deeper
 category: review
 tags:
     - delvingdeeper
-    - od&d
+    - odnd
     - osr
 date: 2012-10-24 9:45 AM
 gplus: https://plus.google.com/110118815125792309582/posts/FdXixdzJqmQ

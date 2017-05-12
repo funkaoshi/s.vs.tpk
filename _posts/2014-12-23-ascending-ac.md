@@ -4,7 +4,7 @@ title: Ascending AC for OD&D
 category: blog
 tags:
     - mastersofcarcosa
-    - od&d
+    - odnd
 gplus:
 date: 2014-12-23 09:20 pm
 ---

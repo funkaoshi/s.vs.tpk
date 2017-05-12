@@ -4,7 +4,7 @@ title: Empire of the Petal Throne
 category: play-report
 tags:
     - ept
-    - od&d
+    - odnd
     - toronto
     - meetup
 gplus: https://plus.google.com/+RamananS/posts/6LCzSrZfBHG
@@ -27,7 +27,7 @@ Oh, also the book has some great art!
 
 
 [1]: http://www.tekumel.com/gaming_rulesEPT.html
-[2]: /tag/od&d/
+[2]: /tag/odnd/
 [3]: http://www.tekumel.com/
 [4]: http://en.wikipedia.org/wiki/M._A._R._Barker
 

@@ -3,7 +3,7 @@ layout: post
 title: Wild Talents
 category: blog
 tags:
-    - d&d
+    - dnd
     - darksun
     - homebrew
     - psionics
@@ -41,4 +41,4 @@ Player's should roll under their Wisdom score to determine if their character ha
 A character may use their psionic power once per day. (**Psionic Immunity** and **The Haitian** are exceptions here: they are always active.)
 
 [1]: /tag/darksun/
-[2]: /tag/od&d/
+[2]: /tag/odnd/

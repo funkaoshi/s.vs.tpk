@@ -3,7 +3,7 @@ layout: post
 title: "Rune Knights for Baroviania"
 category: blog
 tags: 
-    - d&d 
+    - dnd 
     - baroviania
     - constantcon
     - homebrew

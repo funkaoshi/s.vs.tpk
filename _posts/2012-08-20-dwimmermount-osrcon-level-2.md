@@ -4,7 +4,7 @@ title: "Dwimmermount at OSRCon 2012: Level 2"
 category: play-report
 tags: 
     - osr
-    - od&d
+    - odnd
     - dwimmermount
     - toronto
     - osrcon

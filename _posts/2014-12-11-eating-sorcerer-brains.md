@@ -3,7 +3,7 @@ layout: post
 title: Eating Sorcerer Brains
 category: blog
 tags:
-    - od&d
+    - odnd
     - carcosa
     - homebrew
     - mastersofcarcosa

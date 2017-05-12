@@ -3,7 +3,7 @@ layout: post
 title: Let's play OD&D
 category: blog
 tags:
-    - od&d 
+    - odnd 
 gplus: https://plus.google.com/110118815125792309582/posts/BQ44THNxS4g
 date: 2013-04-19 10:48 am
 ---

@@ -4,7 +4,7 @@ title: The Reward
 category: blog
 tags:
   - media
-  - d&d
+  - dnd
   - video
 date: 2013-01-25 10:20 AM
 gplus: https://plus.google.com/110118815125792309582/posts/X6ooWZtLWL3

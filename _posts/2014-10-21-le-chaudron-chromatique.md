@@ -5,7 +5,7 @@ category: link
 tags:
   - osr
   - blogs
-  - d&d
+  - dnd
   - art
   - blogfaves
 gplus: 

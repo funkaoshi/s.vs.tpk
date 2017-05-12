@@ -4,7 +4,7 @@ title: "Wonder & Wickedness"
 category: review
 tags:
     - osr
-    - od&d
+    - odnd
 gplus:
 date: 2015-03-11 11:00 pm
 ---

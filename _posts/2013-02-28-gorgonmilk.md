@@ -5,7 +5,7 @@ category: link
 tags:
   - osr
   - blogs
-  - d&d
+  - dnd
   - blogfaves
 date: 2013-02-28 10:00 AM
 gplus: https://plus.google.com/110118815125792309582/posts/RYHJumMjgbD

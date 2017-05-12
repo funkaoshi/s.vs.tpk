@@ -3,7 +3,7 @@ layout: post
 title: Coming Out of Retirement
 category: blog
 tags:
-    - od&d
+    - odnd
     - carcosa
     - homebrew
     - mastersofcarcosa

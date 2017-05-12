@@ -3,7 +3,7 @@ layout: post
 title: Quantum Ogres
 category: blog
 tags:
-    - d&d
+    - dnd
     - osr
 gplus: https://plus.google.com/110118815125792309582/posts/BrBP2bjzWe9
 date: 2013-06-24 11:52 pm

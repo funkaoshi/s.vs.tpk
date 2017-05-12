@@ -3,7 +3,7 @@ layout: post
 title: Magic Arrows
 category: blog
 tags:
-    - od&d
+    - odnd
     - mahabharata
 gplus: http://save.vs.totalpartykill.ca/blog/magic-arrows/
 date: 2014-07-31 10:04 am

@@ -5,7 +5,7 @@ category: link
 tags:
   - osr
   - blogs
-  - od&d
+  - odnd
   - blogfaves
 ---
 

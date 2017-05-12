@@ -3,7 +3,7 @@ layout: post
 title: On the Blue Mage
 category: link
 tags: 
-    - d&d 
+    - dnd 
     - finalfantasy
 date: 2013-02-26 10:00 AM
 ---

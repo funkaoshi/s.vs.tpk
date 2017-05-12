@@ -5,7 +5,7 @@ category: link
 tags:
   - osr
   - blogs
-  - d&d
+  - dnd
   - ASE
   - blogfaves
 date: 2012-12-01 4:30 PM

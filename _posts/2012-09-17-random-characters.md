@@ -4,8 +4,8 @@ title: Random D&D Characters, Huzzah!
 category: blog
 date: 2012-09-17 10:00 PM
 tags:
-    - d&d
-    - od&d
+    - dnd
+    - odnd
     - greyhawk
     - webapp
 gplus: https://plus.google.com/110118815125792309582/posts/4NpeeyQXpUz

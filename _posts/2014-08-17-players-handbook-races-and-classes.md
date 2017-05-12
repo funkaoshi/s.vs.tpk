@@ -32,6 +32,6 @@ In the old-school scene you often find people sharing their home brew character 
 [basic]: http://dnd.wizards.com/sites/default/files/media/DnDBasicRules%28No%20Background-PrinterFriendly%29_0.pdf
 [dnd]: http://dnd.wizards.com/
 [phb]: http://dnd.wizards.com/products/tabletop-games/rpg-products/rpg_playershandbook
-[odd]: /tag/od&d/
+[odd]: /tag/odnd/
 [4e]: /blog/we-re-playing-d-d/
 [encounters]: /tag/encounters/

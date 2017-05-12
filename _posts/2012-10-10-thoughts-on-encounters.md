@@ -4,8 +4,8 @@ title: "More Thoughts on D&D Encounters"
 category: blog
 tags:
     - 4e
-    - d&d
-    - od&d
+    - dnd
+    - odnd
     - encounters
     - dwimmermount
 date: 2012-10-10 9:45 PM

@@ -3,7 +3,7 @@ layout: post
 title: <em>Men and Magic</em>
 category: blog
 tags:
-    - od&d
+    - odnd
 gplus: https://plus.google.com/+RamananS/posts/NzXAooxDnhK
 date: 2014-03-04 09:47 pm
 ---

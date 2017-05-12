@@ -4,7 +4,7 @@ title: "X1: <em>Isle of Dread</em>"
 category: review
 date: 2012-09-22 10:45 PM
 tags:
-    - d&d
+    - dnd
     - expert
     - module
 gplus: https://plus.google.com/110118815125792309582/posts/KbfCtq66KoH

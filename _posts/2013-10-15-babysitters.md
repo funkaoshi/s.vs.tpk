@@ -5,7 +5,7 @@ category: blog
 tags:
     - diy
     - osr
-    - d&d
+    - dnd
     - homebrew
 gplus: https://plus.google.com/110118815125792309582/posts/78CNgAmsviS
 date: 2013-10-15 12:06 am

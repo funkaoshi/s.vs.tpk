@@ -3,7 +3,7 @@ layout: post
 title: A Modicum of Self Control
 category: blog
 tags: 
-    - d&d
+    - dnd
     - books
 gplus: http://save.vs.totalpartykill.ca/blog/a-shopping-list/
 ---

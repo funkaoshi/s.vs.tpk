@@ -4,7 +4,7 @@ title: Hex Crawls and Computers
 category: blog
 date: 2013-02-10 12:00 PM
 tags:
-    - d&d
+    - dnd
     - hexcrawl
     - webapp
 gplus: https://plus.google.com/110118815125792309582/posts/acsWSU66bRC

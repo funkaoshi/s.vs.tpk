@@ -5,7 +5,7 @@ category: play-report
 date: 2012-08-26 9:23 PM
 tags: 
     - baroviania
-    - d&d
+    - dnd
     - ravenloft
     - nintendo
 gplus: https://plus.google.com/110118815125792309582/posts/DfTEhNztVcw

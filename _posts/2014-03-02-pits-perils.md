@@ -4,7 +4,7 @@ title: <em>Pits & Perils</em>
 category: review
 tags:
     - osr
-    - od&d
+    - odnd
 gplus: https://plus.google.com/+RamananS/posts/6Wru643dxoZ
 date: 2014-03-02 10:04 pm
 ---

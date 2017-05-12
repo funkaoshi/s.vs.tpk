@@ -5,7 +5,7 @@ category: play-report
 tags:
     - Pahvelorn
     - osr
-    - od&d
+    - odnd
 gplus: https://plus.google.com/110118815125792309582/posts/JAmubEN5bgh
 date: 2013-04-27 02:16 pm
 ---

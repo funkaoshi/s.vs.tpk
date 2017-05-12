@@ -4,7 +4,7 @@ title: Dwimmermount's Room Descriptions
 category: blog
 tags:
     - osr
-    - od&d
+    - odnd
     - dwimmermount
 gplus: https://plus.google.com/u/0/+RamananS/posts/8cWeBz7q5tN
 date: 2015-03-15 09:13 pm

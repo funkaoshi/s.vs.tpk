@@ -4,7 +4,7 @@ title: Ta-Nehisi Coates discusses D&D
 category: blog
 tags:
   - media
-  - d&d
+  - dnd
   - video
   - mainstream
 gplus: https://plus.google.com/110118815125792309582/posts/BA3LSB8eXnK

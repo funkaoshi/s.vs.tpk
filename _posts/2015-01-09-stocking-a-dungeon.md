@@ -4,7 +4,7 @@ title: Stocking a Dungeon
 category: blog
 tags:
     - osr
-    - d&d
+    - dnd
     - diy
 gplus: https://plus.google.com/+RamananS/posts/aDAqNK4ihhL
 date: 2015-01-09 09:37 am
