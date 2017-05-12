@@ -26,6 +26,8 @@ The new artwork by Rich Longmore is fantastic. I have no regrets about picking u
 
 I still haven’t played Night Witches. I’m not sure when i’ll get the chance. Hopefully sooner rather than later: it seems neat and it’s certainly different.
 
+*Update 2017-03-13*: [I ended up playing Night Witches twice at BreakoutCon 2017.][nwr] It was really great.
+
 
 [night-witches]: http://www.bullypulpitgames.com/games/night-witches/
 [proto-night-withces]: http://www.story-games.com/forums/discussion/comment/124792
@@ -37,3 +39,4 @@ I still haven’t played Night Witches. I’m not sure when i’ll get the chanc
 [aw]: http://apocalypse-world.com/
 [4e]: /blog/4th-edition-powers/
 [history]: http://www.story-games.com/forums/discussion/5562/i-want-to-know-more-about-night-witches
+[nwr]: /review/night-witches-reprise/
