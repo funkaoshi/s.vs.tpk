@@ -4,6 +4,7 @@ permalink: .htaccess
 
 Redirect /review/2012/05/29/crawl-fanzine/ /review/crawl-fanzine/
 Redirect /grabbag/he-man/ /grab-bag/he-man/
+Redirect /grab-bag/hexkit/ /grab-bag/marshes/
 Redirect /blog/baroviania-session-7/ /play-report/baroviania-session-7/
 Redirect /blog/dwimmermount-osrcon-level-2/ /play-report/dwimmermount-osrcon-level-2/
 Redirect /blog/dwimmermount-osrcon-level-1/ /play-report/dwimmermount-osrcon-level-1/
