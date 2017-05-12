@@ -22,9 +22,9 @@ The best example of what you can do with video chat and D&D nerds is [ConstantCo
 Ultimately what made the night fun was that the actual adventure was a lot of fun.[^2] By the end of the night the adventuring party consisted of: Pickles the horse, two dwarves, an elf, a halfing, a robot cleric of Pelor, and a (demon?) baby called Hope. That's what i'm talking about!
 
 
-[^1]: There are tools available to aid with running more precise combat, and for online dice rolling: [Tabletop Forge][5] and [roll20][6].
+[^1]: There are tools available to aid with running more precise combat, and for online dice rolling: [Tabletop Forge][6] and [roll20][7].
 
-[^2]: Stacy, who played the halfing in our group, has [a more thorough write about our play session][7] for those interested in our adventure.
+[^2]: Stacy, who played the halfing in our group, has [a more thorough write about our play session][8] for those interested in our adventure.
 
 
 [1]: http://save.vs.totalpartykill.ca/blog/dnd-next/
