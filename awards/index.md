@@ -8,6 +8,20 @@ css: "#ramanan-award { float: left; margin-right: 1em; }"
 
 Each year The Ramanan Sivaranjan Awards for Excellence in Gaming highlight gaming books that are exceptional in their quality and character. To qualify for contention a book must have been purchased by Ramanan Sivaranjan during the proceeding calendar year—i.e. the awards given in the summer of 2016 are for books published from January 2015 - December 2015. Winners are chosen by Ramanan Sivaranjan based on his moods about gaming at a particular moment in time. The Ramanan Sivaranjan Awards for Excellence in Gaming prides itself on selecting the finest RPG books. Previous winners have gone on to win at the EN World Awards, 3 Castles, Indiecade, the Indie-RPG Awards, and The Ramanan Sivaranjan Awards for Excellence in Gaming. The first awards were given in the summer of 2015. They originated because Ramanan Sivaranjan found it incredulous that *Death Frost Doom* wasn't nominated for Best Art at the Ennies—like, why even have an award?
 
+# [2017](/blog/awards-2016)
+
+* The Ramanan Sivaranjan Excellence in Gaming Best God Damn Book of 2016: Patrick Stuart & Zak Smith for [Maze of the Blue Medusa][motbm]
+* Best Setting Book: Rafael Chandler for [World of the Lost][wotl]
+* Best Art: Jeremy Duncan for [Towers Two][tt]
+* Honorable Mentions:
+  * D. Vincent Baker & Meguey Baker, [Apocalypse World 2e][aw]
+  * David Black, [The Black Hack][bh]
+  * Kiel Chenier, [Blood in the Chocolate][bitc]
+  * Jeff Rients and Ian Maclean, [Broodmother Sky Fortress][bmsf]
+  * James Maliszewski and Jez Gordon, [The Cursed Chateau][cc]
+  * Cecil Howe, [Do not let us Die in this Cold Winter][cw]
+  * Cecil Howe, [HexKit][hk]
+
 # [2016](/blog/awards-2015/)
 
 * The Ramanan Sivaranjan Excellence in Gaming Best God Damn Book of 2015: Scrap Princess and Patrick Stuart for [*Fire on the Velvet Horizon*][fotvh-buy]
@@ -61,3 +75,14 @@ Each year The Ramanan Sivaranjan Awards for Excellence in Gaming highlight gamin
 [tw]: http://bullypulpitgames.com/games/the-warren/
 [ryu]: http://kotohi.com/ryuutama/
 [app]: https://gumroad.com/gloomtrain
+
+[tt]: http://www.lotfp.com/store/index.php?route=product/product&path=42&product_id=230
+[wotl]: http://www.drivethrurpg.com/product/175129/World-of-the-Lost
+[motbm]: http://www.drivethrurpg.com/product/195785/Maze-of-the-Blue-Medusa-o-Deluxe-PDF
+[aw]: http://apocalypse-world.com
+[bh]: http://www.drivethrurpg.com/product/178359/The-Black-Hack
+[bitc]: http://www.lotfp.com/store/index.php?route=product/product&path=42&product_id=237
+[bmsf]: http://www.lotfp.com/store/index.php?route=product/product&path=42&product_id=236
+[cc]: http://www.lotfp.com/store/index.php?route=product/product&path=42&product_id=233
+[cw]: http://www.drivethrurpg.com/product/198895/Do-Not-Let-Us-Die-In-The-Dark-Night-Of-This-Cold-Winter
+[hk]: http://www.hex-kit.com
