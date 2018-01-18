@@ -177,6 +177,10 @@ The tyrannical Steward of Drogat Castle has decreed that a giant compass rose is
 
 In a copse in the wood is a massive, gnarled tree in what appears to the the shape of a gaint, grasping hand.  There is a hole bi g enough for a demi-human or goblin to walk through and a full human to walk through.  Following the hold into the tree and underground leads one to  THE TEMPLE OF THE HAND.  Here you will find goblins whose hands were cut off in the town of OGON (Hex 101) supplicating themslves.  If one successfully sneaks in undetected, they will witness hands crawl out of nooks and crevasses and, after feeling around for a worthy recipient, attach themselves to selected amputees.  The hands are intelligent parasites that will make their hosts stronger, more dextrous and able to cast wizard or cleric spells.  They will dominate the goblins, and attempt to kill any intruders they detect..unless the intruder is herself an amputee.  If captured by a PC who has lost a hand, and its ego is overcome, the PC may attach the hand to herself and treat it as an intelligent sword that imbues one of the abilities mentioned above.  If the ego overcomes them, they will become a servant to The Cult of The Hand and face an strong compulsion to cut off the hands of others and lead them back here.  The Cult has members in OGON and throughout the realm.  The hands purpose beyond attacting more hosts is unknown.
 
+## 0221
+
+Anyone wandering this section of forest at night on a full moon will encounter the Wyld Ride hunt of the Seelie Court. If they can succeed at a moderate Charisma or Diplomacy (or similar) check, they can join the hunt. The Seelie fey will reward them with simple charms or blessings if they successfully add to the joy of the hunt (DM discretion) and will punish them with simple curses or hexes for ruining it. Once joined, PCs that stray from the hunt are hunted by Rougarou, the Hound (use dire wolf stats but double HD and vulnerable to cold iron) of the Seelie Court until sunrise or they return to the hunting party. If they see the hunt all the way through, it ends in a dawn bacchanalia that will leave the PCs with a wicked hangover.
+
 ## 0222
 
 16 cows walk unceasingly in a circle, Should a cow die (naturally or by the sword), another cow wanders in from the northeast and assumes its place, the dead being pummeled into the earth. The ground beneath their hooves is trampled to bloody, pulpy mud. In the middle of the circle, a strange rune has been burned into the earth.
@@ -194,6 +198,10 @@ What, if anything, the Spine thinks of all this, it keeps to itself.
 ## 0301
 
 The passes through these mountains stink with the smell of rotten flesh, and great wheeling murders of rooks swarm above.  Along each of the three passes, the slavers of Ogan impale goblin slave they catch trying to escape of defeated goblin warriors.  At night the spirits of the tortured goblins wail like harsh winf through the rocks.  They can devour and replace the soul of any human infant brought here.
+
+## 0303
+
+A hidden natural fountain springs from the ground here. Its waters can heal and calm any that bath in it for at least an hour. Local monsters know this and frequently check on it for prey (roll encounter: 1d6: 1 = 1d12 goblins led by goblin shaman, 2 = Troll, 3 = Ettin, 4 = 1d8 Gnolls, 5 = Young green dragon, 6 = 2d4 Evil Centaurs serving an evil druid)
 
 ## 0304
 
@@ -251,9 +259,17 @@ Drogat Castle is know as the Castle of (false) Smiles by most in the region.  It
 
 A pitifully small band of goblins dwells in a ramshackle treehosue of bark and twigs here, hunting in the forest for mushrooms and small animals. They fancy themselves far more ferocious then they are, and will loudly and proudly proclaim thier love of 'manflesh', though none have ever tasted it, and thier descriptions of its succulence, flavor and effects can easily be confused with other near mythical foods such as strawberries, pound cake and strong spirits.  If flattered and told they will be paid in 'manflesh' several of these creatures may be willing to take mercenary or henchman work.
 
+## 0403
+
+Nestled in the peaks, is a small human settlement (20 commoners) beneath the south face of the tallest mountain in the range. Rare Silver Bears make their homes in caves in this region and their pelts are quite valuable (as are their claws, teeth, bones, etc...). Deeper inside the caves reside mountain trolls (as troll but +2 HD, resistant to weapon attacks, and gray in color). The trolls are rarely seen out of the caves but it is rumored that their leader still carries the greatsword "Urkushu", legendary weapon of Ezeke Wildmane the lost barbarian hero who sought to kill the great mountain trolls.
+
 ## 0404
 
 Among the crags and caves of nesting swallows that fill these mountains a pale stone cenotaph stands.  Climbing to it is dangerous but a close examination reveals that it tells a story of conquest with pictures and strange glyphs, much like the language of the BALEFUL SIGN.  The carvings speak of an army embarked atop great stone spears cast down from the moon to punish its terrestrial enemies with searing magical fire.
+
+## 0405
+
+Ten boulders are precariously stacked in a tower more than 100 feet high here. It is unknown who stacked them or why. A rare bird whose eggs are sought for magical properties nests on the highest boulders.
 
 ## 0406
 
@@ -262,6 +278,10 @@ A strange rock formation, a giant hollow boulder, carved with windows and strang
 ## 0407
 
 These low polluted hills were lightly seared by the BALEFUL SIGN long ago, revealling rish seams of copper belwo the topsoil.  The people of ANGLEAE have set up several pit mines, which they work lackadasically during the summer and early winter.  The miners claim to be entirely unaware of any moon cults nearby (0406), (0208).
+
+## 0408
+
+Seven cabins are just inside the northern edge of the forest here, spread out from east to west over half a mile. They show no signs of recent inhabitance, save one, at the far west end were a hunter has taken residence. The others are all marked on their doors with elven sigils of warning and danger.  Feral elves have chased off the inhabitants and will permit no mortals to reside here. The hunter is left alone because he is no mere mortal. What he is, scares even the feral elves.
 
 ## 0409
 
@@ -403,6 +423,10 @@ Also here is a Tomb Museum of the Prelithics carved inside a great eroded cube o
 ## 0913
 
 This area of forest is silent: there are no sounds of any creature, the wind doesn't stir the trees. The flowers stay closed in daytime, and even the leaves on the trees seem to droop. A very keen-eared person might hear the sounds of many distant weeping voices. A lone elf, wanders the woods destraught for a lost love. They are followed by a band of fairies, who are greatly enjoying their part as a despairing chorus, and magically 'redecorating' the path before and behind them to 'suit the mood'. The elf returns frequently to the side of their dead lover, who fell in battle- the dead elf still wears their bright armor (loots?), and looks as though asleep but for the crimson blossom upon their breast.
+
+## 0914
+
+Hidden in the center of the swamp, buried 10' under the muck and water is a leather sack, sewn from the skins of children. Placed here long ago by an ancient and wealthy witch seeking immortality. This was her sacrifice to undergo the transformation into a green hag and now she guards this swamp to prevent the theft of her sacrifice, which would undo her foul magical existance. She has also learned to summon and control 1d100 crawling claws once per night and it is the locals knowledge of this that has given the swamp it's name, Severed Swamp.
 
 ## 0915
 
@@ -760,7 +784,7 @@ High cliffs, deceptive paths and overhanging, icicle covered rock ledge make the
 
 ## 1802
 
-A tribe of goat people are accosting travelers and searching their belongings. Their shaman and goat God idol have been stolen. They fear a prophecy of destruction without their idol. They don't know that their shaman abandoned them and took the idol with them. He is hidden nearby and awaits their destruction before leaving his lair.
+A tribe of goat people are accosting travelers and searching their belongings. Their shaman and goat God idol have been stolen. They fear a prophecy of destruction without their idol. They don't know that their shaman abandoned them and took the idol with him. He is hidden nearby and awaits their destruction before leaving his lair.
 
 ## 1803
 

@@ -1,0 +1,4350 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=740, maximum-scale=1.0"/>
+
+        <title>The Scorched Coast</title>
+
+        <style type="text/css" media="screen">
+        body {
+            background: url("http://carcosa.totalpartykill.ca/static/ricepaper2.png")
+        }
+
+        #container {
+            width: 680px;
+            margin: 0 auto 0 auto;
+            padding: 25px;
+            font-family: 'Avenir', 'Helvetica', 'Arial';
+            font-size: 18px;
+            line-height: 24px;
+        }
+
+        #hexmap {
+            border: 3px solid #666;
+            margin-left: -3px;
+        }
+
+        #about {
+            clear:both;
+            margin-top: 1.5em;
+        }
+
+        a,
+        .hex:hover .location a.permalink {
+            color: #C65B53;
+        }
+        a {
+            font-weight: bold;
+            text-decoration: none;
+        }
+        h1, h2, h3, h4 {
+            font-family: 'Futura', 'Helvetica', 'Arial';
+            color: #8B96C7;
+            text-align: center;
+        }
+        h1 {
+            font-size: 32px;
+            margin-bottom: 1em;
+        }
+        h2 {
+            font-size: 24px;
+        }
+        p, td {
+            text-align: left;
+            margin: 0;
+        }
+        p + p {
+            text-indent: 1.5em;
+        }
+        p:first-child {
+            text-indent: 0;
+        }
+        ul {
+            padding-left: 0;
+        }
+        ul li {
+            list-style: none;
+        }
+
+        /* Hex Description */
+
+        .hex {
+            border-top: 2px solid #666;
+            margin:0; padding:2px;
+            clear: both;
+            font-size: 16px;
+        }
+        .hex .nav {
+            display: none;
+        }
+        .hex:hover span.nav {
+            display: inline;
+            margin-left: 1em;
+        }
+        .hex p {
+            text-indent: 0;
+        }
+        .hex .location {
+            float: left;
+            width: 160px;
+        }
+        .hex .location a.permalink {
+            color: black;
+        }
+        .hex .location p.location {
+            padding-top: 8px;
+            font-weight: bold;
+            font-size: 18px;
+        }
+        .hex .location p.references,
+        .hex .location p.references a {
+            font-weight: normal;
+            font-size: 14px;
+            text-align: left;
+        }
+        .hex p.description {
+            float: right;
+            padding: 6px 0;
+            width: 470px;
+        }
+        .hex p.description + p.description {
+            border-top: 2px solid #AAA;
+        }
+
+        .hex .more-info {
+            font-size: 0.8em;
+        }
+        .hex .more-info a {
+            font-weight: normal;
+        }
+
+        .hex .author {
+            display: none;
+            color: gray;
+            font-weight: bold;
+        }
+
+        .hex:hover .author {
+            display: inline;
+        }
+
+        .clear {
+            clear:both;
+        }
+
+        .footer {
+            padding-top: 10px;
+            border-top: 1px solid #ccc;
+            margin: 75px auto;
+            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+            font-size: 12px;
+            line-height: 18px;
+            color: #999;
+        }
+        .footer a {
+            color: #999;
+            font-weight: bold;
+        }
+        
+h1, h2, h3, h4 { color: #f5a228; }
+a, .hex:hover .location a.permalink { color: #d89014; }
+img#hexmap { margin-left: -172px; }
+
+        </style>
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-2675737-17']);
+            _gaq.push(['_trackPageview']);
+            (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+    </head>
+
+    <body>
+    <div id="container">
+        
+<h1>The Scorched Coast</h1>
+
+<div id="introduction" class="write-up">
+    <p>Life in the Scorched Coast has risen from the ashes of the Great Burn. Its form is odd and twisted: scrappy human survivors and those who became something more or less, archaoetech wizards, relic-intelligences, and slumbering powers unimaginable. Now they scour the desert dust for treasures of a bygone era.</p>
+</div>
+
+<h2>Map of the Scorched Coast</h2>
+<img id="hexmap" src="fists.png" alt="" usemap="#hexenmap">
+
+
+        <h2>Hex Descriptions</h2>
+
+        
+        <div class='hex' id="0101">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0101' class='permalink'>0101</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    &#8663;
+                    <a class='bottom' href='#0201'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A gazebo, painted white and red.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0102">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0102' class='permalink'>0102</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0201'>&#8663;</a>
+                    <a class='bottom' href='#0202'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A hidden hole in the ground will reveal a hidden underground alcove. Within the hole will be several trees that do not need sunlight and give peach fruit.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0104">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0104' class='permalink'>0104</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0203'>&#8663;</a>
+                    <a class='bottom' href='#0204'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The fossilized remains of a unicorn are fused with the rocks here.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0106">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0106' class='permalink'>0106</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0205'>&#8663;</a>
+                    <a class='bottom' href='#0206'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                10' wide pit. Does not have a bottom.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0107">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0107' class='permalink'>0107</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0206'>&#8663;</a>
+                    <a class='bottom' href='#0207'>&#8664;</a>
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0109'>0109</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Village with high tendency of mutants. Still valuable because of deep-ground spring. Occasional outbreak of zombies and sentient corn.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0109">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0109' class='permalink'>0109</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0208'>&#8663;</a>
+                    <a class='bottom' href='#0209'>&#8664;</a>
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0208'>0208</a>, <a class='hex-link' href='#0310'>0310</a>, <a class='hex-link' href='#0512'>0512</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A dragon, with a heart of nuclear fire, fell from the stars here and turn this reas and the lands near it into wastes. It now recovers inside the ruins of an enormous tower of stone and metal. Pilgrims from <a href='#0512' class='city-link'>RADIO CITY</a> and <a href='#0107' class='city-link'>GREENSPRING</a> leave offerings and worship the dragon.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0110">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0110' class='permalink'>0110</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0209'>&#8663;</a>
+                    <a class='bottom' href='#0210'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Radiation Zombies shamble around, they are different from normal zombies, Can't be turned.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0111">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0111' class='permalink'>0111</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0210'>&#8663;</a>
+                    <a class='bottom' href='#0211'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A gigantic meteor with a huge deposit of iron is mined by mutants. Its crater is massive and its arrival brought earthquakes.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0112">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0112' class='permalink'>0112</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0211'>&#8663;</a>
+                    <a class='bottom' href='#0212'>&#8664;</a>
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0820'>0820</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A tribe of wandering Tricerions (upright, true-sized, anthropomorphic Triceratops) are encamped here for the week, and will soon embark on their nesting journey to <a class='hex-link' href='#0820'>0820</a>. They wield stone tools and can breath fire.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0114">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0114' class='permalink'>0114</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0213'>&#8663;</a>
+                    <a class='bottom' href='#0214'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A market place ruled by the ancient ice drinking dispenser, who found out its ability to make corrosive Oozes of several different tastes. Every other appliance in the store is terrified of it.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0117">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0117' class='permalink'>0117</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0216'>&#8663;</a>
+                    <a class='bottom' href='#0217'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                An abandoned hut with odd totems and parchments with dried herbs hanging from the ceiling.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0119">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0119' class='permalink'>0119</a>
+                    <span class='nav'>
+                    &#8662;
+                    &#8665;
+                    <a class='top' href='#0218'>&#8663;</a>
+                    <a class='bottom' href='#0219'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                There seems to be a several high tech cannons pointing to the sky, they seem to be non functional.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0201">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0201' class='permalink'>0201</a>
+                    <span class='nav'>
+                    <a class='top' href='#0101'>&#8662;</a>
+                    <a class='bottom' href='#0101'>&#8665;</a>
+                    <a class='top' href='#0301'>&#8663;</a>
+                    <a class='bottom' href='#0302'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A band of wild horses makes this place their home.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0202">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0202' class='permalink'>0202</a>
+                    <span class='nav'>
+                    <a class='top' href='#0102'>&#8662;</a>
+                    <a class='bottom' href='#0102'>&#8665;</a>
+                    <a class='top' href='#0302'>&#8663;</a>
+                    <a class='bottom' href='#0303'>&#8664;</a>
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0203'>0203</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Sun-baked ruins of an ancient metropolis of stone and metal towers, inhabited by scavenger orcs led by a powerful psion. They will trade only with those who bear their "symbol of friendship" (a piston carved to look like a skull), selling them relics for food and water.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0203">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0203' class='permalink'>0203</a>
+                    <span class='nav'>
+                    <a class='top' href='#0103'>&#8662;</a>
+                    <a class='bottom' href='#0103'>&#8665;</a>
+                    <a class='top' href='#0303'>&#8663;</a>
+                    <a class='bottom' href='#0304'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                City outskirts. Home to The Witness, a now-retired former second-in-command to the psion in <a href='#0202' class='city-link'>THUNDER CITY</a>, though he is sometimes called back into action. Thunder City Orcs sometimes paint themselves silver in emulation of this warrior.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0204">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0204' class='permalink'>0204</a>
+                    <span class='nav'>
+                    <a class='top' href='#0104'>&#8662;</a>
+                    <a class='bottom' href='#0104'>&#8665;</a>
+                    <a class='top' href='#0304'>&#8663;</a>
+                    <a class='bottom' href='#0305'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A strange masked man of elongated limbs protects a fire that never seems to go out. His ruby-like glistening pupils always look at the party, independent of their position. If left alone, he gives the party a thumbs up.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0206">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0206' class='permalink'>0206</a>
+                    <span class='nav'>
+                    <a class='top' href='#0106'>&#8662;</a>
+                    <a class='bottom' href='#0106'>&#8665;</a>
+                    <a class='top' href='#0306'>&#8663;</a>
+                    <a class='bottom' href='#0307'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A small village where they settle all disputes on the Thunderstone. They play an ancient children's card game on a mostly flat stone. Two men enter, one man dies.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0208">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0208' class='permalink'>0208</a>
+                    <span class='nav'>
+                    <a class='top' href='#0108'>&#8662;</a>
+                    <a class='bottom' href='#0108'>&#8665;</a>
+                    <a class='top' href='#0308'>&#8663;</a>
+                    <a class='bottom' href='#0309'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                An intelligent, alien pseudodragon with a nuclear-flame heart lairs here, envious of the true <a href='#0109' class='city-link'>ATOMIC DRAGON</a>.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0213">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0213' class='permalink'>0213</a>
+                    <span class='nav'>
+                    <a class='top' href='#0113'>&#8662;</a>
+                    <a class='bottom' href='#0113'>&#8665;</a>
+                    <a class='top' href='#0313'>&#8663;</a>
+                    <a class='bottom' href='#0314'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                12 Mountain Men are known to travel to this area, dressed in simple garb and wielding clubs/hammers.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0216">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0216' class='permalink'>0216</a>
+                    <span class='nav'>
+                    <a class='top' href='#0116'>&#8662;</a>
+                    <a class='bottom' href='#0116'>&#8665;</a>
+                    <a class='top' href='#0316'>&#8663;</a>
+                    <a class='bottom' href='#0317'>&#8664;</a>
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0318'>0318</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The waters of this oasis, while cool and refreshing, may cause mutations if they are consumed more than once per day. A tribe of Palm Trees looking over a small village of mutant farmers that tend to them, aling with groves of fig and olive trees.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0217">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0217' class='permalink'>0217</a>
+                    <span class='nav'>
+                    <a class='top' href='#0117'>&#8662;</a>
+                    <a class='bottom' href='#0117'>&#8665;</a>
+                    <a class='top' href='#0317'>&#8663;</a>
+                    <a class='bottom' href='#0318'>&#8664;</a>
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#1420'>1420</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                This area and <a class='hex-link' href='#1420'>1420</a> are the exact same place. There is a 50% chance that anyone traveling through these hexes come out the equivalent boarder on the other part of the map.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0219">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0219' class='permalink'>0219</a>
+                    <span class='nav'>
+                    <a class='top' href='#0119'>&#8662;</a>
+                    <a class='bottom' href='#0119'>&#8665;</a>
+                    <a class='top' href='#0319'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0711'>0711</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                An ancient pyramid of the era before, with only one living inhabitant, <a href='#0219' class='city-link'>FROSTBITE</a>, a scientist supreme who escaped defeat with a bunch of his minions. Right now he is in waiting, hoping to restore his army of melting ice constructs.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0302">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0302' class='permalink'>0302</a>
+                    <span class='nav'>
+                    <a class='top' href='#0201'>&#8662;</a>
+                    <a class='bottom' href='#0203'>&#8665;</a>
+                    <a class='top' href='#0401'>&#8663;</a>
+                    <a class='bottom' href='#0402'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A large pile of stones sit at the end of the highway. If you squeeze them, they ooze blood. The <a href='#0702' class='city-link'>COUNTACHS OF LAMBO</a> hunt down any who take them without first winning them in a race.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0305">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0305' class='permalink'>0305</a>
+                    <span class='nav'>
+                    <a class='top' href='#0204'>&#8662;</a>
+                    <a class='bottom' href='#0206'>&#8665;</a>
+                    <a class='top' href='#0404'>&#8663;</a>
+                    <a class='bottom' href='#0405'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A lush green island that floats in the air. Anyone who lays there may be enchanted and will not want to leave.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0307">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0307' class='permalink'>0307</a>
+                    <span class='nav'>
+                    <a class='top' href='#0206'>&#8662;</a>
+                    <a class='bottom' href='#0208'>&#8665;</a>
+                    <a class='top' href='#0406'>&#8663;</a>
+                    <a class='bottom' href='#0407'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Among the ruins of a wizard's tower are many large reptilian footprints and a standing archway with a portal leading to Torsh (location R).
+                
+                <span class="more-info"><a href="https://en.wikipedia.org/wiki/Portals_of_Torsh">Read More</a></span>
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0309">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0309' class='permalink'>0309</a>
+                    <span class='nav'>
+                    <a class='top' href='#0208'>&#8662;</a>
+                    <a class='bottom' href='#0210'>&#8665;</a>
+                    <a class='top' href='#0408'>&#8663;</a>
+                    <a class='bottom' href='#0409'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Protoplasmic ooze hides inside these ruins.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0310">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0310' class='permalink'>0310</a>
+                    <span class='nav'>
+                    <a class='top' href='#0209'>&#8662;</a>
+                    <a class='bottom' href='#0211'>&#8665;</a>
+                    <a class='top' href='#0409'>&#8663;</a>
+                    <a class='bottom' href='#0410'>&#8664;</a>
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0410'>0410</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A small base of mutants, protecting the highway. They tax anyone not devoted to the <a href='#0109' class='city-link'>ATOMIC DRAGON</a> if they want to cross the highway.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0314">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0314' class='permalink'>0314</a>
+                    <span class='nav'>
+                    <a class='top' href='#0213'>&#8662;</a>
+                    <a class='bottom' href='#0215'>&#8665;</a>
+                    <a class='top' href='#0413'>&#8663;</a>
+                    <a class='bottom' href='#0414'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A roadside truck stop has been converted into an inn. A nice little comfy place to stay for a night or two.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0318">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0318' class='permalink'>0318</a>
+                    <span class='nav'>
+                    <a class='top' href='#0217'>&#8662;</a>
+                    <a class='bottom' href='#0219'>&#8665;</a>
+                    <a class='top' href='#0417'>&#8663;</a>
+                    <a class='bottom' href='#0418'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                During the day, a lifelike oasis mirage can be seen for miles. There is a 4/6 chance that travelers aiming to reach the <a href='#0216' class='city-link'>MUTATING OASIS</a> end up moving in the direction of this hex instead.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0319">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0319' class='permalink'>0319</a>
+                    <span class='nav'>
+                    <a class='top' href='#0218'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0418'>&#8663;</a>
+                    <a class='bottom' href='#0419'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Bands of nomads gather here every full moon for the "Festival of Stopping" around the stop sign. Festivities are held and pacts are made.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0320">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0320' class='permalink'>0320</a>
+                    <span class='nav'>
+                    <a class='top' href='#0219'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0419'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                An giant high tech metal windmill is here. It is still working.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0402">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0402' class='permalink'>0402</a>
+                    <span class='nav'>
+                    <a class='top' href='#0302'>&#8662;</a>
+                    <a class='bottom' href='#0302'>&#8665;</a>
+                    <a class='top' href='#0502'>&#8663;</a>
+                    <a class='bottom' href='#0503'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Hidden in the rocks, the entrance to a cave filled with ice and salt is jealously guarded by a four-armed man serpent. He charges a hefty price for his goods.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0404">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0404' class='permalink'>0404</a>
+                    <span class='nav'>
+                    <a class='top' href='#0304'>&#8662;</a>
+                    <a class='bottom' href='#0304'>&#8665;</a>
+                    <a class='top' href='#0504'>&#8663;</a>
+                    <a class='bottom' href='#0505'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Farmlands formerly belonging to the denizens of <a href='#0405' class='city-link'>BELL CITY</a>, abandoned because of dead soil and an infestation of rhinopedes.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0405">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0405' class='permalink'>0405</a>
+                    <span class='nav'>
+                    <a class='top' href='#0305'>&#8662;</a>
+                    <a class='bottom' href='#0305'>&#8665;</a>
+                    <a class='top' href='#0505'>&#8663;</a>
+                    <a class='bottom' href='#0506'>&#8664;</a>
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0404'>0404</a>, <a class='hex-link' href='#0603'>0603</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A small community has formed around a surviving dining hall of the old world.  Residents work the land to try to make the full menu available.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0410">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0410' class='permalink'>0410</a>
+                    <span class='nav'>
+                    <a class='top' href='#0310'>&#8662;</a>
+                    <a class='bottom' href='#0310'>&#8665;</a>
+                    <a class='top' href='#0510'>&#8663;</a>
+                    <a class='bottom' href='#0511'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Crumbling remnants of a highway overpass create an arching bridge down into wastelands of <a class='hex-link' href='#0310'>0310</a>. Giant sandworm makes lair at the base of the overpass.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0415">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0415' class='permalink'>0415</a>
+                    <span class='nav'>
+                    <a class='top' href='#0315'>&#8662;</a>
+                    <a class='bottom' href='#0315'>&#8665;</a>
+                    <a class='top' href='#0515'>&#8663;</a>
+                    <a class='bottom' href='#0516'>&#8664;</a>
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0518'>0518</a>, <a class='hex-link' href='#1604'>1604</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Cannibal Halflings roam these woods, unable to find their sustenance of five meals per day otherwise. They will see the PCs as a potential meal.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0419">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0419' class='permalink'>0419</a>
+                    <span class='nav'>
+                    <a class='top' href='#0319'>&#8662;</a>
+                    <a class='bottom' href='#0319'>&#8665;</a>
+                    <a class='top' href='#0519'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A single gravestone with a key engraved into the center of it is buried here.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0503">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0503' class='permalink'>0503</a>
+                    <span class='nav'>
+                    <a class='top' href='#0402'>&#8662;</a>
+                    <a class='bottom' href='#0404'>&#8665;</a>
+                    <a class='top' href='#0602'>&#8663;</a>
+                    <a class='bottom' href='#0603'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                An old gigantic indoor marketplace with everything. Images of the past world, usually comedic. Protected by segway hydras made of flesh and metal. If you take items without first giving them specific green papers they will attack.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0507">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0507' class='permalink'>0507</a>
+                    <span class='nav'>
+                    <a class='top' href='#0406'>&#8662;</a>
+                    <a class='bottom' href='#0408'>&#8665;</a>
+                    <a class='top' href='#0606'>&#8663;</a>
+                    <a class='bottom' href='#0607'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Cave filled with statues of varying quality; home to an aspiring sculptor medusa and her friend/agent, a blind elf who will pay for quality stone. Her works are accused of being petrified people; 1/6 sculptures are petrified, but they will be honest if questioned.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0508">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0508' class='permalink'>0508</a>
+                    <span class='nav'>
+                    <a class='top' href='#0407'>&#8662;</a>
+                    <a class='bottom' href='#0409'>&#8665;</a>
+                    <a class='top' href='#0607'>&#8663;</a>
+                    <a class='bottom' href='#0608'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A deep, glowing crater several miles in circumference dominates this area. When the sun is high overhead, passerby can see more than just their reflections in the protruding glass-like shards.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0509">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0509' class='permalink'>0509</a>
+                    <span class='nav'>
+                    <a class='top' href='#0408'>&#8662;</a>
+                    <a class='bottom' href='#0410'>&#8665;</a>
+                    <a class='top' href='#0608'>&#8663;</a>
+                    <a class='bottom' href='#0609'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Ruins of the town of Agua Fria, its well still cold and fresh.  Haunted by the ghost of Tejas Red, he shoots anyone in town from 11am to Noon everyday.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0511">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0511' class='permalink'>0511</a>
+                    <span class='nav'>
+                    <a class='top' href='#0410'>&#8662;</a>
+                    <a class='bottom' href='#0412'>&#8665;</a>
+                    <a class='top' href='#0610'>&#8663;</a>
+                    <a class='bottom' href='#0611'>&#8664;</a>
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#1001'>1001</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                HQ of the Sons of Belmont MC, a leather wearing, silver chain whip wielding gang who ride mechanical steeds powered by holy water are based out of the ruins of an old cathedral.  They vow to hunt the Countachs of Lambo.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0512">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0512' class='permalink'>0512</a>
+                    <span class='nav'>
+                    <a class='top' href='#0411'>&#8662;</a>
+                    <a class='bottom' href='#0413'>&#8665;</a>
+                    <a class='top' href='#0611'>&#8663;</a>
+                    <a class='bottom' href='#0612'>&#8664;</a>
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0109'>0109</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A  settlement of mutants live here, most of them Worshipers of the <a href='#0109' class='city-link'>ATOMIC DRAGON</a>. They protect the access to the highway, which is the safest way to travel to the atomic heart. If a random encounter result is non-flying, ignore it.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0514">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0514' class='permalink'>0514</a>
+                    <span class='nav'>
+                    <a class='top' href='#0413'>&#8662;</a>
+                    <a class='bottom' href='#0415'>&#8665;</a>
+                    <a class='top' href='#0613'>&#8663;</a>
+                    <a class='bottom' href='#0614'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                This old observatory is used as temporary shelter by nomads. YORMITES have been spotted here, the reason for their presence is unknown. The equipment of the observatory is surprisingly still functional.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0516">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0516' class='permalink'>0516</a>
+                    <span class='nav'>
+                    <a class='top' href='#0415'>&#8662;</a>
+                    <a class='bottom' href='#0417'>&#8665;</a>
+                    <a class='top' href='#0615'>&#8663;</a>
+                    <a class='bottom' href='#0616'>&#8664;</a>
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0518'>0518</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Forest of chalk white trees look like clouds dripping down to the sand. After 6 hours in this area, they start hearing voices of their fallen friends. Hallucinations worsen every 6 hours. 1/6 of failing to leave the forest, +1 for subsequent 6 hours.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0518">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0518' class='permalink'>0518</a>
+                    <span class='nav'>
+                    <a class='top' href='#0417'>&#8662;</a>
+                    <a class='bottom' href='#0419'>&#8665;</a>
+                    <a class='top' href='#0617'>&#8663;</a>
+                    <a class='bottom' href='#0618'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Humans of this town live off the forest of <a class='hex-link' href='#0516'>0516</a> and <a class='hex-link' href='#0617'>0617</a> and also hunt the <a href='#0415' class='city-link'>CANNIBAL HALFLINGS</a>. They hold a grudge with the folks of  0918, refusing to trade with them and plotting their demise. They hate mutants. Excellent cache of weapons.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0603">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0603' class='permalink'>0603</a>
+                    <span class='nav'>
+                    <a class='top' href='#0503'>&#8662;</a>
+                    <a class='bottom' href='#0503'>&#8665;</a>
+                    <a class='top' href='#0703'>&#8663;</a>
+                    <a class='bottom' href='#0704'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Ancient Ruins, The Baja Blaster is often seen coming and going with supplies for <a href='#0405' class='city-link'>BELL CITY</a>. No one else who has entered has returned.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0606">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0606' class='permalink'>0606</a>
+                    <span class='nav'>
+                    <a class='top' href='#0506'>&#8662;</a>
+                    <a class='bottom' href='#0506'>&#8665;</a>
+                    <a class='top' href='#0706'>&#8663;</a>
+                    <a class='bottom' href='#0707'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A two headed cyclops (right head claims that makes it a Biclops) lives here. The right head is named Proton, and the left Electron, they spend 66% of the time hunting in neighboring hexes and 100% bickering with each other.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0609">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0609' class='permalink'>0609</a>
+                    <span class='nav'>
+                    <a class='top' href='#0509'>&#8662;</a>
+                    <a class='bottom' href='#0509'>&#8665;</a>
+                    <a class='top' href='#0709'>&#8663;</a>
+                    <a class='bottom' href='#0710'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Small dungeon where ant-people live.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0610">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0610' class='permalink'>0610</a>
+                    <span class='nav'>
+                    <a class='top' href='#0510'>&#8662;</a>
+                    <a class='bottom' href='#0510'>&#8665;</a>
+                    <a class='top' href='#0710'>&#8663;</a>
+                    <a class='bottom' href='#0711'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Mutated nomads make their camp here to trade with the ant-people. YORMITES will appear here from time to time, interested in the Ant-people.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0612">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0612' class='permalink'>0612</a>
+                    <span class='nav'>
+                    <a class='top' href='#0512'>&#8662;</a>
+                    <a class='bottom' href='#0512'>&#8665;</a>
+                    <a class='top' href='#0712'>&#8663;</a>
+                    <a class='bottom' href='#0713'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Veins of rock salt just below the surface. 2/6 chance that there will be salt miners there.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0616">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0616' class='permalink'>0616</a>
+                    <span class='nav'>
+                    <a class='top' href='#0516'>&#8662;</a>
+                    <a class='bottom' href='#0516'>&#8665;</a>
+                    <a class='top' href='#0716'>&#8663;</a>
+                    <a class='bottom' href='#0717'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Gibbets sway in a dry wind. Sun-bleached bones are scattered on the dead earth. Metal cages stand open, a few trinkets left behind.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0619">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0619' class='permalink'>0619</a>
+                    <span class='nav'>
+                    <a class='top' href='#0519'>&#8662;</a>
+                    <a class='bottom' href='#0519'>&#8665;</a>
+                    <a class='top' href='#0719'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A vault that long ago belonged to an elvish automaton creator long. He hid himself to get away from his annoying family and people trying to kill him. After his death, the mushrooms he grew inside the vault have become partially sentient.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0620">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0620' class='permalink'>0620</a>
+                    <span class='nav'>
+                    <a class='top' href='#0520'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0720'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A small metallic corner pokes out from beneath the dunes. Excavation reveals a delicate latticework structure similar to a coffin, cold to the touch. Inside can be seen an elven woman clasping a small device. It is unclear if she is dead or asleep.
+                
+                <span class="more-info"><a href="https://vignette2.wikia.nocookie.net/yamato/images/d/dc/SASHA_2.jpg/revision/latest/scale-to-width-down/640?cb=20140108181326">Read More</a></span>
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0702">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0702' class='permalink'>0702</a>
+                    <span class='nav'>
+                    <a class='top' href='#0601'>&#8662;</a>
+                    <a class='bottom' href='#0603'>&#8665;</a>
+                    <a class='top' href='#0801'>&#8663;</a>
+                    <a class='bottom' href='#0802'>&#8664;</a>
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0302'>0302</a>, <a class='hex-link' href='#0801'>0801</a>, <a class='hex-link' href='#0903'>0903</a>, <a class='hex-link' href='#1001'>1001</a>, <a class='hex-link' href='#1303'>1303</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The Countachs of Lambo stalk this region of the desert at night, racing blood-fueled demon-machines in screaming neon blurs. During the day they rest underground in mausoleums. Each engine is a work of demonic art.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0704">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0704' class='permalink'>0704</a>
+                    <span class='nav'>
+                    <a class='top' href='#0603'>&#8662;</a>
+                    <a class='bottom' href='#0605'>&#8665;</a>
+                    <a class='top' href='#0803'>&#8663;</a>
+                    <a class='bottom' href='#0804'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                8 bandits in a dune boat. 7 of them are young and taking the boat for the first ride, one of them is a day away from retirement.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0708">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0708' class='permalink'>0708</a>
+                    <span class='nav'>
+                    <a class='top' href='#0607'>&#8662;</a>
+                    <a class='bottom' href='#0609'>&#8665;</a>
+                    <a class='top' href='#0807'>&#8663;</a>
+                    <a class='bottom' href='#0808'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Happy little town. Markets, farms, and relic traders. Sage leader who knows many secrets of The Scorched Coast.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0710">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0710' class='permalink'>0710</a>
+                    <span class='nav'>
+                    <a class='top' href='#0609'>&#8662;</a>
+                    <a class='bottom' href='#0611'>&#8665;</a>
+                    <a class='top' href='#0809'>&#8663;</a>
+                    <a class='bottom' href='#0810'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Oasis filled with rainbow-coloured water surrounded by twisted fruit-bearing killer plants. Fruit/water causes mutations with extended exposure or consumption; drowned mutant with d6 pieces of jewelry in water.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0711">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0711' class='permalink'>0711</a>
+                    <span class='nav'>
+                    <a class='top' href='#0610'>&#8662;</a>
+                    <a class='bottom' href='#0612'>&#8665;</a>
+                    <a class='top' href='#0810'>&#8663;</a>
+                    <a class='bottom' href='#0811'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A former apprentice of <a href='#0219' class='city-link'>FROSTBITE</a> has set up a stand selling sugary semi-frozen drinks in this area.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0714">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0714' class='permalink'>0714</a>
+                    <span class='nav'>
+                    <a class='top' href='#0613'>&#8662;</a>
+                    <a class='bottom' href='#0615'>&#8665;</a>
+                    <a class='top' href='#0813'>&#8663;</a>
+                    <a class='bottom' href='#0814'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A tomb complex which holds the body of the Notorious False King.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0715">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0715' class='permalink'>0715</a>
+                    <span class='nav'>
+                    <a class='top' href='#0614'>&#8662;</a>
+                    <a class='bottom' href='#0616'>&#8665;</a>
+                    <a class='top' href='#0814'>&#8663;</a>
+                    <a class='bottom' href='#0815'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The hideout for a gang of thugs who assault travelers. They pretend to be guides, and will work in that capacity for their victims until camp, when they attack their clients.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0716">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0716' class='permalink'>0716</a>
+                    <span class='nav'>
+                    <a class='top' href='#0615'>&#8662;</a>
+                    <a class='bottom' href='#0617'>&#8665;</a>
+                    <a class='top' href='#0815'>&#8663;</a>
+                    <a class='bottom' href='#0816'>&#8664;</a>
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#1210'>1210</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                At night, a <a href='#1410' class='city-link'>YORMITE</a> spire rises from the sand. When a Yormite Difference-Gauntlet touches the spire, they (and anything touching them) are teleported to the identical <a href='#1210' class='city-link'>YORMITE TELEPORTER NORTH</a>.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0719">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0719' class='permalink'>0719</a>
+                    <span class='nav'>
+                    <a class='top' href='#0618'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0818'>&#8663;</a>
+                    <a class='bottom' href='#0819'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Wreck of a legendary metal flying beast "7777" painted on it is sinking into the sands. Seven floor dungeon full of zombies, radiation, and old world tech and scrap. Every hour they PCs are inside there is a 2/6 chance of it sinking.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0801">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0801' class='permalink'>0801</a>
+                    <span class='nav'>
+                    <a class='top' href='#0701'>&#8662;</a>
+                    <a class='bottom' href='#0701'>&#8665;</a>
+                    <a class='top' href='#0901'>&#8663;</a>
+                    <a class='bottom' href='#0902'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The old road terminates here, swallowed by a great stone mouth that reveals a concrete tomb. Ancient coffins of the <a href='#0702' class='city-link'>COUNTACHS OF LAMBO</a> can be found in the lower layers, and murals on the walls depict strange and fascinating vistas.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0802">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0802' class='permalink'>0802</a>
+                    <span class='nav'>
+                    <a class='top' href='#0702'>&#8662;</a>
+                    <a class='bottom' href='#0702'>&#8665;</a>
+                    <a class='top' href='#0902'>&#8663;</a>
+                    <a class='bottom' href='#0903'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A strange tilted building juts out of the hills at an angle, as if the whole thing was displaced and dropped here. Strange devices like metal crossbows that grow hot to the touch and fire solid flames can be found in its depths.
+                
+                <span class="more-info"><a href="http://artisancrab.com/pics/sj-card-dragonship.jpg">Read More</a></span>
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0809">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0809' class='permalink'>0809</a>
+                    <span class='nav'>
+                    <a class='top' href='#0709'>&#8662;</a>
+                    <a class='bottom' href='#0709'>&#8665;</a>
+                    <a class='top' href='#0909'>&#8663;</a>
+                    <a class='bottom' href='#0910'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Vast nothingness, sometimes revealed by the shifting dunes is a stone peak. Inside is B4 The Lost City. The Sage in Finger Point knows of this pyramid.
+                
+                <span class="more-info"><a href="https://en.wikipedia.org/wiki/The_Lost_City_(Dungeons_%26_Dragons)">Read More</a></span>
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0812">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0812' class='permalink'>0812</a>
+                    <span class='nav'>
+                    <a class='top' href='#0712'>&#8662;</a>
+                    <a class='bottom' href='#0712'>&#8665;</a>
+                    <a class='top' href='#0912'>&#8663;</a>
+                    <a class='bottom' href='#0913'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A crashed dune boat. No tripulation.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0815">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0815' class='permalink'>0815</a>
+                    <span class='nav'>
+                    <a class='top' href='#0715'>&#8662;</a>
+                    <a class='bottom' href='#0715'>&#8665;</a>
+                    <a class='top' href='#0915'>&#8663;</a>
+                    <a class='bottom' href='#0916'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The Garuda live here. On this eyrie atop the highest peak nearest the volcano will be found the Garuda, griffin-like creatures who stand upright and brandish medieval weaponry and barding as well as codes and customs.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0816">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0816' class='permalink'>0816</a>
+                    <span class='nav'>
+                    <a class='top' href='#0716'>&#8662;</a>
+                    <a class='bottom' href='#0716'>&#8665;</a>
+                    <a class='top' href='#0916'>&#8663;</a>
+                    <a class='bottom' href='#0917'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Nestled in a ravine is a meager mountain spring. Bubbling water nourishes some plant life. Mutant catfish lurk in the muddy pond.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0818">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0818' class='permalink'>0818</a>
+                    <span class='nav'>
+                    <a class='top' href='#0718'>&#8662;</a>
+                    <a class='bottom' href='#0718'>&#8665;</a>
+                    <a class='top' href='#0918'>&#8663;</a>
+                    <a class='bottom' href='#0919'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Dry well, inside is a hidden vault with unexplained magics. It is under the control of a mind made entirely of machine. The Mind of Machine has identified the inhabitants of pillar in <a class='hex-link' href='#0819'>0819</a> as a threat and is attempting to assemble something to destroy it.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0820">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0820' class='permalink'>0820</a>
+                    <span class='nav'>
+                    <a class='top' href='#0720'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#0920'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0112'>0112</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The eggs of the <a href='#0112' class='city-link'>TRICERIONS</a> are hidden here. There is a 1/6 chance of finding the eggs when actively searched for. If poached, there is a 3/6 chance the Tricerions will trace and hunt the poachers.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0901">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0901' class='permalink'>0901</a>
+                    <span class='nav'>
+                    &#8662;
+                    <a class='bottom' href='#0802'>&#8665;</a>
+                    &#8663;
+                    <a class='bottom' href='#1001'>&#8664;</a>
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#1101'>1101</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                -
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0903">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0903' class='permalink'>0903</a>
+                    <span class='nav'>
+                    <a class='top' href='#0802'>&#8662;</a>
+                    <a class='bottom' href='#0804'>&#8665;</a>
+                    <a class='top' href='#1002'>&#8663;</a>
+                    <a class='bottom' href='#1003'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Operational military base. Friendly soldiers speak of things that do not exist. At night, no soldiers - only undead working for <a href='#0702' class='city-link'>COUNTACHS OF LAMBO</a>. The soldiers and undead do not know of each other.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0911">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0911' class='permalink'>0911</a>
+                    <span class='nav'>
+                    <a class='top' href='#0810'>&#8662;</a>
+                    <a class='bottom' href='#0812'>&#8665;</a>
+                    <a class='top' href='#1010'>&#8663;</a>
+                    <a class='bottom' href='#1011'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Clan of albino pig-people live in the ruins of the tunnels and sewers of a city long swallowed up by the sands. They trade water and old world artifacts for mushrooms and slaves.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0918">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0918' class='permalink'>0918</a>
+                    <span class='nav'>
+                    <a class='top' href='#0817'>&#8662;</a>
+                    <a class='bottom' href='#0819'>&#8665;</a>
+                    <a class='top' href='#1017'>&#8663;</a>
+                    <a class='bottom' href='#1018'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A small Stronghold of people who talk strangely. Atop the stronghold wall they say they have what you need, but they don't want to give it. If asked about it they will insult you.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="0919">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#0919' class='permalink'>0919</a>
+                    <span class='nav'>
+                    <a class='top' href='#0818'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#1018'>&#8663;</a>
+                    <a class='bottom' href='#1019'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Metal birds with swirling wings pick over the area hunting for artifacts, returning them to the MACHINE MIND.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1001">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1001' class='permalink'>1001</a>
+                    <span class='nav'>
+                    <a class='top' href='#0901'>&#8662;</a>
+                    <a class='bottom' href='#0901'>&#8665;</a>
+                    <a class='top' href='#1101'>&#8663;</a>
+                    <a class='bottom' href='#1102'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A <a href='#0702' class='city-link'>COUNTACHS OF LAMBO</a> has been captured by the <a href='#0511' class='city-link'>SONS OF BELMONT</a> and tied to a cross - he'll live until noon, at which he turns to ash.  He knows the location of a treasure stash that he will use as a bargaining chip to have the PCs to untie him.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1005">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1005' class='permalink'>1005</a>
+                    <span class='nav'>
+                    <a class='top' href='#0905'>&#8662;</a>
+                    <a class='bottom' href='#0905'>&#8665;</a>
+                    <a class='top' href='#1105'>&#8663;</a>
+                    <a class='bottom' href='#1106'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Small bands of nomads come here to gather obsidian for tools, weapons, and jewelry. They rest at a small mud hovel hamlet that is abandoned most of the year. Molemen come out at night to gather the obsidian and other igneous rocks from the volcano.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1006">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1006' class='permalink'>1006</a>
+                    <span class='nav'>
+                    <a class='top' href='#0906'>&#8662;</a>
+                    <a class='bottom' href='#0906'>&#8665;</a>
+                    <a class='top' href='#1106'>&#8663;</a>
+                    <a class='bottom' href='#1107'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Some hill giants make their home here. They are sensitive about the environment.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1009">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1009' class='permalink'>1009</a>
+                    <span class='nav'>
+                    <a class='top' href='#0909'>&#8662;</a>
+                    <a class='bottom' href='#0909'>&#8665;</a>
+                    <a class='top' href='#1109'>&#8663;</a>
+                    <a class='bottom' href='#1110'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                An Esoteric Sorority live in the decayed palaces. Only the truly desperate seek their help. Lost treasure hoard both sacred and infernal. The Sisters have a rivalry with the INVERTED LIBRARY TOWER. Will trade lost lore for <a href='#1602' class='city-link'>LASER BOOKS</a>.
+                
+                <span class="more-info"><a href="https://thumbs.dreamstime.com/t/citadel-aleppo-7287502.jpg
+
+http://www.canyoncalling.com/wp-content/uploads/2014/08/colorado-main.jpg">Read More</a></span>
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1010">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1010' class='permalink'>1010</a>
+                    <span class='nav'>
+                    <a class='top' href='#0910'>&#8662;</a>
+                    <a class='bottom' href='#0910'>&#8665;</a>
+                    <a class='top' href='#1110'>&#8663;</a>
+                    <a class='bottom' href='#1111'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Two women discuss whether an illustration of a dress is colored blue or white. If uninterrupted, they will eventually attempt to murder each other.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1013">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1013' class='permalink'>1013</a>
+                    <span class='nav'>
+                    <a class='top' href='#0913'>&#8662;</a>
+                    <a class='bottom' href='#0913'>&#8665;</a>
+                    <a class='top' href='#1113'>&#8663;</a>
+                    <a class='bottom' href='#1114'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A small camp of fire porcupines live here, they are dangerous and libertarian. Any kind of interaction is a violation of the NAP.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1016">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1016' class='permalink'>1016</a>
+                    <span class='nav'>
+                    <a class='top' href='#0916'>&#8662;</a>
+                    <a class='bottom' href='#0916'>&#8665;</a>
+                    <a class='top' href='#1116'>&#8663;</a>
+                    <a class='bottom' href='#1117'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The mother of all sand worms lives in this inactive volcano.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1017">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1017' class='permalink'>1017</a>
+                    <span class='nav'>
+                    <a class='top' href='#0917'>&#8662;</a>
+                    <a class='bottom' href='#0917'>&#8665;</a>
+                    <a class='top' href='#1117'>&#8663;</a>
+                    <a class='bottom' href='#1118'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Secret alien lair. Their intentions are not understandable.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1019">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1019' class='permalink'>1019</a>
+                    <span class='nav'>
+                    <a class='top' href='#0919'>&#8662;</a>
+                    <a class='bottom' href='#0919'>&#8665;</a>
+                    <a class='top' href='#1119'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Mutated Nomads in mud hovels seek out trade. If the PCs do not respond to their esoteric cultural customs, they will turn hostile. They speak of a haunted palace that leads into the underworld. The palace will break the sanity of those who enter.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1101">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1101' class='permalink'>1101</a>
+                    <span class='nav'>
+                    &#8662;
+                    <a class='bottom' href='#1002'>&#8665;</a>
+                    &#8663;
+                    <a class='bottom' href='#1201'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A stranded member of THE COUNTACH OF LAMBO lurks here at night. He dwells in his fuelless demon-cart during the day. He will offer a reward to any that will retrieve some fuel from <a class='hex-link' href='#0901'>0901</a>.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1102">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1102' class='permalink'>1102</a>
+                    <span class='nav'>
+                    <a class='top' href='#1001'>&#8662;</a>
+                    <a class='bottom' href='#1003'>&#8665;</a>
+                    <a class='top' href='#1201'>&#8663;</a>
+                    <a class='bottom' href='#1202'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Zombies roam the area, usually at night.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1103">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1103' class='permalink'>1103</a>
+                    <span class='nav'>
+                    <a class='top' href='#1002'>&#8662;</a>
+                    <a class='bottom' href='#1004'>&#8665;</a>
+                    <a class='top' href='#1202'>&#8663;</a>
+                    <a class='bottom' href='#1203'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Goblin spies from the tower of <a href='#1602' class='city-link'>LASER BOOKS</a>, stacked up inside a single long coat so as to appear as a single individual. They speak fluent Common.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1107">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1107' class='permalink'>1107</a>
+                    <span class='nav'>
+                    <a class='top' href='#1006'>&#8662;</a>
+                    <a class='bottom' href='#1008'>&#8665;</a>
+                    <a class='top' href='#1206'>&#8663;</a>
+                    <a class='bottom' href='#1207'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Some dwarves live in a hidden hole in the ground. After years of social engineering they have come to like the rumbling metal mounts of the previous era, and sometimes leave to show off their skills.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1112">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1112' class='permalink'>1112</a>
+                    <span class='nav'>
+                    <a class='top' href='#1011'>&#8662;</a>
+                    <a class='bottom' href='#1013'>&#8665;</a>
+                    <a class='top' href='#1211'>&#8663;</a>
+                    <a class='bottom' href='#1212'>&#8664;</a>
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#1117'>1117</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                This place looks mostly empty, but in the bowels of the earth resides an ancient lab created only to make bioweapons. One has been sleeping for centuries, the Teletransmitted Mutant Neuroactive Tyrannosaurus (or TMNT for short).
+                
+                <span class="more-info"><a href="https://i.ytimg.com/vi/b2q6ZZUToZc/hqdefault.jpg">Read More</a></span>
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1113">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1113' class='permalink'>1113</a>
+                    <span class='nav'>
+                    <a class='top' href='#1012'>&#8662;</a>
+                    <a class='bottom' href='#1014'>&#8665;</a>
+                    <a class='top' href='#1212'>&#8663;</a>
+                    <a class='bottom' href='#1213'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                This vast field of lava sometimes cools, especially after a storm. <a href='#1114' class='city-link'>LAVA-IMMUNE ELVES</a> sometimes race across the solid lava to pick rare berries that don't grow anywhere else.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1114">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1114' class='permalink'>1114</a>
+                    <span class='nav'>
+                    <a class='top' href='#1013'>&#8662;</a>
+                    <a class='bottom' href='#1015'>&#8665;</a>
+                    <a class='top' href='#1213'>&#8663;</a>
+                    <a class='bottom' href='#1214'>&#8664;</a>
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#1113'>1113</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Small stone shack near edge of Lava Fields in 1013. Dozen Lava-immune Elves attempt to grow in population.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1115">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1115' class='permalink'>1115</a>
+                    <span class='nav'>
+                    <a class='top' href='#1014'>&#8662;</a>
+                    <a class='bottom' href='#1016'>&#8665;</a>
+                    <a class='top' href='#1214'>&#8663;</a>
+                    <a class='bottom' href='#1215'>&#8664;</a>
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#1214'>1214</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Town run and populated by human-octopus hybrids called octomen that have bred in secret and made their way to the mainland. They are bad at agriculture. They come from the <a href='#1816' class='city-link'>ABYSSIA</a>.
+                
+                <span class="more-info"><a href="http://tfwiki.net/mediawiki/images2/f/f8/G1Octopunch_toy.jpg">Read More</a></span>
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1117">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1117' class='permalink'>1117</a>
+                    <span class='nav'>
+                    <a class='top' href='#1016'>&#8662;</a>
+                    <a class='bottom' href='#1018'>&#8665;</a>
+                    <a class='top' href='#1216'>&#8663;</a>
+                    <a class='bottom' href='#1217'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Pterosaurs nest among the mountain cliffs collecting gems and bright baubles. 30% of the adults are fitted with a metal collar etched with runes in a long-dead language; deciphering the runes indicates the coordinates of the <a href='#1112' class='city-link'>ANCIENT LAB</a>.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1120">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1120' class='permalink'>1120</a>
+                    <span class='nav'>
+                    <a class='top' href='#1019'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#1219'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                An overgrown greenhouse is tucked away in these hills.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1202">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1202' class='permalink'>1202</a>
+                    <span class='nav'>
+                    <a class='top' href='#1102'>&#8662;</a>
+                    <a class='bottom' href='#1102'>&#8665;</a>
+                    <a class='top' href='#1302'>&#8663;</a>
+                    <a class='bottom' href='#1303'>&#8664;</a>
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#1204'>1204</a>, <a class='hex-link' href='#1205'>1205</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Descendants of ancient Magineers and Elves from the old era have a settlement here. Some of their ancient knowledge is intact. They are in constant threat of the Goblins in LASER BOOK Tower, who attack them for gold, food, and science (kidnappings).
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1204">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1204' class='permalink'>1204</a>
+                    <span class='nav'>
+                    <a class='top' href='#1104'>&#8662;</a>
+                    <a class='bottom' href='#1104'>&#8665;</a>
+                    <a class='top' href='#1304'>&#8663;</a>
+                    <a class='bottom' href='#1305'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Merchant caravans traveling to <a href='#1202' class='city-link'>NEWTON</a>. Rumor is travelers fall prey to the undead. In fact, they are haywire automatons that rest in the day to gain power from the sun.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1205">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1205' class='permalink'>1205</a>
+                    <span class='nav'>
+                    <a class='top' href='#1105'>&#8662;</a>
+                    <a class='bottom' href='#1105'>&#8665;</a>
+                    <a class='top' href='#1305'>&#8663;</a>
+                    <a class='bottom' href='#1306'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Tavern made of the wreckage of a ship that sailed the stars called The Cider Press. Ran by its old captain and his illusory wife. They tell of a shooting star that crashed in <a class='hex-link' href='#1305'>1305</a>. Caravans from <a href='#1202' class='city-link'>NEWTON</a> stop here on their way to HIDDEN VILLAGE.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1208">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1208' class='permalink'>1208</a>
+                    <span class='nav'>
+                    <a class='top' href='#1108'>&#8662;</a>
+                    <a class='bottom' href='#1108'>&#8665;</a>
+                    <a class='top' href='#1308'>&#8663;</a>
+                    <a class='bottom' href='#1309'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Under a fungus-shaped rock is the lair of a creature that seems to be made entirely of human hands. Cut off one of its hands and two will grow in its place. It will never take hostile action. Probably a good source of emergency rations.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1209">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1209' class='permalink'>1209</a>
+                    <span class='nav'>
+                    <a class='top' href='#1109'>&#8662;</a>
+                    <a class='bottom' href='#1109'>&#8665;</a>
+                    <a class='top' href='#1309'>&#8663;</a>
+                    <a class='bottom' href='#1310'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A hidden vault, it has hidden collectibles, like 100 bottle caps, different types of bottles, some posters, some comic books.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1210">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1210' class='permalink'>1210</a>
+                    <span class='nav'>
+                    <a class='top' href='#1110'>&#8662;</a>
+                    <a class='bottom' href='#1110'>&#8665;</a>
+                    <a class='top' href='#1310'>&#8663;</a>
+                    <a class='bottom' href='#1311'>&#8664;</a>
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0716'>0716</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                At night, a <a href='#1410' class='city-link'>YORMITE</a> spire rises from the sand. When a Yormite Difference-Gauntlet touches the spire, they (and anything touching them) are teleported to the identical <a href='#0716' class='city-link'>YORMITE TELEPORTER SOUTH</a>.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1212">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1212' class='permalink'>1212</a>
+                    <span class='nav'>
+                    <a class='top' href='#1112'>&#8662;</a>
+                    <a class='bottom' href='#1112'>&#8665;</a>
+                    <a class='top' href='#1312'>&#8663;</a>
+                    <a class='bottom' href='#1313'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                At any time d4 <a href='#1410' class='city-link'>YORMITE</a> slavers and 2d6 Yormite Automata may be observed here. There will be numerous cages and captives here as they prepare to travel back home.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1214">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1214' class='permalink'>1214</a>
+                    <span class='nav'>
+                    <a class='top' href='#1114'>&#8662;</a>
+                    <a class='bottom' href='#1114'>&#8665;</a>
+                    <a class='top' href='#1314'>&#8663;</a>
+                    <a class='bottom' href='#1315'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Silane Serpent territory (as bulette made of glass). Known problem for the folks of <a href='#1115' class='city-link'>OCTOWN</a>.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1217">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1217' class='permalink'>1217</a>
+                    <span class='nav'>
+                    <a class='top' href='#1117'>&#8662;</a>
+                    <a class='bottom' href='#1117'>&#8665;</a>
+                    <a class='top' href='#1317'>&#8663;</a>
+                    <a class='bottom' href='#1318'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Merchant caravans come through here to (attempt to) trade with the talking animals of <a class='hex-link' href='#1218'>1218</a> and <a class='hex-link' href='#1219'>1219</a>.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1218">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1218' class='permalink'>1218</a>
+                    <span class='nav'>
+                    <a class='top' href='#1118'>&#8662;</a>
+                    <a class='bottom' href='#1118'>&#8665;</a>
+                    <a class='top' href='#1318'>&#8663;</a>
+                    <a class='bottom' href='#1319'>&#8664;</a>
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#1217'>1217</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Talking reptiles and mammals are here. Most of them are territorial.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1219">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1219' class='permalink'>1219</a>
+                    <span class='nav'>
+                    <a class='top' href='#1119'>&#8662;</a>
+                    <a class='bottom' href='#1119'>&#8665;</a>
+                    <a class='top' href='#1319'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#1217'>1217</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Talking snakes inhabit this area. They have guns, and have ways to shoot them.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1302">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1302' class='permalink'>1302</a>
+                    <span class='nav'>
+                    <a class='top' href='#1201'>&#8662;</a>
+                    <a class='bottom' href='#1203'>&#8665;</a>
+                    <a class='top' href='#1401'>&#8663;</a>
+                    <a class='bottom' href='#1402'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Blue flowers with star shaped tops grow here. They turn black at night.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1303">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1303' class='permalink'>1303</a>
+                    <span class='nav'>
+                    <a class='top' href='#1202'>&#8662;</a>
+                    <a class='bottom' href='#1204'>&#8665;</a>
+                    <a class='top' href='#1402'>&#8663;</a>
+                    <a class='bottom' href='#1403'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Two vampire <a href='#0702' class='city-link'>COUNTACHS OF LAMBO</a> (holding parasols during the day) dispute the particulars of a crash. Their smoking, burnt-out demon stagecoaches are nearby, and they will rope the PCs into their arguments.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1305">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1305' class='permalink'>1305</a>
+                    <span class='nav'>
+                    <a class='top' href='#1204'>&#8662;</a>
+                    <a class='bottom' href='#1206'>&#8665;</a>
+                    <a class='top' href='#1404'>&#8663;</a>
+                    <a class='bottom' href='#1405'>&#8664;</a>
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#1205'>1205</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Jutting out just past a mountain summit is a dull, dust-coloured slab. Climbing up the mountain will reveal a vast structure of twisted and bent metal, which contains S3: Expedition to the Barrier Peaks.
+                
+                <span class="more-info"><a href="https://en.wikipedia.org/wiki/Expedition_to_the_Barrier_Peaks">Read More</a></span>
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1307">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1307' class='permalink'>1307</a>
+                    <span class='nav'>
+                    <a class='top' href='#1206'>&#8662;</a>
+                    <a class='bottom' href='#1208'>&#8665;</a>
+                    <a class='top' href='#1406'>&#8663;</a>
+                    <a class='bottom' href='#1407'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A crashed ship that once sailed the stars, in the shape of a saucer is hidden beneath the sands. Grey aliens with advanced technology lie dead inside as their automatons guard the wreckage.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1309">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1309' class='permalink'>1309</a>
+                    <span class='nav'>
+                    <a class='top' href='#1208'>&#8662;</a>
+                    <a class='bottom' href='#1210'>&#8665;</a>
+                    <a class='top' href='#1408'>&#8663;</a>
+                    <a class='bottom' href='#1409'>&#8664;</a>
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#1310'>1310</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Neanderthals live here and have made an agreement with the <a href='#1410' class='city-link'>YORMITE</a>, they give captives in exchange for alien goods. 2d4 Yormites and 4d4 Yormite Automatons may be observed here at any time.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1310">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1310' class='permalink'>1310</a>
+                    <span class='nav'>
+                    <a class='top' href='#1209'>&#8662;</a>
+                    <a class='bottom' href='#1211'>&#8665;</a>
+                    <a class='top' href='#1409'>&#8663;</a>
+                    <a class='bottom' href='#1410'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A <a href='#1410' class='city-link'>YORMITE</a> and d6 Yormite Automatons lead a caravan of alien technology to the <a href='#1309' class='city-link'>NEANDERTHAL LAIR</a>. The Yormites will threaten PCs who approach too closely with a strange weapon.
+                
+                <span class="more-info"><a href=" ">Read More</a></span>
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1311">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1311' class='permalink'>1311</a>
+                    <span class='nav'>
+                    <a class='top' href='#1210'>&#8662;</a>
+                    <a class='bottom' href='#1212'>&#8665;</a>
+                    <a class='top' href='#1410'>&#8663;</a>
+                    <a class='bottom' href='#1411'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A Yormite and d6 Yormite Automatons lead a caravan of slaves back to the <a href='#1410' class='city-link'>YORMITE</a> city. They will make threatening gestures with a strange weapon at PCs who approach too closely.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1318">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1318' class='permalink'>1318</a>
+                    <span class='nav'>
+                    <a class='top' href='#1217'>&#8662;</a>
+                    <a class='bottom' href='#1219'>&#8665;</a>
+                    <a class='top' href='#1417'>&#8663;</a>
+                    <a class='bottom' href='#1418'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The coyotes in this area have the ability to talk.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1319">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1319' class='permalink'>1319</a>
+                    <span class='nav'>
+                    <a class='top' href='#1218'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#1418'>&#8663;</a>
+                    <a class='bottom' href='#1419'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                An outpost owned and controlled by <a href='#1818' class='city-link'>MASKETTA</a> Man soldiers. Plethora of traders, craftsmen, etc, who pay a fee to the Masketta Men in exchange to stay near the oasis. Some are working off debts that increase at a rate unrepayable.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1406">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1406' class='permalink'>1406</a>
+                    <span class='nav'>
+                    <a class='top' href='#1306'>&#8662;</a>
+                    <a class='bottom' href='#1306'>&#8665;</a>
+                    <a class='top' href='#1506'>&#8663;</a>
+                    <a class='bottom' href='#1507'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                This lake always seems to have large schools of edible fish.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1407">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1407' class='permalink'>1407</a>
+                    <span class='nav'>
+                    <a class='top' href='#1307'>&#8662;</a>
+                    <a class='bottom' href='#1307'>&#8665;</a>
+                    <a class='top' href='#1507'>&#8663;</a>
+                    <a class='bottom' href='#1508'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Cave formation called The Hourglass.
+                
+                <span class="more-info"><a href="https://i.imgur.com/UNY8vjX.png">Read More</a></span>
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1410">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1410' class='permalink'>1410</a>
+                    <span class='nav'>
+                    <a class='top' href='#1310'>&#8662;</a>
+                    <a class='bottom' href='#1310'>&#8665;</a>
+                    <a class='top' href='#1510'>&#8663;</a>
+                    <a class='bottom' href='#1511'>&#8664;</a>
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0716'>0716</a>, <a class='hex-link' href='#1210'>1210</a>, <a class='hex-link' href='#1212'>1212</a>, <a class='hex-link' href='#1309'>1309</a>, <a class='hex-link' href='#1310'>1310</a>, <a class='hex-link' href='#1311'>1311</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                City with spires of metal and domes of glass grown organically into alien shapes, signifying the domain of The Yormites, enigmatic, hostile robed beings. Captives/purchased slaves go into the domes, but only more robed Yormites are seen exiting.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1415">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1415' class='permalink'>1415</a>
+                    <span class='nav'>
+                    <a class='top' href='#1315'>&#8662;</a>
+                    <a class='bottom' href='#1315'>&#8665;</a>
+                    <a class='top' href='#1515'>&#8663;</a>
+                    <a class='bottom' href='#1516'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                An old unmanned resort in disarray.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1416">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1416' class='permalink'>1416</a>
+                    <span class='nav'>
+                    <a class='top' href='#1316'>&#8662;</a>
+                    <a class='bottom' href='#1316'>&#8665;</a>
+                    <a class='top' href='#1516'>&#8663;</a>
+                    <a class='bottom' href='#1517'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Massive nuclear sub beached on the sands here. The inhabitants believe (due to damaged controls) that everything outside the sub is underwater and cannot be told otherwise.  Offer old era tech for fetch quests.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1420">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1420' class='permalink'>1420</a>
+                    <span class='nav'>
+                    <a class='top' href='#1320'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#1520'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#0217'>0217</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                This area and <a class='hex-link' href='#0217'>0217</a> are the exact same place. There is a 50% chance that anyone traveling through these hexes come out the equivalent boarder on the other part of the map.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1504">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1504' class='permalink'>1504</a>
+                    <span class='nav'>
+                    <a class='top' href='#1403'>&#8662;</a>
+                    <a class='bottom' href='#1405'>&#8665;</a>
+                    <a class='top' href='#1603'>&#8663;</a>
+                    <a class='bottom' href='#1604'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Atop the Pit of Harkann lies a jagged, wheeled metal structure. Lightning sparks along vast cables leading from the apparatus into the INVERTED LIBRARY TOWER. A rope bridge offers entry into the structure, guarded by 6 Copper Warriors.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1507">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1507' class='permalink'>1507</a>
+                    <span class='nav'>
+                    <a class='top' href='#1406'>&#8662;</a>
+                    <a class='bottom' href='#1408'>&#8665;</a>
+                    <a class='top' href='#1606'>&#8663;</a>
+                    <a class='bottom' href='#1607'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Harpies will attack people who travel through this and the surrounding area, especially at <a class='hex-link' href='#1606'>1606</a>.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1508">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1508' class='permalink'>1508</a>
+                    <span class='nav'>
+                    <a class='top' href='#1407'>&#8662;</a>
+                    <a class='bottom' href='#1409'>&#8665;</a>
+                    <a class='top' href='#1607'>&#8663;</a>
+                    <a class='bottom' href='#1608'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Eight legged spider goats roam this rocky mountain. Their horns are believed to be a powerful aphrodisiac (100gp per horn).
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1513">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1513' class='permalink'>1513</a>
+                    <span class='nav'>
+                    <a class='top' href='#1412'>&#8662;</a>
+                    <a class='bottom' href='#1414'>&#8665;</a>
+                    <a class='top' href='#1612'>&#8663;</a>
+                    <a class='bottom' href='#1613'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A mermaid skeleton lies in a sea cave surrounded by junk.  2d100gp worth of silverware.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1514">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1514' class='permalink'>1514</a>
+                    <span class='nav'>
+                    <a class='top' href='#1413'>&#8662;</a>
+                    <a class='bottom' href='#1415'>&#8665;</a>
+                    <a class='top' href='#1613'>&#8663;</a>
+                    <a class='bottom' href='#1614'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A automaton lives in a lighthouse, and keeps it working. That is its purpose. It is depressed.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1602">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1602' class='permalink'>1602</a>
+                    <span class='nav'>
+                    <a class='top' href='#1502'>&#8662;</a>
+                    <a class='bottom' href='#1502'>&#8665;</a>
+                    <a class='top' href='#1702'>&#8663;</a>
+                    <a class='bottom' href='#1703'>&#8664;</a>
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#1009'>1009</a>, <a class='hex-link' href='#1103'>1103</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A monolithic tower holding rare arcane tools of mass destruction: Laser Books. The goblin tribe Krakka Hadin-Akul-Jakar-Haran-el-Derif, ran by the Lord of the Tower, constantly raid the lands nearby. They are preparing an assault on the settlement in 1202 using arcane technology.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1604">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1604' class='permalink'>1604</a>
+                    <span class='nav'>
+                    <a class='top' href='#1504'>&#8662;</a>
+                    <a class='bottom' href='#1504'>&#8665;</a>
+                    <a class='top' href='#1704'>&#8663;</a>
+                    <a class='bottom' href='#1705'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A small village of halflings live here, they are a bit more civilized than their <a href='#0415' class='city-link'>CANNIBAL HALFLINGS</a> cousins. They sometimes steal orphans thinking they are halflings. They pray to a giant sentient rock, but they don't let the unworthy speak with it.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1606">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1606' class='permalink'>1606</a>
+                    <span class='nav'>
+                    <a class='top' href='#1506'>&#8662;</a>
+                    <a class='bottom' href='#1506'>&#8665;</a>
+                    <a class='top' href='#1706'>&#8663;</a>
+                    <a class='bottom' href='#1707'>&#8664;</a>
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#1507'>1507</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A narrow mountain pass here connects <a class='hex-link' href='#1506'>1506</a> and <a class='hex-link' href='#1707'>1707</a>. A statue at the midpoint that was once roughly 15' tall has partially collapsed. The damaged base reads: "Let no mo-nt-in se--- my p--pl-"
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1609">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1609' class='permalink'>1609</a>
+                    <span class='nav'>
+                    <a class='top' href='#1509'>&#8662;</a>
+                    <a class='bottom' href='#1509'>&#8665;</a>
+                    <a class='top' href='#1709'>&#8663;</a>
+                    <a class='bottom' href='#1710'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A large black monolith that appears to be made of solidified ice that never melts due to the sun's heat has an ever-shifting shadow moving around it that prevents the heat from touching any and all who shelter here.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1611">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1611' class='permalink'>1611</a>
+                    <span class='nav'>
+                    <a class='top' href='#1511'>&#8662;</a>
+                    <a class='bottom' href='#1511'>&#8665;</a>
+                    <a class='top' href='#1711'>&#8663;</a>
+                    <a class='bottom' href='#1712'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                An offshore deep sea mining facility. Occupied by the [[Yormites]. d3 Yormites and 3d8 Automatons will be present at any time.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1701">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1701' class='permalink'>1701</a>
+                    <span class='nav'>
+                    &#8662;
+                    <a class='bottom' href='#1602'>&#8665;</a>
+                    &#8663;
+                    <a class='bottom' href='#1801'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A town of skeletons, created by the Lord of LASER BOOK tower, harvests agave plants and supplies the Lord with liquor. They rarely have to work due to the nature of their crop and their lack of need for food or drink.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1702">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1702' class='permalink'>1702</a>
+                    <span class='nav'>
+                    <a class='top' href='#1601'>&#8662;</a>
+                    <a class='bottom' href='#1603'>&#8665;</a>
+                    <a class='top' href='#1801'>&#8663;</a>
+                    <a class='bottom' href='#1802'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Every full moon the lobster-people (as fighter 4 w/ extra grab attack) hold their wrestling festival. Losers are purged - boiled alive.
+                
+                <span class="more-info"><a href="https://i.imgur.com/upD5N1J.jpg">Read More</a></span>
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1710">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1710' class='permalink'>1710</a>
+                    <span class='nav'>
+                    <a class='top' href='#1609'>&#8662;</a>
+                    <a class='bottom' href='#1611'>&#8665;</a>
+                    <a class='top' href='#1809'>&#8663;</a>
+                    <a class='bottom' href='#1810'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Old lighthouse towards the sea. Operated by a brain in a jar that seeks a mechanical body. The brain will also give rewards for information about the current day, since it has been confined for so long, especially the creatures it sees in <a class='hex-link' href='#1908'>1908</a>.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1712">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1712' class='permalink'>1712</a>
+                    <span class='nav'>
+                    <a class='top' href='#1611'>&#8662;</a>
+                    <a class='bottom' href='#1613'>&#8665;</a>
+                    <a class='top' href='#1811'>&#8663;</a>
+                    <a class='bottom' href='#1812'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                An old hermit lives alone on an a ship that is almost as old as him. He will happily share his catch of the day in exchange for stories of adventure. His fishing pole is well cared for and of high quality, he has nothing else of value.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1713">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1713' class='permalink'>1713</a>
+                    <span class='nav'>
+                    <a class='top' href='#1612'>&#8662;</a>
+                    <a class='bottom' href='#1614'>&#8665;</a>
+                    <a class='top' href='#1812'>&#8663;</a>
+                    <a class='bottom' href='#1813'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A rare breed of bird with exceptionally bright and colorful feathers roosts here during the winter months. The feathers are worth a great deal to the right buyer. The birds fight as HD 3 creatures with AC as Leather and Shield.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1714">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1714' class='permalink'>1714</a>
+                    <span class='nav'>
+                    <a class='top' href='#1613'>&#8662;</a>
+                    <a class='bottom' href='#1615'>&#8665;</a>
+                    <a class='top' href='#1813'>&#8663;</a>
+                    <a class='bottom' href='#1814'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A creature with, a thick, slimy shell, and two eyes. [MV 0', AC Plate+Shield, HD 99, -10 Penalty on attacks against it.] It makes sounds of utter pain and misery that are heard across the whole island, but it has no mouth. Grants a wish if killed.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1716">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1716' class='permalink'>1716</a>
+                    <span class='nav'>
+                    <a class='top' href='#1615'>&#8662;</a>
+                    <a class='bottom' href='#1617'>&#8665;</a>
+                    <a class='top' href='#1815'>&#8663;</a>
+                    <a class='bottom' href='#1816'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Kelp forest. Hidden within the forest is a very rare kind of starfish. Eating a soup made with one of its arms will restore any lost limb. Koa-Toa hold this starfish as being extremely sacred.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1719">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1719' class='permalink'>1719</a>
+                    <span class='nav'>
+                    <a class='top' href='#1618'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#1818'>&#8663;</a>
+                    <a class='bottom' href='#1819'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                This is the site of a large garbage dump.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1803">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1803' class='permalink'>1803</a>
+                    <span class='nav'>
+                    <a class='top' href='#1703'>&#8662;</a>
+                    <a class='bottom' href='#1703'>&#8665;</a>
+                    <a class='top' href='#1903'>&#8663;</a>
+                    <a class='bottom' href='#1904'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A line of standing stones that have strange markings placed upon them. No one in The Scorched Coast has knowledge of the symbols.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1806">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1806' class='permalink'>1806</a>
+                    <span class='nav'>
+                    <a class='top' href='#1706'>&#8662;</a>
+                    <a class='bottom' href='#1706'>&#8665;</a>
+                    <a class='top' href='#1906'>&#8663;</a>
+                    <a class='bottom' href='#1907'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                This once-small camp site has accidentally become permanent. Everyone has their own reason for staying, but none of them are happy about it.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1809">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1809' class='permalink'>1809</a>
+                    <span class='nav'>
+                    <a class='top' href='#1709'>&#8662;</a>
+                    <a class='bottom' href='#1709'>&#8665;</a>
+                    <a class='top' href='#1909'>&#8663;</a>
+                    <a class='bottom' href='#1910'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                3d6 psi-porpoises, they plan to create a bubble of water and move off world.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1811">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1811' class='permalink'>1811</a>
+                    <span class='nav'>
+                    <a class='top' href='#1711'>&#8662;</a>
+                    <a class='bottom' href='#1711'>&#8665;</a>
+                    <a class='top' href='#1911'>&#8663;</a>
+                    <a class='bottom' href='#1912'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A mimic pretending to be a rowboat with a sailor and chest of treasure.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1814">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1814' class='permalink'>1814</a>
+                    <span class='nav'>
+                    <a class='top' href='#1714'>&#8662;</a>
+                    <a class='bottom' href='#1714'>&#8665;</a>
+                    <a class='top' href='#1914'>&#8663;</a>
+                    <a class='bottom' href='#1915'>&#8664;</a>
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#1815'>1815</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Hulking structures made up of loops and circuits of painted steel tower over natural rock formations. Between them are ruins of buildings in a vast array of architectural styles. Some nights, strange music seems to spring from the ground itself.
+                
+                <span class="more-info"><a href="http://www.chipandco.com/wp-content/uploads/2013/08/Mickey_Logo-1.png">Read More</a></span>
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1815">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1815' class='permalink'>1815</a>
+                    <span class='nav'>
+                    <a class='top' href='#1715'>&#8662;</a>
+                    <a class='bottom' href='#1715'>&#8665;</a>
+                    <a class='top' href='#1915'>&#8663;</a>
+                    <a class='bottom' href='#1916'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The sunken portions of structures from <a class='hex-link' href='#1814'>1814</a>, stripped and scavenged for parts by the octomen of <a href='#1816' class='city-link'>ABYSSIA</a>. The home of a lone, paranoid, water-breathing alien with a strange gun.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1816">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1816' class='permalink'>1816</a>
+                    <span class='nav'>
+                    <a class='top' href='#1716'>&#8662;</a>
+                    <a class='bottom' href='#1716'>&#8665;</a>
+                    <a class='top' href='#1916'>&#8663;</a>
+                    <a class='bottom' href='#1917'>&#8664;</a>
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#1115'>1115</a>, <a class='hex-link' href='#1815'>1815</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                An night, the strait glows green and sailors above are dragged into the depths. The oceanic bottom holds the underwater fortress city Abyssia, home of the octomen. They worship an eldritch god and protect their ancient treasure, The Pearl of Eternity, with advanced weapons.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1817">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1817' class='permalink'>1817</a>
+                    <span class='nav'>
+                    <a class='top' href='#1717'>&#8662;</a>
+                    <a class='bottom' href='#1717'>&#8665;</a>
+                    <a class='top' href='#1917'>&#8663;</a>
+                    <a class='bottom' href='#1918'>&#8664;</a>
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A small band of bat-people hide and prepare a revolution against the <a href='#1818' class='city-link'>MASKETTA</a> Man.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1818">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1818' class='permalink'>1818</a>
+                    <span class='nav'>
+                    <a class='top' href='#1718'>&#8662;</a>
+                    <a class='bottom' href='#1718'>&#8665;</a>
+                    <a class='top' href='#1918'>&#8663;</a>
+                    <a class='bottom' href='#1919'>&#8664;</a>
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#1319'>1319</a>, <a class='hex-link' href='#1817'>1817</a>, <a class='hex-link' href='#1819'>1819</a>, <a class='hex-link' href='#2017'>2017</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The large city of Kallitin is the operated by the Masketta Man, a warrior with a thirst for conquest. He is said to follow a higher order but few believe that. People only started to care when he put on the mask.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1819">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1819' class='permalink'>1819</a>
+                    <span class='nav'>
+                    <a class='top' href='#1719'>&#8662;</a>
+                    <a class='bottom' href='#1719'>&#8665;</a>
+                    <a class='top' href='#1919'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A beached sea turtle beach so large is breaks the horizon at a distance, mounted with six naval cannons. I has a symbiotic relationship with a town inside. Town establishing trade link with settlement in <a href='#1818' class='city-link'>MASKETTA</a> Man's city.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1820">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1820' class='permalink'>1820</a>
+                    <span class='nav'>
+                    <a class='top' href='#1720'>&#8662;</a>
+                    &#8665;
+                    <a class='top' href='#1920'>&#8663;</a>
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                An iron tube rises from the sand, four feet in diameter. Rungs serve as a ladder, and the top is sealed with a sturdy hatch and a malfunctioning biometric scanner. Inside is an underground facility full of marine biology research materials.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1903">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1903' class='permalink'>1903</a>
+                    <span class='nav'>
+                    <a class='top' href='#1802'>&#8662;</a>
+                    <a class='bottom' href='#1804'>&#8665;</a>
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A black oil slick locked in place by dominant currents. A metal platform ruined by rust sits in the middle of the oil, surrounded by rickety boats tied together in a semi-permanent community of 50ish oil gatherers.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1906">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1906' class='permalink'>1906</a>
+                    <span class='nav'>
+                    <a class='top' href='#1805'>&#8662;</a>
+                    <a class='bottom' href='#1807'>&#8665;</a>
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A fisherdwarf's shack. The fisherdwarf warns of thieving POORLY DISGUISED GNOMES, gruffly.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1908">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1908' class='permalink'>1908</a>
+                    <span class='nav'>
+                    <a class='top' href='#1807'>&#8662;</a>
+                    <a class='bottom' href='#1809'>&#8665;</a>
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#1710'>1710</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Long forgotten and ransacked building. Most of the times it's empty, but at night some people have said to see humanoids in strange suits coming out of the water. This is the strange bulky creatures from the underwater ruins in the <a href='#1910' class='city-link'>WHIRLPOOL</a>.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1910">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1910' class='permalink'>1910</a>
+                    <span class='nav'>
+                    <a class='top' href='#1809'>&#8662;</a>
+                    <a class='bottom' href='#1811'>&#8665;</a>
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+                <p class="references">
+                    See: <a class='hex-link' href='#1908'>1908</a>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                An ever spinning whirlpool, at the bottom is portal slowly draining the sea in an ancient high tech ruin that is mostly flooded. Strange bulky creatures are seen coming and going from the intact areas.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1912">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1912' class='permalink'>1912</a>
+                    <span class='nav'>
+                    <a class='top' href='#1811'>&#8662;</a>
+                    <a class='bottom' href='#1813'>&#8665;</a>
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A small glass dome contains a single ever productive acorn tree and a family of 6 sentient squirrels on the seafloor. They all have squirrel sized diving suits.  The eldest son longs to see the world and find a wife.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1913">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1913' class='permalink'>1913</a>
+                    <span class='nav'>
+                    <a class='top' href='#1812'>&#8662;</a>
+                    <a class='bottom' href='#1814'>&#8665;</a>
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                In this lonely part of the island random gravity wells occur, making a character accidently throw his things to the ground when he least expects it.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1914">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1914' class='permalink'>1914</a>
+                    <span class='nav'>
+                    <a class='top' href='#1813'>&#8662;</a>
+                    <a class='bottom' href='#1815'>&#8665;</a>
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                The face of a gargantuan, metallic beast juts out of the water. Seemingly at random, it's mouth screeches with the sound of rusted metal as strange music plays from deep within its gullet. Some say untold treasures can be found within.
+                
+                <span class="more-info"><a href="http://conceptartworld.com/wp-content/uploads/2013/06/Epic_Mickey_2_Concept_Art_SM17.jpg">Read More</a></span>
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1916">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1916' class='permalink'>1916</a>
+                    <span class='nav'>
+                    <a class='top' href='#1815'>&#8662;</a>
+                    <a class='bottom' href='#1817'>&#8665;</a>
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Large pleasure barge guarded by barnacle-encrusted clockwork construct demanding a ticket. Failure to comply results in more clockwork guards that will remove PCs by force. The ship is intact, filled with skeletons in fancy dress.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="1917">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#1917' class='permalink'>1917</a>
+                    <span class='nav'>
+                    <a class='top' href='#1816'>&#8662;</a>
+                    <a class='bottom' href='#1818'>&#8665;</a>
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A golden magical trident lies embedded in a Dunkalasaurus skeleton. Pulling it out will resurrect the immortal creature in d4 days, who will then chase hunt the trident-holder until sealed again via impalement with the trident.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="2001">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#2001' class='permalink'>2001</a>
+                    <span class='nav'>
+                    <a class='top' href='#1901'>&#8662;</a>
+                    <a class='bottom' href='#1901'>&#8665;</a>
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Enchanted iceberg ship has a crew of polar bear-folk whalers/merchants worried about a missing shore party. Their hold is full of pelts, meat, whale ivory, and small chunks of never-melt ice.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="2002">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#2002' class='permalink'>2002</a>
+                    <span class='nav'>
+                    <a class='top' href='#1902'>&#8662;</a>
+                    <a class='bottom' href='#1902'>&#8665;</a>
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Large rocks breach the surface of the water here, a danger to all ships.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="2004">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#2004' class='permalink'>2004</a>
+                    <span class='nav'>
+                    <a class='top' href='#1904'>&#8662;</a>
+                    <a class='bottom' href='#1904'>&#8665;</a>
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Shantytown made from dozens of ruined small boats. Full of grog and pirate stereotypes, but no women. Constantly under raid from Sharkmen, Lobster-people, Psi-Porpoises, etc.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="2006">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#2006' class='permalink'>2006</a>
+                    <span class='nav'>
+                    <a class='top' href='#1906'>&#8662;</a>
+                    <a class='bottom' href='#1906'>&#8665;</a>
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                A sandbar is spouting out from the Ocean's surface. It appears that a large orange and white speckled mushroom is bobbing in the water.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="2013">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#2013' class='permalink'>2013</a>
+                    <span class='nav'>
+                    <a class='top' href='#1913'>&#8662;</a>
+                    <a class='bottom' href='#1913'>&#8665;</a>
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Locked chest in flotsam. Contains seemingly endless stacks of bizarre non-human on humanoid pornography, valuable only to lonely sailors. Staring or sorting the pictures for too long risks madness. 1/6 chance a picture is of a PC's mother.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="2017">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#2017' class='permalink'>2017</a>
+                    <span class='nav'>
+                    <a class='top' href='#1917'>&#8662;</a>
+                    <a class='bottom' href='#1917'>&#8665;</a>
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                An old offshore mining platform, now inoperable. Functions as a trading post and inn, called The Salty Spitoon, for coastal merchants. All people and goods passing through are subject to taxation from the forces of <a href='#1818' class='city-link'>MASKETTA</a> Man.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+        <div class='hex' id="2020">
+            <div class='location'>
+                <p class='location'>
+                    <a href='#2020' class='permalink'>2020</a>
+                    <span class='nav'>
+                    <a class='top' href='#1920'>&#8662;</a>
+                    &#8665;
+                    &#8663;
+                    &#8664;
+                </span>
+                </p>
+                
+            </div>
+
+            
+            <p class='description'>
+                Below the surface of the water, there is a chest containing 6 bottles. d6 of them are intact and contain a magic potion that permanently corrects any eyesight problems the drinker possesses. The remaining bottles have broken.
+                
+            </p>
+            
+
+        </div>
+        <div class="clear"></div>
+        
+
+        
+<div id="about" class="write-up">
+    <h2>About this Project</h2>
+    <p>I helped the mysterious mista tipsta and his friends turn their own attempt at a crowd sourced hexcrawl into a web page. As one does. This page is based on work I did for the <a href="http://save.vs.totalpartykill.ca/grab-bag/hexenbracken/">Hexenbracken</a>. Contributors: The_VolV (35), twocalf (21), PastamanXIV (19), Ellardin (17), tipsta (14), agent blue (7), NovanIV  (7), Stagehand (6), Historian (6), EsotericOdyssey (5), NovanIV (5), Teh_Az (4), Pastaman (4), KusoDM (3), Della (3), anon who is gonzo (2), Sando (2), The Dice Must Roll (1), The_Volv (1), Stagehand (mashing ideas from Discord) (1), Rosen (1), Stagehand + DishwasherPossum (1), Dish (1).</p>
+</div>
+
+        <div class="clear"></div>
+        <div class="footer">
+            <p>
+            This site was created by <a href="http://funkaoshi.com/">Ramanan Sivaranjan</a>. If you like this site, you might also enjoy my D&amp;D blog, <a href="http://save.vs.totalpartykill.ca/">Save vs. Total Party Kill</a>.
+            </p>
+        </div>
+    </div>
+    </body>
+</html>
