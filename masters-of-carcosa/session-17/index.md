@@ -11,5 +11,5 @@ restock:
   - "A group of Mi-Go feast on the brains of a small group of Carcosans. Amongst the bodies is a small cache of space alien weaponry the creatures are uninterested in."
   - "3 Blue Men, one gravely injured, limp through the wilds dressed as a travelling acting troupe known as the Rainbow Connection."
   - "'The Dominant Reflection' and his small band of cultists venture West in search of thralls for their new masters."
-  - "The Rainbow Connection transport a valuable gem (10,000GP) back with them to Jahar, a gift give a strange sorcerer in order to pacify their blood lust."
+  - "The Rainbow Connection transport a valuable gem (10,000GP) back with them to Jahar, a gift given by a strange sorcerer in order to pacify their blood lust."
 ---
