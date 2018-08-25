@@ -8,6 +8,20 @@ css: "#ramanan-award { float: left; margin-right: 1em; }"
 
 Each year The Ramanan Sivaranjan Awards for Excellence in Gaming highlight gaming books that are exceptional in their quality and character. To qualify for contention a book must have been purchased by Ramanan Sivaranjan during the proceeding calendar year—i.e. the awards given in the summer of 2016 are for books published from January 2015 - December 2015. Winners are chosen by Ramanan Sivaranjan based on his moods about gaming at a particular moment in time. The Ramanan Sivaranjan Awards for Excellence in Gaming prides itself on selecting the finest RPG books. Previous winners have gone on to win at the EN World Awards, 3 Castles, Indiecade, the Indie-RPG Awards, and The Ramanan Sivaranjan Awards for Excellence in Gaming. The first awards were given in the summer of 2015. They originated because Ramanan Sivaranjan found it incredulous that *Death Frost Doom* wasn't nominated for Best Art at the Ennies—like, why even have an award?
 
+# [2018](/blog/awards-2017)
+
+* The Ramanan Sivaranjan Excellence in Gaming Best God Damn Book of 2017: Jacob Hurst, Gabriel Hernandez, Evan Peterson and Donnie Garcia for [The Dark of Hot Springs Island][hsi]
+* Best Setting Book: Patrick Stuart & Scrap Princess for [Veins of the Earth][vote] (with layout by Jez Gordon)
+* Best Game: Daniel Sell and Jeremy Duncan for [Troika][]
+* Honorable Mentions:
+  * Games Workshop, [Warhammer 40,000: Dark Impterium][di]
+  * Adam Poots, [Kingdom Death Monster][kdm]
+  * Luke Gearing, [Fever Swamp][fs]
+  * Ben Milton, [Maze Rats][mr]
+  * Emanuele Galletto, [Fleshscape][]
+  * Whitney Beltrán, Marissa Kelly, and Sarah Richardson, [Bluebeards Bride][bb]
+  * Evlyn Moreau, [Chromatic Soup][cs]
+
 # [2017](/blog/awards-2016)
 
 * The Ramanan Sivaranjan Excellence in Gaming Best God Damn Book of 2016: Patrick Stuart & Zak Smith for [Maze of the Blue Medusa][motbm]
@@ -86,3 +100,14 @@ Each year The Ramanan Sivaranjan Awards for Excellence in Gaming highlight gamin
 [cc]: http://www.lotfp.com/store/index.php?route=product/product&path=42&product_id=233
 [cw]: http://www.drivethrurpg.com/product/198895/Do-Not-Let-Us-Die-In-The-Dark-Night-Of-This-Cold-Winter
 [hk]: http://www.hex-kit.com
+
+[troika]: https://melsonian-arts-council.itch.io/troika
+[vote]: http://www.lotfp.com/store/index.php?route=product/product&product_id=262
+[hsi]: http://shop.swordfishislands.com/
+[kdm]: http://kingdomdeath.com/
+[fs]: http://www.melsonia.com/product/fever-swamp
+[mr]: https://questingbeast.itch.io/maze-rats/purchase
+[fleshscape]: http://www.drivethrurpg.com/product/205832/Fleshscape
+[bb]: http://www.magpiegames.com/category/bluebeards-bride/
+[cs]: http://www.lulu.com/ca/en/shop/evlyn-moreau/chromatic-soup-01/paperback/product-23375918.html
+[di]: https://www.games-workshop.com/en-CA/Warhammer-40000-dark-imperium-eng-2017
