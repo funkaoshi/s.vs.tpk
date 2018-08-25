@@ -7,12 +7,12 @@ tags:
 - necromunda
 - 40k
 - minis
-gplus:
+gplus: https://plus.google.com/+RamananS/posts/ji4ZdF1dUpH
 date: 2018-06-23 12:00 pm
 ---
 
 
-![Painted Dark Imperium](../assets/img/painted-dark-imperium.jpg)
+![Painted Dark Imperium](/assets/img/painted-dark-imperium.jpg)
 
 I bought the new edition of [_Necromunda_][Necromunda], Game Workshops miniatures skirmish game about gangs in the 41st millennium. How did I even get here?
 
@@ -42,7 +42,7 @@ I've written up several play reports now of the games Evan and I have played at 
 
 Now I need to organize a Necromunda campaign.
 
-![Necromunda Escher Gang 1](../assets/img/necromunda-escher-gang-1.jpg)
+![Necromunda Escher Gang 1](/assets/img/necromunda-escher-gang-1.jpg)
 
 
 [di]: /blog/warhammer-40k/

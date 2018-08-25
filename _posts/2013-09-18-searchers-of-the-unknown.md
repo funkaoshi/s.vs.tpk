@@ -15,7 +15,7 @@ date: 2013-09-18 10:47 am
 
 ---
 
-**Update 2013-09-19**: Shortly after posting this I was tipped off to [_Lurkers of Carcosa_][7], which are minimalist rules for play a game set in [Carcosa][8]. That Carcosa setting book basically suggests you through away lots of the basic rules to D&D, so it lends itself well to this sort of minimalist game.
+**Update 2013-09-19**: Shortly after posting this I was tipped off to [_Lurkers of Carcosa_][7], which are minimalist rules for play a game set in [Carcosa][8]. That Carcosa setting book basically suggests you throw away lots of the basic rules to D&D, so it lends itself well to this sort of minimalist game.
 
 [1]: http://odd74.proboards.com/thread/2555/searchers-unknown
 [2]: https://sites.google.com/site/wizardinabottle/searchers-of-the-unknown
