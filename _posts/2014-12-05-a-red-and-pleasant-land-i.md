@@ -50,6 +50,7 @@ All in all I have played 4 different sessions set in this world. As a player I h
 
 <em>I can read Zak's book right now. I've already started doing that. The thing has a lot of hype to live up to. Perhaps unrealistic levels of hype. I don't want to write about any of it till [I can flip through the paper pages of this wonderful book][zak-rpl].</em>
 
+_[Update 2019: my thoughts on this book haven't changed much, but my thoughts about Zak have.](/zak/)_
 
 [zak]: http://dndwithpornstars.blogspot.ca/
 [osrcon]: /tag/osrcon/
