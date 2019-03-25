@@ -50,6 +50,7 @@ This book is great. The artwork is amazing. The layout is amazing. The content i
 
 Zak Smith made an art book that doubles as a D&D module. If nothing else it’d make a good coffee table book. 
 
+_[Update 2019: my thoughts on this book haven't changed much, but my thoughts about Zak have.](/zak/)_
 
 [1]: https://plus.google.com/112262093672917983853/posts/d6xqMcp4YXE
 [2]: http://lotfp.com/

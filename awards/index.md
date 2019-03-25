@@ -4,8 +4,6 @@ title: The Ramanan Sivaranjan Awards for Excellence in Gaming
 css: "#ramanan-award { float: left; margin-right: 1em; }"
 ---
 
-<img src="ramanan-award.png" id="ramanan-award">
-
 Each year The Ramanan Sivaranjan Awards for Excellence in Gaming highlight gaming books that are exceptional in their quality and character. To qualify for contention a book must have been purchased by Ramanan Sivaranjan during the proceeding calendar year—i.e. the awards given in the summer of 2016 are for books published from January 2015 - December 2015. Winners are chosen by Ramanan Sivaranjan based on his moods about gaming at a particular moment in time. The Ramanan Sivaranjan Awards for Excellence in Gaming prides itself on selecting the finest RPG books. Previous winners have gone on to win at the EN World Awards, 3 Castles, Indiecade, the Indie-RPG Awards, and The Ramanan Sivaranjan Awards for Excellence in Gaming. The first awards were given in the summer of 2015. They originated because Ramanan Sivaranjan found it incredulous that *Death Frost Doom* wasn't nominated for Best Art at the Ennies—like, why even have an award?
 
 # [2018](/blog/awards-2017)
@@ -63,9 +61,6 @@ Each year The Ramanan Sivaranjan Awards for Excellence in Gaming highlight gamin
   * Mike Mearls & Wizards of the Coast, [*5th Edition Dungeon Master's Guide*][dmg]
   * Thor Olavsrud & Luke Crane, [*Torchbearer*][tb]
   
----
-  
-<small>The logo for the awards is from a drawing of the Knave of Hearts by Zak Smith taken from *A Red and Pleasant Land*, which Jez Gordon mucked around with to make a big banner for the awards because he's a nice helpful person.</small>
 
 
 

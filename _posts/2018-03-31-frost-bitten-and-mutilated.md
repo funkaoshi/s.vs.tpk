@@ -40,6 +40,8 @@ Both descriptions can be read in a few seconds. When playing the game you don't 
 
 _Frost Bitten & Mutilated_ is a good example of a simple functional wilderness adventure. Zak has learned the good lessons from Carcosa—easy to grok evocative description—and skipped over the bad lessons—easy to grok super boring descriptions. LotFP has a big stable of solid wilderness adventures at this point: World of the Lost, Qelong, Carcosa, and now this one.
 
+_[Update 2019: my thoughts on this book haven't changed much, but my thoughts about Zak have.](/zak/)_
+
 [^1]: But, it is a pretty frumpy looking 2 page spread—sorry Luka/Zak, the heart wants what the heart wants.
 
 [fbm]: http://www.lotfp.com/store/index.php?route=product/product&product_id=297
