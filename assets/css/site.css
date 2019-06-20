@@ -179,6 +179,7 @@ nav.index-pagination {
 footer p {
     color: #999;
     font-size: 60%;
+	text-align: center;
     margin-top: 3em;
 }
 
