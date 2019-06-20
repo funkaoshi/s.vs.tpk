@@ -1728,13 +1728,6 @@
     "system": "Into the Odd, OD&D, Zaibatsu", 
     "title": "Underground Adventures"
   }, 
-  "http://goblinburg.blogspot.com/": {
-    "xmlUrl": "http://goblinburg.blogspot.com/feeds/posts/default?alt=rss", 
-    "theme": "Rules, classes, development journal", 
-    "author": "Eric Nieudan", 
-    "system": "Macchiato Monsters, B/X", 
-    "title": "The Goblinburg Notebook"
-  }, 
   "https://swordsandstitchery.blogspot.com/": {
     "xmlUrl": "https://swordsandstitchery.blogspot.com/feeds/posts/default?alt=rss", 
     "theme": "", 
@@ -2210,5 +2203,37 @@
     "system": "LotFP", 
     "theme": "LotFP based and is mostly about my homebrew stuff with some reviews peppered in", 
     "xmlUrl": "https://totmv2.blogspot.com/feeds/posts/default?alt=rss"
+  }, 
+  "https://www.aelf.work": {
+    "author": "Chris Paul", 
+    "url": "https://www.aelf.work", 
+    "title": "AelfWorks", 
+    "system": "OSR and 5e", 
+    "theme": "Dungeons, Art and other game content", 
+    "xmlUrl": "https://www.aelf.work/feed/"
+  }, 
+  "https://slimegrapple.blogspot.com/": {
+    "author": "Sean Duffy", 
+    "url": "https://slimegrapple.blogspot.com/", 
+    "title": "I Grapple the Slime", 
+    "system": "OSR, DCC, 5e", 
+    "theme": "1 page RPGs, tips and tricks", 
+    "xmlUrl": "https://slimegrapple.blogspot.com/feeds/posts/default?alt=rss"
+  }, 
+  "https://lichesgetstitches.blogspot.com/": {
+    "author": "Jeff S & Nick S", 
+    "url": "https://lichesgetstitches.blogspot.com/", 
+    "title": "Liches Get Stitches", 
+    "system": "GLOG, Freebooters, SWN someday", 
+    "theme": "converted miniatures and RPG tips/content", 
+    "xmlUrl": "https://lichesgetstitches.blogspot.com/feeds/posts/default?alt=rss"
+  }, 
+  "http://dragons.ie/blog/": {
+    "author": "Eric Nieudan", 
+    "url": "http://dragons.ie/blog/", 
+    "title": "Dragons.ie", 
+    "system": "Macchiato Monsters, B/X", 
+    "theme": "Rules, classes, development journal", 
+    "xmlUrl": "http://dragons.ie/feed/"
   }
 }
