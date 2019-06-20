@@ -8,51 +8,45 @@
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
     <script type="text/javascript" src="/assets/js/modernizr.custom.75005.js"></script>
     <link rel="stylesheet" type="text/css" href="/assets/css/site.css?23-Mar-2013">
+<link rel="alternate" title="{{ site.title }}" type="application/json" href="{{ "/feed.json" | prepend: site.baseurl | prepend: site.url }}" />
     <link rel="alternate" type="application/atom+xml" title="Save vs. Total Party Kill (atom feed)" href="/atom.xml"/>
     <link rel="alternate" type="application/rss+xml" title="Save vs. Total Party Kill (rss feed)" href="/rss.xml"/>
+
     <link rel="icon" type="image/png" href="/assets/img/favicon.png" />
     <link rel="apple-touch-icon-precomposed" href="/assets/img/apple-touch-icon-precomposed.png" />
 <!--[if !IE]>-->
     <link type="text/css" rel="stylesheet" media="only screen and (max-device-width: 480px)" href="/assets/css/mobile.css" />
 <!--<![endif]-->
     {% include analytics.html %}
+    {% if page.css %}
+    <style type="text/css" media="screen">
+    {{ page.css }}
+    </style>
+    {% endif %}
   </head>
   <body>
     <div id='content'>
-      <header>
-        <a href='/'>
-            <img src="/assets/img/save-vs-total-party-kill-header@2x.png"
-                alt="A monster on the verge of eating an adventurer.">
-         </a>
-        <!-- <h1 id="responsive">Save vs. Total Party Kill</h1> -->
-      </header>
+	  <img src="/assets/img/awards_text.png" 
+	       alt="Ramanan Sivaranjan Awards for Excellence in Gaming"
+	       style="margin-left:-2em; margin-top:2em; width:44em">
       <nav id="site-navigation">
         <p>
-            <a href="/">Home</a> |
-            <a href="/about/">About</a> |
-            <a href="/archive/">Archive</a> |
-            <a href="/characters/">Characters</a> |
-            <a href="/masters-of-carcosa">Masters of Carcosa</a> |
-            <a href="/web-apps/">D&amp;D Web Apps</a> |
-            <a href="/grab-bag/">Grab Bag</a>
+          <a href="/">Home</a> |
+          <a href="/about/">About</a> |
+          <a href="/archive/">Archive</a> |
+          <strong>Awards</strong> |
+          <a href="/characters/">Characters</a> |
+          <a href="/masters-of-carcosa">Masters of Carcosa</a> |
+          <a href="/web-apps/">D&amp;D Web Apps</a> |
+          <a href="/grab-bag/">Grab Bag</a>
         </p>
       </nav>
-      {{ content }}
+      <img src="/assets/img/awards_portrait.png"
+	       style="float:right; width:380px; -webkit-shape-outside:circle(); shape-outside:circle();"> 
+	  {{ content }}
       <footer>
-        <p>Site designed and built by <a href="http://funkaoshi.com">Ramanan Sivaranjan</a>.</p>
+        <p>Site designed and built by <a href="http://funkaoshi.com">Ramanan Sivaranjan</a>. Awards logo by <a href="https://betterlegends.com">Sam Mameli</a></p>
       </footer>
     </div>
-    <script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-    var disqus_shortname = 'savevstotalpartykill'; // required: replace example with your forum shortname
-
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function () {
-    var s = document.createElement('script'); s.async = true;
-    s.type = 'text/javascript';
-    s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
-    (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-    }());
-    </script>
-    </body>
+  </body>
 </html>

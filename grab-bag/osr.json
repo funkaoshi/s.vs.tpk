@@ -69,13 +69,6 @@
     "system": "", 
     "title": "Melancholies and Mirth"
   }, 
-  "http://www.PapersPencils.com": {
-    "xmlUrl": "http://www.paperspencils.com/feed/", 
-    "theme": "", 
-    "author": "Beloch Shrike", 
-    "system": "OSR", 
-    "title": "Papers & Pencils"
-  }, 
   "https://faerietalesandfolklore.com/": {
     "xmlUrl": "https://faerietalesandfolklore.com/feed/", 
     "theme": "design notes", 
@@ -1175,13 +1168,6 @@
     "system": "", 
     "title": "Occultesque"
   }, 
-  "http://beyondfomalhaut.blogspot.com/": {
-    "xmlUrl": "http://beyondfomalhaut.blogspot.com/feeds/posts/default?alt=rss", 
-    "theme": "zine, reviews, OSR", 
-    "author": "Gabor Lux", 
-    "system": "C&C?AD&D, System neutral", 
-    "title": "Beyond Fomalhaut"
-  }, 
   "http://www.bastionland.com/": {
     "xmlUrl": "http://www.bastionland.com/feeds/posts/default?alt=rss", 
     "theme": "Odd magic items, game mechanics, GM advice", 
@@ -1244,13 +1230,6 @@
     "author": "Jens D.", 
     "system": "D&D RC, Lost Songs of the Nibelungs (creator)", 
     "title": "The Disoriented Ranger"
-  }, 
-  "https://dndwithpornstars.blogspot.com/": {
-    "xmlUrl": "https://dndwithpornstars.blogspot.com/feeds/posts/default?alt=rss", 
-    "theme": "a little of everything the OSR does", 
-    "author": "Zak Smith / Zak Sabbath", 
-    "system": "OSR, 5e, Demon City, others", 
-    "title": "Playing D&D With Porn Stars"
   }, 
   "https://nerdomancerofdork.wordpress.com": {
     "xmlUrl": "https://nerdomancerofdork.wordpress.com/feed/", 
@@ -1637,13 +1616,6 @@
     "system": "OSR, B/X, 5e", 
     "title": "Into the Wyrd and Wild"
   }, 
-  "https://the-eastern-frontier.tumblr.com/": {
-    "xmlUrl": "https://the-eastern-frontier.tumblr.com/rss", 
-    "theme": "setting, play reports, tables", 
-    "author": "Evan Thaxter", 
-    "system": "Knave", 
-    "title": "Tales from the Eastern Frontier"
-  }, 
   "http://www.strangestones.com": {
     "xmlUrl": "http://www.strangestones.com/feed/", 
     "theme": "NPCs/Rogues Gallery, Demons, Assorted gaming stuff", 
@@ -1825,13 +1797,6 @@
     "author": "Rich Forest", 
     "system": "B/X, TFT, Runequest, D&D 5e, Dauerregen", 
     "title": "Superhero Necromancer"
-  }, 
-  "http://tenkarstavern.com": {
-    "xmlUrl": "http://www.tenkarstavern.com/feeds/posts/default?alt=rss", 
-    "theme": "Self submitted as requested on Reddit", 
-    "author": "Erik Tenkar", 
-    "system": "OSR, Swords & Wizardy", 
-    "title": "Tenkar's Tavern"
   }, 
   "http://redbeardsravings.blogspot.com/": {
     "xmlUrl": "http://redbeardsravings.blogspot.com/feeds/posts/default?alt=rss", 
@@ -2133,5 +2098,117 @@
     "author": "Cze Lee", 
     "system": "OSR, Homebrew", 
     "title": "Mirror Squid"
+  }, 
+  "http://glaucushauriant.blogspot.com/": {
+    "author": "Harrison Swift", 
+    "url": "http://glaucushauriant.blogspot.com/", 
+    "title": "Glaucus Hauriant", 
+    "system": "B/X, 5e, Knave", 
+    "theme": "Homebrew races, magic items, random tables, spells, with occasional reviews and half-baked houserule suggestions.", 
+    "xmlUrl": "http://glaucushauriant.blogspot.com/feeds/posts/default?alt=rss"
+  }, 
+  "https://crateredland.blogspot.com": {
+    "author": "Velexiraptor", 
+    "url": "https://crateredland.blogspot.com", 
+    "title": "A Blasted, Cratered Land", 
+    "system": "Mimics & Miscreants (a GLOGhack)", 
+    "theme": "Various GLOGgy classes and races with a side of tables", 
+    "xmlUrl": "https://crateredland.blogspot.com/feeds/posts/default?alt=rss"
+  }, 
+  "https://anarchydice.wordpress.com/": {
+    "author": "Alex Welk", 
+    "url": "https://anarchydice.wordpress.com/", 
+    "title": "Anarchy Dice", 
+    "system": "5e/D&D", 
+    "theme": "homebrew, terrain crafts, and house rules", 
+    "xmlUrl": "https://anarchydice.wordpress.com/feed/"
+  }, 
+  "https://basicredrpg.blogspot.com/": {
+    "author": "Daniel Dean", 
+    "url": "https://basicredrpg.blogspot.com/", 
+    "title": "Basic Red", 
+    "system": "OSR", 
+    "theme": "Classes, Monsters, Spells, Dungeons, Rules", 
+    "xmlUrl": "https://basicredrpg.blogspot.com/feeds/posts/default?alt=rss"
+  }, 
+  "http://bernietheflumph.blogspot.com/": {
+    "author": "Josh Burnett", 
+    "url": "http://bernietheflumph.blogspot.com/", 
+    "title": "Bernie the Flumph", 
+    "system": "LotFP, DCC", 
+    "theme": "Game content, play reports", 
+    "xmlUrl": "http://bernietheflumph.blogspot.com/feeds/posts/default?alt=rss"
+  }, 
+  "https://boxfullofboxes.blogspot.com/": {
+    "author": "Great_Job!", 
+    "url": "https://boxfullofboxes.blogspot.com/", 
+    "title": "Box Full of Boxes", 
+    "system": "OSR", 
+    "theme": "Gonzo", 
+    "xmlUrl": "https://boxfullofboxes.blogspot.com/feeds/posts/default?alt=rss"
+  }, 
+  "http://homebrewhomunculus.blogspot.com/": {
+    "author": "Homebrew Homunculus", 
+    "url": "http://homebrewhomunculus.blogspot.com/", 
+    "title": "Homebrew Homunculus", 
+    "system": "OSR, B/X, LotFP", 
+    "theme": "Hacking", 
+    "xmlUrl": "http://homebrewhomunculus.blogspot.com/feeds/posts/default?alt=rss"
+  }, 
+  "http://strongholdpress.blogspot.com": {
+    "author": "William Cord", 
+    "url": "http://strongholdpress.blogspot.com", 
+    "title": "Stronghold Press Games", 
+    "system": "OSR, BECMI, White Box: FMAG", 
+    "theme": "Ramblings, setting content, and occasional rules content.", 
+    "xmlUrl": "http://strongholdpress.blogspot.com/feeds/posts/default?alt=rss"
+  }, 
+  "https://dungeonsofklang.blogspot.com/": {
+    "author": "Herman Kang", 
+    "url": "https://dungeonsofklang.blogspot.com/", 
+    "title": "Dungeons of Klang", 
+    "system": "Holmes Basic /Blueholme", 
+    "theme": "Holmes/weird fantasy inspired monsters, classes, and rules, LBB compatible, Also mass combat stuff.", 
+    "xmlUrl": "https://dungeonsofklang.blogspot.com/feeds/posts/default?alt=rss"
+  }, 
+  "http://gravenutterance.com": {
+    "author": "Oliver N", 
+    "url": "http://gravenutterance.com", 
+    "title": "Graven Utterance", 
+    "system": "DIY D&D, Macchiato Monsters, agnostic", 
+    "theme": "House rules, dice mechanics, design journal", 
+    "xmlUrl": "http://gravenutterance.com/feed.xml"
+  }, 
+  "http://rolesrules.blogspot.com": {
+    "author": "Roger Giner-Sorolla", 
+    "url": "http://rolesrules.blogspot.com", 
+    "title": "Roles, Rules & Rolls", 
+    "system": "OSR", 
+    "theme": "Roles, rules and/or rolls", 
+    "xmlUrl": "http://rolesrules.blogspot.com/feeds/posts/default?alt=rss"
+  }, 
+  "https://wasitlikely.blogspot.com/": {
+    "author": "Jones Smith", 
+    "url": "https://wasitlikely.blogspot.com/", 
+    "title": "Was It Likely?", 
+    "system": "OSR", 
+    "theme": "OSR focused writing pieces, ideas, and fragments of inspiration", 
+    "xmlUrl": "https://wasitlikely.blogspot.com/feeds/posts/default?alt=rss"
+  }, 
+  "https://sevendeadlydungeons.blogspot.com/": {
+    "author": "Andrew Sawyer", 
+    "url": "https://sevendeadlydungeons.blogspot.com/", 
+    "title": "The Seven Deadly Dungeons", 
+    "system": "GLOG", 
+    "theme": "Classes, rulesets, and whatever else comes to mind. Also stuff for my new setting.", 
+    "xmlUrl": "https://sevendeadlydungeons.blogspot.com/feeds/posts/default?alt=rss"
+  }, 
+  "https://totmv2.blogspot.com/": {
+    "author": "King Brackish", 
+    "url": "https://totmv2.blogspot.com/", 
+    "title": "Tomb of the Wandering Millenial", 
+    "system": "LotFP", 
+    "theme": "LotFP based and is mostly about my homebrew stuff with some reviews peppered in", 
+    "xmlUrl": "https://totmv2.blogspot.com/feeds/posts/default?alt=rss"
   }
 }

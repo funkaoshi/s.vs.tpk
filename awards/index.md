@@ -1,5 +1,5 @@
 ---
-layout: static
+layout: award
 title: The Ramanan Sivaranjan Awards for Excellence in Gaming
 css: "#ramanan-award { float: left; margin-right: 1em; }"
 ---
