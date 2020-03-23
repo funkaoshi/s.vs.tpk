@@ -2235,5 +2235,37 @@
     "system": "Macchiato Monsters, B/X", 
     "theme": "Rules, classes, development journal", 
     "xmlUrl": "http://dragons.ie/feed/"
+  }, 
+  "https://rthorm.wordpress.com": {
+    "author": "Rodger Thorm", 
+    "url": "https://rthorm.wordpress.com", 
+    "title": "Antherwyck House Games", 
+    "system": "DragonQuest (SPI); TFT; CPunk; other misc", 
+    "theme": "Dungeon (&other) maps, homebrew, SF", 
+    "xmlUrl": "https://rthorm.wordpress.com/feed/"
+  }, 
+  "http://www.creativemountaingames.com": {
+    "author": "Mark CMG Clover", 
+    "url": "http://www.creativemountaingames.com", 
+    "title": "Creative Mountain Games", 
+    "system": "OSR", 
+    "theme": "ePublisher of Old School Medieval Fantasy RPG Materials", 
+    "xmlUrl": "http://www.creativemountaingames.com/feeds/posts/default?alt=rss"
+  }, 
+  "https://psionicblastfromthepast.blogspot.com/": {
+    "author": "David B.", 
+    "url": "https://psionicblastfromthepast.blogspot.com/", 
+    "title": "Psionic Blast from the Past", 
+    "system": "OD&D & Homebrews", 
+    "theme": "Hexcrawl, West Marches, home brew in Arthurian OD&D + D&D discussions and RPG design/rules.", 
+    "xmlUrl": "https://psionicblastfromthepast.blogspot.com/feeds/posts/default?alt=rss"
+  }, 
+  "http://www.theseoldgames.com": {
+    "author": "Phil Viverito", 
+    "url": "http://www.theseoldgames.com", 
+    "title": "These Old Games", 
+    "system": "General OSR, D&D, AD&D", 
+    "theme": "Agnostic, Worldbuilding, Commentary, Reviews and Mechanics.", 
+    "xmlUrl": "http://www.theseoldgames.com/feeds/posts/default?alt=rss"
   }
 }
