@@ -5,6 +5,19 @@ title: The Ramanan Sivaranjan Awards for Excellence in Gaming
 
 Each year The Ramanan Sivaranjan Awards for Excellence in Gaming highlight gaming books that are exceptional in their quality and character. To qualify for contention a book must have been purchased by Ramanan Sivaranjan during the proceeding calendar year—i.e. the awards given in the summer of 2016 are for books published from January 2015 - December 2015. Winners are chosen by Ramanan Sivaranjan based on his moods about gaming at a particular moment in time. The Ramanan Sivaranjan Awards for Excellence in Gaming prides itself on selecting the finest RPG books. Previous winners have gone on to win at the EN World Awards, 3 Castles, Indiecade, the Indie-RPG Awards, and The Ramanan Sivaranjan Awards for Excellence in Gaming. The first awards were given in the summer of 2015. They originated because Ramanan Sivaranjan found it incredulous that *Death Frost Doom* wasn't nominated for Best Art at the Ennies—like, why even have an award?
 
+
+# [2019](/blog/awards-2018)
+
+* The Ramanan Sivaranjan Excellence in Gaming Best God Damn Books of 2018: [Mothership & Dead Planet][mothership] by Sean McCoy, Donn Stroud, and Fiona Maeve Geist
+* Best Setting Book: Jason Sholtis for [Operation Unfathomable][ou] (with layout by Jez Gordon)
+* Best Game: David Black for the [Black Hack 2e][bh]
+* Honorable Mentions:
+  * Games Workshop, [Kill Team][killteam]
+  * Jesse Ross, [Trophy][] (found in the Gauntlet Codex Dark 2)
+  * Emmy Allen, [The Dolorous Stroke][tds]
+  * Ben Milton, [Knave][]
+  * Ben Laurence, [Through Ulthans Door][tud]
+
 # [2018](/blog/awards-2017)
 
 * The Ramanan Sivaranjan Excellence in Gaming Best God Damn Book of 2017: Jacob Hurst, Gabriel Hernandez, Evan Peterson and Donnie Garcia for [The Dark of Hot Springs Island][hsi]
@@ -105,3 +118,15 @@ Each year The Ramanan Sivaranjan Awards for Excellence in Gaming highlight gamin
 [bb]: http://www.magpiegames.com/category/bluebeards-bride/
 [cs]: http://www.lulu.com/ca/en/shop/evlyn-moreau/chromatic-soup-01/paperback/product-23375918.html
 [di]: https://www.games-workshop.com/en-CA/Warhammer-40000-dark-imperium-eng-2017
+
+
+
+[bh]: blackjack
+[ou]: https://www.drivethrurpg.com/product/233145/Operation-Unfathomable
+[mothership]: http://www.tuesdayknightgames.com/mothership
+[trophy]: https://trophyrpg.com
+[tds]: https://www.wargamevault.com/product/249660/The-Dolorous-Stroke
+[knave]: https://www.drivethrurpg.com/product/250888/Knave
+[tud]: https://www.drivethrurpg.com/product/254659/Through-Ultans-Door-Issue-1
+[codex]: https://www.gauntlet-rpg.com/codex.html
+[killteam]: https://warhammer40000.com/kill-team/
