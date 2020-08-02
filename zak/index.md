@@ -3,9 +3,9 @@ layout: static
 title: Abuse is not a Game
 ---
 
-_I wrote what follows and [shared it to G+][gplus] after reading Mandy Morbid's acccount of her abusive relationship with Zak. I will likely revisit this at some point and write up more of my thoughts. I have a lot. When I post things to Google+ I always share them to my private circles. This feels like something to share publicly._
+_I wrote what follows and originally [shared it to G+][gplus] after reading Mandy Morbid's acccount of her abusive relationship with Zak. I may revisit this post at some point and write up more of my thoughts. I have a lot. As more time passes I can't be bothered to spend anymore time on Zak._
 
-_I will update any posts that previously mention Zak's books--there are a lot--so people are aware of my thoughts now. This will take a bit of time as I dig through them all and link to this page._
+_I have updated any posts that previously mentioned Zak's books--there are a lot--so people are aware of my current thoughts about Zak._
 
 ---
 
