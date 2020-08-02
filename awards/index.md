@@ -3,7 +3,20 @@ layout: award
 title: The Ramanan Sivaranjan Awards for Excellence in Gaming
 ---
 
-Each year The Ramanan Sivaranjan Awards for Excellence in Gaming highlight gaming books that are exceptional in their quality and character. To qualify for contention a book must have been purchased by Ramanan Sivaranjan during the proceeding calendar year—i.e. the awards given in the summer of 2016 are for books published from January 2015 - December 2015. Winners are chosen by Ramanan Sivaranjan based on his moods about gaming at a particular moment in time. The Ramanan Sivaranjan Awards for Excellence in Gaming prides itself on selecting the finest RPG books. Previous winners have gone on to win at the EN World Awards, 3 Castles, Indiecade, the Indie-RPG Awards, and The Ramanan Sivaranjan Awards for Excellence in Gaming. The first awards were given in the summer of 2015. They originated because Ramanan Sivaranjan found it incredulous that *Death Frost Doom* wasn't nominated for Best Art at the Ennies—like, why even have an award?
+Each year The Ramanan Sivaranjan Awards for Excellence in Gaming highlight gaming books that are exceptional in their quality and character. To qualify for contention a book must have been purchased by Ramanan Sivaranjan during the proceeding calendar year—i.e. the awards given in the summer of 2016 are for books published from January 2015 - December 2015. Winners are chosen by Ramanan Sivaranjan based on his moods about gaming at a particular moment in time. The Ramanan Sivaranjan Awards for Excellence in Gaming prides itself on selecting the finest RPG books. Previous winners have gone on to win at the EN World Awards, 3 Castles, Indiecade, the Indie-RPG Awards, and The Ramanan Sivaranjan Awards for Excellence in Gaming. The first awards were given in the summer of 2015. They originated because Ramanan Sivaranjan found it incredulous that Jez Gordon's work in Death Frost Doom wasn't nominated for Best Art at the Ennies—like, why even have an award?
+
+
+# [2020](/blog/awards-2019)
+
+* The Ramanan Sivaranjan Excellence in Gaming Best God Damn Books of 2019: [Zombie World][zw-game] by Brendan Conway and Mark Diaz Truman
+* Best Settings and Adventure: Patrick Stuart and Dirk Detweiler Leichty for [Silent Titans][st] (with layout by Christian Kessler and editing by Fiona Maeve Geist)
+* Best One Page Dungeons Collected into a Fancy Book: [Trilemma Adventure Compendium][tac] by Michael Prescott.
+* Honourable Mentions:
+  * [Mork Borg][mb] by Pelle Nilsson and Johan Nohr
+  * [Girl Underground][gu] by Lauren McManamon and Jesse Ross
+  * Dirk's Mystery Zine (that would  became [Super Blood Harvest][sbh]) by Dirk Detweiler Leichty
+  * [The Demon Collective Volume 1][dc] by David Shugars, Camilla Greer, Comrade Pollux, and Mabel Harper
+  * [Fungi of the Far Realms][fungi] Alex Clements and Shuyi Zhang.
 
 
 # [2019](/blog/awards-2018)
@@ -34,7 +47,7 @@ Each year The Ramanan Sivaranjan Awards for Excellence in Gaming highlight gamin
 
 # [2017](/blog/awards-2016)
 
-* The Ramanan Sivaranjan Excellence in Gaming Best God Damn Book of 2016: Patrick Stuart & Zak Smith for [Maze of the Blue Medusa][motbm]
+* The Ramanan Sivaranjan Excellence in Gaming Best God Damn Book of 2016: Patrick Stuart & [Zak Smith 😬][zak] for [Maze of the Blue Medusa][motbm]
 * Best Setting Book: Rafael Chandler for [World of the Lost][wotl]
 * Best Art: Jeremy Duncan for [Towers Two][tt]
 * Honorable Mentions:
@@ -61,7 +74,7 @@ Each year The Ramanan Sivaranjan Awards for Excellence in Gaming highlight gamin
 
 # [2015](/blog/awards-2014/)
 
-* The Ramanan Sivaranjan Excellence in Gaming Best God Damn Book of 2014: Zak S, [A Red and Pleasant Land][rapl-buy].
+* The Ramanan Sivaranjan Excellence in Gaming Best God Damn Book of 2014: [Zak S 😬][zak], [A Red and Pleasant Land][rapl-buy].
 * Best Writing: Patrick Stuart, [Deep Carbon Observatory][dco-buy]
 * Best Art: Jez Gordon, [Death Frost Doom][dfd-buy]
 * Honorable Mentions:
@@ -74,6 +87,8 @@ Each year The Ramanan Sivaranjan Awards for Excellence in Gaming highlight gamin
   * Thor Olavsrud & Luke Crane, [*Torchbearer*][tb]
   
 
+
+[zak]: /zak/
 
 
 [dco-buy]: http://www.rpgnow.com/product/131801/Deep-Carbon-Observatory
@@ -130,3 +145,13 @@ Each year The Ramanan Sivaranjan Awards for Excellence in Gaming highlight gamin
 [tud]: https://www.drivethrurpg.com/product/254659/Through-Ultans-Door-Issue-1
 [codex]: https://www.gauntlet-rpg.com/codex.html
 [killteam]: https://warhammer40000.com/kill-team/
+
+
+[zw-game]: https://www.magpiegames.com/product/zombie-world-full-set/
+[st]: https://shop.swordfishislands.com/silent-titans/
+[tac]: https://store.trilemma.com
+[mb]: https://morkborg.com/
+[gu]: https://girlunderground.org
+[sbh]: https://shop.swordfishislands.com/super-blood-harvest/
+[dc]: https://gmdk.itch.io/the-demon-collective-vol-1
+[fungi]: https://melsonian-arts-council.itch.io/fungi-of-the-far-realms
