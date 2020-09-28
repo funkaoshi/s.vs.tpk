@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Some More Thoughts on Kill Team 
-category: blog
+category: review
 tags:
 tags:
 - warhammer
