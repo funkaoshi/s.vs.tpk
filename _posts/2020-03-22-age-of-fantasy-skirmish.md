@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Age of Fantasy Skirmish
-category: blog
+category: review
 tags:
 - warcry
 - opr
