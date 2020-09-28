@@ -139,7 +139,7 @@ These wildflower strew meadows are the haunt of a ratlegged devil wearing a mask
 
 ## 0211
 
-A band of 41 Southern spiderherd desperados, clad in quilted silk armor and large hats.  They seek to beseige the town of Angleae with thier light repeating crossbows until it gives up it's priests, who they will toruture with thier wavy bladed fighting knives until they admit to blasphemous moon worship and human sacrifice.   The warband is led by a foolish young noble atop a giant spider, who dabbles in horomancy, the sorcery of time, but fancies himself a true magus.
+A band of 41 Southern spiderherd desperados, clad in quilted silk armor and large hats.  They seek to beseige the town of Wickfordwith thier light repeating crossbows until it gives up it's priests, who they will toruture with thier wavy bladed fighting knives until they admit to blasphemous moon worship and human sacrifice.   The warband is led by a foolish young noble atop a giant spider, who dabbles in horomancy, the sorcery of time, but fancies himself a true magus.
 
 ## 0212
 
@@ -811,10 +811,6 @@ It is quiet here.  Too quiet...
 ## 1818
 
 A pack of coyotes feast on the arrow-riddled body of a goblin messenger. In his leather pouch is a letter to Gobo Rikleclan, a Goblin Prince, requesting assistance in the invasion of Ogon (Hex 0101).
-
-## 1822
-
-Farm was destroyed by a cult hunting werewolves. False tracks of children fleeing lead to an ambush.
 
 ## 1823
 
