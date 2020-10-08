@@ -127,8 +127,6 @@ _The sisters reconnaissance has paid off, and they have a chance to take the fig
 
 ### Greater Horrors of the Kuruva Dynasty
 
-![Necrons](../grimlite-5.jpg)
-
 <div class="units" markdown="1">
 
 **Royal Warden** (Tough 3+)  
@@ -167,3 +165,5 @@ Mandibles - T2x1
 Swarm: Double Damage when attacking a target that another Scarab is touching.
 
 </div>
+
+![Necrons](../grimlite-5.jpg)
