@@ -15,6 +15,7 @@ There is a lot of creative output on the internet. This page collects some of th
     * Another classic map from Gus is [Partol Sector Omega][18], which is "Githyanki Fantasy Fucking Veitnam".
     * Jez has been trying to finsh [Kaltval][20] for ages.
     * I helped the mysterious mista tipsta and his friends turn their own attempt at a crowd sourced hexcrawl into a web page: [The Scorched Coast][21]
+* I have been playing [GRIMLITE by Chris McDowall][23] and [writing about my solo campaign so far][22].
 * [The He-Man Show Bible][4] by Michael Halperin.
 * [My 'beta' rules for OD&D Psionics][5]
 * The infamous and notorious [PHILOTOMY’S Dungeons and Dragons Musings][6] by Jason Cone.
@@ -40,3 +41,5 @@ There is a lot of creative output on the internet. This page collects some of th
 [19]: /grab-bag/barbarian/
 [20]: /grab-bag/kaltval/
 [21]: /grab-bag/scorchedcoast/
+[22]: /grab-bag/grimlite/
+[23]: https://www.bastionland.com/search/label/GRIMLITE
