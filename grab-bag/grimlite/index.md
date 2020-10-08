@@ -15,9 +15,11 @@ I am playing solely with Horrors at the moment, rather than a rival warband I al
 
 Campaigns:
 - [Repentia Superior, Sangami, and her squad of battle sisters face of against the newly awoken Necrons of the Kuruva Dynasty][1]
+- [The Kuruva Dynasty of the Necrons battles the Death Guard][2]
 
 
 [chris]: https://www.bastionland.com/search/label/GRIMLITE
 [grimlite]: https://drive.google.com/file/d/1FF42Wm6j-h_cw2BmTBr0Rir8KHd1rQ9D/view?usp=drivesdk
 [warcry]: https://docs.google.com/document/d/1t0DDVkGYf0zExn1fkMrkbcu7rKbrjCId4RQOJlFy0eI/edit
 [1]: campaign-1/
+[2]: campaign-2/
