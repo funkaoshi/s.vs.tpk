@@ -20,7 +20,7 @@ a:hover {
 }
 
 article img {
-    border: 0;
+    border: 1px solid black;
     max-width: 748px;
     margin: 0 auto;
     display: block;
@@ -44,7 +44,7 @@ nav {
 nav p {
     margin-top: 0;
     font-size: 0.7em;
-    text-align: center;    
+    text-align: center;
 }
 
 h2.tag-title {
@@ -96,6 +96,9 @@ article sup {
 article .meta {
     font-size: 0.9em;
 }
+article strong {
+    font-weight: bold;
+}
 
 article table {
     border: 1px solid black;
@@ -105,7 +108,7 @@ article table {
 article table tr:nth-child(odd) {
     background-color: #EDEEFF;
 }
-article table tr td:first-child, 
+article table tr td:first-child,
 article table tr th:first-child {
     text-align: center;
 }
@@ -121,7 +124,7 @@ article table td,
 article table th {
     padding: 2px 5px;
     border: 1px solid black;
-    vertical-align: top;    
+    vertical-align: top;
 }
 
 article div.footnotes ol {
