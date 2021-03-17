@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta name="viewport" content="width=1120, maximum-scale=1.0"/>
+    <title>Save vs. Total Party Kill - {{ page.title }}</title>
+    
+    <link rel="alternate" title="{{ site.title }}" type="application/json" href="{{ "/feed.json" | prepend: site.baseurl | prepend: site.url }}" />
+    <link rel="alternate" type="application/atom+xml" title="Save vs. Total Party Kill (atom feed)" href="/atom.xml"/>
+    <link rel="alternate" type="application/rss+xml" title="Save vs. Total Party Kill (rss feed)" href="/rss.xml"/>
+
+    <link rel="icon" type="image/png" href="/assets/img/favicon.png" />
+    <link rel="apple-touch-icon-precomposed" href="/assets/img/apple-touch-icon-precomposed.png" />
+    
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Didact+Gothic&family=Roboto&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" type="text/css" href="/assets/css/site.css?17-MAR-2021">
+    <style>
+        body {
+            font-family: 'Didact Gothic', sans-serif;
+            font-size: 1em;
+            color: #EEE;
+            background: #000;
+            background-image: url('/assets/img/ep_naturalblack.png');
+        }
+        h1, h2, h3, h4, h5, h6 {
+            font-family: 'Roboto', sans-serif;
+            text-transform: uppercase;
+        }
+        a, a:visited, strong, em {
+            color: rgb(223, 106, 90);
+        }
+        strong {
+            font-weight: bold;
+        }
+        h2 {
+            margin-top: 2em;
+        }
+        </style>
+
+    {% include analytics.html %}
+    {% if page.css %}
+    <style type="text/css" media="screen">
+    {{ page.css }}
+    </style>
+    {% endif %}
+  </head>
+  <body>
+    <div id='content'>
+	  {{ content }}
+      <footer>
+        <p>Site designed and built by <a href="http://funkaoshi.com">Ramanan Sivaranjan</a>.</p>
+      </footer>
+    </div>
+  </body>
+</html>
