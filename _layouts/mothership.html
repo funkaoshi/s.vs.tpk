@@ -13,29 +13,41 @@
     <link rel="apple-touch-icon-precomposed" href="/assets/img/apple-touch-icon-precomposed.png" />
     
     <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Didact+Gothic&family=Roboto&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic&family=Roboto&display=swap" rel="stylesheet">
     
     <link rel="stylesheet" type="text/css" href="/assets/css/site.css?17-MAR-2021">
     <style>
         body {
-            font-family: 'Didact Gothic', sans-serif;
+            font-family: 'Roboto', sans-serif;
             font-size: 1em;
             color: #EEE;
             background: #000;
             background-image: url('/assets/img/ep_naturalblack.png');
+            padding:2em;
         }
         h1, h2, h3, h4, h5, h6 {
-            font-family: 'Roboto', sans-serif;
+            font-family: 'Nanum Gothic', sans-serif;
             text-transform: uppercase;
-        }
-        a, a:visited, strong, em {
-            color: rgb(223, 106, 90);
-        }
-        strong {
-            font-weight: bold;
         }
         h2 {
             margin-top: 2em;
+            margin-bottom: 0;
+        }
+        h3.date, strong {
+            font-weight: bold;
+            text-decoration: underline;
+        }
+        h3.date {
+            font-size:0.8em;
+            margin-top: 0;
+        }
+        a, a:visited, a:hover, em, .commentary {
+            color: rgb(223, 106, 90);
+        }
+        .commentary {
+            margin-top: 1em;
+            border: 1px solid gray;
+            padding: 1em;
         }
         </style>
 
@@ -48,9 +60,20 @@
   </head>
   <body>
     <div id='content'>
+      <h1><a href="/momship/">Mothership</a></h1>
+      <h2>{{ page.title }}</h2>
+      <h3 class="date">{{ page.date }}</h3>
 	  {{ content }}
+      {% if page.commentary %}
+      <h2>Commentary</h2>
+      {% for c in page.commentary %}
+      <div class="commentary">
+          {{ c|markdownify }}
+      </div>
+      {% endfor %}
+      {% endif %}
       <footer>
-        <p>Site designed and built by <a href="http://funkaoshi.com">Ramanan Sivaranjan</a>.</p>
+        <p>Site designed and built by <a href="http://funkaoshi.com">Ramanan Sivaranjan</a>. Greg got me calling Mothership Momship.</p>
       </footer>
     </div>
   </body>
