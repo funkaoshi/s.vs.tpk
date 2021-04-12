@@ -18,15 +18,15 @@ Is [Luke Gearing][luke] too powerful? Certainly. Luke's latest work for [Tuesday
 - [Session 2, March 15th, 2021, with Brendan, Josh, Stephen](session-2)
 - [Session 3, March 22nd, 2021, with Brendan, Stephen](session-3)
 - [Session 4, March 29th, 2021, with Brendan, Josh, Stephen](session-4)
+- [Session 5, April 5th, 2021, with Brendan, Josh, Stephen](session-5)
+- Session 6, April 12th, 2021, with ...
 
+## House Rules
 
-## House Rules and Procedures for Play
-
-**Combat:** Instead of making opposed rolls during combat, players simply make a normal combat check. If they succeed they roll damage. An enemy can make an armour save to reduce the damage rolled by half. This is inline with what the online Mothership community is doing, and what [Sean][] himself suggested. 
+[Are you even playing an RPG if you aren't mucking with the rules as you go?](houserules)
 
 
 [luke]: https://lukegearing.blot.im/
 [gd]: https://www.mothershiprpg.com/gradient-descent
 [tnk]: https://www.tuesdayknightgames.com/
 [mothership]: https://www.mothershiprpg.com/
-[sean]: https://www.failuretolerated.com/
