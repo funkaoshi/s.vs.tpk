@@ -19,7 +19,7 @@ Is [Luke Gearing][luke] too powerful? Certainly. Luke's latest work for [Tuesday
 - [Session 3, March 22nd, 2021, with Brendan, Stephen](session-3)
 - [Session 4, March 29th, 2021, with Brendan, Josh, Stephen](session-4)
 - [Session 5, April 5th, 2021, with Brendan, Josh, Stephen](session-5)
-- Session 6, April 12th, 2021, with ...
+- [Session 6, April 12th, 2021, with Brendan, Josh, Stephen](session-6)
 
 ## House Rules
 
