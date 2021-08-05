@@ -6,6 +6,20 @@ title: The Ramanan Sivaranjan Awards for Excellence in Gaming
 Each year The Ramanan Sivaranjan Awards for Excellence in Gaming highlight gaming books that are exceptional in their quality and character. To qualify for contention a book must have been purchased by Ramanan Sivaranjan during the proceeding calendar year—i.e. the awards given in the summer of 2016 are for books published from January 2015 - December 2015. Winners are chosen by Ramanan Sivaranjan based on his moods about gaming at a particular moment in time. The Ramanan Sivaranjan Awards for Excellence in Gaming prides itself on selecting the finest RPG books. Previous winners have gone on to win at the EN World Awards, 3 Castles, Indiecade, the Indie-RPG Awards, and The Ramanan Sivaranjan Awards for Excellence in Gaming. The first awards were given in the summer of 2015. They originated because Ramanan Sivaranjan found it incredulous that Jez Gordon's work in Death Frost Doom wasn't nominated for Best Art at the Ennies—like, why even have an award?
 
 
+# [2021](/blog/awards-2020)
+
+* The Ramanan Sivaranjan Excellence in Gaming Best God Damn Books of 2020: [Gradient Descent][gd] by Luke Gearing, Nick Tofanni, Jarret Crader, and Sean McCoy.
+* Best Setting Book: [The Ultraviolet Grasslands][uvg] by Luka Rejec.
+* Best Game: [Electric Bastionland][bastionland] by Chris McDowall and Alec Sorenson.
+* Honourable Mentions:
+  * [Prison of the Hated Pretender][prison] by Gus L
+  * [Pound of Flesh][pof] by Sean McCoy, Donn Stroud, and Luke Gearing
+  * [Ordure Fantasy][ordure] by Michael Raston
+  * [Acid Death Fantasy][adf] also by Luke Gearing (who is this man?!)
+  * [Stygian Library Remastered][stygian] by Emmy Allen
+  * [Sunken][] by Mike Martens
+  * [Lorn Song of the Bachelor][lorn] by Zedeck Siew
+
 # [2020](/blog/awards-2019)
 
 * The Ramanan Sivaranjan Excellence in Gaming Best God Damn Books of 2019: [Zombie World][zw-game] by Brendan Conway and Mark Diaz Truman
@@ -134,8 +148,6 @@ Each year The Ramanan Sivaranjan Awards for Excellence in Gaming highlight gamin
 [cs]: http://www.lulu.com/ca/en/shop/evlyn-moreau/chromatic-soup-01/paperback/product-23375918.html
 [di]: https://www.games-workshop.com/en-CA/Warhammer-40000-dark-imperium-eng-2017
 
-
-
 [bh]: blackjack
 [ou]: https://www.drivethrurpg.com/product/233145/Operation-Unfathomable
 [mothership]: http://www.tuesdayknightgames.com/mothership
@@ -155,3 +167,15 @@ Each year The Ramanan Sivaranjan Awards for Excellence in Gaming highlight gamin
 [sbh]: https://shop.swordfishislands.com/super-blood-harvest/
 [dc]: https://gmdk.itch.io/the-demon-collective-vol-1
 [fungi]: https://melsonian-arts-council.itch.io/fungi-of-the-far-realms
+
+
+[bastionland]: https://www.bastionland.com/
+[uvg]: https://www.bastionland.com/
+[gd]: https://shop.tuesdayknightgames.com/collections/mothership/products/gradient-descent
+[prison]: https://www.drivethrurpg.com/product/333389/Prison-of-the-Hated-Pretender
+[pof]: https://shop.tuesdayknightgames.com/products/a-pound-of-flesh
+[ordure]: https://www.drivethrurpg.com/product/324369/Ordure-Fantasy
+[adf]: https://www.melsonia.com/acid-death-fantasy-264-p.asp
+[stygian]: https://soulmuppet-store.co.uk/products/the-stygian-library
+[sunken]: https://www.drivethrurpg.com/product/324352/Sunken-An-RPG-of-Nautical-Horror
+[lorn]: https://www.exaltedfuneral.com/products/lorn-song-of-the-bachelor
