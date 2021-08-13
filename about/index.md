@@ -11,9 +11,6 @@ That was a million years ago. [I recently got back into D&D.][2] Wizards of the 
 
 This blog is another drop in the old-school D&D bucket.
 
-{% include gplus.html %}
-
-
 [funkaoshi]: http://funkaoshi.com
 [dnd]: http://wizards.com/dnd/ (Dungeons and Dragons)
 [2]: http://funkaoshi.com/blog/old-school-dd (Old School D&D)
