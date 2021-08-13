@@ -8,7 +8,7 @@ Each year The Ramanan Sivaranjan Awards for Excellence in Gaming highlight gamin
 
 # [2021](/blog/awards-2020)
 
-* The Ramanan Sivaranjan Excellence in Gaming Best God Damn Books of 2020: [Gradient Descent][gd] by Luke Gearing, Nick Tofanni, Jarret Crader, and Sean McCoy.
+* The Ramanan Sivaranjan Excellence in Gaming Best God Damn Books of 2020: [Gradient Descent][gd] by Luke Gearing, Nick Tofanni, Jarrett Crader, and Sean McCoy.
 * Best Setting Book: [The Ultraviolet Grasslands][uvg] by Luka Rejec.
 * Best Game: [Electric Bastionland][bastionland] by Chris McDowall and Alec Sorenson.
 * Honourable Mentions:
