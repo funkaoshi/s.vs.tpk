@@ -2343,6 +2343,22 @@
     "system": "B/X, OD&D, monstrous homebrew amalgam",
     "theme": "Tools, tables, braindump"
   },
+  "https://eightheye.blogspot.com/": {
+    "url": "https://eightheye.blogspot.com/",
+    "xmlUrl": "https://eightheye.blogspot.com/feeds/posts/default?alt=rss",
+    "title": "Eighth Eye",
+    "author": "eegag",
+    "system": "OSE, 5E, Into the Odd, homebrew",
+    "theme": "homebrew, house rules, play examples"
+  },
+  "http://eviltables.dev": {
+    "url": "http://eviltables.dev",
+    "xmlUrl": "https://eviltables.dev/feed/",
+    "title": "Evil Tables",
+    "author": "Evil Tables",
+    "system": "OSR",
+    "theme": "random tables and hexcrawls"
+  },
   "https://www.prismaticwasteland.com/": {
     "url": "https://www.prismaticwasteland.com/",
     "xmlUrl": "https://www.prismaticwasteland.com/blog?format=rss",
@@ -2358,5 +2374,13 @@
     "author": "Eric Reitz",
     "system": "B/X Retroclones, AD&D, and Knave",
     "theme": "OSR mechanics, DM advice, worldbuilding, my session reports and I\nreview indie OSR works!"
+  },
+  "http://aloneinthelabyrinth.blogspot.com/": {
+    "url": "http://aloneinthelabyrinth.blogspot.com/",
+    "xmlUrl": "http://aloneinthelabyrinth.blogspot.com/feeds/posts/default?alt=rss",
+    "title": "Alone in the Labyrinth",
+    "author": "Sofinho",
+    "system": "OSE/BX and Homebrew (Pariah)",
+    "theme": "Proto neolithic psychedelia, urban horror, classic D&D"
   }
 }

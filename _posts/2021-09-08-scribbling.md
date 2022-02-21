@@ -54,10 +54,6 @@ Scrap isn't active on social media, but that doesn't mean we should Forget about
 [![Scrap Demonbones](/assets/img/scrap-demonbones.png)][demonbones]
 
 
-
-[ed. **The [Demon-Bone Sarcophagus kickstarter][demonbones] is running till September 11th.** [This post began life as a thread on Twitter.][thread]]
-
-
 [pinned-tweet]: https://twitter.com/SaveVsTPK/status/1239892904551821322
 [thread]: https://twitter.com/SaveVsTPK/status/1435805412255797248
 [wd]: https://twitter.com/wldenning/status/1435956395615178758
