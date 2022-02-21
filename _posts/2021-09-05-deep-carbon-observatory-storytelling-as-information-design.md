@@ -33,9 +33,6 @@ Patrick and Scrap's books are sometimes maligned for being more art project than
 Judging by my own bookshelf, a lot of adventures are written, read, and never played. As someone writing modules, it's likely important to appreciate this fact, and try and make something that manages to be compelling even if it only ever sits on a shelf. But there is more going on here: solid adventures inject their ideas into your head as if they were your own. DCO is easier to run because its elements are so compelling. The writing is not simply fanciful or an attempt at post-modern storytelling: it's all in service of the game.
 
 
-[ed. **The [Demon-Bone Sarcophagus kickstarter][demonbones] is running till September 11th.**]
-
-
 
 [^1]: Cannibalism features heavily in seemingly every book Patrick writes. What does it mean? Can you psychoanalyze a man via his adventures. A topic for another blog post, perhaps.
 [^2]: [You can watch Jesse run DCO for members of the Guantlet community on YouTube.][jesse]
