@@ -1,7 +1,7 @@
 all: build deploy
 
 build:
-	jekyll build
+	bundle exec jekyll build
 
 deploy:
 	rsync -avz --delete --exclude=Makefile --exclude=README.md \
