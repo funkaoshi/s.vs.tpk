@@ -1,6 +1,7 @@
 ---
 layout: static
 title: About
+permalink: /about/
 ---
 
 This is a blog about [D&D][dnd]. I didn't want to drown [my other blog][funkaoshi] in posts about THAC0 and Megadungeons, and so here we are.
