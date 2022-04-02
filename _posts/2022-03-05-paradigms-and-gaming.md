@@ -34,8 +34,9 @@ A friend replied to tell me the obvious: it's a game about going places and meet
 
 The easy thing to do when you come across a game outside your comfort zone is to dismiss it out of hand: "how is this even a game?" Personal preference turns into condemnation. I try and make an effort to understand where games are coming from. [The experience of playing games further afield from my tastes has at times been revelatory][nightwitches]. Approaching a game on its own terms with an open mind doesn't mean you'll end up liking it. There are many games I read and bounce right off. That's fine, not all games need to be for me, not should they.
 
+I'm looking forward to playing both of this games. I'm sure i'll have much more to say.
 
-[^1]: LotFP's rulebook starts this way because it was originally part of a trio of books, a Tutorial Book that would introduce players to the game, and a Referee Book that further solidfies LotFP's approach to gaming. Divorced of its siblings when turned into a hardcover, the Rules and Magic book ends up feeling almost aggressive or exciting: this is how you make a character let's go! 
+[^1]: LotFP's rulebook starts this way because it was originally part of a trio of books, a Tutorial Book that would introduce players to the game, and a Referee Book that further solidfies LotFP's approach to gaming. Divorced of its siblings when turned into a hardcover, the Rules and Magic book ends up feeling almost aggressive or exciting: this is how you make a character let's go! Something I really love about that rulebook, actually.
 [^2]: Miyazaki minus all the violence that exists in his movies: ha!
 
 [skorne]: https://dreamingdragonslayer.itch.io/skorne
