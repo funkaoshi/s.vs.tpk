@@ -1,4 +1,5 @@
-<article>
+<article class="{{ post.category }}">
+    {% if post.category != 'microblog' %}
     <hgroup>
         <h1>
             {% if post.category == 'play-report' %}Play Report:{% endif %}
@@ -15,6 +16,15 @@
             {% endfor %}
         </p>
     </hgroup>
+    {% endif %}
+
+    {% if post.category == 'microblog' %}
+    <a href="{{ post.url }}" class="permalink">#</a>
+    {% endif %}
+	
     {{ post.content }}
-    <a href="{{ post.url }}#disqus_thread">Comments</a>
+    
+    {% if post.category != 'microblog' %}
+	<a href="{{ post.url }}#disqus_thread" class="comments">Comments</a>
+    {% endif %}
 </article>

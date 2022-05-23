@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<article {%if page.css_id %}id={{ page.css_id }}{% endif %}>
+<article {%if page.css_id %}id={{ page.css_id }}{% endif %} class="{{ post.category }}">
     <hgroup>
         <h1>
             {% if page.category == 'play-report' %}Play Report:{% endif %}
