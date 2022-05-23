@@ -156,13 +156,26 @@ nav.index-pagination {
 /* Microblogging */
 
 article.microblog {
-	text-color: gray;
+	color: gray;
+	font-size: 80%;
+	line-height: 140%;
+	margin: 0 auto;
 }
 
-article.microblog a.permalink {
+article.microblog p.permalink {
 	float: left;
-	margin-left: -1em;
+	text-align: right;
+	margin-left: -3.5em;
+	margin-top: 0;
 }
+
+article.microblog img {
+	width: 32em;
+	max-height: 16em;
+	object-fit: cover;
+	margin: 0;
+}
+
 
 /* The archive page */
 

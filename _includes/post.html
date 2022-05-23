@@ -19,7 +19,12 @@
     {% endif %}
 
     {% if post.category == 'microblog' %}
-    <a href="{{ post.url }}" class="permalink">#</a>
+    <p class="permalink">
+        <a href="{{ post.url }}">#</a> <br />
+        {{ post.date | date: "%d"}} <br />
+        {{ post.date | date: "%B" }} <br />
+        {{ post.date | date: "%Y" }} <br />
+    </p>
     {% endif %}
 	
     {{ post.content }}
