@@ -2,7 +2,9 @@
 layout: default
 ---
 
-<article {%if page.css_id %}id={{ page.css_id }}{% endif %}>
+<article {%if page.css_id %}id={{ page.css_id }}{% endif %} class="{{ post.category }}">
+	
+	{% if page.category != 'microblog' %}
     <hgroup>
         <h1>
             {% if page.category == 'play-report' %}Play Report:{% endif %}
@@ -19,8 +21,16 @@ layout: default
             {% endfor %}
         </p>
     </hgroup>
+	{% endif %}
 
     {{ content }}
+	
+	{% if page.category == 'microblog' %}
+	<p> 
+		— Ramanan Sivaranjan, microblogging, {{ page.date | date: "%B %d, %Y" }} [{% for tag in page.tags %} <a class="tag_list_link" href="/tag/{{ tag }}">{{ tag }}</a> {% endfor %}]
+		<a href="{{ post.url }}">#</a>
+	</p>
+	{% endif %}
 
     {% if page.gplus %}
     <p class="discuss">
