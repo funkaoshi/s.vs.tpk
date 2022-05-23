@@ -45,7 +45,7 @@ title = ARGV.join(" ")
 filename = "#{Time.now.strftime('%Y-%m-%d')}-#{title.parameterize}.md"
 filepath = File.join(POSTS_DIR, filename)
 
-category = options[:category]
+category = title == "microblog" ? "microblog" : options[:category]
 
 date = Time.now.strftime('%F %I:%M %P')
 
