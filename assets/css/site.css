@@ -159,12 +159,13 @@ article.microblog {
 	color: gray;
 	font-size: 80%;
 	line-height: 140%;
-	margin: 0 auto;
+	margin: 3em auto;
 }
 
 article.microblog p.permalink {
 	float: left;
 	text-align: right;
+	color: #777;
 	margin-left: -3.5em;
 	margin-top: 0;
 }
