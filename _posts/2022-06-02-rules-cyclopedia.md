@@ -3,6 +3,9 @@ layout: post
 title: Rules Cyclopedia
 category: microblog
 tags:
+    - rulescyclopedia
+    - becmi
+    - tsr 
 date: 2022-06-02 06:57 pm
 ---
 
