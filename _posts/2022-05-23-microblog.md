@@ -1,6 +1,6 @@
 ---
 layout: post
-title: microblog
+title: Microblog
 category: microblog
 tags:
 - meta
