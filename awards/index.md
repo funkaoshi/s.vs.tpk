@@ -6,6 +6,21 @@ title: The Ramanan Sivaranjan Awards for Excellence in Gaming
 Each year The Ramanan Sivaranjan Awards for Excellence in Gaming highlight gaming books that are exceptional in their quality and character. To qualify for contention a book must have been purchased by Ramanan Sivaranjan during the proceeding calendar year—i.e. the awards given in the summer of 2016 are for books published from January 2015 - December 2015. Winners are chosen by Ramanan Sivaranjan based on his moods about gaming at a particular moment in time. The Ramanan Sivaranjan Awards for Excellence in Gaming prides itself on selecting the finest RPG books. Previous winners have gone on to win at the EN World Awards, 3 Castles, Indiecade, the Indie-RPG Awards, and The Ramanan Sivaranjan Awards for Excellence in Gaming. The first awards were given in the summer of 2015. They originated because Ramanan Sivaranjan found it incredulous that Jez Gordon's work in Death Frost Doom wasn't nominated for Best Art at the Ennies—like, why even have an award?
 
 
+# [2022](/blog/awards-2021)
+
+* The Ramanan Sivaranjan Excellence in Gaming Best God Damn Books of 2021: [Cartel][] by Mark Diaz Truman
+* Best Skirmish Game: [Space Weirdos][sw] by Casey Garske
+* Best Adventure: [Tomb Robbers of the Crystal Frontier][trcf] by Gus L
+* Honourable Mentions:
+  * [Forbidden Psalm][fp] by Kevin Rahman
+  * [Fimbria][] by Giuliano Roverato
+  * [The Haunted Hamlet and other Hexes][hh] by the Lazy Litch
+  * [Kriegsmesser][] by Gregor Vuga
+  * [Lowlife][] by Sam Sorensen
+  * [Rebel Crown & Serpent Oak][rcso] by Michael Dunn-O'Connor & Eric Swanson
+  * [Reign in Hell][rh] by Adam Loper and Vince Venturella
+  * [Ross Rifles][rr] by Daniel Kwan, Patrick Keenan, and Daniel Groh
+
 # [2021](/blog/awards-2020)
 
 * The Ramanan Sivaranjan Excellence in Gaming Best God Damn Books of 2020: [Gradient Descent][gd] by Luke Gearing, Nick Tofanni, Jarrett Crader, and Sean McCoy.
@@ -179,3 +194,16 @@ Each year The Ramanan Sivaranjan Awards for Excellence in Gaming highlight gamin
 [stygian]: https://soulmuppet-store.co.uk/products/the-stygian-library
 [sunken]: https://www.drivethrurpg.com/product/324352/Sunken-An-RPG-of-Nautical-Horror
 [lorn]: https://www.exaltedfuneral.com/products/lorn-song-of-the-bachelor
+
+
+[trcf]: https://www.drivethrurpg.com/product/357799/Tomb-Robbers-of-the-Crystal-Frontier?
+[sw]: https://www.wargamevault.com/product/359157/Space-Weirdos
+[cartel]: https://magpiegames.com/pages/cartel
+[fp]: https://www.forbiddenpsalm.com/forbidden-psalm
+[fimbria]: https://roll4tarrasque.itch.io/fimbria
+[hh]: https://www.exaltedfuneral.com/products/the-haunted-hamlet
+[kriegsmesser]: https://gregor-vuga.itch.io/kriegsmesser
+[lowlife]: https://headofthegoat.itch.io/lowlife
+[rcso]: https://narrativedynamics.itch.io/rebel-crown-serpent-oak
+[rh]: https://www.snarlingbadger.com/reigninhell
+[rr]: https://www.dundaswestgames.com/rossrifles/
