@@ -166,7 +166,8 @@ article.microblog p.permalink {
 	float: left;
 	text-align: right;
 	color: #777;
-	margin-left: -3.5em;
+	width: 4em;
+	margin-left: -5em;
 	margin-top: 0;
 }
 
