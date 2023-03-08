@@ -102,6 +102,9 @@ article .meta {
 article strong {
     font-weight: bold;
 }
+article img+img {
+	margin-top: 1em;
+}
 
 article table {
     border: 1px solid black;
