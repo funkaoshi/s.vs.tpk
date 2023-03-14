@@ -3,6 +3,7 @@ layout: post
 title: Trophy Gold Dark Souls
 category: microblog
 tags:
+- darksouls
 - trophy
 - trophygold
 ---
