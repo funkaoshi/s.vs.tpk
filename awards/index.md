@@ -5,6 +5,23 @@ title: The Ramanan Sivaranjan Awards for Excellence in Gaming
 
 Each year The Ramanan Sivaranjan Awards for Excellence in Gaming highlight gaming books that are exceptional in their quality and character. To qualify for contention a book must have been purchased by Ramanan Sivaranjan during the proceeding calendar year—i.e. the awards given in the summer of 2016 are for books published from January 2015 - December 2015. Winners are chosen by Ramanan Sivaranjan based on his moods about gaming at a particular moment in time. The Ramanan Sivaranjan Awards for Excellence in Gaming prides itself on selecting the finest RPG books. Previous winners have gone on to win at the EN World Awards, 3 Castles, Indiecade, the Indie-RPG Awards, and The Ramanan Sivaranjan Awards for Excellence in Gaming. The first awards were given in the summer of 2015. They originated because Ramanan Sivaranjan found it incredulous that Jez Gordon's work in Death Frost Doom wasn't nominated for Best Art at the Ennies—like, why even have an award?
 
+# [2023](/blog/awards-2022)
+
+* The Ramanan Sivaranjan Excellence in Gaming Best God Damn Books of 2022: [Into the Odd Remastered][itor] by Chris McDowall, with art and graphic design by Johan Nohr.
+* Best Attempt at Distilling 800 Blog Posts into a Game: [Errant][] by Ava Islam
+* Best Gaming Supplement: [Gig Economy][ge] by Colin Sproule
+* Honourable Mentions:
+  * [Demon Bone Sarcophagus][dbs] by Patrick Stuart and Scrap Princess
+  * [&&&&&&&& Treasure][andt] by Luke Gearing
+  * [ANNA-X66: Redux][annax66] by Slade Stolar
+  * [The Book of Gaub][tbog] by Charlie Ferguson-Avery, Evoro, The Furtive Goblin, Ivy H, John “Unlawful Games” Gregory, Rowan A. and Paolo Greco
+  * [Downtime in Zyan][diz] by Ben Laurence
+  * [Fermentvm Nigrvm Dei Sepvlti][fnds] by Gord Cellar
+  * [The Frost Spire][tfs] by Jacob Hurst and Joshua Alvarado
+  * [Skorne][] by Sam Doebler
+  * [Where the Wheat Grows Tall][wtwgt] by Camilla Greer & Evlyn Moreau
+  * [Wanderhome][] by Jay Dragon.
+
 
 # [2022](/blog/awards-2021)
 
@@ -207,3 +224,17 @@ Each year The Ramanan Sivaranjan Awards for Excellence in Gaming highlight gamin
 [rcso]: https://narrativedynamics.itch.io/rebel-crown-serpent-oak
 [rh]: https://www.snarlingbadger.com/reigninhell
 [rr]: https://www.dundaswestgames.com/rossrifles/
+
+[itor]: https://freeleaguepublishing.com/en/games/into-the-odd/
+[errant]: https://killjestergames.itch.io/errant
+[ge]: https://hurtleberrypress.itch.io/gig-economy
+[andt]: https://lukegearing.itch.io/treasure
+[annax66]: https://scablandspress.itch.io/anna-x66-redux
+[tbog]: https://shop.lostpages.co.uk/products/the-book-of-gaub-print-pdf-soundtrack 
+[diz]: https://ben-laurence.itch.io/downtime-in-zyan
+[fnds]: https://www.drivethrurpg.com/product/320333/Fermentvm-Nigrvm-Dei-Sepvlti
+[tfs]: https://swordfishislands.itch.io/the-frost-spire
+[skorne]: https://dreamingdragonslayer.itch.io/skorne
+[wtwgt]: https://10d10toads.itch.io/where-the-wheat-grows-tall
+[wanderhome]: https://possumcreekgames.com/pages/wanderhome
+[dbs]: https://falseparcels.bigcartel.com/product/demon-bone-sarcophagus
