@@ -11,7 +11,7 @@ require 'optparse'
 
 options = {}
 OptionParser.new do |opts|
-  options[:category] = 'blog'
+  options[:category] = 'microblog'
   opts.banner = "Usage: new.rb [options] Post Title"
   opts.on("-c", "--category", "Set Category") do |c|
     options[:category] = c
@@ -45,7 +45,7 @@ title = ARGV.join(" ")
 filename = "#{Time.now.strftime('%Y-%m-%d')}-#{title.parameterize}.md"
 filepath = File.join(POSTS_DIR, filename)
 
-category = title == "microblog" ? "microblog" : options[:category]
+category = options[:category]
 
 date = Time.now.strftime('%F %I:%M %P')
 
