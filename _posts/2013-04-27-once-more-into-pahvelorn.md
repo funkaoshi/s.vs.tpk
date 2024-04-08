@@ -3,7 +3,7 @@ layout: post
 title: Once More into Pahvelorn
 category: play-report
 tags:
-    - Pahvelorn
+    - pahvelorn
     - osr
     - odnd
 gplus: https://plus.google.com/110118815125792309582/posts/JAmubEN5bgh

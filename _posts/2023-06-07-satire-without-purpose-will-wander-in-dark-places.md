@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Satire Without Purpose Will Wander In Dark Places
-category: microblog
+category: blog
 tags:
 - warhammer
 - 40k
