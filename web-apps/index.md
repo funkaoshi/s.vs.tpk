@@ -10,14 +10,14 @@ I have made several little web apps that will hopefully be of some use to you.
  * [A Random Dungeon with X rooms][dungeon] will generate the craziest dungeons in the world.
  * [The LotFP Summon Spell][lotfp] will help you cast the summon spell from LotFP. I have no idea how people used that spell before. I suspect there was probably a bit more suspense and you rolled a lot of dice and flipped through a rule book. This was the first of these web apps that I wrote.
  
- [1]: http://character.totalpartykill.ca/
- [2]: http://character.totalpartykill.ca/lbb/
- [3]: http://character.totalpartykill.ca/holmes/
- [4]: http://character.totalpartykill.ca/basic/
- [5]: http://character.totalpartykill.ca/pahvelorn/
- [6]: http://character.totalpartykill.ca/carcosa/
- [7]: http://character.totalpartykill.ca/dd/
- [8]: http://character.totalpartykill.ca/lotfp/
- [carcosa]: http://carcosa.totalpartykill.ca/
- [dungeon]: http://dungeon.totalpartykill.ca/
- [lotfp]: http://summon.totalpartykill.ca/
+ [1]: https://character.totalpartykill.ca/
+ [2]: https://character.totalpartykill.ca/lbb/
+ [3]: https://character.totalpartykill.ca/holmes/
+ [4]: https://character.totalpartykill.ca/basic/
+ [5]: https://character.totalpartykill.ca/pahvelorn/
+ [6]: https://character.totalpartykill.ca/carcosa/
+ [7]: https://character.totalpartykill.ca/dd/
+ [8]: https://character.totalpartykill.ca/lotfp/
+ [carcosa]: https://carcosa.totalpartykill.ca/
+ [dungeon]: https://dungeon.totalpartykill.ca/
+ [lotfp]: https://summon.totalpartykill.ca/
