@@ -1,6 +1,6 @@
 ---
 layout: static
-permalink: /campaigns-and-games/torchbearer/
+permalink: /campaigns/torchbearer/
 title: Torchbearer 2022
 css_id: Torchbearer
 css: > 
