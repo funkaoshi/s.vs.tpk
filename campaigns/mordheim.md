@@ -1,6 +1,6 @@
 ---
 layout: static
-permalink: /campaigns-and-games/thronetaker2023/
+permalink: /campaigns/thronetaker2023/
 title: "Mordheim: Thronetaker 2023"
 ---
 
