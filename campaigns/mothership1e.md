@@ -45,4 +45,24 @@ I made Arnold give up his whole clip to blow up the frag grenades, because it wa
 There aren't any random encounters in this adventure. Time is an important factor, though. Certain events take place after a certain number of hours. I need to think about how to track that neatly, and communicate it to the players. I suppose this is what people use clocks for in Blades. Though I guess I could use a more literal clock.
 </div>
 
+### Session 2 - May 16th 2024
+
+The players try and interview the mechanic Demar. They manage to get small tid bits of information from him, but for the most part he's not that lucid. They learn there is a "Hive" past the terraforming station.
+
+They explore the base, doing a quick circuit of the interior. They find dead bodies in the control room and pantry, but leave them alone for now.
+
+They investigate the crew quarters more carefully. The words COMMS OFF are written on the doors to area, grafitti. In Lt Kaplan's room they find a locator device that is tracking the android Hinton. In Dr. Edem's room they find a birthday card to Olsen, that was unopened. It reads: _Thanks for always listening. Hopefully, they’ll let me leave after this one._ Weather charts in Edem's room suggest a huge storm is coming.
+
+Returning to the control room, they discover the body they found belongs to Lt. Kaplan. He has clearly killed himself and destoryed the computers before doing so.
+
+In the medical room they find one of Dr. Edem's workbooks. She comments on discovering the “krebslieder” or “crabsong,” a shrill shriek the “carcinids” use in order to replicate. She mentions Hinton made most of the discoveries related to these creatures, but suggests her know how is what connected all the pieces.
+
+Maxwell and Jayden-113 work together to break into the locked medical room. [Hacking Check, failed!] THey get in, but it takes some time. The door chime lets them know they are in just as they hear a load boom: Demar's frag grenade has gone off. [Fear saves]
+
+They decide now is as good a time as any to search for the missing personal. They get into the APC and head off for Heron Terraforming Base.
+
+<div class="commentary">
+The sesion felt smoother. I knew Demar would 'turn' in 3 hours, give or take, and it just so happened that roughly coincided with the hacking attempt. Still could do a better job tracking time.
+</div>
+
 [abh]: /review/another-bug-hunt/
