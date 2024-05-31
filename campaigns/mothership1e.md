@@ -23,6 +23,8 @@ My copy of the new Mothership boxed set arrived recently, and it got me excited 
 
 ### Session 1 - May 9th, 2024
 
+**Players**: Arnold, Amanda, Kyani, Ian
+
 The players wake up from cryosleep orbiting Samsa VI. They meet the slimey company employee Maas, who informs them of their mission: Rendezvous with 2ndLt Kaplan, the marine commander of the colony, and assist them in repairing the situation; re-establish satellite communications and get the terraformer back online; if all else fails, evacuate Dr. Edem, the mission specialist, as well as the colony’s synthetic science officer, Hinton (or at least retrieve his logic core). Nothing else matters, least of all the lives of the rest of crew on planet.
 
 The players take a drop ship down to the surface, surviving a turbulent ride down. [Fear Saves] There is an intense tropical storm raging on the groun. They make their way towards Greta Base, which looks to have lost power. Closer they see it is on some sort of minimal power. They circumnavigate the building, peering in through windows. They can see disarray in what looks to be the cafeteria. Back at the main entrance, Maxwell hacks the airlock door. The room is black, lit by their headlamps. Jayden-113 searches the lockers, her flash light revealing huge claw marks and gashes in a couple. [Fear Saves] 
@@ -47,6 +49,8 @@ There aren't any random encounters in this adventure. Time is an important facto
 
 ### Session 2 - May 16th 2024
 
+**Players**: Arnold, Amanda, Kyani
+
 The players try and interview the mechanic Demar. They manage to get small tid bits of information from him, but for the most part he's not that lucid. They learn there is a "Hive" past the terraforming station.
 
 They explore the base, doing a quick circuit of the interior. They find dead bodies in the control room and pantry, but leave them alone for now.
@@ -64,5 +68,22 @@ They decide now is as good a time as any to search for the missing personal. The
 <div class="commentary">
 The sesion felt smoother. I knew Demar would 'turn' in 3 hours, give or take, and it just so happened that roughly coincided with the hacking attempt. Still could do a better job tracking time.
 </div>
+
+### Session 3 - May 30th 2024
+
+**Players**: Arnold, Amanda, Kyani, Ian
+
+The players make the trip through the jungle towards Heron Terraforming Station. Hazel thinks she sees the crab-creatures in jungle as they drive.
+
+They get to a clearing that opens up to the Terraforming base, and a small group of creatures emerges from the jungle as they do. They slam on the gas, and are pursued. Before things get too dire, an ATV drives past them blasting Ride of the Valkyries. The sound is enough of a distraction for the creatures to pause and change pursuit. Both cars make it back to the Hangar. 
+
+Their saviour is Sgt Valdez. As she tries to explain what's going on she is inturpted by Dr. Edam, the women they are here to rescue. Edam is in turn interrupted by HM3 Brookman, the medic. Everyone has their own demands of the party: ensure the reactor doesn’t shutdown, recover important research, restore communication and flee, respectively. The group decides to go with Valdez's plan: stop imminent the automated shutdown of the reactor.
+
+The group repels makes their way to the roof of the building so they can repel down the side of the reactor chimney. It’s terrifying descending into the darkness. [Fear Save.] On the way down they see what look to be caccoons stuck to the walls. The radiation levels are lethal, but their hazard suits keep them safe. 
+
+On the other side of an airlock door they find the remnants of the previous squad holed up onto of a gigantic turbine in the middle of a flooded room. The water levels lap up against the cat walk this door exits on to. LCpl Franco reveals _It Was Hinton All Along_. The water is infested with creatures. The reactor is going to shutdown, mother-fucking Hinton sabotaged everything.
+
+The group manage to get the marines off the turbine, and back onto the reactor chimney floor. 
+
 
 [abh]: /review/another-bug-hunt/
