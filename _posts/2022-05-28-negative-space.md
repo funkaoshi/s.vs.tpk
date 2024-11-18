@@ -9,6 +9,8 @@ tags:
 date: 2022-05-28 08:57 am
 ---
 
+_I updated this blog post for the zine [Mixed Success](https://mixed-success.itch.io/issue1), which you should also check out. The essay published in the zine is now republished on this blog as [Negative Space Reprise](/blog/negative-space-reprise/) — RAM 2024_ 
+
 ![Kingdom Death, why not](/assets/img/kingdom-death-kingsman.jpg)
 
 I just finished playing four sessions of [Torchbearer][]. [Jesse][] ran the game for a small group of us. I will write more about Torchbearer later, it was a very interesting game. Today I simply wanted to write about rules and how players engage with them. 
