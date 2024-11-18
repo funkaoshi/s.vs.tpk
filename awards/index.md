@@ -5,6 +5,20 @@ title: The Ramanan Sivaranjan Awards for Excellence in Gaming
 
 Each year The Ramanan Sivaranjan Awards for Excellence in Gaming highlight gaming books that are exceptional in their quality and character. To qualify for contention a book must have been purchased by Ramanan Sivaranjan during the proceeding calendar year—i.e. the awards given in the summer of 2016 are for books published from January 2015 - December 2015. Winners are chosen by Ramanan Sivaranjan based on his moods about gaming at a particular moment in time. The Ramanan Sivaranjan Awards for Excellence in Gaming prides itself on selecting the finest RPG books. Previous winners have gone on to win at the EN World Awards, 3 Castles, Indiecade, the Indie-RPG Awards, and The Ramanan Sivaranjan Awards for Excellence in Gaming. The first awards were given in the summer of 2015. They originated because Ramanan Sivaranjan found it incredulous that Jez Gordon's work in Death Frost Doom wasn't nominated for Best Art at the Ennies—like, why even have an award?
 
+# [2024](/blog/awards-2023)
+* The Ramanan Sivaranjan Excellence in Gaming Best God Damn Books of 2023: [Trophy Gold][tg] by Jesse Ross.
+* Best Necromunda RPG: [Gangs of Titan City][gotc] by Nick Spence, Ben Brown, and Zachary Cox.
+* Best Gaming Supplement: [Hull Breach ][hb], brought to life by Ian Yusem.
+* Honourable Mentions:
+  * [Barkeep on the Borderlands][bkb] by Prismatic Wasteland
+  * [The Black Sword Hack][bsh] by Alexandre ‘Kobayashi’ Jeannette
+  * [Brindlewood Bay][bb2024] by Jason Cordova
+  * [CY_BORG][cb] by Christian Sahlén and Johan Nohr
+  * [The Doomed][tb] by Chris McDowall
+  * [NooFutra][nf] by Scrap Princess
+  * [Sword Weirdos][sw] by Casey Garske
+  * [Warped Beyond Recognition][wbr] by Quadra
+
 # [2023](/blog/awards-2022)
 
 * The Ramanan Sivaranjan Excellence in Gaming Best God Damn Books of 2022: [Into the Odd Remastered][itor] by Chris McDowall, with art and graphic design by Johan Nohr.
@@ -238,3 +252,16 @@ Each year The Ramanan Sivaranjan Awards for Excellence in Gaming highlight gamin
 [wtwgt]: https://10d10toads.itch.io/where-the-wheat-grows-tall
 [wanderhome]: https://possumcreekgames.com/pages/wanderhome
 [dbs]: https://falseparcels.bigcartel.com/product/demon-bone-sarcophagus
+
+
+[hb]: https://www.hullbreachrpg.com/
+[gotc]: https://soulmuppet-store.co.uk/products/gangs-of-titan-city-1
+[tg]: https://trophyrpg.com/
+[sw]: https://www.drivethrurpg.com/en/product/437324/Sword-Weirdos
+[bsh]: https://www.themerrymushmen.com/product/black-sword-hack-ultimate-chaos-edition/
+[cb]: https://cy-borg.io/
+[nf]: https://scrapprincess.itch.io/noofutra-pdf-edition
+[bkb]: https://www.prismaticwasteland.com/shop/p/barkeep-on-the-borderlands
+[wbr]: https://ultraparadiso.itch.io/warped
+[bb2024]: https://www.gauntlet-rpg.com/brindlewood-bay.html
+[td]: https://www.ospreypublishing.com/ca/doomed-9781472854254/

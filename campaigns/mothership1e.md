@@ -13,7 +13,7 @@ My copy of the new Mothership boxed set arrived recently, and it got me excited 
 
 - Arnold: Maxwell Constance, Scientist
 - Amanda: Hazel Grouse
-- Kyani: Jayden-113, Android
+- Kyana: Jayden-113, Android
 - Ian: VERSE, Android
 
 ### Contractors / NPCs
@@ -23,7 +23,7 @@ My copy of the new Mothership boxed set arrived recently, and it got me excited 
 
 ### Session 1 - May 9th, 2024
 
-**Players**: Arnold, Amanda, Kyani, Ian
+**Players**: Arnold, Amanda, Kyana, Ian
 
 The players wake up from cryosleep orbiting Samsa VI. They meet the slimey company employee Maas, who informs them of their mission: Rendezvous with 2ndLt Kaplan, the marine commander of the colony, and assist them in repairing the situation; re-establish satellite communications and get the terraformer back online; if all else fails, evacuate Dr. Edem, the mission specialist, as well as the colony’s synthetic science officer, Hinton (or at least retrieve his logic core). Nothing else matters, least of all the lives of the rest of crew on planet.
 
@@ -49,7 +49,7 @@ There aren't any random encounters in this adventure. Time is an important facto
 
 ### Session 2 - May 16th 2024
 
-**Players**: Arnold, Amanda, Kyani
+**Players**: Arnold, Amanda, Kyana
 
 The players try and interview the mechanic Demar. They manage to get small tid bits of information from him, but for the most part he's not that lucid. They learn there is a "Hive" past the terraforming station.
 
@@ -71,7 +71,7 @@ The sesion felt smoother. I knew Demar would 'turn' in 3 hours, give or take, an
 
 ### Session 3 - May 30th 2024
 
-**Players**: Arnold, Amanda, Kyani, Ian
+**Players**: Arnold, Amanda, Kyana, Ian
 
 The players make the trip through the jungle towards Heron Terraforming Station. Hazel thinks she sees the crab-creatures in jungle as they drive.
 
@@ -81,9 +81,46 @@ Their saviour is Sgt Valdez. As she tries to explain what's going on she is intu
 
 The group repels makes their way to the roof of the building so they can repel down the side of the reactor chimney. It’s terrifying descending into the darkness. [Fear Save.] On the way down they see what look to be caccoons stuck to the walls. The radiation levels are lethal, but their hazard suits keep them safe. 
 
-On the other side of an airlock door they find the remnants of the previous squad holed up onto of a gigantic turbine in the middle of a flooded room. The water levels lap up against the cat walk this door exits on to. LCpl Franco reveals _It Was Hinton All Along_. The water is infested with creatures. The reactor is going to shutdown, mother-fucking Hinton sabotaged everything.
+On the other side of an airlock door they find the remnants of the previous squad holed up onto of a gigantic turbine in the middle of a flooded room. The water levels lap up against the cat walk this door exits on to. LCpl Franco reveals _It Was Hinton All Along_. The water is infested with creatures. The reactor is going to shutdown, mother-fucking Hinton sabotaged everything. Hinton escaped though a weird gash in the wall, before the flooding got too intense.
 
 The group manage to get the marines off the turbine, and back onto the reactor chimney floor. 
 
+<div class="commentary">
+I was surprised the players went with restore power over 'get the fuck off the planet. I've also been impressed with how much of what's happening the players manageed to intuit or guess. There was much disapointment when they discovered the reactor was already sabotaged.
+</div>
+
+
+### Session 4 - June 6th 2024
+
+**Players**: Arnold, Amanda, Kyana, Ian
+
+The players make their way up the chimney stack, climbing back up on with the rope system. The power dies as they make it up to the midway hatch. They enter the spillway. They find PFC Glockner's dead body. Franco grabs his rocket launcher. They move on, entering the stairwell and making the way up to the lab.
+
+They are ambushed by a Carcanid, who drops down behind them from its perch on the roof of the stairs. It lunges at Valdez and kills her instantly. Nobitov throws a frag grenade at the creature as it eats Valdez's body. He doesn't look behind as he along with everyone else runs up the stair well. 
+
+They move through a hatchway and manage to baricade it with some machinary in the room. They search the space, finding a now dead control terminal and a vent. They exit into the hallway, and head towards the lab. They manage to pry open the door, relying on PFC Rocker's muscles. The marines all need to help. They strip off the tops of their hazmat suits. The players notice Weaver is infected. 
+
+In the lab they find the missing Dr. Zeigler on the other side of a glass partition. He warns them to run away. They don't listen. Moments later, his neck explodes as a crab jumps out!
+
+### Session 5 - June 13th 2024
+
+**Players**: Arnold, Amanda, Ian
+
+
+The group retreat from the lab, leaving the carc trapped stuck in the lab, trying to smash through the protective glass. They close the (broken) airlock doors behind them. They split up, with one group trying to cut a way into the cryovault, while the other tries to get their via vents. Via the vents they make it into the room, and find Dr. Edam's research on a datakey. There are also signs one of the creatures in the large vials in this room escaped. 
+
+They climb up the elevator shaft, back to the hanger. There they are greeted by Dr. Edam, who informs them Brookman and his posse fled when the power went out. They decide its time to go as well. Everyone hops in the APC and books it to the tower.  They end up playing chicken with a Carcanid. The APC manages to knock it out of the way, into the water. At the tower they break into the maintenance room, and power on the generator. They don't see the missing ATVs or Brookman on their trip.
+
+The bugs are approaching. They climb up the tower. On the roof they meet Underhill and his synthetic dog. He tells them to get out of here! He saw Brookman's ATV get swatted into the water. He assumes everyone is dead. 
+
+Engineer Sobol stays on the roof to reset the relay. The rest of the crew climb down into the tower to fix the broadcast control panel. Within that room they find a horrid scene, a Carcanid splayed into the controls. The broadcast that's been playing over all the communication channels is clearly coming from here. They kill the creature, and pull it from the controls. Dr. Edam calls in an evacuation. 
+
+The Carcanids seem more amblivilent to the group. They don't engage with them as they return to the hanger. The storm feels like it’s hitting its zenith. They can’t land, they’ll need to do a hover evacuation. People are ferried up one at a time via a rope. They do 6 people before the storm is too strong: Hazel (and the dog), Maxwell, Jayden-113, Sgt Yang, Sobol and PFC Pedro make it to the ship. VERSE, Cpl Novikov, LCpl Franco, PFC Weaver, PFC Odea and PFC Rocker remain behind.
+
+It takes several hours for the storm to break. In that time PFC Weaver has an episode that alarms VERSE. He leaves Franco with Weaver and drives off, returning later when the storm breaks. Everyone returns to the hangar, where the drop ship will now land. 
+
+<div class="commentary">
+A pretty dense session, one where we rushed a little at the end. Next session we can play out in a bit more detail what the crew might get up to on the ship while Verse is killing time on the planet, and also what they end up deciding to do with Weaver. 
+</div>
 
 [abh]: /review/another-bug-hunt/
