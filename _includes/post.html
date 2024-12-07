@@ -16,9 +16,7 @@
             {% endfor %}
         </p>
     </hgroup>
-    {% endif %}
-
-    {% if post.category == 'microblog' %}
+    {% else %}
     <p class="permalink">
         <a href="{{ post.url }}">#</a> <br />
         {{ post.date | date: "%d"}} <br />
@@ -28,16 +26,4 @@
     {% endif %}
 	
     {{ post.content }}
-    
-    <!-- pull comments from bluesky -->
-    {% if page.bluesky %}
-    <div id="comments-container">
-    <h3>Comments from BlueSky</h3>
-    <bluesky-comments url="{{ post.bluesky }}"></bluesky-comments>
-
-    <!-- feels like a security issue waiting to happen grabbing some random JS 
-         and running it on my site. -->
-    <script type="module">import "https://esm.sh/bluesky-comments-tag/load";</script>
-    </div>
-    {% endif %}
 </article>
