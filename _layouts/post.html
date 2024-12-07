@@ -38,7 +38,14 @@ layout: default
     </p>
     {% endif %}
 
-    {% include disqus.html %}
+    <!-- pull comments from bluesky -->
+    {% if page.bluesky %}
+    <div id="comments-container">
+    <h3>Comments from BlueSky</h3>
+    <bluesky-comments url="{{ page.bluesky }}"></bluesky-comments>
+    <script type="module">import "https://esm.sh/bluesky-comments-tag/load";</script>
+    </div>
+    {% endif %}
 
     <nav class="pagination">
     <p>

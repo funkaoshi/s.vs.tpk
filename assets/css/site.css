@@ -237,3 +237,26 @@ hr {
 #disqus_recommendations {
     margin-top: 2em;
 }
+
+div#comments-container {
+    width: 85%;
+}
+
+bluesky-comments {
+  --bluesky-bg-color: #fcfcfc;
+  --bluesky-font-family: 'Source Sans Pro', sans-serif;
+  --bluesky-font-size: 15px;
+  --bluesky-text-color: #1a2b3c;
+  --bluesky-handle-color: #64748b;
+  --bluesky-footer-text-color: #94a3b8;
+  --bluesky-border-color: #e2e8f0;
+  --bluesky-hover-bg: #f8fafc;
+  --bluesky-avatar-bg: #f1f5f9;
+  --bluesky-reply-border-width: 2px;
+  --bluesky-footer-font-size: 13px;
+  --bluesky-icon-size: 16px;
+}
+
+bluesky-comments::part(comment-content) {
+  line-height: 150%;
+}

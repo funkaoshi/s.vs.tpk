@@ -6,6 +6,7 @@ tags:
 - theory
 - osr
 - torchbearer
+bluesky: "https://bsky.app/profile/save.vs.totalpartykill.ca/post/3lcne3nlkyk2g"
 ---
 
 _This is an update to [an earlier blog post][ns] I wrote on rules and OSR games, which was published in the zine [Mixed Success][ms], which you should also check out._ 
