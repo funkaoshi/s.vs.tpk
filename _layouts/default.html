@@ -18,10 +18,14 @@
     <link rel="icon" type="image/png" href="/assets/img/favicon.png" />
     <link rel="apple-touch-icon-precomposed" href="/assets/img/apple-touch-icon-precomposed.png" />
 
-<!--[if !IE]>-->
-    
-<!--<![endif]-->
+    {% if page.img %}
+    <meta name="twitter:image" content="{{ page.img }}">
+    {% else %}
+    <meta name="twitter:image" content="/assets/img/save-vs-total-party-kill-header.png">
+    {% endif %}
+
     {% include analytics.html %}
+
     {% if page.css %}
     <style type="text/css" media="screen">
     {{ page.css }}
@@ -31,10 +35,10 @@
   <body>
     <div id='content'>
       <header>
-        <a href='/'>
-            <img src="/assets/img/save-vs-total-party-kill-header@2x.png"
-                alt="A monster on the verge of eating an adventurer.">
-         </a>
+          <a href='/'>
+              <img src="/assets/img/save-vs-total-party-kill-header@2x.png"
+                   alt="A monster on the verge of eating an adventurer.">
+          </a>
         <!-- <h1 id="responsive">Save vs. Total Party Kill</h1> -->
       </header>
       <nav id="site-navigation">
@@ -44,7 +48,7 @@
             <a href="/archive/">Archive</a> |
             <a href="/awards/">Awards</a> |
             <a href="/characters/">Characters</a> |
-            <a href="/campaigns/">Campaigns</a> |          
+            <a href="/campaigns/">Campaigns</a> |
             <a href="/web-apps/">D&amp;D Web Apps</a> |
             <a href="/grab-bag/">Grab Bag</a>
         </p>
