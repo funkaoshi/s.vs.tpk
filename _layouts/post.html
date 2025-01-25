@@ -3,7 +3,7 @@ layout: default
 ---
 
 <article {%if page.css_id %}id={{ page.css_id }}{% endif %} class="{{ post.category }}">
-	
+
 	{% if page.category != 'microblog' %}
     <hgroup>
         <h1>
@@ -24,9 +24,9 @@ layout: default
 	{% endif %}
 
     {{ content }}
-	
+
 	{% if page.category == 'microblog' %}
-	<p> 
+	<p>
 		— Ramanan Sivaranjan, microblogging, {{ page.date | date: "%B %d, %Y" }} {% if page.tags %}[{% for tag in page.tags %}<a class="tag_list_link" href="/tag/{{ tag }}">{{ tag }}</a> {% endfor %}]{% endif %}
 		<a href="{{ post.url }}">#</a>
 	</p>
@@ -34,16 +34,16 @@ layout: default
 
     {% if page.gplus %}
     <p class="discuss">
-        <em>Add me to your circles and we can discuss post on <strong><a href="{{ page.gplus }}">on google+</a></strong>.</em>
+        <em>Go back in time, add me to your circles, and we can discuss post on <strong><a href="{{ page.gplus }}">on google+</a></strong>.</em>
     </p>
     {% endif %}
 
     <!-- pull comments from bluesky -->
     {% if page.bluesky %}
     <div id="comments-container">
-    <h3>Comments from BlueSky</h3>
-    <bluesky-comments url="{{ page.bluesky }}"></bluesky-comments>
-    <script type="module">import "https://esm.sh/bluesky-comments-tag/load";</script>
+        <h3><a href="{{ page.bluesky }}">Discuss this Post on BlueSky</a></h3>
+        <bluesky-comments url="{{ page.bluesky }}"></bluesky-comments>
+        <script type="module">import "https://esm.sh/bluesky-comments-tag/load";</script>
     </div>
     {% endif %}
 
