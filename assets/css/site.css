@@ -242,6 +242,11 @@ div#comments-container {
     width: 85%;
 }
 
+#comments-container h3 {
+    margin-top: 2em;
+    font-size: 80%;
+}
+
 bluesky-comments {
   --bluesky-bg-color: #fcfcfc;
   --bluesky-font-family: 'Source Sans Pro', sans-serif;
