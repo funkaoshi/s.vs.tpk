@@ -19,9 +19,15 @@
     <link rel="apple-touch-icon-precomposed" href="/assets/img/apple-touch-icon-precomposed.png" />
 
     {% if page.img %}
-    <meta name="twitter:image" content="{{ page.img }}">
+    <meta property="og:image" content="{{ page.img}}" />
     {% else %}
-    <meta name="twitter:image" content="/assets/img/save-vs-total-party-kill-header.png">
+    <meta property="og:image" content="/assets/img/save-vs-total-party-kill-header.png">
+    {% endif %}
+
+    {% if page.content %}
+    <meta property="og:description" content="{{ page.content | strip_html | strip_newlines | truncate: 240 }}" />
+    {% else %}
+    <meta property="og:description" content="An OSR blog." />
     {% endif %}
 
     {% include analytics.html %}
@@ -58,5 +64,12 @@
         <p>Site designed and built by <a href="https://funkaoshi.com">Ramanan Sivaranjan</a>. You can find me on <a rel="me" href="https://tabletop.social/@funkaoshi">Mastodon</a> and <a href="https://bsky.app/profile/save.vs.totalpartykill.ca">BlueSky</a></p>
       </footer>
     </div>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            document.querySelectorAll('img').forEach(img => {
+                img.setAttribute('loading', 'lazy');
+            });
+        });
+    </script>
     </body>
 </html>
