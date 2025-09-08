@@ -5,10 +5,24 @@ title: The Ramanan Sivaranjan Awards for Excellence in Gaming
 
 Each year The Ramanan Sivaranjan Awards for Excellence in Gaming highlight gaming books that are exceptional in their quality and character. To qualify for contention a book must have been purchased by Ramanan Sivaranjan during the proceeding calendar year—i.e. the awards given in the summer of 2016 are for books published from January 2015 - December 2015. Winners are chosen by Ramanan Sivaranjan based on his moods about gaming at a particular moment in time. The Ramanan Sivaranjan Awards for Excellence in Gaming prides itself on selecting the finest RPG books. Previous winners have gone on to win at the EN World Awards, 3 Castles, Indiecade, the Indie-RPG Awards, and The Ramanan Sivaranjan Awards for Excellence in Gaming. The first awards were given in the summer of 2015. They originated because Ramanan Sivaranjan found it incredulous that Jez Gordon's work in Death Frost Doom wasn't nominated for Best Art at the Ennies—like, why even have an award?
 
+# [2025](/blog/awards-2024)
+
+* The Ramanan Sivaranjan Excellence in Gaming Best God Damn Books of 2024: [The Mothership Boxed Set][ms2025] by Sean McCoy & Friends.
+* Best Setting: [*Gackling Moon*][gm2025] by Patrick Stuart & Tom K. Kemp
+* Best Game: [*Break!!*][break2025] by Reynaldo Madriñan and Carlo Tartaglia
+* Honourable Mentions:
+  * [Wulfwald][wulf2025] by Lee Reynoldson
+  * [Owe My Soul to the Company Store][omscs2025] by Luther Gutekunst & R. Devlin
+  * [Knave 2e][k2e] by Ben Milton & Peter Mullen
+  * [EAT THE RIECH][er2025] by Grant Howitt & Will Kirkby
+  * [Hobgoblin][hob2025] by Mike Hutchinson.
+  * [Whalgravaak's Warehouse][ww2025] by Andrew Walter
+  * [The Hand of God][hog2025] by Mike Knee & Andrew Walter
+
 # [2024](/blog/awards-2023)
-* The Ramanan Sivaranjan Excellence in Gaming Best God Damn Books of 2023: [Trophy Gold][tg] by Jesse Ross.
-* Best Necromunda RPG: [Gangs of Titan City][gotc] by Nick Spence, Ben Brown, and Zachary Cox.
-* Best Gaming Supplement: [Hull Breach ][hb], brought to life by Ian Yusem.
+* The Ramanan Sivaranjan Excellence in Gaming Best God Damn Books of 2023: [Trophy Gold][tg] by Jesse Ross
+* Best Necromunda RPG: [Gangs of Titan City][gotc] by Nick Spence, Ben Brown, and Zachary Cox
+* Best Gaming Supplement: [Hull Breach ][hb], brought to life by Ian Yusem
 * Honourable Mentions:
   * [Barkeep on the Borderlands][bkb] by Prismatic Wasteland
   * [The Black Sword Hack][bsh] by Alexandre ‘Kobayashi’ Jeannette
@@ -21,7 +35,7 @@ Each year The Ramanan Sivaranjan Awards for Excellence in Gaming highlight gamin
 
 # [2023](/blog/awards-2022)
 
-* The Ramanan Sivaranjan Excellence in Gaming Best God Damn Books of 2022: [Into the Odd Remastered][itor] by Chris McDowall, with art and graphic design by Johan Nohr.
+* The Ramanan Sivaranjan Excellence in Gaming Best God Damn Books of 2022: [Into the Odd Remastered][itor] by Chris McDowall, with art and graphic design by Johan Nohr
 * Best Attempt at Distilling 800 Blog Posts into a Game: [Errant][] by Ava Islam
 * Best Gaming Supplement: [Gig Economy][ge] by Colin Sproule
 * Honourable Mentions:
@@ -34,7 +48,7 @@ Each year The Ramanan Sivaranjan Awards for Excellence in Gaming highlight gamin
   * [The Frost Spire][tfs] by Jacob Hurst and Joshua Alvarado
   * [Skorne][] by Sam Doebler
   * [Where the Wheat Grows Tall][wtwgt] by Camilla Greer & Evlyn Moreau
-  * [Wanderhome][] by Jay Dragon.
+  * [Wanderhome][] by Jay Dragon
 
 
 # [2022](/blog/awards-2021)
@@ -265,3 +279,14 @@ Each year The Ramanan Sivaranjan Awards for Excellence in Gaming highlight gamin
 [wbr]: https://ultraparadiso.itch.io/warped
 [bb2024]: https://www.gauntlet-rpg.com/brindlewood-bay.html
 [td]: https://www.ospreypublishing.com/ca/doomed-9781472854254/
+
+[gm2025]: https://falseparcels.bigcartel.com/product/gackling-moon-hardcopy
+[break2025]: https://breakrpg.com/products/break-core-rules
+[ms2025]: https://www.tuesdayknightgames.com/products/mothership-core-set
+[wulf2025]: https://shop.lostpages.co.uk/products/wulfwald-boxed-set
+[omscs2025]: https://archons-court-games.itch.io/owe-my-soul-to-the-company-store
+[k2e]: https://shop.swordfishislands.com/knave-2e/
+[hog2025]: https://www.melsonia.com/products/the-hand-of-god
+[ww2025]: https://www.melsonia.com/products/the-hand-of-god
+[er2025]: https://rowanrookanddecard.com/product/eat-the-reich/
+[hob2025]: https://www.electi-studio.com/hobgoblin

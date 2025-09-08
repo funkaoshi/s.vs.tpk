@@ -6,12 +6,12 @@ title: The Grab Bag
 There is a lot of creative output on the internet. This page collects some of that work, mostly because I was unhappy with the original presentation of things, or because I wanted to test or try something out.
 
 * The original crowd sourced hex maps: [The Hexenbracken][1], [The Kraal][2], [The Colossal Wastes of Zhaar][3].
-* Since those first maps we've made some more. 
-    * Jacob Hurst organized making the crazy space map [Synthexia][12]. 
+* Since those first maps we've made some more.
+    * Jacob Hurst organized making the crazy space map [Synthexia][12].
     * Josh Macy started this unnamed [Fallout themed hexcrawl][15].
-    * There is [the Barbarian Prince][16] in hex map form. (My friends and I used the same map for [one of D&D campaigns][19].) 
-    * I used HexKit to make what would become [The Lavender Marshes][14]. 
-    * Gus drew an amazing map during a game with Luka Rejak, now called the [Gongburg Solitudes][17]. 
+    * There is [the Barbarian Prince][16] in hex map form. (My friends and I used the same map for [one of D&D campaigns][19].)
+    * I used HexKit to make what would become [The Lavender Marshes][14].
+    * Gus drew an amazing map during a game with Luka Rejak, now called the [Gongburg Solitudes][17].
     * Another classic map from Gus is [Partol Sector Omega][18], which is "Githyanki Fantasy Fucking Veitnam".
     * Jez has been trying to finsh [Kaltval][20] for ages.
     * I helped the mysterious mista tipsta and his friends turn their own attempt at a crowd sourced hexcrawl into a web page: [The Scorched Coast][21]
@@ -19,6 +19,7 @@ There is a lot of creative output on the internet. This page collects some of th
 * [The He-Man Show Bible][4] by Michael Halperin.
 * [My 'beta' rules for OD&D Psionics][5]
 * The infamous and notorious [PHILOTOMY’S Dungeons and Dragons Musings][6] by Jason Cone.
+* Also from Jason Cone we have his writing about [B4: The Lost City][24].
 * [Adam Taylor][7] giant list of spells for both [wizards][8] and [clerics][9], that you can filter by school and level. It's fantastic.
 * [Madlib Dungeons][13] can be used to make a blob of text more exciting.
 
@@ -43,3 +44,4 @@ There is a lot of creative output on the internet. This page collects some of th
 [21]: /grab-bag/scorchedcoast/
 [22]: /grab-bag/grimlite/
 [23]: https://www.bastionland.com/search/label/GRIMLITE
+[24]: /grab-bag/lost-city/
