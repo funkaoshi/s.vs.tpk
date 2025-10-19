@@ -105,6 +105,12 @@ article strong {
 article img+img {
 	margin-top: 1em;
 }
+article .caption {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    font-size: 0.75em;
+}
 
 article table {
     border: 1px solid black;
