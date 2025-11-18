@@ -7,8 +7,8 @@
 
     <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,700,300italic' rel='stylesheet' type='text/css'>
 
-    <link rel="stylesheet" type="text/css" href="/assets/css/site.css?23-Mar-2013">
-    <link type="text/css" rel="stylesheet" media="only screen and (max-device-width: 480px)" href="/assets/css/mobile.css" />
+    <link rel="stylesheet" type="text/css" href="/assets/css/site.css?v={{ '/assets/css/site.css' | md5_short }}">
+    <link type="text/css" rel="stylesheet" media="only screen and (max-device-width: 480px)" href="/assets/css/mobile.css?v={{ '/assets/css/mobile.css' | md5_short }}" />
 
     <link rel="alternate" title="{{ site.title }}" type="application/json" href="{{ "/feed.json" | prepend: site.baseurl | prepend: site.url }}" />
 
