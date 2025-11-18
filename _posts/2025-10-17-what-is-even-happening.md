@@ -2,7 +2,7 @@
 layout: post
 title: What is Even Happening
 category: microblog
-bluesky:
+bluesky: https://bsky.app/profile/did:plc:5vapg2uipmfhjihfzb4pob3k/post/3m3kmyp3vhk2r
 img: /assets/img/tempest-is-the-best.png
 tags:
 - mothership
