@@ -1,6 +1,6 @@
 ---
 layout: post
-title: errant grimoires
+title: Errant Grimoires
 category: microblog
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3m5apldqguk2n
 img:
