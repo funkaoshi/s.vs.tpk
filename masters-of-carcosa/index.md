@@ -28,11 +28,11 @@ You can find "session recaps" from this D&amp;D campaign here. Each recap is pre
 - [Session 3][3]   - December 22nd, 2014  - Hexes 0910, 1010, 1011, 1112, 1212 ([Recap][3G])
 - [Session 4][4]   - January 26th, 2015   - Hexes 0910, 1010, 1011 ([Recap][4G])
 - [Session 5][5]   - February 23rd, 2015  - Hexes 0910, 0911, 1011 ([Recap][5G])
-- [Session 6][6]   - March 9th, 2015      - Hex 1012 ([G+ Recap][6G])
-- [Session 7][7]   - March 23rd, 2015     - Hex 1012 ([G+ Recap][7G])
-- [Session 8][8]   - April 20th, 2015     - Hex 1011, 1012 ([G+ Recap][8G])
-- [Session 9][9]   - May 4th, 2015        - Hex 1011, 1012, 1113 ([G+ Recap][9G])
-- [Session 10][10] - June 8th, 2015       - Hexes 1012, 1013 ([G+ Recap][10G])
+- [Session 6][6]   - March 9th, 2015      - Hex 1012 ([Recap][6G])
+- [Session 7][7]   - March 23rd, 2015     - Hex 1012 ([Recap][7G])
+- [Session 8][8]   - April 20th, 2015     - Hex 1011, 1012 ([Recap][8G])
+- [Session 9][9]   - May 4th, 2015        - Hex 1011, 1012, 1113 ([Recap][9G])
+- [Session 10][10] - June 8th, 2015       - Hexes 1012, 1013 ([Recap][10G])
 - [Session 11][11] - June 22nd, 2015      - Hex 1013 ([G+ Recap][11G])
 - [Session 12][12] - July 20th, 2015      - Hex 1012 ([G+ Recap][12G])
 - [Session 13][13] - August 15th, 2015    - Hexes 1012, 1013 ([G+ Recap][13G])
@@ -64,15 +64,15 @@ You can learn more about this campaign by reading my blog posts tagged [#masters
 [5]: session-5/
 [5G]: /blog/masters-of-carcosa-session-5/
 [6]: session-6/
-[6G]: https://plus.google.com/u/0/+RamananS/posts/eVUq3WLEAn8
+[6G]: /blog/masters-of-carcosa-session-6/
 [7]: session-7/
-[7G]: https://plus.google.com/u/0/+RamananS/posts/9QPB83gPTrq
+[7G]: /blog/masters-of-carcosa-session-7/
 [8]: session-8/
-[8G]: https://plus.google.com/+RamananS/posts/D1UUHHPKGYS
+[8G]: /blog/masters-of-carcosa-session-8/
 [9]: session-9/
-[9G]: https://plus.google.com/+RamananS/posts/fxWFtfkfBFL
+[9G]: /blog/masters-of-carcosa-session-9/
 [10]: session-10/
-[10G]: https://plus.google.com/+RamananS/posts/SAbHFLwvffq
+[10G]: /blog/masters-of-carcosa-session-10/
 [11]: session-11/
 [11G]: https://plus.google.com/+RamananS/posts/fPFDTz78aMD
 [12]: session-12/

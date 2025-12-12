@@ -2,12 +2,14 @@
 layout: post
 title: Masters of Carcosa - Session 5
 category: blog
-bluesky: 
-img: /assets/img/masters-of-carcosa-map.jpg
+bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3m7c22lj4as2z
+img: /assets/img/masters-of-carcosa-caverns-high-brown-men.jpg
 tags:
 - carcosa
 - mastersofcarcosa
 ---
+
+![map of caverns](/assets/img/masters-of-carcosa-caverns-high-brown-men.jpg)
 
 The session began with exploration and learning more about the world. This was the first time the party got lost in the wilderness, an important part of the game. My travel rules worked. The party found more caves to explore in the future, and learned of a second citadel that purportedly held a tomb of vile sorceress magic—the best kind. The party would refuse to seek it out for the remainder of the game, of course. The later half of the session was spent getting high with some stoner Carcosans. Dion joined the game this session, and was a fixture in the campaign for a long time to come, playing Ulfire Sorcerer Asha-Rea. His character used the distraction of everyone getting high off their ass to steal some Jale Lotuses to sell later. A quiet session, but they can’t all be loud.
 

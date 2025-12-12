@@ -3,11 +3,13 @@ layout: post
 title: "Masters of Carcosa - Session 2"
 category: blog
 bluesky:
-img: /assets/img/masters-of-carcosa-map.jpg
+img: masters-of-carcosa-caverns-lotus.jpg
 tags:
 - carcosa
 - masterofchrcosa
 ---
+
+![map of carverns](/assets/img/masters-of-carcosa-caverns-lotus.jpg)
 
 My [first session of Masters of Carcosa][1] only included 2 players, [Gus][] and Eric. I was a little worried the game wouldn’t catch on, but the next session included 6 people! This was basically the [Pahvelorn][] crew, along with the lovely Bryan Mullins. Players would change from sessions to session. A true open table! These were all the rage in the early 2010s. The parties home base was the town of Invak, and they were expected to end sessions somewhere safe. This typically ended up being Invak, as its leader and his bounties was one of the few sources of gold in the game.
 
@@ -24,8 +26,8 @@ You can contrast these notes with [the Carcosa style recap I wrote][2].
 ---
 
 **Players:**
-- Bryan: Gloss-o-lalia (Lalia),  Dolm Woman Sorcerer
 - [Brendan][]: Missave Rage, Yellow Women Fighter 
+- Bryan: Gloss-o-lalia (Lalia), Dolm Woman Sorcerer
 - [Nick][]: Horace, Blue Man Fighter
 - [Gus][]: Normangina, Yellow Woman Fighter
 - [Evan][]: The Spangled Inquiry, Bone Man Sorcerer

@@ -24,7 +24,9 @@
     <meta property="og:image" content="/assets/img/save-vs-total-party-kill-header.png">
     {% endif %}
 
-    {% if page.content %}
+    {% if page.description %}
+    <meta property="og:description" content="{{ page.description }}" />
+    {% else if page.content %}
     <meta property="og:description" content="{{ page.content | strip_html | strip_newlines | truncate: 240 }}" />
     {% else %}
     <meta property="og:description" content="An OSR blog." />

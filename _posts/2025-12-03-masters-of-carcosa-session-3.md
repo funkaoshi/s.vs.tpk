@@ -2,7 +2,7 @@
 layout: post
 title: Masters of Carcosa - Session 3
 category: blog
-bluesky:
+bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3m73afy47kc24
 img: /assets/img/putrescent-pits-maps.jpg
 tags:
 - carcosa
@@ -33,11 +33,11 @@ The session ended with the briefest exploration of the Putrescent Pits of the Am
 
 **Players:**
 
-Eric Boyd  - Orange Julia, Orange Woman Fighter
-[Gus][gus]  - Mr. Smyth, White Man Fighter
-[Brendan][]  - Missave Rage, Yellow Women Fighter 
-[Beloch Shrike][nick] - Orange Man Fighter
-Bryan Mullins - Gloss-o-lalia (Lalia),  Dolm Woman Sorcerer
+- Eric Boyd: Orange Julia, Orange Woman Fighter
+- [Gus][gus]: Mr. Smyth, White Man Fighter
+- [Brendan][]: Missave Rage, Yellow Women Fighter 
+- [Beloch Shrike][nick]: Orange Man Fighter
+- Bryan Mullins: Gloss-o-lalia (Lalia),  Dolm Woman Sorcerer
 
 **Recap:**
 
