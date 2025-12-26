@@ -33,19 +33,19 @@ You can find "session recaps" from this D&amp;D campaign here. Each recap is pre
 - [Session 8][8]   - April 20th, 2015     - Hex 1011, 1012 ([Recap][8G])
 - [Session 9][9]   - May 4th, 2015        - Hex 1011, 1012, 1113 ([Recap][9G])
 - [Session 10][10] - June 8th, 2015       - Hexes 1012, 1013 ([Recap][10G])
-- [Session 11][11] - June 22nd, 2015      - Hex 1013 ([G+ Recap][11G])
-- [Session 12][12] - July 20th, 2015      - Hex 1012 ([G+ Recap][12G])
-- [Session 13][13] - August 15th, 2015    - Hexes 1012, 1013 ([G+ Recap][13G])
-- [Session 14][14] - September 15th, 2015 - Hexes 0911, 0912 ([G+ Recap][14G])
-- [Session 15][15] - October 12th, 2015   - Hexes 1011, 1012, 1111 ([G+ Recap][15G])
-- [Session 16][16] - October 26th, 2015   - Hexes 0910, 1011, 1012, 1111 ([G+ Recap][16G])
-- [Session 17][17] - November 9th, 2015   - Hex 1012 ([G+ Recap][17G])
-- [Session 18][18] - December 14th, 2015  - Hex 0911, 1012 ([G+ Recap][18G])
-- [Session 19][19] - December 21st, 2015  - Hex 1112 ([G+ Recap][19G])
-- [Session 20][20] - January 25th, 2016   - Hex 1211 ([G+ Recap][20G])
-- [Session 21][21] - February 29th, 2016  - Hex 1011, 1012, 1013 ([G+ Recap][21G])
-- [Session 22][22] - March 14th, 2016     - Hex 1010, 1110 ([G+ Recap][22G])
-- [Session 23][23] - February 29th, 2016  - Hex 1010, 1110 ([G+ Recap][23G])
+- [Session 11][11] - June 22nd, 2015      - Hex 1013 ([Recap][11G])
+- [Session 12][12] - July 20th, 2015      - Hex 1012 ([Recap][12G])
+- [Session 13][13] - August 15th, 2015    - Hexes 1012, 1013 ([Recap][13G])
+- [Session 14][14] - September 15th, 2015 - Hexes 0911, 0912 ([Recap][14G])
+- [Session 15][15] - October 12th, 2015   - Hexes 1011, 1012, 1111 ([Recap][15G])
+- [Session 16][16] - October 26th, 2015   - Hexes 0910, 1011, 1012, 1111 ([Recap][16G])
+- [Session 17][17] - November 9th, 2015   - Hex 1012 ([Recap][17G])
+- [Session 18][18] - December 14th, 2015  - Hex 0911, 1012 ([Recap][18G])
+- [Session 19][19] - December 21st, 2015  - Hex 1112 ([Recap][19G])
+- [Session 20][20] - January 25th, 2016   - Hex 1211 ([Recap][20G])
+- [Session 21][21] - February 29th, 2016  - Hex 1011, 1012, 1013 ([Recap][21G])
+- [Session 22][22] - March 14th, 2016     - Hex 1010, 1110 ([Recap][22G])
+- [Session 23][23] - February 29th, 2016  - Hex 1010, 1110 ([Recap][23G])
 
 ## Blog Posts
 
@@ -74,31 +74,31 @@ You can learn more about this campaign by reading my blog posts tagged [#masters
 [10]: session-10/
 [10G]: /blog/masters-of-carcosa-session-10/
 [11]: session-11/
-[11G]: https://plus.google.com/+RamananS/posts/fPFDTz78aMD
+[11G]: /blog/masters-of-carcosa-session-11/
 [12]: session-12/
-[12G]: https://plus.google.com/u/0/+RamananS/posts/WiJtEh5e4NV
+[12G]: /blog/masters-of-carcosa-session-12/
 [13]: session-13/
-[13G]: https://plus.google.com/u/0/+RamananS/posts/iDVpnU3v6cm
+[13G]: /blog/masters-of-carcosa-session-13/
 [14]: session-14/
-[14G]: https://plus.google.com/+RamananS/posts/WBCnMdKr6eN
+[14G]: /blog/masters-of-carcosa-session-14/
 [15]: session-15/
-[15G]: https://plus.google.com/u/0/+RamananS/posts/Sj2KK3KLhjk
+[15G]: /blog/masters-of-carcosa-session-15/
 [16]: session-16/
-[16G]: https://plus.google.com/u/0/+RamananS/posts/U2TDgAfCbXT
+[16G]: /blog/masters-of-carcosa-session-16/
 [17]: session-17/
-[17G]: https://plus.google.com/u/0/+RamananS/posts/gizTU4NNGXz
+[17G]: /blog/masters-of-carcosa-session-17/
 [18]: session-18/
-[18G]: https://plus.google.com/+RamananS/posts/iT3JnTeTptL
+[18G]: /blog/masters-of-carcosa-session-18/
 [19]: session-19/
-[19G]: https://plus.google.com/+RamananS/posts/Q6ArH9KHtYV
+[19G]: /blog/masters-of-carcosa-session-19/
 [20]: #
-[20G]: https://plus.google.com/+RamananS/posts/L7LVr84qJCP
+[20G]: /blog/masters-of-carcosa-session-20/
 [21]: #
-[21G]: https://plus.google.com/+RamananS/posts/erYTAaW8n6k
+[21G]: /blog/masters-of-carcosa-session-21/
 [22]: #
-[22G]: https://plus.google.com/+RamananS/posts/Q5Xr8Ry3TVC
+[22G]: /blog/masters-of-carcosa-session-22/
 [23]: #
-[23G]: https://plus.google.com/+RamananS/posts/9PJTaXeSnFb
+[23G]: /blog/masters-of-carcosa-session-23/
 
 [carcosa]: /tag/carcosa/
 [#mastersofcarcosa]: /tag/mastersofcarcosa/
