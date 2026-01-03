@@ -7,6 +7,8 @@ img:
 tags:
 - mastersofcarcosa
 - carcosa
+- mocrecap
+
 ---
 
 The players decide to head East, further into the territory friendly with the Jale Slavers. The town the players learn about, Joi, may have been lifted straight from an episode of Masters of the Universe. As sessions go this was pretty straight forward. Lots of chatter in town, and then an encounter in the wilderness. It feels weirdly short reading the re-cap below.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Constant Downpour Remastered
-category: blog
+category: review
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3lifox5iv7s2y
 img: /assets/img/constant-downpour.png
 tags:

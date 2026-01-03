@@ -7,6 +7,8 @@ img: /assets/img/carcosa-t-rex.jpg
 tags:
 - carcosa
 - mastersofcarcosa
+- mocrecap
+
 ---
 
 ![Carcosa T-Rex](/assets/img/carcosa-t-rex.jpg)

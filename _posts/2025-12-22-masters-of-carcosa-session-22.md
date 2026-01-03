@@ -7,6 +7,7 @@ img: /assets/img/masters-of-carcosa-site.jpg
 tags:
 - mastersofcarcosa
 - carcosa
+- mocrecap
 ---
 
 ![Carcosa site](/assets/img/masters-of-carcosa-site.jpg)

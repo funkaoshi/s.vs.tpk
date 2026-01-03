@@ -7,6 +7,8 @@ img: masters-of-carcosa-caverns-lotus.jpg
 tags:
 - carcosa
 - masterofchrcosa
+- mocrecap
+
 ---
 
 ![map of carverns](/assets/img/masters-of-carcosa-caverns-lotus.jpg)

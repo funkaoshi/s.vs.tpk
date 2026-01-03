@@ -22,7 +22,7 @@ css: >
 
 ## Introduction
 
-In 1975 Gary Gygax wrote an article describing a simple approach to creating a campaign world over 5 weeks, which you could then expand upon through play: like God intended. Ray Otus took this article and expanded on its ideas to create [a structured work book][gygax75] with concrete steps for each week and his own example of creating a small campaign setting. [Recently Dungeon Possum posted about his plans to go through this process.][dp75] This got me interested in doing the same. I am keen to create a basic-ass fantasy setting. I normally gravitate towards Gonzo He-Man nonsense. Playing Dark Souls and Demon Souls over the last year has me interested in Arthurian fantasy—by way of a confused Japanese man. And so that's what I will go with. We'll call it **Misericorde** for now, until I figure out the names for things in this setting.
+In 1975 Gary Gygax wrote an article describing a simple approach to creating a campaign world over 5 weeks, which you could then expand upon through play: like God intended. Ray Otus took this article and expanded on its ideas to create [a structured work book][gygax75] with concrete steps for each week and his own example of creating a small campaign setting. [Recently Dungeon Possum posted about his plans to go through this process.][dp75] This got me interested in doing the same. I am keen to create a basic-ass fantasy setting. I normally gravitate towards Gonzo He-Man nonsense. Playing Dark Souls and Demon Souls over the last year has me interested in Arthurian fantasy—by way of a confused Japanese man. And so that's what I will go with. We'll call it **Misericorde** for now, until I figure out the names for things in this setting. — Ramanan, Feb 2022
 
 ## Week 1!
 

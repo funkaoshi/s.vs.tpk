@@ -7,6 +7,8 @@ img: /assets/img/masters-of-carcosa-caverns-to-castle.jpg
 tags:
 - carcosa
 - masterofchrcosa
+- mocrecap
+
 ---
 
 ![Map of the caverns](/assets/img/masters-of-carcosa-caverns-to-castle.jpg)

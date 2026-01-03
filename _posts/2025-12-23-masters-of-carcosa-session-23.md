@@ -7,6 +7,7 @@ img: /assets/img/masters-of-carcosa-base.jpg
 tags:
 - mastersofcarcosa
 - carcosa
+- mocrecap
 ---
 
 ![slaver base, maybe](/assets/img/masters-of-carcosa-base.jpg)

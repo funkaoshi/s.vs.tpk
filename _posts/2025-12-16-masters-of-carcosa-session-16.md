@@ -7,6 +7,8 @@ img:
 tags:
 - mastersofcarcosa
 - carcosa
+- mocrecap
+
 ---
 
 Some important discoveries this session. The Rainbow Connection finally discover the lair of the Jale Slavers. They had first learned of it after rescuing some slaves in the wilderness. They would begin to plot its downfall starting now.

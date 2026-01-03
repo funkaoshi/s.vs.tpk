@@ -7,6 +7,8 @@ img:
 tags:
 - carcosa
 - mastersofcarcosa
+- mocrecap
+
 ---
 
 This is the first session Chris P joined the fight. There were two Chris’s on G+ that were consummate players. Like Eric, they were almost always down to play whenever you would post a game. Players like that make running a poorly organized campaign work.

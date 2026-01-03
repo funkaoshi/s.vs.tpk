@@ -7,6 +7,8 @@ img: /assets/img/masters-of-carcosa-caverns-high-brown-men.jpg
 tags:
 - carcosa
 - mastersofcarcosa
+- mocrecap
+
 ---
 
 ![map of caverns](/assets/img/masters-of-carcosa-caverns-high-brown-men.jpg)

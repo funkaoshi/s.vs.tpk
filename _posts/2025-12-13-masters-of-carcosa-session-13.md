@@ -7,6 +7,8 @@ img: /assets/img/masters-of-carcosa-aliens.jpg
 tags:
 - mastersofcarcosa
 - carcosa
+- mocrecap
+
 ---
 
 ![aliens](/assets/img/masters-of-carcosa-aliens.jpg)

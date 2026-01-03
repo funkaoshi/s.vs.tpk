@@ -7,6 +7,8 @@ img:
 tags:
 - mastersofcarcosa
 - carcosa
+- mocrecap
+
 ---
 
 Another session with no treasure, which was starting to become a point of tension with the players. In my mind Carcosa was really grim and grotty: rich PCs didn’t make sense to me. In hindsight, I think we could have made it all work. Dark Sun imagines the fighters raising armies and becoming warlords. This was a direction the PCs had started to think about. We could have leaned into that more. Live and learn.

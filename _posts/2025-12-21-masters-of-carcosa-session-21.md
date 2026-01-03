@@ -7,6 +7,8 @@ img: /assets/img/putrescent-pits-maps.jpg
 tags:
 - mastersofcarcosa
 - carcosa
+- mocrecap
+
 ---
 
 ![Pits](/assets/img/putrescent-pits-maps.jpg)

@@ -7,6 +7,8 @@ img: /assets/img/masters-of-carcosa-laser.jpg
 tags:
 - mastersofcarcosa
 - carcosa
+- mocrecap
+
 ---
 
 ![dude getting blasted](/assets/img/masters-of-carcosa-laser.jpg)

@@ -7,6 +7,8 @@ img: /assets/img/carcosa-monster.png
 tags:
 - carcosa
 - mastersofcarcosa
+- mocrecap
+
 ---
 
 ![monster](/assets/img/carcosa-monster.png)

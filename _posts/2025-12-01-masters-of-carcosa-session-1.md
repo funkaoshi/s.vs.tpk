@@ -7,6 +7,8 @@ img: /assets/img/masters-of-carcosa-map.jpg
 tags:
 - carcosa
 - mastersofcarcosa
+- mocrecap
+
 ---
 
 ![My carcosa hex map](/assets/img/masters-of-carcosa-map.jpg)

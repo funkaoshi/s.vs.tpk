@@ -2,6 +2,7 @@
 permalink: .htaccess
 ---
 
+
 Redirect /review/2012/05/29/crawl-fanzine/ /review/crawl-fanzine/
 Redirect /grabbag/he-man/ /grab-bag/he-man/
 Redirect /grab-bag/hexkit/ /grab-bag/marshes/
@@ -27,3 +28,4 @@ Redirect /campaings-and-games/thronetaker2023/ /campaigns/thronetaker2023/
 Redirect /campaigns-and-games/torchbearer/ /campaigns/torchbearer/
 Redirect /blog/quantum-hit-points/ /blog/epistles-2/
 Redirect /microblog/the-fundamental-theorem-of-gaming/ /blog/the-fundamental-theorem-of-gaming/
+Redirect /blog/constant-downpour-remastered/ /review/constant-downpour-remastered/

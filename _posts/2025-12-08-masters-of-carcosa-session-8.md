@@ -7,6 +7,8 @@ img: /assets/img/masters-of-carcosa-caverns-to-castle.jpg
 tags:
 - carcosa
 - mastersofcarcosa
+- mocrecap
+
 ---
 
 > ... the leader of Invak would pay for the heads of Jale Slavers, and so the game because all about hunting the slavers and chopping of their heads. Blood Meridian, but in Carcosa. (Except the party would actually kill slavers, not any old person.) 

@@ -7,6 +7,8 @@ img:
 tags:
 - mastersofcarcosa
 - carcosa
+- mocrecap
+
 ---
 
 The previous session the players rolled a 1 on the Hazard Die when travelling back to town. We didn’t want to play out the encounter at midnight, so I told them it’s how the session would start. I had an idea in my head: the blue men the players had saved were actually bandits! The session opened with a fight through the town.

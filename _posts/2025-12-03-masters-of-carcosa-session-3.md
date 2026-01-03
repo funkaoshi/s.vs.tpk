@@ -7,6 +7,8 @@ img: /assets/img/putrescent-pits-maps.jpg
 tags:
 - carcosa
 - mastersofcarcosa
+- mocrecap
+
 ---
 
 ![Map of my future megadungeon](/assets/img/putrescent-pits-maps.jpg)

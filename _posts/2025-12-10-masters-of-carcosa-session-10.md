@@ -7,6 +7,8 @@ img:
 tags:
 - mastersofcarcosa
 - carcosa
+- mocrecap
+
 ---
 
 I remember this session really well, because it was another weird one. Only Dion and Willie could make it, and they didn’t want to do anything risky. The players travelled with the merchants on their trip South, stopping in the village of Glom. There they met affable Carcosans and got totally wasted. The description for the settlement in the hex is as follows: _Village of 310 Ulfire Men ruled by “the Unapproachable

@@ -7,6 +7,8 @@ img: /assets/img/masters-of-carcosa-map.jpg
 tags:
 - carcosa
 - masterofchrcosa
+- mocrecap
+
 ---
 
 Almost a full month since our last game! The fastest way to kill a campaign is to miss games, and playing every week meant that a missed game had an oversized impact. I’m impressed the Carcosa game managed to last as long as it did, as I was a bit too quick to reschedule when I was a little busy or tired.

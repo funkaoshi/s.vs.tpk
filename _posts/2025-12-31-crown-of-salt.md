@@ -7,6 +7,7 @@ img: /assets/img/crown-of-salt-4.jpg
 tags:
 - osr
 - morkborg
+date: 2025-12-31 11:30:00
 ---
 
 I have wanted to buy a copy of [Crown of Salt][cos] for ages. Nova wrote [a pretty glowing review][nova] some time ago. Months later Jason and Tom talked about it on [Fear of a Black Dragon][foabd], and were both so euphorically enthusiastic I knew I needed to check it out. I came close to buying it several times, but getting it from abroad with shipping always felt too pricey and decadent. And then I saw it at the [Melsonian Arts Council][Mac] shop at [Dragonmeet][] and that was that.

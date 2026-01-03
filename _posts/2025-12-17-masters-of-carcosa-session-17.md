@@ -7,6 +7,8 @@ img:
 tags:
 - mastersofcarcosa
 - carcosa
+- mocrecap
+
 ---
 
 I forgot the man himself Daniel Dean also made an appearance during this campaign. This might have been the only session he managed to play, but the nice thing about G+ was people would sometimes drop into games if they happened to be free on a particular night.

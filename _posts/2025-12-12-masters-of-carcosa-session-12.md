@@ -7,6 +7,8 @@ img: /assets/img/masters-of-carcosa-bone-man.png
 tags:
 - mastersofcarcosa
 - carcosa
+- mocrecap
+
 ---
 
 ![Bone Man](/assets/img/masters-of-carcosa-bone-man.png)

@@ -199,7 +199,7 @@ article.microblog img {
 .archive h1 {
     text-align: left;
 }
-.archive h2 small {
+h2 small {
     font-size: 0.5em;
    margin-left: 0.5em;
 }
