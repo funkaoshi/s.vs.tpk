@@ -12,7 +12,7 @@ date: 2025-12-31 11:30:00
 
 I have wanted to buy a copy of [Crown of Salt][cos] for ages. Nova wrote [a pretty glowing review][nova] some time ago. Months later Jason and Tom talked about it on [Fear of a Black Dragon][foabd], and were both so euphorically enthusiastic I knew I needed to check it out. I came close to buying it several times, but getting it from abroad with shipping always felt too pricey and decadent. And then I saw it at the [Melsonian Arts Council][Mac] shop at [Dragonmeet][] and that was that.
 
-Crown of Salt is an adventure for [Mork Borg][mb], written, illustrated, and laid out by [Tania Herrero][tania]. This is seemingly the first adventure she has written, which is kind of bananas. This is such a strong first showing.
+Crown of Salt is an adventure for [Mork Borg][mb], written, illustrated, and laid out by [Tania Herrero][tania]. ~~This is seemingly the first adventure she has written, which is kind of bananas. This is such a strong first showing.~~ Update: Tania let me know this is their second adventure! I'll have to check out their [Bottle Rocket][br], [The Pit of Blasphemy][pob].
 
 ![Crown of Salt cut scene](/assets/img/crown-of-salt-1.jpg)
 
@@ -48,9 +48,9 @@ This section has some layout choices I found a bit confusing,  or places where t
 
 ![One last cut scene](/assets/img/crown-of-salt-4.jpg)
 
-> Crown of Salt concludes with a small temple dungeon. You are stalked by the Castigator. Tania suggests he shows up when convenient or interesting, but offers up some simple random chance rules if just having him jump scare the players offends your no quantum ogres OSR sensibilities. — [me on bluesky][5]
+> Crown of Salt concludes with a small temple dungeon. You are stalked by the Cantigaster. Tania suggests he shows up when convenient or interesting, but offers up some simple random chance rules if just having him jump scare the players offends your no quantum ogres OSR sensibilities. — [me on bluesky][5]
 
-The adventure ends with a small dungeon. The cut scene that introduces this section explains more of the background for the whole adventure. One last twist: a primordial god! The adventure really leans into Mork Borg’s vibes. Like Deep Carbon Observatory, the players will be stalked by the main antagonist of the dungeon, the Castigator. This dungeon is flavourful, like the rest of the module. Tania switches to a more straightforward layout at this point. I find the keys a little long to my taste, but I am a fan of tweet sized room descriptions.
+The adventure ends with a small dungeon. The cut scene that introduces this section explains more of the background for the whole adventure. One last twist: a primordial god! The adventure really leans into Mork Borg’s vibes. Like Deep Carbon Observatory, the players will be stalked by the main antagonist of the dungeon, the Cantigaster. This dungeon is flavourful, like the rest of the module. Tania switches to a more straightforward layout at this point. I find the keys a little long to my taste, but I am a fan of tweet sized room descriptions.
 
 We have made it this far and I haven’t even talked about the layout and art. Crown of Salt is beautiful. A lot of people try (and fail) to ape [Johan Nohr’s][nohr] style when it comes to making modules for Mork Borg. Often books just look messy and half assed, they don’t have the graphic design chops to pull off what Johan accomplished with Mork Borg. With Crown of Salt, Tania’s made a really lovely book. There are are occasional missteps, but in general I think she’s made something where the graphic design contributes to the story telling. Her art is fantastic. Like [Gus][] or [Luka][], it’s always impressive to see someone who can do it all.
 
@@ -59,6 +59,8 @@ I really loved Crown of Salt. One of the coolest modules I’ve read this year. 
 [cos]: https://tania-herrero.itch.io/crown-of-salt
 [foabd]: https://foabd.libsyn.com/website/crown-of-salt
 [nova]: https://idlecartulary.com/2024/11/04/bathtub-review-crown-of-salt/
+[br]: https://en.wikipedia.org/wiki/Bottle_Rocket
+[pob]: https://tania-herrero.itch.io/the-pit-of-blasphemy
 [mb]: https://morkborg.com/
 [st]: /blog/silent-titans/
 [dco]: /review/deep-carbon-observatory-storytelling-as-information-design/
