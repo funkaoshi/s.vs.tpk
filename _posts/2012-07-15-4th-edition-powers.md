@@ -25,7 +25,7 @@ I'm curious to see if Wizards of the Coast, or the wider D&D community, do inter
 
 [^2]: Wizards of the Coast even sell the various powers available for the various classes as packs of cards!
 
-[^3]: [Rebecca of Dungeons and Donuts][rebecca] recently made [a little hand-out for generating 4th Edition characters][4e-chargen]. Rather than bothering  with classes or powers, he decided to ask players to pick a role and pick from a list of abstract powers. Players could then make up all the fluff that goes along with the role and powers they've picked. I'm a big fan of this idea.
+[^3]: [Rebecca of Dungeons and Donuts][rebecca] recently made [a little hand-out for generating 4th Edition characters][4e-chargen]. Rather than bothering  with classes or powers, she decided to ask players to pick a role and pick from a list of abstract powers. Players could then make up all the fluff that goes along with the role and powers they've picked. I'm a big fan of this idea.
 
 [osrik]: http://save.vs.totalpartykill.ca/blog/dead-again/
 [4e]: http://wizards.com/dnd/
