@@ -7,7 +7,7 @@ tags:
   - dndnext
   - playtest
 ---
-My first gaming session using the [D&D Next][1] rules was also my first gaming session playing virtually. Kiel, of [Dungeons and Donuts][2] fame, mentioned on Google+ he was planning on running a play test of D&D next online. I was expecting a quiet night at home anyway, why not try and cram in a game of D&D?
+My first gaming session using the [D&D Next][1] rules was also my first gaming session playing virtually. Rebecca, of [Dungeons and Donuts][2] fame, mentioned on Google+ he was planning on running a play test of D&D next online. I was expecting a quiet night at home anyway, why not try and cram in a game of D&D?
 
 I had written off Google+ a while ago, but people more imaginative than myself saw the possibilities the [Hangout][3] feature opened up in terms of tabletop gaming online. Skype has supported multi-user video chat for some time now, but it's a feature you need to pay for. Google+ hangouts are free, and the social network side of Google+ makes it easier to connect with other gamers. D&D is basically collaborative storytelling, so multiuser chat is really all you need to get going. The video helps stop people from talking over each other, since you have those visual cues, and gives you the ability to share images when needed. This has probably played some part in Google+ becoming a wild success in the D&D community.
 
@@ -17,7 +17,7 @@ My concerns were unfounded. I had a lot of fun playing online. I don't think it 
 
 Beyond the social side of things, managing the mechanical side of the game was also painless. D&D Next is similar in style to older editions of D&D in that combat can be run without tracking precisely where everyone is. Not having to move minis around a board got rid of one possible impediment to the online experience. In our game we also rolled our own dice and announced the results. Assuming you aren't playing with dirty liars, this works well.[^1]
 
-The best example of what you can do with video chat and D&D nerds is [ConstantCon][4]. Someone posts that they are going to host a game online, and other people can sign up to play. By the looks of it you should always be able to find a game of D&D whenever you want to play. Kiel runs a game of [D&D Encounters][5] using Google+ once a week as well. He's an excellent DM, so I would definitely try and scam your way into one of his games.
+The best example of what you can do with video chat and D&D nerds is [ConstantCon][4]. Someone posts that they are going to host a game online, and other people can sign up to play. By the looks of it you should always be able to find a game of D&D whenever you want to play. Rebecca runs a game of [D&D Encounters][5] using Google+ once a week as well. He's an excellent DM, so I would definitely try and scam your way into one of his games.
 
 Ultimately what made the night fun was that the actual adventure was a lot of fun.[^2] By the end of the night the adventuring party consisted of: Pickles the horse, two dwarves, an elf, a halfing, a robot cleric of Pelor, and a (demon?) baby called Hope. That's what i'm talking about!
 

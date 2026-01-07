@@ -24,6 +24,7 @@ There is a lot of creative output on the internet. This page collects some of th
 * Also from Jason Cone we have his writing about [B4: The Lost City][24].
 * [Adam Taylor][7] giant list of spells for both [wizards][8] and [clerics][9], that you can filter by school and level. It's fantastic.
 * [Madlib Dungeons][13] can be used to make a blob of text more exciting.
+* [Character sheets for characters from games from days go by.][27]
 
 [1]: /grab-bag/hexenbracken/
 [2]: /grab-bag/kraal/
@@ -49,3 +50,4 @@ There is a lot of creative output on the internet. This page collects some of th
 [24]: /grab-bag/lost-city/
 [25]: /grab-bag/misericorde/
 [26]: /gygax-75/
+[27]: /characters/

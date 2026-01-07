@@ -127,7 +127,7 @@ Each year The Ramanan Sivaranjan Awards for Excellence in Gaming highlight gamin
 * Honorable Mentions:
   * D. Vincent Baker & Meguey Baker, [Apocalypse World 2e][aw]
   * David Black, [The Black Hack][bh]
-  * Kiel Chenier, [Blood in the Chocolate][bitc]
+  * Rebecca Chenier, [Blood in the Chocolate][bitc]
   * Jeff Rients and Ian Maclean, [Broodmother Sky Fortress][bmsf]
   * James Maliszewski and Jez Gordon, [The Cursed Chateau][cc]
   * Cecil Howe, [Do not let us Die in this Cold Winter][cw]
@@ -141,7 +141,7 @@ Each year The Ramanan Sivaranjan Awards for Excellence in Gaming highlight gamin
 * Honorable Mentions:
   * Paolo Greco, [*The Chthonic Codex*][tcc]
   * Pearce Shea, [*In the Woods*][inw]
-  * Kiel Chenier, [*The Hell House Beckons*][thhb]
+  * Rebecca Chenier, [*The Hell House Beckons*][thhb]
   * Marshall Miller, [*The Warren*][tw]
   * Atsuhiro Okada, [*Ryuutama*][ryu]
   * Mateo Diaz Torres, [*A Pernicious Pamphlet*][app]
