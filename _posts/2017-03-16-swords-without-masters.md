@@ -16,7 +16,7 @@ date: 2017-03-16 11:28 pm
 
 After [my Apocalypse World game][1] I went to a panel discussion about GMing advice with Robin Laws, Matt McFarland, Anna Kreider, and a dude who wasn’t Emily Care Boss (who was sick). I enjoyed the talk, it was well done. The moderator Donald Fraser did a good job making the audience questions sound like they were all carefully chosen by him. I like when people are forced to write down their questions, thereby avoiding the risk of a crazy person rambling on.) Robin Laws is funny: [I should check out his podcast][2]. I had an hour break after the panel in which to have a beer and chat with John Willson about RPGs. While we drank [Corey Ried][3] popped by to say, “hey.” He was running the next game I would play, [*Swords Without Masters*][4].
 
-*Swords Without Masters* was written by [Epidiah Ravachol][5]. The only thing I knew about the game was that it was published in his zine, [*Worlds Without Masters*][6]. I had assumed it would be some sort of indie variation on D&D—that it was most definitely not. The game is firmly in whatever genre you would place Fiasco within. (I want to say [Story Games][7], but that name feels meaningless: this game was also nothing like *Apocalypse World*.) *Swords Without Masters* is a story *telling* game. There is a loose framework of rules that exists to help give your story some direction.
+*Swords Without Masters* was written by [Epidiah Ravachol][5]. The only thing I knew about the game was that it was published in his zine, [*Worlds Without Masters*][6]. I had assumed it would be some sort of indie variation on D&D—that it was most definitely not. The game is firmly in whatever genre you would place Fiasco within. (I want to say Story Games, but that name feels meaningless: this game was also nothing like *Apocalypse World*.) *Swords Without Masters* is a story *telling* game. There is a loose framework of rules that exists to help give your story some direction.
 
 Our session began with us figuring out what image best represented each of our rogues: *Swords Without Masters* is a game about rogues in the vein of Conan the Barbarian. I picked a classic Earl Norem *Masters of the Universe* painting—of course. Your character is a name and handful of narrative hooks—terse when compared to traditional RPG characters. It didn’t take long to get the game started.
 
@@ -49,4 +49,3 @@ This was a fun game to play, something I likely wouldn’t have done outside of 
 [4]: http://www.worldswithoutmaster.com/swords-without-master/
 [5]: https://dig1000holes.wordpress.com
 [6]: http://www.worldswithoutmaster.com/
-[7]: /grab-bag/osr-storygames/

@@ -8,7 +8,7 @@ tags:
 - onepagerules
 - aof
 - ageoffantasyskirmish
-- skrimish
+- skirmish
 - 28mm
 date: 2020-03-22 10:50 pm
 ---

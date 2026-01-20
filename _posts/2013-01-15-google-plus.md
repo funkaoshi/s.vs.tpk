@@ -3,7 +3,7 @@ layout: post
 title: "Google+"
 category: meta
 tags:
-    - google+
+    - gplus
 date: 2013-01-15 8:30 AM
 ---
 

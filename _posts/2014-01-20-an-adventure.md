@@ -4,7 +4,8 @@ title: An Adventure
 category: review
 tags:
     - osr
-    - module
+    - lotfp
+    - jamesraggi
 gplus:
 date: 2014-01-20 02:10 pm
 ---

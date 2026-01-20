@@ -6,7 +6,7 @@ tags:
 - osr
 - dco
 - dbs
-- patrictstuart
+- patrickstuart
 - scrapprincess
 ---
 

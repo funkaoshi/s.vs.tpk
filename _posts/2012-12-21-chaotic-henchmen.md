@@ -4,7 +4,6 @@ title: "<em>F3: Many Gates of Gann</em> and <em>F1: Fane of the Poisoned a Proph
 category: review
 tags:
     - osr
-    - module
     - ad&d
 date: 2012-12-21 4:00 PM
 gplus: https://plus.google.com/110118815125792309582/posts/ebacxmMxLTW

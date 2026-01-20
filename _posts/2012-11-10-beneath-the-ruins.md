@@ -5,7 +5,6 @@ category: review
 tags:
     - zine
     - osr
-    - module
     - dnd
 date: 2012-11-10 1:10PM
 gplus: https://plus.google.com/110118815125792309582/posts/6KFAsC2LusP

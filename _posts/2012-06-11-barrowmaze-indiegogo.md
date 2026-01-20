@@ -3,7 +3,7 @@ layout: post
 title: "Support Barrowmaze II on Indiegogo"
 category: link
 tags:
-  - megadungeon
+  - megadungeons
   - kickstarter
   - osr
 ---

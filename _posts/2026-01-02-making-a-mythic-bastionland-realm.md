@@ -3,11 +3,11 @@ layout: post
 title: The Lonely Fun of Mythic Bastionland
 category: blog
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3mbil5x4ixc2o
-img: /assets/img/mythic-bastionland-player.png
+img: /assets/img/mythic-bastionland-player.jpg
 tags:
 - intotheodd
 - mythicbastionland
-- bastionland
+- chrismcdowal
 ---
 
 Long time readers may recall I had started an Arthurian Dark Souls sort of setting I never finished called [Misericorde][]. A year or so later [Chris][] started sharing his work for [Mythic Bastionland][mb], and it was more or less exactly what I wanted to do, but better in basically every way. (I mean, for starters, he finished it all.) So anyway, I want to play Mythic Bastionland. The first step is making a realm.
@@ -16,7 +16,7 @@ Chris outlines how to create a realm on a single page in the book. [Elm Cat has 
 
 I started by making a map in [Hex Kit][hk], a fun activity in and of itself. I decided to start a fresh map rather than continue off the one I had made a few years ago. In my head this campaign could be a prequel to the game I had thought of running, where the king is dead and knights wander the wilderness as transformed monstrosities. I can come back to that idea later, perhaps informed by how this Mythic Bastionland campaign unfolds.
 
-![Mythic Bastionland Realm](/assets/img/mythic-bastionland-player.png)
+![Mythic Bastionland Realm](/assets/img/mythic-bastionland-player.jpg)
 
 With the map done, I got to populating the realm with some holdings and landmarks. I followed Chris’s advice and examples. The system works! I enjoy the act of building something out of random seeds, trying to figure out how everything could fit together. My first ruler was interested in gambling. So was my second. And so was my third. I thought of re-rolling, but the fact that three of the four leaders in the land are gamblers feels like the seed of a story. These sorts of connections bubble up as you work through the tables. I think our brains are just wired find a way to make everything make sense.
 
