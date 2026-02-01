@@ -284,7 +284,7 @@ bluesky-comments::part(comment-content) {
 }
 
 /* Tablet breakpoint */
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 980px) {
     article, nav.archive {
         margin-left: auto;
         margin-right: auto;
@@ -302,4 +302,9 @@ bluesky-comments::part(comment-content) {
         margin-left: 0;
         margin-bottom: 0.5em;
     }
+
+    article.microblog p.permalink br {
+        display: none;
+    }
+
 }
