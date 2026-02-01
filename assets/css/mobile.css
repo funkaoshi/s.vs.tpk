@@ -1,11 +1,50 @@
-#content + header {
-    width: 34em;
+/* Mobile styles for screens 480px and below */
+
+body {
+    font-size: 1.1em;
 }
+
+#content {
+    width: 95%;
+}
+
 nav#site-navigation p {
-    font-size: 1em;
-    text-align: center;
-    display: block;
+    font-size: 0.8em;
+    line-height: 200%;
 }
-nav#site-navigation p + p {
-    display: none;
+
+article, nav.archive {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+article h1, nav h1 {
+    font-size: 1.5em;
+}
+
+article.microblog {
+    margin: 2em auto;
+}
+
+article.microblog img {
+    width: 100%;
+    max-height: none;
+}
+
+article.microblog p.permalink {
+    float: none;
+    text-align: left;
+    width: auto;
+    margin-left: 0;
+    margin-bottom: 0.5em;
+}
+
+article table {
+    font-size: 0.85em;
+    display: block;
+    overflow-x: auto;
+}
+
+footer p {
+    font-size: 55%;
 }

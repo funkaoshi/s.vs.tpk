@@ -23,13 +23,15 @@ a:hover {
 
 article img {
     border: 1px solid black;
-    max-width: 748px;
+    max-width: 100%;
     margin: 0 auto;
     display: block;
+    height: auto;
 }
 
 #content {
-    width: 40em;
+    width: 90%;
+    max-width: 40em;
     margin: 0 auto;
 }
 
@@ -40,7 +42,8 @@ header img {
 }
 
 nav {
-    width: 34em;
+    width: 100%;
+    max-width: 34em;
     margin: 0 auto;
 }
 nav.pagination {
@@ -61,7 +64,8 @@ h2.tag-title {
 
 article, nav.archive {
     margin-bottom: 4em;
-    width: 34em;
+    width: 100%;
+    max-width: 34em;
     margin-left: 3em;
 }
 article h1, nav h1 {
@@ -232,7 +236,8 @@ footer p {
 
 
 nav.post {
-    width: 32em;
+    width: 100%;
+    max-width: 32em;
     margin-top: 4em;
 }
 
@@ -276,4 +281,25 @@ bluesky-comments {
 
 bluesky-comments::part(comment-content) {
   line-height: 150%;
+}
+
+/* Tablet breakpoint */
+@media screen and (max-width: 768px) {
+    article, nav.archive {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    article.microblog img {
+        width: 100%;
+        max-width: 32em;
+    }
+
+    article.microblog p.permalink {
+        float: none;
+        text-align: left;
+        width: auto;
+        margin-left: 0;
+        margin-bottom: 0.5em;
+    }
 }
