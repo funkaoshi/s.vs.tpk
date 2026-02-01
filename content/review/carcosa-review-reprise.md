@@ -1,6 +1,5 @@
 ---
 title: Carcosa Review Reprise
-category: review
 gplus: https://plus.google.com/+RamananS/posts/TdpVYTvL5Q6
 date: 2015-03-28
 tag:

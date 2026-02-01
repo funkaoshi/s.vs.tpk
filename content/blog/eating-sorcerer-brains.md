@@ -1,6 +1,5 @@
 ---
 title: Eating Sorcerer Brains
-category: blog
 gplus: https://plus.google.com/+RamananS/posts/6fxeYs4e3hn
 date: 2014-12-11
 tag:

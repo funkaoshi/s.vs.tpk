@@ -1,6 +1,5 @@
 ---
 title: Empire of the Petal Throne
-category: play-report
 gplus: https://plus.google.com/+RamananS/posts/6LCzSrZfBHG
 date: 2014-02-06
 tag:

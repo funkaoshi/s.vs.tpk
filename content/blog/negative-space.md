@@ -1,6 +1,5 @@
 ---
 title: Negative Space
-category: blog
 date: 2022-05-28
 tag:
 - torchbearer

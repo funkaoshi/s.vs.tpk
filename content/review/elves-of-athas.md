@@ -1,6 +1,5 @@
 ---
 title: "<em>Elves of Athas</em>"
-category: review
 date: 2013-01-24
 gplus: https://plus.google.com/110118815125792309582/posts/brnZdRttwpZ
 tag:

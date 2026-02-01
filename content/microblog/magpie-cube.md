@@ -1,7 +1,6 @@
 ---
 title: Magpie Cube
 date: Wed Dec  6 10:58:40 EST 2023
-category: microblog
 tag:
 - mtg
 - jaydragon

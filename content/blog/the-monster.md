@@ -1,6 +1,5 @@
 ---
 title: The Monster
-category: blog
 date: 2022-02-03
 tag:
 - OSR

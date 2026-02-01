@@ -1,6 +1,5 @@
 ---
 title: How to Not do Zines Wrong
-category: microblog
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3mciyotd3es2h
 img:
 date: 2026-01-17

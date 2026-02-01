@@ -1,6 +1,5 @@
 ---
 title: "<em>The God That Crawls</em>"
-category: review
 gplus: https://plus.google.com/110118815125792309582/posts/jemSjnRN8Vw
 date: 2013-08-27
 tag:

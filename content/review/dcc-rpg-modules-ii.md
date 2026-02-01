@@ -1,6 +1,5 @@
 ---
 title: Dungeon Crawl Classics Modules 70-73
-category: review
 date: 2012-12-26
 published: false
 tag:

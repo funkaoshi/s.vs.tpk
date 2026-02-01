@@ -1,6 +1,5 @@
 ---
 title: Dark Sun Railroads
-category: blog
 gplus: https://plus.google.com/+RamananS/posts/YR25nt9xoNJ
 date: 2015-07-23
 tag:

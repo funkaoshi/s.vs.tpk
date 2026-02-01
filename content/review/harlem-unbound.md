@@ -1,6 +1,5 @@
 ---
 title: Harlem Unbound
-category: review
 gplus:
 date: 2019-03-24
 tag:

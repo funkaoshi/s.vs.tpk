@@ -1,6 +1,5 @@
 ---
 title: Rules Cyclopedia
-category: blog
 gplus: https://plus.google.com/110118815125792309582/posts/4ATpuUfze9a
 date: 2013-07-07
 tag:

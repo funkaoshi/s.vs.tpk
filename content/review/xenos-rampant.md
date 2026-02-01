@@ -1,6 +1,5 @@
 ---
 title: Xenos Rampant
-category: review
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3lmt66clurk2w
 img: "/assets/img/xenos-rampant-1.jpg"
 date: 2025-04-14

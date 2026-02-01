@@ -1,6 +1,5 @@
 ---
 title: The OSR is trapped in Hexes it is addicted to Jaquaysing
-category: microblog
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3mci64fyuvk2n
 img:
 date: 2026-01-17

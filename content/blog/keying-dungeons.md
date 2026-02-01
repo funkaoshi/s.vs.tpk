@@ -1,6 +1,5 @@
 ---
 title: Keying Dungeons
-category: blog
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3mc6syr5yqc23
 img:
 date: 2026-01-11

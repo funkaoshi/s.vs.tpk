@@ -1,6 +1,5 @@
 ---
 title: Initial Thoughts on Trophy Gold
-category: review
 date: 2023-03-14
 tag:
 - trophy

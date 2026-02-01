@@ -1,6 +1,5 @@
 ---
 title: On the NPC
-category: review
 gplus: https://plus.google.com/110118815125792309582/posts/URjvukT3EgU
 date: 2013-07-15
 tag:

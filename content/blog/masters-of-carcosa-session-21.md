@@ -1,6 +1,5 @@
 ---
 title: Masters of Carcosa - Session 21
-category: blog
 bluesky:
 img: "/assets/img/putrescent-pits-maps.jpg"
 date: 2025-12-21

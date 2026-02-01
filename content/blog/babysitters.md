@@ -1,6 +1,5 @@
 ---
 title: Babysitters
-category: blog
 gplus: https://plus.google.com/110118815125792309582/posts/78CNgAmsviS
 date: 2013-10-15
 tag:

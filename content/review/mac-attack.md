@@ -1,6 +1,5 @@
 ---
 title: MAC ATTACK
-category: review
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3m6jylnps422l
 img: "/assets/img/mac-attack-pub.jpg"
 date: 2025-11-26

@@ -1,6 +1,5 @@
 ---
 title: 'Horus Heresy: Age of Darkness'
-category: blog
 date: 2024-04-23
 tag:
 - warhammer

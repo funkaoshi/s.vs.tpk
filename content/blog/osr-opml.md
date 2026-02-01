@@ -1,6 +1,5 @@
 ---
 title: OSR OPML
-category: blog
 gplus: https://plus.google.com/u/0/+RamananS/posts/CNERYPMqaB2
 date: 2018-10-11
 tag:

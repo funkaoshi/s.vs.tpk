@@ -1,7 +1,6 @@
 ---
 title: For use in the summoning of demon and hell spawn in the role playing game Lamentations
   of the Flame Princess.
-category: link
 gplus: https://plus.google.com/110118815125792309582/posts/iCk9stRfBZ3
 date: 2012-07-22
 tag:

@@ -1,6 +1,5 @@
 ---
 title: "<em>Volume 2 Monsters &</em> and <em>&&&&&&&& Treasure</em>"
-category: blog
 date: 2022-07-13
 tag:
 - osr

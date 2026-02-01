@@ -1,6 +1,5 @@
 ---
 title: Lysander Candy
-category: microblog
 date: 2022-05-27
 tag:
 - osr

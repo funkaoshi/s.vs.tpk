@@ -1,6 +1,5 @@
 ---
 title: Building Bastionland - A Career Retrospective
-category: microblog
 bluesky:
 img:
 date: 2025-11-26

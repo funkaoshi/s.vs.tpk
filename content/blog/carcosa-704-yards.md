@@ -1,6 +1,5 @@
 ---
 title: Carcosa, 704 Yards at a Time
-category: blog
 gplus: https://plus.google.com/110118815125792309582/posts/dQNwa98AJvz
 date: 2014-10-27
 tag:

@@ -1,6 +1,5 @@
 ---
 title: 2025 in Blogging
-category: blog
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3mbeusabkcs2t
 img:
 date: 2026-01-01

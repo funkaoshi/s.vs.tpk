@@ -1,6 +1,5 @@
 ---
 title: Kill Team
-category: blog
 gplus:
 date: 2019-01-01
 tag:

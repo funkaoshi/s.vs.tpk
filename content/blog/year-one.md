@@ -1,6 +1,5 @@
 ---
 title: 'Save vs. Total Party Kill: Year One'
-category: blog
 gplus: https://plus.google.com/110118815125792309582/posts/PKTKBWVyDMN
 date: 2013-06-03
 tag:

@@ -1,6 +1,5 @@
 ---
 title: Masters of Carcosa - Session 11
-category: blog
 bluesky:
 img:
 date: 2025-12-11

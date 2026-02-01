@@ -1,6 +1,5 @@
 ---
 title: Space Gits
-category: review
 bluesky:
 img: "/assets/img/space-gits-pub.jpg"
 date: 2025-11-27

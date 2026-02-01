@@ -1,6 +1,5 @@
 ---
 title: A Pantheon of Powers
-category: blog
 gplus: https://plus.google.com/110118815125792309582/posts/3PrKnan8nBb
 date: 2012-07-15
 tag:

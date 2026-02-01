@@ -1,6 +1,5 @@
 ---
 title: 'The RPG Epistles of Paul T: Negadungeons and the Texture of Death'
-category: blog
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3lejq2lq7zs2t
 date: 2024-12-29
 tag:

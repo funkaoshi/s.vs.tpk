@@ -1,6 +1,5 @@
 ---
 title: Masters of Carcosa - Session 2
-category: blog
 bluesky:
 img: masters-of-carcosa-caverns-lotus.jpg
 date: 2025-12-02

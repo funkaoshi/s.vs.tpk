@@ -1,6 +1,5 @@
 ---
 title: Elmcat’s Blog Map
-category: microblog
 bluesky:
 img:
 date: 2025-11-26

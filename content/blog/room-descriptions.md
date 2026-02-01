@@ -1,6 +1,5 @@
 ---
 title: Dwimmermount's Room Descriptions
-category: blog
 gplus: https://plus.google.com/u/0/+RamananS/posts/8cWeBz7q5tN
 date: 2015-03-15
 tag:

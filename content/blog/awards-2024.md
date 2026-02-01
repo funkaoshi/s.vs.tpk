@@ -1,6 +1,5 @@
 ---
 title: Ramanan Sivaranjan Awards for Excellence in Gaming 2025
-category: blog
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3lvf2mhqjqc2n
 img: "/assets/img/mothership-awards-2025.png"
 date: 2025-08-01

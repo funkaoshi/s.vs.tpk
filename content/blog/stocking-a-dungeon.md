@@ -1,6 +1,5 @@
 ---
 title: Stocking a Dungeon
-category: blog
 gplus: https://plus.google.com/+RamananS/posts/aDAqNK4ihhL
 date: 2015-01-09
 tag:

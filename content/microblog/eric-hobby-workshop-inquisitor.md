@@ -1,6 +1,5 @@
 ---
 title: Eric's Hobby Workshop Looks at Inquisitor
-category: microblog
 date: 2023-10-17
 tag:
 - warhammer

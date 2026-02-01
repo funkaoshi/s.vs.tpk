@@ -1,6 +1,5 @@
 ---
 title: Gygax '75
-category: blog
 gplus:
 date: 2022-02-20
 tag:

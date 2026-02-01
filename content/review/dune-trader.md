@@ -1,6 +1,5 @@
 ---
 title: "<em>Dune Trader</em>"
-category: review
 date: 2013-01-30
 gplus: https://plus.google.com/110118815125792309582/posts/UDpCVik9vUc
 tag:

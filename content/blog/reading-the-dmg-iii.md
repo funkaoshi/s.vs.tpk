@@ -1,6 +1,5 @@
 ---
 title: 'Reading the DMG: Matching Capes'
-category: blog
 date: 2012-10-08
 gplus: https://plus.google.com/110118815125792309582/posts/QtVaT67HtmQ
 tag:

@@ -1,6 +1,5 @@
 ---
 title: Smaller Games of 40K
-category: blog
 date: 2024-03-20
 tag:
 - 40k

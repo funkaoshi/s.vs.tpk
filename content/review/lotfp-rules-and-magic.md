@@ -1,6 +1,5 @@
 ---
 title: LotFP Rules and Magic Hardcover
-category: review
 gplus: https://plus.google.com/u/0/110118815125792309582/posts/9SZuGSXYaVQ
 date: 2013-09-10
 tag:

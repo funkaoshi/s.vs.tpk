@@ -1,6 +1,5 @@
 ---
 title: Am I Playing a Role-Playing Game?
-category: blog
 date: 2012-10-30
 gplus: https://plus.google.com/110118815125792309582/posts/cAfVEiTD8rj
 tag:

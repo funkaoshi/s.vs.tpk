@@ -1,6 +1,5 @@
 ---
 title: Queen Mab
-category: microblog
 tags:
 date: 2024-10-03
 ---

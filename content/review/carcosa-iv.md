@@ -1,7 +1,6 @@
 ---
 date: 2012-09-23
 title: A tour of <em>Carcosa</em>
-category: review
 gplus: https://plus.google.com/110118815125792309582/posts/f4vfWvdPvmq
 tag:
 - carcosa

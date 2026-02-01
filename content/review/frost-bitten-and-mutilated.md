@@ -1,6 +1,5 @@
 ---
 title: Wilderness Descriptions and/of Frost Bitten and Mutilated
-category: review
 gplus: https://plus.google.com/+RamananS/posts/Fvbv8EvcSYB
 date: 2018-03-31
 tag:

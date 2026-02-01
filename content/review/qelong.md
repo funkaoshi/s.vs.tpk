@@ -1,6 +1,5 @@
 ---
 title: "<em>Qelong</em>"
-category: review
 gplus: https://plus.google.com/110118815125792309582/posts/hr6aJ27C9y6
 date: 2013-08-27
 tag:

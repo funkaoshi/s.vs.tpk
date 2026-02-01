@@ -1,6 +1,5 @@
 ---
 title: "<em>Vornheim: The Complete City Kit</em>"
-category: review
 date: 2012-06-20
 tag:
 - vornheim

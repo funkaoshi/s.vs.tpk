@@ -1,6 +1,5 @@
 ---
 title: "<em>Veiled Alliance</em>"
-category: review
 date: 2013-02-11
 gplus: https://plus.google.com/110118815125792309582/posts/RAmjpsirBPY
 tag:

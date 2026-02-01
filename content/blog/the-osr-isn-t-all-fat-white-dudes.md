@@ -1,6 +1,5 @@
 ---
 title: The OSR Isn't All Fat White Dudes
-category: blog
 gplus:
 date: 2015-09-09
 tag:

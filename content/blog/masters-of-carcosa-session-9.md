@@ -1,6 +1,5 @@
 ---
 title: Masters of Carcosa - Session 9
-category: blog
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3m7lzotls3k23
 img: "/assets/img/carcosa-t-rex.jpg"
 date: 2025-12-09

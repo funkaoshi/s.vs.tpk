@@ -1,6 +1,5 @@
 ---
 title: The books of 2016
-category: blog
 gplus:
 date: 2017-01-02
 tag:

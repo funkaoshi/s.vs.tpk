@@ -1,6 +1,5 @@
 ---
 title: Kill Team 2021
-category: microblog
 tags:
 date: 2023-07-11
 ---

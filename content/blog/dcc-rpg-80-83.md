@@ -1,6 +1,5 @@
 ---
 title: DCC RPG 80, 81, 82
-category: blog
 gplus:
 date: 2015-07-10
 tag:

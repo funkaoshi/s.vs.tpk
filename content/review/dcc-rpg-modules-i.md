@@ -1,6 +1,5 @@
 ---
 title: Dungeon Crawl Classics Modules 67-69
-category: review
 date: 2012-10-26
 gplus: https://plus.google.com/110118815125792309582/posts/2yTbx5xFR4L
 tag:

@@ -1,6 +1,5 @@
 ---
 title: City by the Silt Sea
-category: review
 gplus: https://plus.google.com/+RamananS/posts/QtbnzvLtwYh
 date: 2014-02-20
 tag:

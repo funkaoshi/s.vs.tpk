@@ -1,6 +1,5 @@
 ---
 title: Gangs of Titan City Solo
-category: microblog
 date: 2024-05-15
 tag:
 - osr

@@ -1,6 +1,5 @@
 ---
 title: Trophy Gold Dark Souls
-category: microblog
 date: 2023-01-20
 tag:
 - darksouls

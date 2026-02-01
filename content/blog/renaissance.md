@@ -1,6 +1,5 @@
 ---
 title: It was a Renaissance
-category: blog
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3llgtajznkk25
 img:
 date: 2025-03-27

@@ -1,6 +1,5 @@
 ---
 title: Breakout 2017
-category: blog
 gplus: https://plus.google.com/+RamananS/posts/JsXi9fyazXA
 date: 2017-03-17
 tag:

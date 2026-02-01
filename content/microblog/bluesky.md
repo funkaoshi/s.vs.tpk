@@ -1,6 +1,5 @@
 ---
 title: BlueSky
-category: microblog
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3lcouvk7j722r
 date: 2024-12-06
 tag:

@@ -1,6 +1,5 @@
 ---
 title: Into the Feywild
-category: blog
 gplus:
 date: 2016-09-26
 tag:

@@ -1,6 +1,5 @@
 ---
 title: 2015 in Books
-category: blog
 gplus: https://plus.google.com/+RamananS/posts/8wDuHkZ6RXB
 date: 2016-01-02
 tag:

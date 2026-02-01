@@ -1,6 +1,5 @@
 ---
 title: The Brazilian OSR
-category: blog
 date: 2020-08-15
 tag:
 - OSR

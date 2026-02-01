@@ -1,6 +1,5 @@
 ---
 title: Nirvana on Fire
-category: review
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3lkjzleasik2a
 img: "/assets/img/nirvana-on-fire-4.jpg"
 date: 2025-03-16

@@ -1,6 +1,5 @@
 ---
 title: Ramanan Sivaranjan Awards for Excellence in Gaming 2024
-category: blog
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3k45vqtp44t25
 date: 2024-08-09
 tag:

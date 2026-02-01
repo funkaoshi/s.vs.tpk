@@ -1,6 +1,5 @@
 ---
 title: Inquisitor Was a Bad Game, and That’s Why I Loved It
-category: microblog
 date: 2023-06-19
 tag:
 - warhammer

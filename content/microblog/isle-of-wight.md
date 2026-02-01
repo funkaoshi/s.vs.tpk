@@ -1,6 +1,5 @@
 ---
 title: Isle of Wight
-category: microblog
 date: 2023-11-14
 tag:
 - zombies

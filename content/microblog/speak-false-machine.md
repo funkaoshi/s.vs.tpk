@@ -1,6 +1,5 @@
 ---
 title: Speak, False Machine
-category: microblog
 date: 2022-11-04
 tag:
 - osr

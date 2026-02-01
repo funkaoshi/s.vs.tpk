@@ -1,6 +1,5 @@
 ---
 title: Art by Nohr
-category: blog
 img: "/assets/img/art-by-nohr-1.jpg"
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3lg2deyyvas2h
 date: 2025-01-18

@@ -1,6 +1,5 @@
 ---
 title: A Carcosa Reading List
-category: blog
 gplus:
 date: 2014-12-17
 tag:

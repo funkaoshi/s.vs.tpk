@@ -1,6 +1,5 @@
 ---
 title: Carcosa and Canon
-category: blog
 gplus:
 date: 2019-03-05
 tag:

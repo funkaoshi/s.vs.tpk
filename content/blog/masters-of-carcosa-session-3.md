@@ -1,6 +1,5 @@
 ---
 title: Masters of Carcosa - Session 3
-category: blog
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3m73afy47kc24
 img: "/assets/img/putrescent-pits-maps.jpg"
 date: 2025-12-03

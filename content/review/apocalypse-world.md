@@ -1,6 +1,5 @@
 ---
 title: Apocalypse World
-category: review
 gplus: https://plus.google.com/+RamananS/posts/VmBZnFUwvkc
 date: 2017-03-13
 tag:

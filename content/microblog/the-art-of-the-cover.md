@@ -1,6 +1,5 @@
 ---
 title: The Art of the Cover
-category: microblog
 date: 2024-05-28
 tag:
 - art

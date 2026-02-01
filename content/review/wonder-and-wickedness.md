@@ -1,6 +1,5 @@
 ---
 title: Wonder & Wickedness
-category: review
 gplus:
 date: 2015-03-11
 tag:

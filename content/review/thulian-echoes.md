@@ -1,6 +1,5 @@
 ---
 title: Thulian Echoes
-category: review
 gplus:
 date: 2014-09-08
 tag:

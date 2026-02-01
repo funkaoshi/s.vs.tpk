@@ -1,6 +1,5 @@
 ---
 title: Bloggies 2023
-category: microblog
 date: 2024-01-03
 tag:
 - blogs

@@ -1,6 +1,5 @@
 ---
 title: RPGs as Skirmish Games
-category: microblog
 date: 2024-04-25
 tag:
 - skirmish

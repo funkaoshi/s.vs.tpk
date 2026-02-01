@@ -1,6 +1,5 @@
 ---
 title: "<em>Forgive Us</em>"
-category: review
 gplus: https://plus.google.com/+RamananS/posts/FDxAay1Vfiu
 date: 2014-03-08
 tag:

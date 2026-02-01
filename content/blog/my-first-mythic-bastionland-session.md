@@ -1,6 +1,5 @@
 ---
 title: My First Mythic Bastionland Session
-category: blog
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3mcgsomi75s2u
 img: "/assets/img/mythic-bastionland-session-1.png"
 date: 2026-01-14

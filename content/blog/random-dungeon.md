@@ -1,6 +1,5 @@
 ---
 title: Random Dungeon
-category: blog
 gplus: https://plus.google.com/+RamananS/posts/96PFdLfumkY
 date: 2014-02-17
 tag:

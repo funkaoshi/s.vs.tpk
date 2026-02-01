@@ -1,6 +1,5 @@
 ---
 title: The Spirit of the Rules
-category: blog
 gplus:
 date: 2014-06-13
 tag:

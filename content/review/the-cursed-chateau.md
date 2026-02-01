@@ -1,6 +1,5 @@
 ---
 title: The Cursed Chateau
-category: review
 gplus: https://plus.google.com/+RamananS/posts/K4seGD1hQTz
 date: 2017-03-20
 tag:

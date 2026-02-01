@@ -1,6 +1,5 @@
 ---
 title: The Art of LotFP
-category: blog
 gplus: https://plus.google.com/u/0/110118815125792309582/posts/8Kzx8wjQquj
 date: 2013-10-25
 tag:

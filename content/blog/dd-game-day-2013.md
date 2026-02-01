@@ -1,6 +1,5 @@
 ---
 title: D&D Game Day 2013
-category: blog
 gplus: https://plus.google.com/110118815125792309582/posts/cFxBpheACLz
 date: 2013-06-22
 tag:

@@ -1,6 +1,5 @@
 ---
 title: Masters of Carcosa - Session 14
-category: blog
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3m7yec3lvjs25
 img: "/assets/img/masters-of-carcosa-laser.jpg"
 date: 2025-12-14

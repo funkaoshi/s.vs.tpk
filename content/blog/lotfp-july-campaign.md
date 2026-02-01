@@ -1,6 +1,5 @@
 ---
 title: The Lamentations of the Flame Princess July Grand Adventures Campaign
-category: blog
 gplus: https://plus.google.com/110118815125792309582/posts/Uxx18T9hNtC
 date: 2012-07-05
 tag:

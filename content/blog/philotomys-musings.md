@@ -1,6 +1,5 @@
 ---
 title: Philotomy's Musings
-category: blog
 gplus: https://plus.google.com/110118815125792309582/posts/KNahK2Yrh7y?partnerid=gplp0
 date: 2013-03-28
 tag:

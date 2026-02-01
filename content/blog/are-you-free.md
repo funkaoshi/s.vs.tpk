@@ -1,6 +1,5 @@
 ---
 title: Who is free on Tuesday?
-category: blog
 gplus: https://plus.google.com/u/0/110118815125792309582/posts/RMx8R77N7xA
 date: 2013-06-17
 tag:

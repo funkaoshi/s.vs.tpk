@@ -1,6 +1,5 @@
 ---
 title: Magic Arrows
-category: blog
 gplus: http://save.vs.totalpartykill.ca/blog/magic-arrows/
 date: 2014-07-31
 tag:

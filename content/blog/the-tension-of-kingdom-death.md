@@ -1,6 +1,5 @@
 ---
 title: The Tension of Kingdom Death
-category: blog
 date: 2020-12-05
 tag:
 - kingdomdeath

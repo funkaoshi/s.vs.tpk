@@ -1,6 +1,5 @@
 ---
 title: 2024 in Minis
-category: blog
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3lep4jp4tg22u
 img: "/assets/img/stormcast.jpg"
 date: 2025-01-01

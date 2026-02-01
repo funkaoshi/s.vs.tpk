@@ -1,6 +1,5 @@
 ---
 title: Fire on the Velvet Horizon
-category: blog
 gplus: https://plus.google.com/+RamananS/posts/U6svBBAKuGX
 date: 2015-05-22
 tag:

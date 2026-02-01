@@ -1,6 +1,5 @@
 ---
 title: D&D 5th Edition
-category: blog
 gplus: https://plus.google.com/+RamananS/posts/b3G7URA6gFF
 date: 2014-07-03
 tag:

@@ -1,6 +1,5 @@
 ---
 title: OD&D turns 50
-category: microblog
 date: 2024-01-17
 tag:
 - odnd

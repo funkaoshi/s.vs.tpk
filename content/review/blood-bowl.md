@@ -1,6 +1,5 @@
 ---
 title: Blood Bowl
-category: review
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3mb2pfbiooc2h
 img: "/assets/img/bloodbowl.jpg"
 date: 2025-12-28

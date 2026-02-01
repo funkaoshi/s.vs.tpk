@@ -1,6 +1,5 @@
 ---
 title: Desert Lotus Potions, Poultice, Poisons and Powders
-category: blog
 gplus: https://plus.google.com/+RamananS/posts/81H8oSxiZxx
 date: 2015-02-22
 tag:

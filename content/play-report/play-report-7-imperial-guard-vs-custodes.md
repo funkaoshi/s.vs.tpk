@@ -1,7 +1,6 @@
 ---
 title: 'Adeptus Custodes and Space Marines versus Imperial Guard: Suffer not the Heretic
   to Live'
-category: play-report
 gplus: https://plus.google.com/+RamananS/posts/G2YNomBQsP1
 date: 2018-06-17
 tag:

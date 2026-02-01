@@ -1,6 +1,5 @@
 ---
 title: Basic D&D Next
-category: blog
 date: 2013-01-14
 gplus: https://plus.google.com/110118815125792309582/posts/CCTM7zenaLS
 tag:

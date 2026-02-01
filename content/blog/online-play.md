@@ -1,6 +1,5 @@
 ---
 title: D&D Online (is not just a Video Game)
-category: blog
 date: 2012-06-11
 tag:
 - 5e

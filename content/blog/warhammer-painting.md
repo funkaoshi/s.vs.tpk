@@ -1,6 +1,5 @@
 ---
 title: Paint for the Paint God
-category: blog
 gplus: https://plus.google.com/+RamananS/posts/TMnUMgZh5Ae
 date: 2017-07-24
 tag:

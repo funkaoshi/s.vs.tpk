@@ -1,6 +1,5 @@
 ---
 title: Social Media Ruckus
-category: microblog
 date: 2022-10-29
 tag:
 - twitter

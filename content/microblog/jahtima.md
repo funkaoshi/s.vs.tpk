@@ -1,6 +1,5 @@
 ---
 title: Jahtima
-category: microblog
 date: 2022-05-23
 tag:
 - osr

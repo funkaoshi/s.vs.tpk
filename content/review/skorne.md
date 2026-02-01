@@ -1,6 +1,5 @@
 ---
 title: Skorne
-category: review
 bluesky: https://bsky.app/profile/did:plc:5vapg2uipmfhjihfzb4pob3k/post/3lglbl6tdu22q
 img: "/assets/img/skorne.jpg"
 date: 2025-01-25

@@ -1,6 +1,5 @@
 ---
 title: Bloggies 2024
-category: microblog
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3lh67ljyzsk2s
 img:
 date: 2025-02-01

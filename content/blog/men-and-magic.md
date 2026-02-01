@@ -1,6 +1,5 @@
 ---
 title: "<em>Men and Magic</em>"
-category: blog
 gplus: https://plus.google.com/+RamananS/posts/NzXAooxDnhK
 date: 2014-03-04
 tag:

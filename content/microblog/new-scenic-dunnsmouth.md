@@ -1,6 +1,5 @@
 ---
 title: Scenic Dunnsmouth and Friends
-category: microblog
 date: 2023-03-18
 tag:
 - zzarchov

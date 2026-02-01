@@ -1,6 +1,5 @@
 ---
 title: 'That Four Letter Word: Prep'
-category: blog
 gplus: https://plus.google.com/u/0/+RamananS/posts/XDEDNkb6oYo
 date: 2016-01-20
 tag:

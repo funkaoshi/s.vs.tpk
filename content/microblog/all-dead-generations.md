@@ -1,6 +1,5 @@
 ---
 title: All Dead Generations
-category: microblog
 bluesky:
 img:
 date: 2025-11-24

@@ -1,6 +1,5 @@
 ---
 title: Demon Bone Sarcophagus
-category: review
 date: 2023-03-22
 tag:
 - osr

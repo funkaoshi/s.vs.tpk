@@ -1,6 +1,5 @@
 ---
 title: CY_BORG
-category: blog
 date: 2023-04-22
 tag:
 - morkborg

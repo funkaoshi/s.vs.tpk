@@ -1,6 +1,5 @@
 ---
 title: Fuck You Design
-category: microblog
 date: 2022-05-31
 tag:
 - osr

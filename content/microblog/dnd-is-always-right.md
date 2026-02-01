@@ -1,6 +1,5 @@
 ---
 title: D&D is Always Right
-category: microblog
 date: 2022-06-06
 tag:
 - osr

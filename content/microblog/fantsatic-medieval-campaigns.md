@@ -1,6 +1,5 @@
 ---
 title: Fantsatic Medieval Campaigns
-category: microblog
 date: 2022-11-12
 tag:
 - osr

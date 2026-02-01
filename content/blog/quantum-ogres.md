@@ -1,6 +1,5 @@
 ---
 title: Quantum Ogres
-category: blog
 gplus: https://plus.google.com/110118815125792309582/posts/BrBP2bjzWe9
 date: 2013-06-24
 tag:

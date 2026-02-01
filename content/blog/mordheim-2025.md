@@ -1,6 +1,5 @@
 ---
 title: Mordheim 2025
-category: blog
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3m7gpzxhjfc2g
 img: "/assets/img/mordheim-2025-2.jpg"
 date: 2025-12-07

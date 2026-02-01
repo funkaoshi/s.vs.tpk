@@ -1,6 +1,5 @@
 ---
 title: 20 Quick Questions for your Campaign Setting
-category: blog
 gplus: https://plus.google.com/+RamananS/posts/AZSSwJ5mTX9
 date: 2014-05-10
 tag:

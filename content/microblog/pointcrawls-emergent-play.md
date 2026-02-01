@@ -1,6 +1,5 @@
 ---
 title: Pointcrawls & Emergent Play
-category: microblog
 bluesky: https://bsky.app/profile/did:plc:5vapg2uipmfhjihfzb4pob3k/post/3ljftmul44s26
 img:
 date: 2025-03-02

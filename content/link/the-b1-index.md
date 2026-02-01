@@ -1,6 +1,5 @@
 ---
 title: The <em>In Search of the Unknown</em> Index
-category: link
 date: 2012-07-24
 tag:
 - forum

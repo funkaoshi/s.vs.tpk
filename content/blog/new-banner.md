@@ -1,5 +1,4 @@
 ---
-category: blog
 title: A New Banner for Save vs. Total Party Kill
 date: 2012-12-01
 gplus: https://plus.google.com/110118815125792309582/posts/E9jbCZGWZwb

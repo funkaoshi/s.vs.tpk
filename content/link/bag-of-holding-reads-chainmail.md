@@ -1,6 +1,5 @@
 ---
 title: Bag of Holding Reads <em>Chainmail</em>
-category: link
 date: 2012-06-06
 tag:
 - osr

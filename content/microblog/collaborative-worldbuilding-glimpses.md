@@ -1,6 +1,5 @@
 ---
 title: Collaborative Worldbuilding Glimpses
-category: microblog
 date: 2024-05-21
 tag:
 - osr

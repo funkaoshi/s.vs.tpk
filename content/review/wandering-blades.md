@@ -1,6 +1,5 @@
 ---
 title: Wandering Blades
-category: review
 bluesky: https://bsky.app/profile/did:plc:5vapg2uipmfhjihfzb4pob3k/post/3lqgawr3bkc2p
 img: "/assets/img/wandering-blades.png"
 date: 2025-05-29

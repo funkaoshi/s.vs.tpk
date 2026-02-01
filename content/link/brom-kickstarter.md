@@ -1,6 +1,5 @@
 ---
 title: The Art of Brom
-category: link
 date: 2012-08-22
 tag:
 - darksun

@@ -1,6 +1,5 @@
 ---
 title: 16 Encounters on Carcosa
-category: blog
 gplus: https://plus.google.com/110118815125792309582/posts/1tsKrbfRSzP
 date: 2012-10-20
 tag:

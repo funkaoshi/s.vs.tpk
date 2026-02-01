@@ -1,6 +1,5 @@
 ---
 title: Kim Mohan on the D&D Podcast
-category: blog
 date: 2013-06-16
 tag:
 - wotc

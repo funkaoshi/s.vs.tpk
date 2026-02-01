@@ -1,6 +1,5 @@
 ---
 title: Age of Fantasy Skirmish
-category: review
 date: 2020-03-22
 tag:
 - warcry

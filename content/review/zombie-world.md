@@ -1,6 +1,5 @@
 ---
 title: Zombie World
-category: review
 date: 2019-03-17
 tag:
 - pbta

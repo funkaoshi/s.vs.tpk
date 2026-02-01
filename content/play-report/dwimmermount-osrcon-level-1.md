@@ -1,6 +1,5 @@
 ---
 title: 'Dwimmermount at OSRCon 2012: Level 1'
-category: play-report
 gplus: https://plus.google.com/110118815125792309582/posts/RAJKeRtRafL
 date: 2012-08-15
 tag:

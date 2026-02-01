@@ -1,6 +1,5 @@
 ---
 title: Kickstarter Report Card IV
-category: blog
 gplus:
 date: 2014-12-11
 tag:

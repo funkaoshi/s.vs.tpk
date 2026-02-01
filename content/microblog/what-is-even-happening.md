@@ -1,6 +1,5 @@
 ---
 title: What is Even Happening
-category: microblog
 bluesky: https://bsky.app/profile/did:plc:5vapg2uipmfhjihfzb4pob3k/post/3m3kmyp3vhk2r
 img: "/assets/img/tempest-is-the-best.png"
 date: 2025-10-17

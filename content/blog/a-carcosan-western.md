@@ -1,6 +1,5 @@
 ---
 title: A Carcosan Western
-category: blog
 gplus:
 date: 2016-11-18
 tag:

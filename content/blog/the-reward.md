@@ -1,6 +1,5 @@
 ---
 title: The Reward
-category: blog
 date: 2013-01-25
 gplus: https://plus.google.com/110118815125792309582/posts/X6ooWZtLWL3
 tag:

@@ -1,6 +1,5 @@
 ---
 title: 'Mordheim: The Thronetaker Campagin'
-category: blog
 date: 2023-01-09
 tag:
 - warhammer

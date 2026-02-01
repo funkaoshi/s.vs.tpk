@@ -1,6 +1,5 @@
 ---
 title: "<em>Beneath the Ruins</em> by Alex Fotinakes"
-category: review
 date: 2012-11-10
 gplus: https://plus.google.com/110118815125792309582/posts/6KFAsC2LusP
 tag:

@@ -1,6 +1,5 @@
 ---
 title: Kickstarter Report Card V
-category: blog
 gplus: https://plus.google.com/+RamananS/posts/DMmJHmJVQa8
 date: 2015-08-11
 tag:

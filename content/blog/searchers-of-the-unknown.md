@@ -1,6 +1,5 @@
 ---
 title: "<em>From Searchers of the Unknown</em> to <em>Call to Adventure</em>"
-category: blog
 gplus: https://plus.google.com/110118815125792309582/posts/FSDBf18svXV
 date: 2013-09-18
 tag:

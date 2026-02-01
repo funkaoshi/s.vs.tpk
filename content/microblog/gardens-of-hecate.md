@@ -1,6 +1,5 @@
 ---
 title: Gardens of Hecate
-category: microblog
 date: 2022-06-25
 tag:
 - inq28

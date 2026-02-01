@@ -1,6 +1,5 @@
 ---
 title: "<em>Pits & Perils</em>"
-category: review
 gplus: https://plus.google.com/+RamananS/posts/6Wru643dxoZ
 date: 2014-03-02
 tag:

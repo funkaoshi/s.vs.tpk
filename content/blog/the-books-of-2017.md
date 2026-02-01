@@ -1,6 +1,5 @@
 ---
 title: The Books of 2017
-category: blog
 gplus: https://plus.google.com/+RamananS/posts/DoY21t1tnA3
 date: 2018-01-07
 tag:

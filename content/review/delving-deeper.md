@@ -1,6 +1,5 @@
 ---
 title: Delving Deeper
-category: review
 date: 2012-10-24
 gplus: https://plus.google.com/110118815125792309582/posts/FdXixdzJqmQ
 tag:

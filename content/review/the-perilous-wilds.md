@@ -1,6 +1,5 @@
 ---
 title: The Perilous Wilds
-category: review
 gplus: https://plus.google.com/+RamananS/posts/chTdiSEcp7s
 date: 2015-10-24
 tag:

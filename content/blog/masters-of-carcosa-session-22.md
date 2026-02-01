@@ -1,6 +1,5 @@
 ---
 title: Masters of Carcosa - Session 22
-category: blog
 bluesky:
 img: "/assets/img/masters-of-carcosa-site.jpg"
 date: 2025-12-22

@@ -1,6 +1,5 @@
 ---
 title: Towers Two
-category: review
 gplus:
 date: 2017-01-01
 tag:

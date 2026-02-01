@@ -1,6 +1,5 @@
 ---
 title: Masters of Carcosa - Session 15
-category: blog
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3ma5fltzbus2t
 img: "/assets/img/masters-of-carcosa-aliens.jpg"
 date: 2025-12-15

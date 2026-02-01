@@ -1,6 +1,5 @@
 ---
 title: Death Guard vs. Blood Angels vs Imperial Guard
-category: play-report
 gplus: https://plus.google.com/+RamananS/posts/YPVL5gxVM2X
 date: 2018-01-20
 tag:

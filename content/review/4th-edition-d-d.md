@@ -1,6 +1,5 @@
 ---
 title: 4th Edition D&D
-category: review
 gplus: https://plus.google.com/+RamananS/posts/bU5ef1YQ7sN
 date: 2014-06-27
 tag:

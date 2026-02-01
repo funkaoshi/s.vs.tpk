@@ -1,6 +1,5 @@
 ---
 title: 'Warhammer 40,000: The Thirst is Real'
-category: blog
 gplus: https://plus.google.com/+RamananS/posts/ji4ZdF1dUpH
 date: 2018-06-23
 tag:

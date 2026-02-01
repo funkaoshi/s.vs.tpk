@@ -1,6 +1,5 @@
 ---
 title: Tau vs. The Death Guard
-category: play-report
 gplus: https://plus.google.com/+RamananS/posts/Kavyvtyaijv
 date: 2017-08-27
 tag:

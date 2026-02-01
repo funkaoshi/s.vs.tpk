@@ -1,6 +1,5 @@
 ---
 title: "<em>Dungeons of Dread</em>"
-category: review
 gplus: https://plus.google.com/110118815125792309582/posts/JiAuL2waXau
 date: 2013-03-21
 tag:

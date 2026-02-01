@@ -1,6 +1,5 @@
 ---
 title: OSRCon 2013
-category: blog
 gplus:
 date: 2013-05-02
 tag:

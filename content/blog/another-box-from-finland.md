@@ -1,6 +1,5 @@
 ---
 title: Another Box from Finland
-category: blog
 gplus:
 date: 2014-12-28
 tag:

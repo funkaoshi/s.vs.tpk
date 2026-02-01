@@ -1,6 +1,5 @@
 ---
 title: The Lonely Fun of Mythic Bastionland
-category: blog
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3mbil5x4ixc2o
 img: "/assets/img/mythic-bastionland-player.jpg"
 date: 2026-01-02

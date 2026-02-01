@@ -1,6 +1,5 @@
 ---
 title: '20 Quick Questions: Rules'
-category: blog
 gplus: https://plus.google.com/u/0/+RamananS/posts/GK9FFa35Nsy
 date: 2014-05-05
 tag:

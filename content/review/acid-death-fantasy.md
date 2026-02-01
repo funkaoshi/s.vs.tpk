@@ -1,6 +1,5 @@
 ---
 title: Acid Death Fantasy
-category: review
 gplus:
 date: 2020-09-24
 tag:

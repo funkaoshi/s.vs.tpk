@@ -1,6 +1,5 @@
 ---
 title: Blood in the Chocolate
-category: review
 gplus: https://plus.google.com/+RamananS/posts/DYHTsCRgeEU?sfc=false
 date: 2017-01-24
 tag:

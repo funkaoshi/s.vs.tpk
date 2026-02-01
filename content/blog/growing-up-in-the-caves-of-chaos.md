@@ -1,6 +1,5 @@
 ---
 title: Ta-Nehisi Coates discusses D&D
-category: blog
 gplus: https://plus.google.com/110118815125792309582/posts/BA3LSB8eXnK
 date: 2013-01-25
 tag:

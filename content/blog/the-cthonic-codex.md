@@ -1,6 +1,5 @@
 ---
 title: The Cthonic Codex
-category: blog
 gplus: https://plus.google.com/+RamananS/posts/gUTviwE9nQF
 date: 2016-02-15
 tag:

@@ -1,6 +1,5 @@
 ---
 title: Microblog
-category: microblog
 gplus:
 date: 2022-05-23
 tag:

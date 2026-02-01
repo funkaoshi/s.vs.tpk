@@ -1,6 +1,5 @@
 ---
 title: Another Bug Hunt
-category: review
 date: 2024-04-29
 tag:
 - mothership

@@ -1,6 +1,5 @@
 ---
 title: Some More Thoughts on Kill Team
-category: review
 date: 2020-02-23
 tag:
 - warhammer

@@ -1,6 +1,5 @@
 ---
 title: Night Witches Review Reprise
-category: review
 gplus: https://plus.google.com/+RamananS/posts/1e79PYizM6V
 date: 2017-03-12
 tag:

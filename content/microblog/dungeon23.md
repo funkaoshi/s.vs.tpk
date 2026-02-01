@@ -1,6 +1,5 @@
 ---
 title:
-category: microblog
 tags:
 date: 2023-01-09
 ---

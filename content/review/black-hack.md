@@ -1,6 +1,5 @@
 ---
 title: Black Hack
-category: review
 date: 2019-04-07
 tag:
 - blackhack

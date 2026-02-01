@@ -1,6 +1,5 @@
 ---
 title: 16 More Encounters for Carcosa
-category: blog
 gplus: https://plus.google.com/110118815125792309582/posts/1bKAfitvfTn
 date: 2013-04-21
 tag:

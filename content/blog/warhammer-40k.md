@@ -1,6 +1,5 @@
 ---
 title: In the Grim Darkness of the Far Future There is Only War
-category: blog
 gplus:
 date: 2017-07-06
 tag:

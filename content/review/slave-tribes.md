@@ -1,6 +1,5 @@
 ---
 title: "<em>Slave Tribes</em>"
-category: review
 date: 2013-02-08
 gplus: https://plus.google.com/110118815125792309582/posts/SmkoLmSWRes
 tag:

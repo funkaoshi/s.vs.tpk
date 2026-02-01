@@ -1,6 +1,5 @@
 ---
 title: Masters of Carcosa - Session 6
-category: blog
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3m7dvok6thk2k
 img: "/assets/img/carcosa-monster.png"
 date: 2025-12-06

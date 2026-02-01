@@ -1,6 +1,5 @@
 ---
 title: 'The RPG Epistles of Paul T: Choosing Left or Right'
-category: blog
 author: Paul T
 date: 2022-04-01
 tag:

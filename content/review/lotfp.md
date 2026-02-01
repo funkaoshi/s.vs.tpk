@@ -1,6 +1,5 @@
 ---
 title: Lamentations of the Flame Princess
-category: review
 gplus: https://plus.google.com/110118815125792309582/posts/LosgGopeGP9
 date: 2013-09-10
 tag:

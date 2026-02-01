@@ -1,6 +1,5 @@
 ---
 title: 'Battle of Bastionland: 40,000'
-category: blog
 date: 2023-04-27
 tag:
 - warhammer

@@ -1,7 +1,6 @@
 ---
 title: Gradient Descent
 date: 2021-08-31
-category: review
 tag:
 - mothership
 - osr

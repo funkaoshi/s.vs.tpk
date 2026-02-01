@@ -1,6 +1,5 @@
 ---
 title: We're playing D&D!
-category: blog
 gplus: https://plus.google.com/110118815125792309582/posts/LYtQ4AXiHXU
 date: 2013-06-03
 tag:

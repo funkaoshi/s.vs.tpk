@@ -1,6 +1,5 @@
 ---
 title: 'The RPG Epistles of Paul T: Quantum Hit Points'
-category: blog
 date: 2023-07-05
 tag:
 - osr

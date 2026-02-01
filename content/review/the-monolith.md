@@ -1,6 +1,5 @@
 ---
 title: "<em>The Monolith from Beyond Space and Time</em>"
-category: review
 gplus: https://plus.google.com/110118815125792309582/posts/6yPEcpW6KTK
 date: 2013-08-22
 tag:

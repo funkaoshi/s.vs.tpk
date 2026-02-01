@@ -1,6 +1,5 @@
 ---
 title: Final Fantasy
-category: microblog
 tags:
 date: 2023-05-02
 ---

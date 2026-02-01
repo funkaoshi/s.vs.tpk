@@ -1,6 +1,5 @@
 ---
 title: The Ramanan Sivaranjan Awards for Excellence in Gaming 2020
-category: blog
 date: 2020-07-29
 tag:
 - osr

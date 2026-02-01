@@ -1,6 +1,5 @@
 ---
 title: Without the Distance of Metaphor or Time
-category: blog
 gplus: https://plus.google.com/+RamananS/posts/Dt79ESPQXaV
 date: 2018-04-08
 tag:

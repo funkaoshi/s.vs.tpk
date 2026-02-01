@@ -1,6 +1,5 @@
 ---
 title: The Kraal
-category: blog
 gplus: https://plus.google.com/110118815125792309582/posts/cbeZWyiogVm
 date: 2013-04-05
 tag:

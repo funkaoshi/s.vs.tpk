@@ -1,6 +1,5 @@
 ---
 title: A Red and Pleasant Land
-category: review
 gplus: https://plus.google.com/+RamananS/posts/JsXf5E1S9C1
 date: 2014-12-30
 tag:

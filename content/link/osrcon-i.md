@@ -1,6 +1,5 @@
 ---
 title: OSRCon 2012
-category: link
 date: 2012-08-09
 tag:
 - toronto

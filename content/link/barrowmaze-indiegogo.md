@@ -1,6 +1,5 @@
 ---
 title: Support Barrowmaze II on Indiegogo
-category: link
 date: 2012-06-11
 tag:
 - megadungeons

@@ -1,6 +1,5 @@
 ---
 title: The Ramanan Sivaranjan Awards for Excellence in Gaming 2019
-category: blog
 date: 2019-08-05
 tag:
 - osr

@@ -1,6 +1,5 @@
 ---
 title: Kickstarter Report Card III
-category: blog
 gplus: https://plus.google.com/+RamananS/posts/9swfMRiGqFW
 date: 2014-01-12
 tag:

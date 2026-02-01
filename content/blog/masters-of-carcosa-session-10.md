@@ -1,6 +1,5 @@
 ---
 title: Masters of Carcosa - Session 10
-category: blog
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3m7ojqvlnbc22
 img:
 date: 2025-12-10

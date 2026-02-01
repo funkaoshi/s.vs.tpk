@@ -1,6 +1,5 @@
 ---
 title: 'Reading the DMG: Watch out for those Charlatans.'
-category: blog
 gplus: https://plus.google.com/110118815125792309582/posts/S6LARmbuS6o
 date: 2012-07-19
 tag:

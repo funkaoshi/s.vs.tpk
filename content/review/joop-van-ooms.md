@@ -1,6 +1,5 @@
 ---
 title: "<em>The Magnificent Joop van Ooms</em>"
-category: review
 date: 2012-10-13
 gplus: https://plus.google.com/110118815125792309582/posts/Y77sYxbKT2y
 tag:

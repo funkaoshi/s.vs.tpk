@@ -1,6 +1,5 @@
 ---
 title: The Hexenbracken
-category: blog
 gplus: https://plus.google.com/110118815125792309582/posts/ayAwWQ81b6E
 date: 2013-03-31
 tag:

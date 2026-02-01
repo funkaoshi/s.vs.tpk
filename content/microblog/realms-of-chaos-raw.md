@@ -1,6 +1,5 @@
 ---
 title: Realms of Chaos RAW
-category: microblog
 date: 2023-04-18
 tag:
 - osr

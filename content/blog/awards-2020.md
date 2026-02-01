@@ -1,6 +1,5 @@
 ---
 title: The Ramanan Sivaranjan Awards for Excellence in Gaming 2021
-category: blog
 date: 2021-08-05
 tag:
 - osr

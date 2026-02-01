@@ -1,7 +1,6 @@
 ---
 title: "<em>F3: Many Gates of Gann</em> and <em>F1: Fane of the Poisoned a Prophecy</em>
   from Chaotic Henchmen"
-category: review
 date: 2012-12-21
 gplus: https://plus.google.com/110118815125792309582/posts/ebacxmMxLTW
 tag:

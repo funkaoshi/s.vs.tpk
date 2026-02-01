@@ -1,6 +1,5 @@
 ---
 title: The Random Dungeon Generator as a Dungeon Map
-category: blog
 date: 2012-05-30
 tag:
 - ad&d

@@ -1,6 +1,5 @@
 ---
 title: Warhammer World and the Foundry
-category: blog
 date: 2023-04-16
 tag:
 - warhammer

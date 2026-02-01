@@ -1,6 +1,5 @@
 ---
 title: VALL3Z GAX
-category: link
 date: 2012-10-04
 tag:
 - art

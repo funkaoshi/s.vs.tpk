@@ -1,6 +1,5 @@
 ---
 title: SPGD Game Design Theory
-category: microblog
 bluesky:
 img:
 tags:

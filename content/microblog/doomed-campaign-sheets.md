@@ -1,6 +1,5 @@
 ---
 title: Doomed Campaign Sheets
-category: microblog
 date: 2023-12-15
 tag:
 - thedoomed

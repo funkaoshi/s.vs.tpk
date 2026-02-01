@@ -1,6 +1,5 @@
 ---
 title: An Adventure
-category: review
 gplus:
 date: 2014-01-20
 tag:

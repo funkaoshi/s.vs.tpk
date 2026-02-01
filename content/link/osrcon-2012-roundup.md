@@ -1,7 +1,6 @@
 ---
 title: OSRCon 2012 Roundup
 date: 2012-08-23
-category: link
 tag:
 - osr
 - toronto

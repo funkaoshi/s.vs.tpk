@@ -1,6 +1,5 @@
 ---
 title: Masters of Carcosa - Session 18
-category: blog
 bluesky:
 img:
 date: 2025-12-18

@@ -1,6 +1,5 @@
 ---
 title: Nate's Elden Ring Review
-category: microblog
 date: 2023-01-16
 tag:
 - videogames

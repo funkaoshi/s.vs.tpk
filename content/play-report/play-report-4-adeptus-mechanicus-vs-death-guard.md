@@ -1,6 +1,5 @@
 ---
 title: Navigator Endogaurd (Adeptus Mechanicus) vs The Death Guard
-category: play-report
 gplus: https://plus.google.com/+RamananS/posts/Era78JsLZAS
 date: 2017-09-16
 tag:

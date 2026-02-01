@@ -1,6 +1,5 @@
 ---
 title: Behind Closed Doors
-category: microblog
 date: 2023-04-16
 tag:
 - blb

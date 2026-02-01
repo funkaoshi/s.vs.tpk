@@ -1,6 +1,5 @@
 ---
 title: Decent into the Vaults of Pahvelorn
-category: play-report
 date: 2012-09-11
 gplus: https://plus.google.com/110118815125792309582/posts/hFoVuEmnJ8B
 tag:

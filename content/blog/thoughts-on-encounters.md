@@ -1,6 +1,5 @@
 ---
 title: More Thoughts on D&D Encounters
-category: blog
 date: 2012-10-10
 gplus: https://plus.google.com/110118815125792309582/posts/6cFjnpNUyh9
 tag:

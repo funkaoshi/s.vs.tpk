@@ -1,6 +1,5 @@
 ---
 title: Have them Act!
-category: blog
 gplus: https://plus.google.com/+RamananS/posts/d5cs8Jd2aen?sfc=false
 date: 2017-01-31
 tag:

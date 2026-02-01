@@ -1,6 +1,5 @@
 ---
 title: On the Blue Mage
-category: link
 date: 2013-02-26
 tag:
 - dnd

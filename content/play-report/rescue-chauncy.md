@@ -1,6 +1,5 @@
 ---
 title: 'Encounters in Carcosa: Hex 1807'
-category: play-report
 date: 2012-11-04
 gplus: https://plus.google.com/110118815125792309582/posts/V9HWjCAPS7W
 tag:

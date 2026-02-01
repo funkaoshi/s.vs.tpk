@@ -1,6 +1,5 @@
 ---
 title: OSCon 5.5
-category: blog
 gplus: https://plus.google.com/u/0/+RamananS/posts/3PZLP4SozQc
 date: 2016-01-17
 tag:

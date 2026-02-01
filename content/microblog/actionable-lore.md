@@ -1,6 +1,5 @@
 ---
 title: Actionable Lore
-category: microblog
 tags:
 date: 2022-07-13
 ---

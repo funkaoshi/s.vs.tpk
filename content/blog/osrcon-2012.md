@@ -1,6 +1,5 @@
 ---
 title: OSRCon 2012
-category: blog
 gplus: https://plus.google.com/110118815125792309582/posts/NtreypKqSTY
 date: 2012-08-14
 tag:

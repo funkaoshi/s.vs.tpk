@@ -1,6 +1,5 @@
 ---
 title: Advice for Running a Hexcrawl, A Decade Too Late
-category: blog
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3mavvo7w3k225
 img: "/assets/img/carcosa-hexkit.jpg"
 date: 2025-12-26

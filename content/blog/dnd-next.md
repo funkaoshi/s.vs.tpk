@@ -1,6 +1,5 @@
 ---
 title: D&D Next
-category: blog
 gplus: https://plus.google.com/110118815125792309582/posts/TBUPSWWJ8qY
 date: 2012-06-10
 tag:

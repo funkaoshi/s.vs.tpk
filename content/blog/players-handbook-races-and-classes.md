@@ -1,6 +1,5 @@
 ---
 title: 'D&D <em>Player''s Handbook</em>: Races and Classes'
-category: blog
 gplus: https://plus.google.com/110118815125792309582/posts/1mW2phfFb4D
 date: 2014-08-17
 tag:

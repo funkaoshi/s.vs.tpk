@@ -1,6 +1,5 @@
 ---
 title: Navigator Endoguard vs The Death Guard
-category: play-report
 gplus: https://plus.google.com/+RamananS/posts/3aCu1JVu5A6
 date: 2017-09-14
 tag:

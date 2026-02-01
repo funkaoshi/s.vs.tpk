@@ -1,6 +1,5 @@
 ---
 title: The Ramanan Sivaranjan Awards for Excellence in Gaming 2023
-category: blog
 date: 2023-08-04
 tag:
 - awards

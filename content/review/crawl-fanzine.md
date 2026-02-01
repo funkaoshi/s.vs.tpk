@@ -1,6 +1,5 @@
 ---
 title: The Inaugural Issue of <em>Crawl!</em>, a Dungeon Crawl Classics Fanzine
-category: review
 date: 2012-05-29
 tag:
 - dccrpg

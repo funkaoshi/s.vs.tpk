@@ -1,6 +1,5 @@
 ---
 title: 'A Red and Pleasant Land: A Players Perspective'
-category: Review
 gplus: https://plus.google.com/+RamananS/posts/9QeENUXHfCi
 date: 2014-12-05
 tag:

@@ -1,6 +1,5 @@
 ---
 title: Chapter Serf
-category: microblog
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3m5xckxspc22n
 img: "/assets/img/chapter-serfs.jpg"
 date: 2025-11-23

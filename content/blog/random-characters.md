@@ -1,6 +1,5 @@
 ---
 title: Random D&D Characters, Huzzah!
-category: blog
 date: 2012-09-17
 gplus: https://plus.google.com/110118815125792309582/posts/4NpeeyQXpUz
 tag:

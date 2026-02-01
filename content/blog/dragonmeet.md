@@ -1,6 +1,5 @@
 ---
 title: Dragonmeet
-category: blog
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3m6ttqwupgc2f
 img: "/assets/img/dragonmeet/break.jpg"
 date: 2025-11-30

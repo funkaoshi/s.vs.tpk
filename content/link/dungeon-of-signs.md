@@ -1,6 +1,5 @@
 ---
 title: Dungeon of Signs
-category: link
 date: 2012-12-01
 tag:
 - osr

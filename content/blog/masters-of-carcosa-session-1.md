@@ -1,6 +1,5 @@
 ---
 title: Masters of Carcosa - Session 1
-category: blog
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3m6xlvq2b5k26
 img: "/assets/img/masters-of-carcosa-map.jpg"
 date: 2025-12-01

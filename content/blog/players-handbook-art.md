@@ -1,6 +1,5 @@
 ---
 title: The Art of the Player's Handbook
-category: blog
 gplus: https://plus.google.com/+RamananS/posts/JWkkqD7PTK7
 date: 2014-08-09
 tag:

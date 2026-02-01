@@ -1,6 +1,5 @@
 ---
 title: "<em>Tales of the Scarecrow</em>"
-category: review
 gplus: https://plus.google.com/u/0/110118815125792309582/posts/N2JF72eU872
 date: 2013-09-05
 tag:

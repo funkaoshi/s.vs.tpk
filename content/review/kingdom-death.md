@@ -1,6 +1,5 @@
 ---
 title: Kingdom Death
-category: review
 gplus:
 date: 2019-04-23
 tag:

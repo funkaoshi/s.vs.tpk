@@ -1,6 +1,5 @@
 ---
 title: Reaction Rolls
-category: microblog
 bluesky:
 img:
 date: 2025-10-06

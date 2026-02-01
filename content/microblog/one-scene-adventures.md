@@ -1,6 +1,5 @@
 ---
 title: One-Scene Adventures
-category: microblog
 tags:
 date: 2022-11-09
 ---

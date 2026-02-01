@@ -1,6 +1,5 @@
 ---
 title: "<em>Better Than Any Man</em>"
-category: review
 gplus: https://plus.google.com/110118815125792309582/posts/ELoTmAoP15F
 date: 2013-07-23
 tag:

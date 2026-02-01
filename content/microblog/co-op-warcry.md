@@ -1,6 +1,5 @@
 ---
 title: Co-op Multiplayer Warcry
-category: microblog
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3m567sgs4qk2h
 img: "/assets/img/warcry-multiplayer.jpg"
 date: 2025-11-09

@@ -1,6 +1,5 @@
 ---
 title: Ascending AC for OD&D
-category: blog
 gplus:
 date: 2014-12-23
 tag:

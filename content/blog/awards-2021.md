@@ -1,6 +1,5 @@
 ---
 title: The Ramanan Sivaranjan Awards for Excellence in Gaming 2022
-category: blog
 date: 2022-08-05
 tag:
 - awards

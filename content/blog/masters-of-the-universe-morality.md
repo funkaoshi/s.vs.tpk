@@ -1,6 +1,5 @@
 ---
 title: Masters of the Universe Morality
-category: blog
 gplus: https://plus.google.com/+RamananS/posts/DaZH6GGRfQs
 date: 2015-10-13
 tag:

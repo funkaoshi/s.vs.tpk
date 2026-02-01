@@ -1,6 +1,5 @@
 ---
 title: Why Are We Together
-category: blog
 gplus: https://plus.google.com/+RamananS/posts/9mdJGKYexhT
 date: 2015-02-14
 tag:

@@ -1,6 +1,5 @@
 ---
 title: Death, Dying, and the Hulkamaniac Rule
-category: blog
 bluesky: https://bsky.app/profile/did:plc:5vapg2uipmfhjihfzb4pob3k/post/3m22wwau7pk2p
 img:
 date: 2025-09-30

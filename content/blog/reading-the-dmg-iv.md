@@ -1,6 +1,5 @@
 ---
 title: 'Reading the DMG: Time is like a clock in the heart.'
-category: blog
 gplus: https://plus.google.com/110118815125792309582/posts/CnMhH8PikiA
 date: 2013-04-02
 tag:

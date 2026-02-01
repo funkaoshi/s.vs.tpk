@@ -1,6 +1,5 @@
 ---
 title: Constant Downpour Remastered
-category: review
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3lifox5iv7s2y
 img: "/assets/img/constant-downpour.png"
 date: 2025-02-17

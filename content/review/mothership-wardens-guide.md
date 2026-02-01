@@ -1,6 +1,5 @@
 ---
 title: Mothership Wardens Guide
-category: review
 date: 2022-11-28
 tag:
 - osr

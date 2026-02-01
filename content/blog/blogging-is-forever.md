@@ -1,6 +1,5 @@
 ---
 title: Blogging is Forever
-category: blog
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3lhaknsvvek2p
 img:
 date: 2025-02-02

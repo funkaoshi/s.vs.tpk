@@ -1,6 +1,5 @@
 ---
 title: Free RPG Day 2012
-category: blog
 gplus: https://plus.google.com/110118815125792309582/posts/AEpbb5f7cdp
 date: 2012-06-17
 tag:

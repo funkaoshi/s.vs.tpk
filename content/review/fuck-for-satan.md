@@ -1,6 +1,5 @@
 ---
 title: "<em>Fuck For Satan</em>"
-category: review
 gplus: https://plus.google.com/110118815125792309582/posts/NzLZ3zWt3Xe
 date: 2013-08-31
 tag:

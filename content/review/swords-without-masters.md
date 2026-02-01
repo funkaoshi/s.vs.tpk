@@ -1,6 +1,5 @@
 ---
 title: Swords Without Masters
-category: review
 gplus: https://plus.google.com/+RamananS/posts/Rir3aLZpUBq
 date: 2017-03-16
 tag:

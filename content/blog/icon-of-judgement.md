@@ -1,6 +1,5 @@
 ---
 title: The Icon of Judgement
-category: blog
 gplus: https://plus.google.com/+RamananS/posts/HpWL646Y3yT
 date: 2014-01-03
 tag:

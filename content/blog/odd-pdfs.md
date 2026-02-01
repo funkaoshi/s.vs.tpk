@@ -1,6 +1,5 @@
 ---
 title: OD&D is available as PDFs
-category: blog
 gplus: https://plus.google.com/+RamananS/posts/5DxSmebuiJ8
 date: 2016-01-26
 tag:

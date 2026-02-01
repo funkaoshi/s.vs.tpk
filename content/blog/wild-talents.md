@@ -1,6 +1,5 @@
 ---
 title: Wild Talents
-category: blog
 gplus: https://plus.google.com/110118815125792309582/posts/FLfxRDhL4Rw
 date: 2013-02-28
 tag:

@@ -1,6 +1,5 @@
 ---
 title: Appendix N Adventure Toolkits (DCC RPG Modules)
-category: link
 gplus: https://plus.google.com/110118815125792309582/posts/MKT9caLsCQ2
 date: 2012-06-28
 tag:

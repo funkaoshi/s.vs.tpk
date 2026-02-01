@@ -1,6 +1,5 @@
 ---
 title: The Origins of <em>Carcosa</em>
-category: link
 date: 2012-07-09
 tag:
 - carcosa

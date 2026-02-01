@@ -1,6 +1,5 @@
 ---
 title: 'Demon Bone Sarcophagus: Flamethrower Skeleton'
-category: microblog
 date: 2023-03-19
 tag:
 - dbs

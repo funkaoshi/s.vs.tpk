@@ -1,6 +1,5 @@
 ---
 title: Nan's Bag of Sweets
-category: blog
 gplus: https://plus.google.com/+RamananS/posts/5UocEQdCWbk
 date: 2015-02-23
 tag:

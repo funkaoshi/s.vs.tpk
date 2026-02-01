@@ -1,6 +1,5 @@
 ---
 title: Scribbling
-category: blog
 gplus:
 date: 2021-09-08
 tag:

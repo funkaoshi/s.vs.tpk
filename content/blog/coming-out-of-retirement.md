@@ -1,6 +1,5 @@
 ---
 title: Coming Out of Retirement
-category: blog
 gplus:
 date: 2014-11-18
 tag:

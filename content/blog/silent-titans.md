@@ -1,6 +1,5 @@
 ---
 title: Silent Titans - Mystery
-category: blog
 date: 2019-04-11
 tag:
 - osr

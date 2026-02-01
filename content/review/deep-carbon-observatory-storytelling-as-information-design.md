@@ -1,6 +1,5 @@
 ---
 title: 'Deep Carbon Observatory Review Reprise: Storytelling as Information Design'
-category: review
 date: 2021-09-05
 tag:
 - dco

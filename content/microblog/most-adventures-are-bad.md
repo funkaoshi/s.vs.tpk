@@ -1,6 +1,5 @@
 ---
 title: Most Adventures are Bad
-category: microblog
 bluesky: https://bsky.app/profile/did:plc:5vapg2uipmfhjihfzb4pob3k/post/3llbtanrgfs22
 img:
 date: 2025-03-26

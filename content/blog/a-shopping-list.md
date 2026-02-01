@@ -1,6 +1,5 @@
 ---
 title: A Modicum of Self Control
-category: blog
 gplus: http://save.vs.totalpartykill.ca/blog/a-shopping-list/
 date: 2012-07-30
 tag:

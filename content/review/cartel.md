@@ -1,6 +1,5 @@
 ---
 title: Cartel
-category: review
 gplus: https://plus.google.com/+RamananS/posts/Hm1BbfTBxqJ
 date: 2018-03-05
 tag:

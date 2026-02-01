@@ -1,6 +1,5 @@
 ---
 title: "<em>Carcosa's</em> vile black magic"
-category: review
 slug: carcosa-ii
 gplus: https://plus.google.com/110118815125792309582/posts/eTSbJcKmFAY
 date: 2012-07-03

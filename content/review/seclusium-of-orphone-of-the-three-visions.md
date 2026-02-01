@@ -1,6 +1,5 @@
 ---
 title: Seclusium of Orphone of the Three Visions
-category: review
 gplus: https://plus.google.com/110118815125792309582/posts/fY6FL4qn5Wi
 date: 2013-08-08
 tag:

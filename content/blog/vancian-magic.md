@@ -1,6 +1,5 @@
 ---
 title: Gorgonmilk's Vancian Magic Supplement
-category: blog
 gplus: https://plus.google.com/110118815125792309582/posts/LyFaUTdnjxj
 date: 2013-03-30
 tag:

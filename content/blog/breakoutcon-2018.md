@@ -1,6 +1,5 @@
 ---
 title: BreakoutCon 2018
-category: blog
 gplus:
 date: 2018-03-20
 tag:

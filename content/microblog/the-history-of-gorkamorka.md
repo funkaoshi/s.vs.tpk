@@ -1,6 +1,5 @@
 ---
 title: the history of gorkamorka
-category: microblog
 date: 2023-01-12
 tag:
 - minis

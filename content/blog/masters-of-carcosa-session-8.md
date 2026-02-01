@@ -1,6 +1,5 @@
 ---
 title: Masters of Carcosa - Session 8
-category: blog
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3m7jc3gtx7c2k
 img: "/assets/img/masters-of-carcosa-caverns-to-castle.jpg"
 date: 2025-12-08

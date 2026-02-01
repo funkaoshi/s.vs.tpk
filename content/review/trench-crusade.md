@@ -1,6 +1,5 @@
 ---
 title: Trench Crusade
-category: review
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3m6bggspv3k2i
 img: "/assets/img/trench-crusade-2.jpg"
 date: 2025-11-22

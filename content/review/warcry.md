@@ -1,6 +1,5 @@
 ---
 title: Warcry
-category: review
 date: 2020-03-26
 tag:
 - warhammer

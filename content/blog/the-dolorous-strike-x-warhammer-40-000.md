@@ -1,6 +1,5 @@
 ---
 title: "<em>The Dolorous Stroke</em> x Warhammer 40,000"
-category: blog
 gplus:
 date: 2018-08-24
 tag:

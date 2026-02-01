@@ -1,6 +1,5 @@
 ---
 title: Night Witches
-category: review
 gplus: https://plus.google.com/+RamananS/posts/bJ2Hm129iog
 date: 2015-03-27
 tag:

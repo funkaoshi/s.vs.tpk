@@ -1,6 +1,5 @@
 ---
 title: Into the Odd
-category: microblog
 tags:
 date: 2022-10-10
 ---

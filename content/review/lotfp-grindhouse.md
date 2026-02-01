@@ -1,7 +1,6 @@
 ---
 title: "<em>Lamentations of the Flame Princess: Weird Fantasy Roleplaying (Grindhouse
   Edition)</em>"
-category: review
 gplus: https://plus.google.com/110118815125792309582/posts/GtE4FsZE3PG
 date: 2012-06-09
 tag:

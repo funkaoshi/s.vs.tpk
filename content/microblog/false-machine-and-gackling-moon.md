@@ -1,6 +1,5 @@
 ---
 title: False Machine and Gackling Moon
-category: microblog
 date: 2023-12-04
 tag:
 - osr

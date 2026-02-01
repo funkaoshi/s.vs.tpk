@@ -1,6 +1,5 @@
 ---
 title: MAX HD-10V Swivel Booklet Stapler
-category: blog
 gplus: https://plus.google.com/110118815125792309582/posts/JCVvgvhQDjH
 date: 2013-05-17
 tag:

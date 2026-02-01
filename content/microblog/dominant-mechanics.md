@@ -1,6 +1,5 @@
 ---
 title: Dominant Mechanics
-category: microblog
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3mcufe4x7ps2n
 img:
 date: 2026-01-20

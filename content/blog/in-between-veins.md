@@ -1,6 +1,5 @@
 ---
 title: In Between Veins
-category: blog
 tags:
 gplus:
 - lotfp

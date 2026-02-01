@@ -1,6 +1,5 @@
 ---
 title: Mordheim 2024
-category: blog
 date: 2024-03-02
 tag:
 - warhammer

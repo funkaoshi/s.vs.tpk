@@ -1,6 +1,5 @@
 ---
 title: Le Chaudron Chromatique
-category: link
 gplus:
 date: 2014-10-21
 tag:

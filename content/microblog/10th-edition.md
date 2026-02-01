@@ -1,6 +1,5 @@
 ---
 title: 10th Edition
-category: microblog
 date: 2023-03-23
 tag:
 - warhammer

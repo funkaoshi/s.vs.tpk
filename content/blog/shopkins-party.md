@@ -1,6 +1,5 @@
 ---
 title: Shopkins Party
-category: blog
 gplus: https://plus.google.com/+RamananS/posts/Cv34cRyEjes
 date: 2017-04-13
 tag:

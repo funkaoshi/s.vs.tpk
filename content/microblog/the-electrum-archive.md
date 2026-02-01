@@ -1,6 +1,5 @@
 ---
 title: The Electrum Archive
-category: microblog
 bluesky:
 img: "/assets/img/the-electrum-archive-breakout-con.jpg"
 date: 2025-03-17

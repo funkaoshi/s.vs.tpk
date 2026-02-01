@@ -1,6 +1,5 @@
 ---
 title: Three Layers of Rules
-category: microblog
 date: 2022-06-04
 tag:
 - design

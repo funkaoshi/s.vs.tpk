@@ -1,6 +1,5 @@
 ---
 title: One Page Dungeon
-category: blog
 gplus:
 date: 2014-03-31
 tag:

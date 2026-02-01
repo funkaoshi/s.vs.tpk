@@ -1,6 +1,5 @@
 ---
 title: Untimately
-category: link
 date: 2012-07-12
 tag:
 - osr

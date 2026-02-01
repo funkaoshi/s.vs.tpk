@@ -1,6 +1,5 @@
 ---
 title: 'Baroviania: Session 7'
-category: play-report
 date: 2012-08-26
 gplus: https://plus.google.com/110118815125792309582/posts/DfTEhNztVcw
 tag:

@@ -1,6 +1,5 @@
 ---
 title: Satire Without Purpose Will Wander In Dark Places
-category: blog
 date: 2023-06-07
 tag:
 - warhammer

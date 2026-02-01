@@ -1,6 +1,5 @@
 ---
 title: Dragon's Crown
-category: blog
 gplus: https://plus.google.com/110118815125792309582/posts/MZxf8BsDSTP
 date: 2013-01-12
 tag:

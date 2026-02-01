@@ -1,6 +1,5 @@
 ---
 title: Paradigms and Gaming
-category: blog
 gplus:
 date: 2022-03-05
 tag:

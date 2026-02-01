@@ -1,6 +1,5 @@
 ---
 title: Google+
-category: meta
 date: 2013-01-15
 tag:
 - gplus

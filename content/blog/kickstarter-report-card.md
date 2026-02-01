@@ -1,6 +1,5 @@
 ---
 title: Kickstarter Report Card
-category: blog
 gplus: https://plus.google.com/110118815125792309582/posts/7Baf9kRsF5i
 date: 2013-03-26
 tag:

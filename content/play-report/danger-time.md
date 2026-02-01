@@ -1,6 +1,5 @@
 ---
 title: Danger Time
-category: play-report
 gplus: https://plus.google.com/+RamananS/posts/TQLBCDmb5mY
 date: 2013-12-09
 tag:

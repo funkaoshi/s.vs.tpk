@@ -1,6 +1,5 @@
 ---
 title: "<em>Isle of the Unknown</em>"
-category: review
 gplus: https://plus.google.com/+RamananS/posts/AHh7uz2vHCb
 date: 2013-12-21
 tag:

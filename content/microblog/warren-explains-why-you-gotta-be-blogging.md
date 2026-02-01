@@ -1,6 +1,5 @@
 ---
 title: Warren Explains Why You Gotta Be Blogging
-category: microblog
 date: 2022-11-07
 tag:
 - osr

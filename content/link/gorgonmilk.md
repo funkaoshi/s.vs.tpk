@@ -1,6 +1,5 @@
 ---
 title: Gorgonmilk
-category: link
 date: 2013-02-28
 gplus: https://plus.google.com/110118815125792309582/posts/RYHJumMjgbD
 tag:

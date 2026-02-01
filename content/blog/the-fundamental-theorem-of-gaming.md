@@ -1,6 +1,5 @@
 ---
 title: "“Weekly” Gaming"
-category: blog
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3mayr6m5i2k2v
 img: "/assets/img/g-plus-pin.jpg"
 date: 2025-12-27

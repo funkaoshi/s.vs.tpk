@@ -1,6 +1,5 @@
 ---
 title: Negative Space Reprise
-category: blog
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3lcne3nlkyk2g
 date: 2024-11-09
 tag:

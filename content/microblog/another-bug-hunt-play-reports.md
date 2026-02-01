@@ -1,6 +1,5 @@
 ---
 title: Another Bug Hunt Play Reports
-category: microblog
 date: 2024-05-11
 tag:
 - mothership

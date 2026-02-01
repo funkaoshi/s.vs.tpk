@@ -1,6 +1,5 @@
 ---
 title: Encounter Tables
-category: microblog
 tags:
 date: 2022-07-27
 ---

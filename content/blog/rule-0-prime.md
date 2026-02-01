@@ -1,6 +1,5 @@
 ---
 title: 'Rule 0'': don''t be an asshole'
-category: blog
 gplus: https://plus.google.com/110118815125792309582/posts/XtRVJPa5Bfb
 date: 2012-06-08
 tag:

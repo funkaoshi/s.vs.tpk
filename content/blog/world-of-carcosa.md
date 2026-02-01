@@ -1,6 +1,5 @@
 ---
 title: World of Carcosa
-category: blog
 gplus: https://plus.google.com/+RamananS/posts/FDyv29eUgTt
 date: 2017-03-25
 tag:

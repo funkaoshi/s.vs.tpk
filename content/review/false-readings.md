@@ -1,6 +1,5 @@
 ---
 title: False Readings
-category: review
 gplus: https://plus.google.com/u/0/+RamananS/posts/P2kZwyn1iDq
 date: 2015-12-05
 tag:

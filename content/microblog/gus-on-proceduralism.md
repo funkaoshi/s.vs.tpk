@@ -1,6 +1,5 @@
 ---
 title: Gus on Proceduralism
-category: microblog
 date: 2022-06-16
 tag:
 - osr

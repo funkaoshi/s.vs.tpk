@@ -1,7 +1,6 @@
 ---
 title: Gangs of Titan City
 date: 2023-04-16
-category: microblog
 tag:
 - necromunda
 - warhammer

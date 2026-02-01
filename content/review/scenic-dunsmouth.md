@@ -1,6 +1,5 @@
 ---
 title: "<em>Scenic Dunnsmouth</em>"
-category: review
 gplus: https://plus.google.com/+RamananS/posts/SrWc8ZDU9nY
 date: 2014-03-22
 tag:

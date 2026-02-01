@@ -1,6 +1,5 @@
 ---
 title: Demon Bone Sarcophagus is Out
-category: microblog
 date: 2022-10-11
 tag:
 - osr

@@ -1,6 +1,5 @@
 ---
 title: Getting Started with OD&D
-category: microblog
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3llm4z5o77c24
 img:
 date: 2025-03-30

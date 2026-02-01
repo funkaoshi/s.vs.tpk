@@ -1,6 +1,5 @@
 ---
 title: A Hazard Die for Mothership
-category: blog
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3llmi5abclk2v
 img: "/assets/img/mothership-hazard-die.png"
 date: 2025-03-30

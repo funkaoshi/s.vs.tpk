@@ -1,6 +1,5 @@
 ---
 title: Kill Team Commanders
-category: review
 gplus: https://plus.google.com/+RamananS/posts/aJw7opViMBi
 date: 2018-10-21
 tag:

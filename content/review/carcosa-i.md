@@ -1,6 +1,5 @@
 ---
 title: The Mysterious <em>Carcosa</em>
-category: review
 gplus: https://plus.google.com/110118815125792309582/posts/588LLJJ4iBC
 date: 2012-06-24
 tag:

@@ -1,6 +1,5 @@
 ---
 title: Song of Blades and Heroes
-category: review
 gplus:
 date: 2020-09-20
 tag:

@@ -1,7 +1,6 @@
 ---
 title: 'Reading the DMG: On Thieves'
 date: 2012-08-25
-category: blog
 gplus: https://plus.google.com/110118815125792309582/posts/2fR4YT7tTsd
 tag:
 - readingthedmg

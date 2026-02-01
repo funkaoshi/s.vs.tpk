@@ -1,6 +1,5 @@
 ---
 title: Rune Knights for Baroviania
-category: blog
 gplus: https://plus.google.com/110118815125792309582/posts/j2pdxZ4dbou
 date: 2012-08-18
 tag:

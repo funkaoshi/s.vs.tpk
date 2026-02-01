@@ -1,6 +1,5 @@
 ---
 title: Total Party Kill at D&D Encounters
-category: play-report
 gplus: https://plus.google.com/110118815125792309582/posts/GukK4Dm2p6x
 date: 2012-06-06
 tag:

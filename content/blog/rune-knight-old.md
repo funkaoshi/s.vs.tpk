@@ -1,6 +1,5 @@
 ---
 title: Rune Knights for Baroviania (Old)
-category: blog
 date: 2012-08-12
 tag:
 - dnd

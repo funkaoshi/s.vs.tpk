@@ -1,6 +1,5 @@
 ---
 title: The Ramanan Sivaranjan Awards for Excellence in Gaming 2018
-category: blog
 gplus: https://plus.google.com/+RamananS/posts/diQ2vhp5rGM
 date: 2018-08-01
 tag:

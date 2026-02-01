@@ -1,6 +1,5 @@
 ---
 title: Broodmother Skyfortress
-category: review
 gplus: https://plus.google.com/+RamananS/posts/hhhDUXPv9eP
 date: 2016-12-30
 tag:

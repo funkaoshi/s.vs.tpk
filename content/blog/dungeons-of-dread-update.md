@@ -1,6 +1,5 @@
 ---
 title: Dungeons of Dread Update
-category: blog
 gplus: https://plus.google.com/110118815125792309582/posts/Bn6KYbSAEER
 date: 2013-05-06
 tag:

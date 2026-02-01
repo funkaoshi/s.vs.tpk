@@ -1,6 +1,5 @@
 ---
 title: Ross Rifles
-category: review
 gplus: https://plus.google.com/+RamananS/posts/bVbwaswYfTY
 date: 2018-03-18
 tag:

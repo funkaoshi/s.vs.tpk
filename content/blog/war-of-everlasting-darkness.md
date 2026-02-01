@@ -1,6 +1,5 @@
 ---
 title: 'D&D Encounters: War of Everlasting Darkness'
-category: blog
 date: 2013-01-21
 gplus: https://plus.google.com/110118815125792309582/posts/AN96MfjGk2L
 tag:

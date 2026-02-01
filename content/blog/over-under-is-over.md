@@ -1,6 +1,5 @@
 ---
 title: Over/Under is Over
-category: blog
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3m5r25b3twk2y
 img: "/assets/img/over-under-chat.png"
 date: 2025-11-16

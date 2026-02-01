@@ -1,6 +1,5 @@
 ---
 title: The New Novelty
-category: microblog
 bluesky:
 img:
 tags:

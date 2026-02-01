@@ -1,6 +1,5 @@
 ---
 title: Masters of Carcosa - Session 12
-category: blog
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3m7tovq4ve22d
 img: "/assets/img/masters-of-carcosa-bone-man.png"
 date: 2025-12-12

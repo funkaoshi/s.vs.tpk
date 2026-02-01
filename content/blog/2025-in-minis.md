@@ -1,6 +1,5 @@
 ---
 title: 2025 in Minis
-category: blog
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3mbcj5dagd22b
 img:
 date: 2025-12-31

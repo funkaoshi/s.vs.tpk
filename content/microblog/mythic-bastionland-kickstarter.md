@@ -1,6 +1,5 @@
 ---
 title: Mythic Bastionland Kickstarter
-category: microblog
 date: 2023-12-06
 tag:
 - bastionland

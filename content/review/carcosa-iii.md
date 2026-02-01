@@ -1,6 +1,5 @@
 ---
 title: The monsters of <em>Carcosa</em>
-category: review
 slug: carcosa-iii
 gplus: https://plus.google.com/110118815125792309582/posts/CKnU7Duggah
 date: 2012-07-09
