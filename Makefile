@@ -6,12 +6,13 @@ build:
 serve:
 	hugo server -D
 
+deploy-staging:
+	rsync -avz --delete public/ ramanan@funkaoshi.com:/home/ramanan/beta.save.vs.totalpartykill.ca/
+	ssh ramanan@funkaoshi.com chmod 644 beta.save.vs.totalpartykill.ca/grab-bag/synthexia/synthexia-header.gif
+
+
 deploy:
-	rsync -avz --delete --exclude=Makefile --exclude=README.md \
-	      --exclude .gitignore --exclude=.git --exclude=new_post_template.md \
-	      --exclude new.rb --exclude=migrate_to_hugo.rb \
-	      public/ \
-	      ramanan@funkaoshi.com:/home/ramanan/save.vs.totalpartykill.ca/
+	rsync -avz --delete public/ ramanan@funkaoshi.com:/home/ramanan/save.vs.totalpartykill.ca/
 	ssh ramanan@funkaoshi.com chmod 644 save.vs.totalpartykill.ca/grab-bag/synthexia/synthexia-header.gif
 
 clean:

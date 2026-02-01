@@ -1,4 +1,5 @@
 {{ define "main" }}
+<nav class='archive'>
 <h1>{{ .Title }}</h1>
 
 {{- $posts := where .Pages "Kind" "page" }}
@@ -15,4 +16,5 @@
   {{- end }}
 </ul>
 {{- end }}
+</nav>
 {{ end }}
