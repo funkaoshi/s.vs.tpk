@@ -1,0 +1,57 @@
+---
+title: The Ramanan Sivaranjan Awards for Excellence in Gaming 2020
+category: blog
+date: 2020-07-29
+tag:
+- osr
+- dnd
+- awards
+- pbta
+---
+Normally I start off with some jab at the Ennies, but this year is too garbage to take cheap shots at anyone, least of all the Teen Choice Awards of the RPG scene. No, we should be positive and celebrate when we can. These are dark times.
+
+[The Ramanan Sivaranjan Awards for Excellence in Gaming][awards] exist to highlight truly standout RPG books. Each year it is a battle to whittle down my long list of books to a short list, and that short list down to the 3 books that will claim the accolades and fame. These choices are never easy. The arguments I have with myself are fierce. Still, this work must be done, because for reasons I can't remember anymore I decided I'd only call out 3 books each year.
+
+The books in contention arrived at my doorstep, or digitally in my inbox, during 2019. Before the Pandemic. A life time ago! Other than that it's really the Wild West with these awards. Will the categories be the same as last year? Read on to find out!
+
+
+### Best One Page Dungeons Collected into a Fancy Book: [Trilemma Adventure Compendium][tac] by Michael Prescott.
+
+![Awards 2020 Tilemma](/assets/img/awards-2020-tilemma.png)
+
+Is it appropriate to give an award to someone I play D&D with here in Toronto? Of course it is: this book is great.[^1] Michael has collected all the one page dungeons he has made over the years—the ones with the cool isometric maps—redone the layout to make them all the more wonderful, and thrown in a bunch of extra tables and setting material and monsters and so much more to round out what would already have been an excellent book. This thing is dense and full of adventure. Great for campaigns or gaming emergencies!
+
+
+### Best Settings and Adventure: Patrick Stuart and Dirk Detweiler Leichty for [Silent Titans][st] (with layout by Christian Kessler and editing by Fiona Maeve Geist)
+
+![Awards 2020 Silent Titans](/assets/img/awards-2020-silent-titans.png)
+
+Silent Titans is really quite incredible. Patrick's writing, Dirk's art, and Christian jamming the art and writing together have resulted in a really stunning book: pretty enough for a coffee table! The world Patrick describes and Dirk illustrates in his abstract style is so thoroughly weird and unique. I was worried it was perhaps too weird: how do you even run this thing? But no, that was a foolish concern! I've been running this adventure straight from the book! It's worked out great. The world we were promised. 
+
+### The Ramanan Sivaranjan Excellence in Gaming Best God Damn Books of 2019: [Zombie World][zw-game] by Brendan Conway and Mark Diaz Truman
+
+![Awards 2020 Zombie World](/assets/img/awards-2020-zombie-world.png)
+
+It had to be Zombie World. I love this game! I've been obsessed with it for ages now. [Zombie World][zw] is not really a book, I suppose. Like a game from days of yore, it came in a box with cards and markers and play mats. No matter! Zombie World is such a simple and well executed game. At its core it's just another Powered by the Apocalypse game, but somehow all the bits and bobs that make the game come together so perfectly. It's the most OSR Powered by the Apocalypse game. You heard it here first! I've ran it a handful of times and it was so effortless and enjoyable. Zombie World is the game you should all be playing. Yes, you!
+
+### Honourable Mentions
+
+All my love to [Mork Borg][mb] by Pelle Nilsson and Johan Nohr; [Girl Underground][gu] by Lauren McManamon and Jesse Ross; Dirk's Mystery Zine (that would  became [Super Blood Harvest][sbh]) by Dirk Detweiler Leichty; [The Demon Collective Volume 1][dc] by David Shugars, Camilla Greer, Comrade Pollux, and Mabel Harper and [Fungi of the Far Realms][fungi] Alex Clements and Shuyi Zhang. Mork Borg has a special place in my heart for being such a wonderful OSR throwback, but with some fucking blinding and beautiful graphic design.
+
+I fought the urge to give all the awards to [Warcry][]. Games Workshop didn't disappoint. Chef's Kiss Emoji. Painting miniatures is keeping me sane while the world implodes.
+
+
+[^1]: I'm not sure you will ever get impartial judging with these awards. Is that something people even want? I assume not. We already have the Ennies where we decide awards using the power of aggregation.
+
+
+[awards]: /awards/
+[zw]: http://save.vs.totalpartykill.ca/review/zombie-world/
+[zw-game]: https://www.magpiegames.com/product/zombie-world-full-set/
+[st]: https://shop.swordfishislands.com/silent-titans/
+[tac]: https://store.trilemma.com
+[mb]: https://morkborg.com/
+[gu]: https://girlunderground.org
+[sbh]: https://shop.swordfishislands.com/super-blood-harvest/
+[dc]: https://gmdk.itch.io/the-demon-collective-vol-1
+[fungi]: https://melsonian-arts-council.itch.io/fungi-of-the-far-realms
+[warcry]: /review/warcry/

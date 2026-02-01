@@ -1,0 +1,33 @@
+/*--------------------------------------PRINTING*/
+
+body
+    {width:210mm;
+	max-width:100%;
+	font-size:100%;
+    margin:0;
+	animation:none;}
+
+.filters,
+#cancel
+    {display:none;}
+
+#spells
+	{overflow:auto;
+	padding:0;
+	margin:2rem 0 0;}
+
+#spells > li
+	{width:calc(100% - 2.4rem);
+	page-break-inside:avoid;}
+
+#spells > li:nth-of-type(odd)
+	{background:#fff;}
+
+#spells .spellinfo
+	{position:static;
+	height:auto;
+	width:auto;
+	overflow:hidden;}
+
+#spells .spellinfo dd
+	{margin-left:0;}

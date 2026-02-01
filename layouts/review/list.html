@@ -1,0 +1,18 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+
+{{- $posts := where .Pages "Kind" "page" }}
+{{- $postsByYear := $posts.GroupByDate "2006" }}
+
+{{- range $postsByYear }}
+<h2>{{ .Key }} <small>{{ len .Pages }} posts</small></h2>
+<ul>
+  {{- range .Pages }}
+    <li>
+      <a href="{{ .Permalink }}">{{ .Title | safeHTML }}</a>
+      <small>{{ .Date.Format "2006-01-02" }}</small>
+    </li>
+  {{- end }}
+</ul>
+{{- end }}
+{{ end }}

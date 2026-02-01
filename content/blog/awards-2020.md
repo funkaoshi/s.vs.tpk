@@ -1,0 +1,50 @@
+---
+title: The Ramanan Sivaranjan Awards for Excellence in Gaming 2021
+category: blog
+date: 2021-08-05
+tag:
+- osr
+- dnd
+- awards
+- mothership
+- bastionland
+- uvg
+---
+The Ennies are in September? I need to remember to not set my clock to the Teen Choice Awards of the RPG scene. Fear not, the awards you care about are beholden to no gaming convention, large or small. 2021 zooms by and was honestly kind of a garbage year as well. These are still dark times, but perhaps a little brighter, thanks to the power of science at the very least. And certainly in terms of RPG books 2021 is shaping up to be another good year. But I'm getting ahead of myself. 
+
+[The Ramanan Sivaranjan Awards for Excellence in Gaming][awards] are here to make sure we stop and take notice of those books that were published so long ago you might ask yourself, "Why is Ramanan talking about them now?" Each year I create my short list of contenders, the books I think stood out over the entirety of the *previous* calendar year. Then I argue with the selection committee for months about which 3 books are those most notable in a field where there are many notable books. There aren't many rules for these awards, but if there is one, it's that there can only be 3 books.
+
+### Best Game: [Electric Bastionland][bastionland] by Chris McDowall and Alec Sorenson.
+
+![Awards 2021 Electric Bastionland](/assets/img/awards-2021-bastionland.png)
+
+“Players don’t need to read the rules if they don’t want to. They are simple enough to be learned during play.” Chris McDowall gets right to the heart of it with his followup to Into the Odd. Electric Bastionland is minimalist and terse. D&D stripped to the bone. The game is described in a handful of pages. The rest of the book is setting by way of backgrounds. They are funny and flavourful. The book concludes with advice for running the game: equally well done. The sort of gaming advice you can pick up and take with you elsewhere. Direct and to the point. Pragmatic. It's quite impressive. The book like the game is beautiful. Alec Sorenson has done an incredible job bringing the setting to life.
+
+### Best Setting Book: [Ultraviolet Grasslands and the Black City][uvg] by Luka Rejec.
+
+![Awards 2021 UVG](/assets/img/awards-2021-uvg.png)
+
+I was a member of Luka's Patreon at its inception. He would post his art on G+ and I liked looking at all his drawings so it seemed like a natural thing to do. He would mail out updates to his setting, which I might skim, but would mostly file away to read later. Except that later never came until the book arrived at my door. What a wonderful and imaginative setting. I feel like you can flip to any random page and be presented with some amazing science-fantasy. Like all good OSR visionaries, Luka did all the writing, art and design for the book. Incredible, right? 
+
+### The Ramanan Sivaranjan Excellence in Gaming Best God Damn Books of 2020: [Gradient Descent][gd] by Luke Gearing, Nick Tofanni,  Jarrett Crader, and Sean McCoy.
+
+![Awards 2021 UVG](/assets/img/awards-2021-gradient-descent.png)
+
+I am in the middle of writing a review of this adventure. I ran it the moment it came out, and again as part of a longer campaign. In a year when I was so demotivated when it came to tabletop gaming, Gradient Descent got me out of my rut, excited to play, and then facilitated my playing by making an adventure that was so simple to run. The braintrust at Mothership HQ asks the question, "Can you fit a megadungeon in a small zine?" Yes, apparently you can. Luke Gearing has delivered the goods. Sean McCoy has done a fantastic job of presenting such a complex space in a way that you can run straight from the zine. Really strong graphic and information design continues to be the most standout feature of the Mothership line.  Jarrett Crader did the editing on the book, I assume no small feat given how dense the book is. Finally Nick Tofani's art is wonderfully moody, often creepy. A perfect fit for this module, I would share it with my players often. Gradient Descent is the good stuff.
+
+### Honourable Mentions
+
+Lots of love to [Prison of the Hated Pretender][prison] by Gus L; [Pound of Flesh][pof] by Sean McCoy, Donn Stroud, and Luke Gearing; [Ordure Fantasy][ordure] by Michael Raston; [Acid Death Fantasy][adf] also by Luke Gearing (WTF); [Stygian Library Remastered][stygian] by Emmy Allen; [Sunken][] by Mike Martens; and [Lorn Song of the Bachelor][lorn] by Zedeck Siew. Prison of the Hated Pretender is the best introductory adventure to OSR play, and I was happy to see it revised and updated. Gus has been releasing modules at a real tear in 2021, and I'm excited to see what he puts out next.
+
+
+[awards]: /awards/
+[bastionland]: https://www.bastionland.com/
+[uvg]: https://www.bastionland.com/
+[gd]: https://shop.tuesdayknightgames.com/collections/mothership/products/gradient-descent
+[prison]: https://www.drivethrurpg.com/product/333389/Prison-of-the-Hated-Pretender
+[pof]: https://shop.tuesdayknightgames.com/products/a-pound-of-flesh
+[ordure]: https://www.drivethrurpg.com/product/324369/Ordure-Fantasy
+[adf]: https://www.melsonia.com/acid-death-fantasy-264-p.asp
+[stygian]: https://soulmuppet-store.co.uk/products/the-stygian-library
+[sunken]: https://www.drivethrurpg.com/product/324352/Sunken-An-RPG-of-Nautical-Horror
+[lorn]: https://www.exaltedfuneral.com/products/lorn-song-of-the-bachelor

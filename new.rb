@@ -1,19 +1,19 @@
 #!/usr/bin/env ruby
 
 # *********************************************
-# Jekyll Post Generator Awesomeness
-# by Cody Krieger (http://codykrieger.com),
-# updated by Ramanan Sivaranjan
+# Hugo Post Generator
+# Originally by Cody Krieger (http://codykrieger.com),
+# updated by Ramanan Sivaranjan for Hugo
 # *********************************************
 
 require 'optparse'
-
+require 'fileutils'
 
 options = {}
 OptionParser.new do |opts|
   options[:category] = 'microblog'
   opts.banner = "Usage: new.rb [options] Post Title"
-  opts.on("-c", "--category", "Set Category") do |c|
+  opts.on("-c", "--category CATEGORY", "Set Category (default: microblog)") do |c|
     options[:category] = c
   end
 end.parse!
@@ -37,27 +37,40 @@ class String
   end
 end
 
-TEMPLATE = "new_post_template.md"
-POSTS_DIR = "_posts"
+CONTENT_DIR = "content"
 
 # Get the title and use it to derive the new filename
 title = ARGV.join(" ")
-filename = "#{Time.now.strftime('%Y-%m-%d')}-#{title.parameterize}.md"
-filepath = File.join(POSTS_DIR, filename)
+if title.empty?
+  puts "Usage: new.rb [options] Post Title"
+  exit 1
+end
 
 category = options[:category]
+slug = title.parameterize
+filename = "#{slug}.md"
 
-date = Time.now.strftime('%F %I:%M %P')
+# Ensure category directory exists
+category_dir = File.join(CONTENT_DIR, category)
+FileUtils.mkdir_p(category_dir)
 
-# Load in the template and set the title
-post_text = File.read(TEMPLATE)
-post_text.gsub!('%%TITLE%%', title)
-post_text.gsub!('%%CATEGORY%%', category)
-post_text.gsub!('%%DATE%%', date)
+filepath = File.join(category_dir, filename)
+
+date = Time.now.strftime('%Y-%m-%dT%H:%M:%S%:z')
+
+# Create post content
+post_text = <<~HEREDOC
+---
+title: #{title}
+date: #{date}
+bluesky:
+img:
+tag: []
+---
+
+HEREDOC
 
 # Write out the post
-post_file = File.open(filepath, 'w')
-post_file.puts post_text
-post_file.close
+File.write(filepath, post_text)
 
 puts "Successfully created file => #{filepath}"

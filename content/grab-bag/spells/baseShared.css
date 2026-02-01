@@ -1,0 +1,645 @@
+
+	{padding:0;
+	margin:0;}
+
+html
+	{font:62.5%/1.46 candara, "trebuchet ms";}
+
+body
+	{position:relative;
+	max-width:100rem;
+	opacity:1;
+	color:#373739;
+	font-size:1.2rem;
+	padding:0 1rem;
+	margin:1rem auto 2rem;
+	animation:fadein 2s;}
+
+@keyframes fadein
+	{
+	0%
+		{opacity:0;}
+	100%
+		{opacity:1;}
+	}
+
+h1, h2, h3, h4, h5,
+p, table
+	{margin-bottom:1.39rem;}
+
+ul, ol, dl
+	{margin-bottom:1.5rem;}
+
+ol ul,
+ol ol,
+ul ul,
+ul ol,
+li, dt, dd,
+label
+	{margin-bottom:0.5rem;}
+
+ol, ul
+	{margin-left:1.5rem;}
+
+ol ul,
+ol ol,
+ul ul,
+ul ol
+	{margin-left:0.5rem;}
+
+th, td
+	{padding:0.3rem;}
+
+h1, h2, h3, h4, h5, dt
+	{color:#779;
+	/*text-shadow:0.1rem 0.1rem 0.1rem rgba(0,0,0,0.2);*/}
+
+h1
+	{text-align:center;}
+  
+h1 small
+  { font-size:1.2rem;
+    color: #999; }
+
+h2
+	{font-size:1.7rem;
+	clear:left;}
+
+h5
+	{font-size:1.2rem;}
+
+ol li:nth-of-type(even),
+dt:nth-of-type(odd),
+dd:nth-of-type(odd)
+	{background:#efefef;}
+
+ol li
+	{padding:0.3rem 0.5rem;
+	margin-left:1.5rem;}
+
+dl
+	{overflow:auto;}
+
+dt
+	{float:left;
+	clear:left;
+	font-weight:bold;
+	padding:0.3rem;}
+
+dd
+	{padding:0.4rem 0.3rem 0.4rem 10em;}
+
+dd:nth-of-type(odd)
+	{border-bottom:0.1rem solid #dedede;}
+
+dd p:first-of-type
+	{margin-top:0;}
+
+a
+	{color:#6d87d9;}
+
+table
+	{border-collapse:collapse;
+	border:0.1rem solid #b7c4ed;
+	box-shadow:0.2rem 0.2rem 0.5rem rgba(0,0,0,0.35);}
+
+table caption
+	{font-size:1.1em;
+	font-weight:bold;
+	text-shadow:0.1rem 0.1rem 0.1rem #bbb;
+	padding:0.3rem 0.4rem;}
+
+table caption:after
+	{content:':';}
+
+thead tr
+	{background:#b7c4ed;
+	color:#fff;}
+
+tbody tr:nth-of-type(even)
+	{background:#dce2f7;
+	border-top:0.1rem solid #b7c4ed;}
+
+thead tr:last-of-type,
+tbody tr:nth-of-type(even)
+	{border-bottom:0.1rem solid #b7c4ed;}
+
+thead th
+	{text-shadow:0.1rem 0.1rem 0.1rem #222;}
+
+thead th[colspan]
+	{text-align:center;}
+
+thead th .stored
+	{text-shadow:none;}
+
+th,
+td
+	{text-align:left;
+	padding:0.3rem 0.5rem;
+	vertical-align:top;}
+
+sup
+	{display:inline-block;
+	vertical-align:0.2rem;
+	margin:0 0.2rem 0 0;}
+
+dl sup,
+table sup
+	{color:#c00;}
+
+q
+	{background:linear-gradient(#fff 5%, #ededed);
+	padding:1rem;}
+
+q
+	{display:block;
+	font-size:1.1rem;
+	font-style:italic;
+	text-align:right;
+	border:0.1rem solid #bbb;
+	outline:0.2rem solid #fff;
+	outline-offset:-0.3rem;}
+
+strong
+ 	{color:#000;}
+
+em
+	{color:#777;}
+
+.note
+	{font-style:italic;}
+
+em.spell
+	{color:#6d87d9;}
+
+em.priest
+	{color:#080;}
+
+.hidden
+	{display:none;}
+
+.faded
+	{opacity:0.5;}
+
+/*-------------------------------- listings */
+
+#cancel
+	{opacity:0.5;
+	font-style:italic;}
+
+#cancel.active
+	{opacity:1;
+	font-style:normal;
+	cursor:pointer;}
+
+#cancel,
+.filters
+	{text-align:center;
+	margin:1rem auto;}
+
+#cancel,
+.filters li
+	{color:#809fff;
+	font-weight:bold;
+	padding:0 0.5rem;
+	transition:color 0.3s;}
+
+.filters li
+	{display:inline-block;
+	cursor:pointer;
+	margin:0;}
+
+#cancel.active:hover,
+.filters li:hover
+	{color:#2b48a4;}
+
+p#cancel.active:hover,
+.filters li:hover
+	{text-shadow:0.1rem 0.1rem 0.1rem rgba(0,0,0,0.2);}
+
+.filters .filtered
+	{color:#6600b7;
+	text-shadow:0.1rem 0.1rem 0.1rem rgba(0,0,0,0.2);}
+
+#spelltypes
+	{padding-bottom:1.2rem;
+	border-bottom:0.1rem dotted #aab;}
+
+#noRes
+	{font-weight:bold;
+	font-style:italic;}
+
+/*---- automatic utilities menu ---- */
+
+#autoutils
+	{position:fixed;
+	top:2.5rem;
+	right:0;
+	z-index:10;
+	max-height:95%;
+	width:auto;
+	overflow:visible;
+	font-size:1rem;
+	border-right:0;
+	border-radius:0.5rem 0 0 0.5rem;}
+
+#autoutils.closed
+	{max-height:0.8rem;
+	overflow:hidden;}
+
+#autoutils h2
+	{position:relative;
+	z-index:2;
+	float:right;
+	background:#fffacd;
+	color:#444;
+	font-size:1rem;
+	cursor:pointer;
+	padding:0.5rem 1rem;
+	border:0.1rem solid #aaa;
+	border-right:0;
+	border-radius:0.5rem 0 0 0.5rem;
+	box-shadow:-0.1rem 0.1rem 0.2rem rgba(0,0,0,0.35);
+	margin:0;}
+
+#autoutils:hover
+	{width:100%;}
+
+#autoutils h2:hover + ul,
+#autoutils ul:hover
+	{right:0;}
+
+#autoutils ul
+	{position:absolute;
+	top:25px;
+	right:-136rem;
+	z-index:1;
+	clear:right;
+	width:calc(100% - 2.2rem);
+	max-width:120rem;
+	-moz-column-count:4;
+	column-count:4;
+	background:#fff;
+	list-style:none;
+	padding:1.1rem 1rem 1rem;
+	border:0.1rem solid #6d87d9;
+	border-right:0;
+	border-radius:0.75rem 0 0 0.75rem;
+	margin-top:0;
+	box-shadow:-0.3rem 0.3rem 0.3rem rgba(0,0,0,0.35);
+	transition:1s;}
+
+#autoutils li
+	{clear:both;
+	color:#666;
+	list-style-type:none;
+	padding:0.1rem;
+	margin:0;}
+
+#autoutils li:nth-of-type(even)
+	{background:#efefef;
+	border-bottom:0.1rem solid #dedede;}
+
+#autoutils li .spell,
+#autoutils li span
+	{float:right;
+	clear:right;
+	border:0;
+	margin:0 0.3rem 0 0;}
+
+#autoutils li .spell + em
+	{clear:none;
+	margin-left:0;}
+
+#autoutils li .spell + em:after
+	{content:', ';}
+
+#autoutils li span
+	{font-style:italic;}
+
+/*--------------base list of spells ---------------*/
+
+#spells
+	{overflow:auto;
+	padding:0 2rem;
+	margin:2rem 0 0;}
+
+#spells > li
+	{float:left;
+	width:calc(33% - 2.4rem);
+	list-style-type:none;
+	line-height:1.2;
+	cursor:pointer;
+	padding:0.2rem;
+	margin:0.2rem 1rem;}
+
+#spells > li:nth-of-type(odd)
+	{background:#efefef;}
+
+#spells li h3,
+#spells li h4
+	{display:inline-block;
+	margin-top:0;
+	margin-bottom:0.5rem;}
+
+#spells li h3
+	{font-size:1.2rem;}
+
+#spells li h4
+	{color:#999;
+	font-size:1.1rem;
+	margin-left:0.3rem;}
+
+.spelltype:before
+	{content:'(';
+	margin-left:0.3rem;}
+
+.spelltype:after
+	{content:')';}
+
+#spells .spellinfo
+	{position:absolute;
+	height:0;
+	width:0;
+	overflow:hidden;}
+
+/*------------spell as an overlay-------------*/
+
+.overlay
+	{position:fixed;
+	top:17rem;
+	left:calc(50% - 25rem);
+	width:48rem;
+	max-height:75rem;
+	background:#fff;
+	padding:0 1rem 1rem;
+	border:0.1rem solid #bbb;
+	border-top:0;
+	box-shadow:0.3rem 0.3rem 0.3rem rgba(0,0,0,0.35), 0.1rem -0.1rem 0.2rem rgba(0,0,0,0.35);
+	transition:max-height 0.5s;
+	animation:fadein 0.5s;}
+
+.overlay.dragged
+	{z-index:100;}
+
+.overlay.rolledup
+	{max-height:2.1rem;
+	overflow:hidden;
+	border-bottom:0;}
+
+.overlay h3
+	{background-color:#6d87d9;
+	color:#fff;
+	font-size:1.5rem;
+	line-height:1.4;
+	cursor:move;
+	padding:0.5rem 1rem;
+	margin:0 -1.1rem 1rem;}
+
+.overlay h4 .spelltype
+	{float:right;
+	color:#6d87d9;
+	font-size:1.1rem;
+	line-height:1.3rem;
+	font-style:italic;
+	margin:0.3rem 0 -0.2rem 0.3rem;}
+
+.closer
+	{position:absolute;
+	top:0.2rem;
+	right:0.3rem;
+	width:1.6rem;
+	height:1.6rem;
+	background:linear-gradient(#fb6200, #c30 70%);
+	text-align:center;
+	cursor:pointer;
+	line-height:1.6rem;
+	border:0.1rem solid #b51c00;
+	border-radius:0.5rem;
+	margin:0.5rem 0.7rem 0 0;
+	box-shadow:0.2rem 0.2rem 0.3rem rgba(137,0,0,0.3);}
+
+.closer:hover
+	{background:linear-gradient(#c30, #fb6200 70%);}
+
+.closer:after
+	{content:'X';
+	position:absolute;
+	left:0;
+	right:0;
+	color:#fff;
+	font-size:1.2rem;}
+
+.overlay .spellinfo
+	{overflow:auto;
+	margin:0;}
+
+.overlay .spellinfo > dt,
+.overlay .spellinfo > dd
+	{padding:0.2rem;
+	border:0;}
+
+.overlay .spellinfo > dt
+	{width:9.6rem;
+	color:#668;
+	margin:0 0.3rem 0.2rem 0;}
+
+.overlay .spellinfo .desc
+	{float:none;
+	position:relative;
+	height:3rem;
+	width:45.8rem;
+	background:linear-gradient(#fff, rgba(255,255,255,0) 3rem);
+	text-indent:-10rem;
+	margin-bottom:-2.7rem;}
+
+.overlay .desc + dd
+	{max-height:50rem;
+	overflow:auto;
+	background:#fff;
+	padding:1.8rem 1rem 0 0;
+	margin:0;}
+
+.overlay .spellinfo > dd
+	{margin-bottom:0.2rem;}
+
+@media screen and (max-height:600px)
+	{
+	.spell dt.desc + dd
+		{max-height:30rem;}
+	}
+
+.maintained:after
+	{content:attr(class);
+	float:right;
+	color:#6d87d9;
+	font-size:1.1rem;
+	font-weight:bold;
+	font-style:italic;}
+
+/*--------inside overlay description:-------*/
+
+.overlay p
+	{clear:both;
+	margin-top:0.9rem;}
+
+.overlay p:first-child
+	{margin-top:0.5rem;}
+
+.overlay .note
+	{font-size:90%;}
+
+.overlay .note + p:not(.note)
+	{padding-top:1.5rem;
+	border-top:0.1rem solid #ddf;
+	margin-top:0.5rem;}
+
+.overlay dl[class] dd p:first-child
+	{clear:none;
+	margin-top:0;}
+
+.overlay h5
+	{clear:both;
+	color:#345;
+	font-size:1.2rem;
+	text-align:center;
+	white-space:nowrap;
+	padding:0.2rem 0.3rem;
+	margin:0 auto;}
+
+.overlay ul
+	{list-style-type:circle;
+	padding:0;
+	margin:0.9rem 0;}
+
+.overlay h5 + ul
+	{margin:0.5rem 0;}
+
+.overlay li
+	{padding:0.3rem;
+	margin-left:3rem;}
+
+.overlay dd sup
+	{padding-left:0.1rem;}
+
+.overlay .spellname
+	{color:#375bcb;
+	font-weight:bold;}
+
+/*-- tables inside overlay description :--*/
+
+.overlay dd table
+	{width:85%;
+	margin:0 auto 2rem;}
+
+.overlay dd table thead th:after:not(:empty)
+	{content:':';}
+
+/*-- statblocks inside overlay description :--*/
+
+.overlay .statblock
+	{width:30rem;}
+
+.overlay .statblock dt
+	{width:6rem;
+	color:#779;}
+
+.overlay dd .statblock .notes
+	{display:none;}
+
+.overlay dd .statblock .notes + dd
+	{background:#fff;
+	border:0;}
+
+/*-- dls inside overlay description :--*/
+
+.overlay dd dl
+	{padding:0.3rem 0.3rem 0 0.3rem;
+	border:0.1rem solid #dfe7ff;
+	margin:0.9rem auto 2rem;
+	box-shadow:0.2rem 0.2rem 0.2rem rgba(0,0,0,0.25);}
+
+.overlay dd h5 + dl
+	{margin-top:0.2rem;}
+
+.overlay .simple
+	{width:18.3rem;}
+
+.overlay .detailed-terms
+	{width:26rem;}
+
+.overlay .complex-terms
+	{width:29.8rem;}
+
+.overlay .diceroll
+	{width:30rem;}
+
+.overlay .detailed
+	{width:44.1rem;}
+
+.overlay .detailed .simple
+	{width:18rem;
+	margin:0;
+	box-shadow:none;}
+
+.overlay dd dt
+	{padding:0.3em;
+	margin:0;}
+
+.overlay dd dl dt,
+.overlay dd dl dd
+	{background:#fff;}
+
+.overlay dd dl dt:nth-of-type(odd),
+.overlay dd dl dd:nth-of-type(odd)
+	{background:#e2e9ff;}
+
+.overlay dd .simple dt,
+.overlay dd .detailed dt
+	{width:7.4rem;}
+
+.overlay .detailed .simple dt
+	{width:5.4rem;}
+
+.overlay .detailed .simple dt:nth-of-type(odd),
+.overlay .detailed .simple dd:nth-of-type(odd)
+	{background:#efefef;}
+
+.overlay .detailed-terms dt
+	{width:11.4rem;}
+
+.overlay .diceroll dt
+	{width:4rem;}
+
+.overlay .complex-terms dt
+	{width:23.3rem;}
+
+.overlay dd dd
+	{padding:0.3em;
+	margin-left:0;}
+
+.overlay dd dt:last-of-type,
+.overlay dd dd:last-of-type
+	{margin-bottom:0.3rem;}
+
+.overlay .simple dd,
+.overlay .detailed .simple dd
+	{width:9.4rem;
+	padding-left:8.6rem;}
+
+.overlay .diceroll dd
+	{width:24.5rem;
+	padding-left:5rem;}
+
+.overlay .detailed dd
+	{width:35.2rem;
+	padding-left:8.6rem;}
+
+.overlay .detailed-terms dd
+	{width:13rem;
+	padding-left:12.6rem;}
+
+.overlay .complex-terms dd
+	{width:5rem;
+	padding-left:24.4rem;}
