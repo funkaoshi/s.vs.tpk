@@ -2,12 +2,12 @@
 layout: static
 title: Gygax ’75 - Misericorde
 css_id: Misericorde
-css: > 
+css: >
   @import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&display=swap');
-  h2, h3, h4, h5 { 
+  h2, h3, h4, h5 {
       text-align: center;
   }
-  h1, h2, h3, h4, h5 { 
+  h1, h2, h3, h4, h5 {
      font-family: 'Cinzel Decorative', cursive;
   }
   h2 {
@@ -30,13 +30,13 @@ In 1975 Gary Gygax wrote an article describing a simple approach to creating a c
 
 - A land of grey skies and perpetual rain. Farmland, fields, and forests. Stone walls guard wooden homes with thatch roofs. Standing Stones. Barrows. Villages built inside hills and caves. Witches hiding in forests. Wizards in towers. Knights, of course.
 - Far from your home is the Castle by the Water. The former seat of power is now home to the Dragon, who defeated the Good King and levelled that great city ten years past. Your countryside is now ruled by petty warlords, bandits, and far darker beings none dare speak of.
-- The names of the Good King’s knights fade from people’s memories, but all twenty survived that day. From Agralan the Gloom Knight to Sina the Star Knight, they all quest about. Some with bloodlust in their eyes terrorize all they encounter. Others protect whomever they meet in the hopes of atoning for their past failure. 
+- The names of the Good King’s knights fade from people’s memories, but all twenty survived that day. From Agralan the Gloom Knight to Sina the Star Knight, they all quest about. Some with bloodlust in their eyes terrorize all they encounter. Others protect whomever they meet in the hopes of atoning for their past failure.
 - Magic is a rare art, usually practiced by the wicked, a source of calamity. Most people will tell you the last good wizard was Ellenel, who perished by his lord's side when the Dragon took the Castle by the Water.
-- Players are aspiring adventures, all human. There are no demi-humans. Players can learn magic as per the rules of *Wonder and Wickedness*. Advancement is diegetic—you gain power by gaining power. 
+- Players are aspiring adventures, all human. There are no demi-humans. Players can learn magic as per the rules of *Wonder and Wickedness*. Advancement is diegetic—you gain power by gaining power.
 
 ### Inspiration
 
-- *The Buried Giant* by Kazuo Ishiguro: a dreamy and fantastic sort of England, with knights, dragons, magic, and all the good stuff. 
+- *The Buried Giant* by Kazuo Ishiguro: a dreamy and fantastic sort of England, with knights, dragons, magic, and all the good stuff.
 - *King Arthur and His Knights of the Round Table* by Roger Lancelyn Green. A children’s retelling of the Arthurian stories, and beside's Patrick Stuart's adaptation of The Green Knight, my only real source of knowledge about these stories.
 - *The Green Knight* by David Lowery: A beautiful film, and Gawain our protagonist is a brown dude to boot.
 - *Ninja Scroll*: Peak 90s anime, the films presents a fantastic feudal Japan. There are lots of ideas you can transplant into a world of knights, wizards, farmers, bandits, etc.
@@ -46,7 +46,7 @@ In 1975 Gary Gygax wrote an article describing a simple approach to creating a c
 
 ![Dev Patel Green Knight](/assets/img/dev-patel-green-knight.jpg)
 
-## Week 2 
+## Week 2
 
 ### The Wilderness
 

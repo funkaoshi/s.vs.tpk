@@ -1,0 +1,58 @@
+---
+title: Ramanan Sivaranjan Awards for Excellence in Gaming 2024
+category: blog
+bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3k45vqtp44t25
+date: 2024-08-09
+tag:
+- awards
+- osr
+---
+Work was mind numbingly busy, and then I hopped on a plane to the East Coast. I saw people posting about the Ennies and realized those assholes hosted their awards before I announced the winners of the Ramanan Sivaranjan Awards for Excellence in Gaming. What’s up with that?
+
+This is the 10th year for the Ramanan Sivaranjan Awards for Excellence in Gaming. While these awards improve like a good scotch, the Ennies continue to be ... well, the Ennies. There is nothing wrong with being the Teen Choice Awards of the RPG industry, of course. Someone’s got to do it! I just want something different. Maybe you do too.
+
+As always, there is only one rule when it comes to these awards: the books in contention must have arrived at my doorstep, or digitally in my inbox, during 2023. As I noted last year:
+
+> ... while Trophy, which arrived at my home in January, should clinch some awards at the Ennies this year, it will need to wait till next year to fight for its spot as The Ramanan Sivaranjan Award for Excellence in Gaming winner. If I had backed it digitally, I’d have included it for contention this year. Simple, right?
+
+In the business, we call this foreshadowing. I hope you enjoy my picks. 
+
+## Best Gaming Supplement: [Hull Breach ][hb], brought to life by Ian Yusem.
+
+![Hull Breach Cover](/assets/img/awards-2024-hull-breach.png)
+
+Hull Breach is a fantastic anthology of material for Mothership: adventures, monsters, advice, etc. With its fanciful layout and polish, its closest analog might be the popular zine, Knock, from The Merry Mushmen. Hull Breach goes a little further in its approach to anthology. Ian has tried to tie various articles together to suggest their use for campaign play. Everything is neatly indexed and cross referenced. You can see he wanted this to be _the_ companion to Mothership 1e: unfurl the mission accomplished banner.
+
+## Best Necromunda RPG: [Gangs of Titan City][gotc] by Nick Spence, Ben Brown, and Zachary Cox.
+
+![Gangs of Titan City cover](/assets/img/awards-2024-gangs-of-titan-city.png)
+
+Gangs of Titan City is the Necromunda RPG no one was asking for, but clearly should exist. Like Zach’s other works it is an odd amalgam of RPG ideas. You can see the influence of powered by the apocalypse games and the OSR to produce something new. This game feels so weird and niche I would love to see it find a wider audience. There is a strong emphasis on tools for the GM to use to make a session of gaming go. Some of that story game influence, I suppose. The only thing this book is missing is advice on playing with your Necromunda minis. A real missed opportunity. Finally, Dai Sugars did the layout so you know this book is hot and good.
+
+## The Ramanan Sivaranjan Excellence in Gaming Best God Damn Books of 2023: [Trophy Gold][tg] by Jesse Ross.
+
+![GM Advice in Trophy Gold](/assets/img/trophy-gold-3.jpg)
+
+[I have already enumerated the ways I think Trophy Gold is amazing.][1] Everything I picked up during the rest of 2023 was really in a battle to unseat this champion of a game. It was all my friends and I would chat about when it came to RPGs for a good while. Jesse Ross has made something compelling with Trophy Gold. The game really manages to be this impressive amalgam of OSR and Story Gaming. It doesn’t feel like it should work, but does! The book itself is beautiful. The Gauntlet, aka Jason Cordova, did an amazing job turning the small digital zines that were Trophy from the Gauntlet Codex into something special. The three Trophy Books: Dark, Gold and  Loom are some of the nicest RPG books I own. Jesse did the art and layout as well as the writing: the triple threat! [^1]
+
+## Honourable Mentions
+
+Keeping this list of shout outs short this year was a challenge: there was a lot I loved, and a few games here were real contenders for awards. Much love to [Brindlewood Bay][bb] by Jason Cordova, [Sword Weirdos][sw] by Casey Garske, [The Doomed][td] by Chris McDowall, The [Black Sword Hack][bsh] by Alexandre ‘Kobayashi’ Jeannette, [CY_BORG][cb] by Christian Sahlén and Johan Nohr, [NooFutra][nf] by Scrap Princess, [Barkeep on the Borderlands][bkb] by Prismatic Wasteland, and [Warped Beyond Recognition][wbr] by Quadra. I am annoyed at myself for not having played Brindlewood Bay yet: what did I even do with my time off? Be better than me, check this game out, and give it a go!
+
+[^1]: My name appears in the credits of Trophy Gold, I ended up writing a small part of one of the adventures featured later in the book. I also made what is probably as close as the game will get to an official character generator. You'll have to believe me when I say this isn't an obama giving himself the nobel peace prize moment. This win is all Jesse!
+
+
+[td]: https://www.ospreypublishing.com/ca/doomed-9781472854254/
+[hb]: https://www.hullbreachrpg.com/
+[gotc]: https://soulmuppet-store.co.uk/products/gangs-of-titan-city-1
+[tg]: https://trophyrpg.com/
+[sw]: https://www.drivethrurpg.com/en/product/437324/Sword-Weirdos
+[bsh]: https://www.themerrymushmen.com/product/black-sword-hack-ultimate-chaos-edition/
+[cb]: https://cy-borg.io/
+[nf]: https://scrapprincess.itch.io/noofutra-pdf-edition
+[bkb]: https://www.prismaticwasteland.com/shop/p/barkeep-on-the-borderlands
+[wbr]: https://ultraparadiso.itch.io/warped
+[bb]: https://www.gauntlet-rpg.com/brindlewood-bay.html
+
+[1]: https://save.vs.totalpartykill.ca/review/trophy-gold/
+

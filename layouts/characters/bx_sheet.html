@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='utf-8'>
+        <title>{{ .Title }}</title>
+        <link href='https://fonts.googleapis.com/css?family=Josefin+Sans:400,700|Josefin+Slab:400,700|Metamorphous'
+              rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="https://character.totalpartykill.ca/static/create.css"
+              rel='stylesheet' type="text/css" charset="utf-8">
+        <style type="text/css" media="screen">
+        p.header, p.footer { text-align: center }
+        h4 { margin-bottom:4px; margin-top: 8px; }
+        img.portrait {
+            border: 1px solid black; margin-left: -1px;
+        }
+        {{- if and .Params.portrait .Params.background_img }}
+        body {
+            background: url({{ .Params.portrait }}) no-repeat fixed bottom left;
+            background-size: 500px auto;
+        }
+        #container {
+            margin-left: 500px;
+        }
+        {{- end }}
+        </style>
+    </head>
+    <body>
+        <div id="container">
+            <p class="header">Go back to <a href="https://save.vs.totalpartykill.ca/characters/">Save vs. Total Party Kill</a>.</p>
+
+            <h2 class="system">{{ .Params.system }}</h2>
+            <h1>{{ .Title }}</h1>
+            <h2>Currently located in {{ .Params.location }}</h2>
+
+            {{- if and .Params.portrait (not .Params.background_img) }}
+            <img class="portrait" src="{{ .Params.portrait }}">
+            {{- end }}
+
+            <table class="attr">
+                <tr>
+                    <td><strong>STR</strong>: {{ .Params.attributes.str }}</td>
+                    <td><strong>INT</strong>: {{ .Params.attributes.int }}</td>
+                    <td><strong>WIS</strong>: {{ .Params.attributes.wis }}</td>
+                </tr>
+                <tr>
+                    <td><strong>DEX</strong>: {{ .Params.attributes.dex }}</td>
+                    <td><strong>CON</strong>: {{ .Params.attributes.con }}</td>
+                    <td><strong>CHA</strong>: {{ .Params.attributes.cha }}</td>
+                </tr>
+            </table>
+
+            {{- with .Params.saves }}
+            <table>
+                <tr>
+                    <td class="save">Death Ray or Poison</td>
+                    <td>{{ .death }}</td>
+                    <td><strong>HP</strong>: {{ $.Params.hp }}</td>
+                </tr>
+                <tr>
+                    <td class="save">Magical Wands</td>
+                    <td>{{ .wands }}</td>
+                    <td><strong>AC</strong>: {{ $.Params.ac }}</td>
+                </tr>
+                <tr>
+                    <td class="save">Paralysis</td>
+                    <td>{{ .stone }}</td>
+                    <td><strong>XP</strong>: {{ $.Params.xp }}</td>
+                </tr>
+                <tr>
+                    <td class="save">Dragon Breath</td>
+                    <td>{{ .breath }}</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td class="save">Magic</td>
+                    <td>{{ .magic }}</td>
+                    <td></td>
+                </tr>
+            </table>
+            {{- else }}
+            <table>
+                <tr>
+                    <td><strong>HP</strong>: {{ .Params.hp }}</td>
+                    <td><strong>AC</strong>: {{ .Params.ac }}</td>
+                    <td><strong>XP</strong>: {{ .Params.xp }}</td>
+                </tr>
+            </table>
+            {{- end }}
+
+            {{- with .Params.THAC9 }}
+            <table class="weapon">
+                <tr>
+                    <td><strong>AC</strong></td>
+                    {{- range seq 9 -1 0 }}
+                    <td>{{ . }}</td>
+                    {{- end }}
+                </tr>
+                <tr>
+                    <td><strong>Roll</strong></td>
+                    {{- $thac9 := . }}
+                    {{- range seq 0 9 }}
+                    <td>{{ add $thac9 . }}</td>
+                    {{- end }}
+                </tr>
+            </table>
+            {{- end }}
+
+            {{ .Content }}
+
+            <p class="footer">Go back to <a href="https://save.vs.totalpartykill.ca/characters/">Save vs. Total Party Kill</a>.</p>
+        </div>
+    </body>
+</html>

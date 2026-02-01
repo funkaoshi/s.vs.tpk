@@ -1,0 +1,141 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+    <meta charset="UTF-8">
+    <script type="text/javascript" src="http://code.jquery.com/jquery-2.1.0.min.js"></script>
+    <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/lodash.js/2.4.1/lodash.min.js"></script>
+    <script src="pluralize.js"></script>
+    <script type="text/javascript">
+        $(function () {
+          $('#go').click(function(e) {
+            console.log("Madlibing ...");
+
+            var dungeon = $('#dungeon').val().trim();
+            var madlibs = $('#madlibs').val().trim();
+            var word = $('#word').val().trim();
+
+            // Do nothing if we are missing an input from the user
+            if (_(word).isEmpty() || _(madlibs).isEmpty() || _(dungeon).isEmpty()) {
+              return
+            }
+
+            // Split madlibs string and strip blank entries from list
+            madlibs = madlibs.split('\n').filter(function(x) {
+              return x.trim() !== "";
+            }).map(function(word) {
+                return word.toLowerCase();
+            });
+
+            // Generate replacement RegEx
+            var singular = pluralize.singular(word);
+            var plural = pluralize.plural(word);
+            var re = new RegExp("(" + singular + ")|(" + plural + ")", "ig")
+
+            console.log("Word: " + singular + ", " + plural);
+            console.log("Madlibs: " + madlibs);
+
+            // Use RegEx to find occurances of the word we wish to replace
+            // and do the replacement
+            dungeon = dungeon.replace(re, function(match) {
+              var replacement = _(madlibs).sample();
+              var capitalized = match[0] === match[0].toUpperCase();
+              var pluralized = match === plural;
+
+              if (pluralized) {
+                replacement = pluralize.plural(replacement);
+              } else {
+                replacement = pluralize.singular(replacement);
+              }
+
+              if (capitalized) {
+                replacement = replacement.charAt(0).toUpperCase() + replacement.slice(1);
+              } else {
+                replacement = replacement.charAt(0).toLowerCase() + replacement.slice(1);
+              }
+
+              console.log("Replacing " + match + " with " + replacement);
+
+              return replacement
+            });
+
+            $('#dungeon').val(dungeon);
+          });
+        });
+    </script>
+    <link href='http://fonts.googleapis.com/css?family=Balthazar' rel='stylesheet' type='text/css'>
+    <style>
+        #content {
+            width:45em;
+            margin: 5em auto;
+        }
+        #rooms {
+            width: 2em;
+            border: 0;
+            border-bottom: 3px solid black;
+            text-align: center;
+        }
+        h1, ol {
+            font-family: 'Balthazar', serif;
+        }
+        h1 {
+            font-size: 2em;
+        }
+        textarea {
+          font-size: 1em;
+          padding: 0.5em;
+        }
+        #footer {
+            font-size: 0.8em;
+            line-height: 160%;
+            color: #999;
+            text-align: center;
+        }
+        #footer a {
+            font-weight: bold;
+            text-decoration: none;
+            color: #999;
+        }
+    </style>
+    </head>
+<body>
+    <div id="content">
+        <h1>Mad Libs Dungeon</h1>
+        <p>
+            This web page is weird, but perhaps useful. You can use this page
+            to swap out a word in a blob of text with random selection of other
+            words. This should let you spice up a boring adventure.
+        </p>
+        <p>
+        Keep reading before you click this: <b><a href="#" id="go">Jumble it Up!</a></b>
+        </p>
+        <p>
+            This is the word you are bored of: <input value="boring" type="text" name="word" id="word">
+        </p>
+        <p>
+            <textarea id="madlibs" name="madlibs" rows="12" cols="30">
+Place
+Your
+Replacement
+Text Here
+Each Line
+Is A Possible
+Replacement
+            </textarea>
+        </p>
+        <p>
+            <textarea id="dungeon" name="dungeon" rows="12" cols="60">
+Finally, this is the place where you paste in your giant blob of boring text to be munged up. Once you've pasted your boring text here you should click that "Jumble it up" link above. The boring word you selected above that appears in this boring text area will get replaced by a random word in the list you entered above.
+
+If you like, you can then pick a new boring word and a new list, and repeat this process again and again.
+            </textarea>
+        </p>
+        <p id="footer">
+            This site helps you madlibs up a boring adventure, an idea suggested by
+            <a href="http://dndwithpornstars.blogspot.ca/2017/01/things-you-can-do-with-rams-dungeon-mad.html?zx=d20700524e5e212c">Zak</a>.` This site
+            was created by <a href="http://funkaoshi.com/">Ramanan  Sivaranjan</a>.
+            You  might  also enjoy  my D&amp;D blog,
+            <a href="http://save.vs.totalpartykill.ca/">Save vs. Total Party Kill</a>.
+        </p>
+    </div>
+</body>
+</html>

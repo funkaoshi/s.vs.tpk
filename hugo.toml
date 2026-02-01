@@ -1,0 +1,56 @@
+baseURL = "https://save.vs.totalpartykill.ca"
+languageCode = "en-us"
+title = "Save vs. Total Party Kill"
+
+[params]
+  author = "Ramanan Sivaranjan"
+  description = "An OSR blog."
+  tagTitlePrefix = "#"
+  tagTitleSuffix = ""
+
+# Permalinks to match Jekyll's /:categories/:title/ pattern
+# Each section gets its own permalink pattern
+[permalinks]
+  blog = "/blog/:slug/"
+  review = "/review/:slug/"
+  microblog = "/microblog/:slug/"
+  play-report = "/play-report/:slug/"
+  link = "/link/:slug/"
+  meta = "/meta/:slug/"
+
+# Use "tag" instead of "tags" to preserve /tag/ URLs from Jekyll
+[taxonomies]
+  tag = "tag"
+
+[pagination]
+  pagerSize = 10
+
+# Markdown settings
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    codeFences = false
+    noClasses = true
+
+# Output formats for feeds
+[outputs]
+  home = ["HTML", "RSS", "ATOM", "JSON"]
+  section = ["HTML", "RSS"]
+
+[outputFormats]
+  [outputFormats.RSS]
+    baseName = "rss"
+  [outputFormats.ATOM]
+    mediaType = "application/atom+xml"
+    baseName = "atom"
+    isPlainText = true
+  [outputFormats.JSON]
+    mediaType = "application/json"
+    baseName = "feed"
+    isPlainText = true
+
+[mediaTypes]
+  [mediaTypes."application/atom+xml"]
+    suffixes = ["xml"]

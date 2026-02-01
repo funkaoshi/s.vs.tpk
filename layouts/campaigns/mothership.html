@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta name="viewport" content="width=1120, maximum-scale=1.0"/>
+    <title>Save vs. Total Party Kill - {{ .Title }}</title>
+
+    <link rel="alternate" title="{{ .Site.Title }}" type="application/json" href="{{ "feed.json" | absURL }}" />
+    <link rel="alternate" type="application/atom+xml" title="Save vs. Total Party Kill (atom feed)" href="/atom.xml"/>
+    <link rel="alternate" type="application/rss+xml" title="Save vs. Total Party Kill (rss feed)" href="/index.xml"/>
+
+    <link rel="icon" type="image/png" href="/assets/img/favicon.png" />
+    <link rel="apple-touch-icon-precomposed" href="/assets/img/apple-touch-icon-precomposed.png" />
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic&family=Roboto&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" type="text/css" href="/assets/css/site.css?17-MAR-2021">
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            font-size: 1em;
+            color: #EEE;
+            background: #000;
+            background-image: url('/assets/img/ep_naturalblack.png');
+            padding:2em;
+        }
+        h1, h2, h3, h4, h5, h6 {
+            font-family: 'Nanum Gothic', sans-serif;
+            text-transform: uppercase;
+        }
+        h2 {
+            margin-top: 2em;
+            margin-bottom: 0;
+        }
+        h3.date, strong {
+            font-weight: bold;
+            text-decoration: underline;
+        }
+        h3.date {
+            font-size:0.8em;
+            margin-top: 0;
+        }
+        a, a:visited, a:hover, em, .commentary {
+            color: rgb(223, 106, 90);
+        }
+        .commentary a, .commentary a:visited, .commentary a:hover {
+            color: #EEE;
+        }
+        img {
+            width: 100%;
+        }
+        .commentary {
+            margin-top: 1em;
+            border: 1px solid gray;
+            padding: 1em;
+        }
+        </style>
+
+    {{- partial "analytics.html" . }}
+    {{- with .Params.css }}
+    <style type="text/css" media="screen">
+    {{ . | safeCSS }}
+    </style>
+    {{- end }}
+  </head>
+  <body>
+    <div id='content'>
+      <h1><a href="{{ with .Params.title_url }}{{ . }}{{ else }}{{ .Permalink }}{{ end }}">Mothership</a></h1>
+      <h2>{{ .Title }}</h2>
+      {{ .Content }}
+      {{- with .Params.commentary }}
+      <h2>Commentary</h2>
+      {{- range . }}
+      <div class="commentary">
+          {{ . | markdownify }}
+      </div>
+      {{- end }}
+      {{- end }}
+      <footer>
+        <p>Site designed and built by <a href="https://funkaoshi.com">Ramanan Sivaranjan</a>. Greg got me calling Mothership Momship.</p>
+      </footer>
+    </div>
+  </body>
+</html>
