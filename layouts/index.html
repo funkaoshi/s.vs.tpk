@@ -1,0 +1,21 @@
+{{ define "main" }}
+{{- range .Paginator.Pages }}
+    {{- partial "post-summary.html" . }}
+{{- end }}
+
+<nav class="index-pagination">
+    <p>
+    {{- if .Paginator.HasPrev }}
+      <a href="{{ if eq .Paginator.Prev.PageNumber 1 }}/{{ else }}{{ .Paginator.Prev.URL }}{{ end }}" class="previous">Previous</a>
+    {{- else }}
+      <span class="previous">Previous</span>
+    {{- end }}
+    | <a href="/archive/">Archives</a> |
+    {{- if .Paginator.HasNext }}
+      <a href="{{ .Paginator.Next.URL }}" class="next">Next</a>
+    {{- else }}
+      <span class="next">Next</span>
+    {{- end }}
+    </p>
+</nav>
+{{ end }}

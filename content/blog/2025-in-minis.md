@@ -1,0 +1,25 @@
+---
+title: 2025 in Minis
+category: blog
+bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3mbcj5dagd22b
+img:
+date: 2025-12-31
+tag:
+- 28mm
+- minis
+- warhammer
+---
+![My 2025 mini painting stats](/assets/img/2025-in-minis.png)
+
+Back in 2024 I decided to track all of my purchasing and painting of minis. This was an attempt to buy less and paint more. [It was a nominal success.][2024] This year, not so much. Whenever my life becomes too busy I find I channel my hobby output into pure consumerism. I ended up buying box sets that will certainly be fun to paint, but that remain unpainted (and often unbuilt!) as we come to the end of the year: Kill Team’s new Tomb World set, the Horus Heresy 3rd Edition Starter Set, the Dark Oath Slaves to Darkness army box, and the Fangs of the Bloodqueen box. Those last two I really only bought because Meeple Mart was having an “everything needs to go” sale. I ended up with 161 new models between those boxes and a few other small purchases. That’s a lot of new models!
+
+My painting happened in small bursts: the Stormcast at the start of the year so I could play Spearhead; my [Trench Crusade][tc] Heretic Legion in the spring, when the minis arrived; some orks from Slade, which I thought I might use for Space Gits; the rest of the Stormiest in the summer to finish painting the Skaventide box; the Wildercorps Hunters so I could use them for a [Warcry][] game. I managed to play a lot of games this year, but nothing that required me to do a lot of painting. I played lots of Spearhead and Warcry, but primarily using minis I had already painted.
+
+I’m disappointed with how the year ended when it came to my painting. It’s a hobby I really enjoy, so I should make more time for it when I can. It’s often easier to play video games or watch TV, which are also enjoyable activities, but ones I probably put more time into than I should. 
+
+My goal to start 2026 is to start painting the Darkwater boxed set. The game looks like a lot of fun, and I managed to get a good chunk of them primed when the weather in December was a little bit warm. My friends and I have started playing [Blood Bowl][bb], so I’ll need to get my team primed and painted as well. Hopefully getting those things out of the way will serve as some motivation to keep going.
+
+[2024]: /blog/2024-in-minis/
+[tc]: /review/trench-crusade/
+[warcry]: /review/warcry/
+[bb]: /review/blood-bowl/
