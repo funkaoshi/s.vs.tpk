@@ -1,0 +1,6 @@
+{{ define "main" }}
+<h2 class="tag-title">{{ .Site.Params.tagTitlePrefix }}{{ .Title }}{{ .Site.Params.tagTitleSuffix }}</h2>
+{{- range .Pages }}
+    {{- partial "post-summary.html" . }}
+{{- end }}
+{{ end }}

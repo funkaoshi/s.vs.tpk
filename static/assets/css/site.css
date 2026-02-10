@@ -1,0 +1,279 @@
+/* Doing CSS the old fashioned way, just cascading some stylesheets. */
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    color: #333;
+    font: 1.375em/150% 'Source Sans Pro', sans-serif;
+    font-weight: 300;
+}
+
+a {
+    color: #0000FF;
+    text-decoration: none;
+}
+a:visited {
+    color: #0000CC;
+}
+a:hover {
+    color: #0000FF;
+    text-decoration: underline;
+}
+
+article img {
+    border: 1px solid black;
+    max-width: 748px;
+    margin: 0 auto;
+    display: block;
+}
+
+#content {
+    width: 40em;
+    margin: 0 auto;
+}
+
+/* header and nav block */
+
+header img {
+    width:100%;
+}
+
+nav {
+    width: 34em;
+    margin: 0 auto;
+}
+nav.pagination {
+    margin-top: 2em;
+}
+nav p {
+    margin-top: 0;
+    font-size: 0.7em;
+    text-align: center;
+}
+
+h2.tag-title {
+    text-align: center;
+    font-size: 2em;
+}
+
+/* articles */
+
+article, nav.archive {
+    margin-bottom: 4em;
+    width: 34em;
+    margin-left: 3em;
+}
+article h1, nav h1 {
+    font-size: 2em;
+    font-weight: 200;
+    text-align: center;
+    margin-bottom: 0.3em;
+    line-height: 110%;
+}
+article h1 a, nav h1 a {
+    text-decoration: none;
+}
+article hgroup p {
+    font-size: 0.7em;
+    color: #666;
+    text-align: center;
+}
+article hgroup .preamble p {
+    margin-top: 2em;
+    text-align: left;
+    width: 75%;
+    line-height: 100%;
+}
+article hgroup p a, article hgroup p a:visited {
+    color: #666;
+}
+article hgroup p:hover a {
+    color: #0000FF;
+}
+article hgroup p {
+    margin: 0;
+}
+article sup {
+    line-height: 0;
+    font-size: 0.75em;
+}
+article .meta {
+    font-size: 0.9em;
+}
+article strong {
+    font-weight: bold;
+}
+article img+img {
+	margin-top: 1em;
+}
+article .caption {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    font-size: 0.75em;
+}
+
+article table {
+    border: 1px solid black;
+    padding: 5px;
+    border-collapse: collapse;
+}
+article table tr:nth-child(odd) {
+    background-color: #EDEEFF;
+}
+article table tr td:first-child,
+article table tr th:first-child {
+    text-align: center;
+}
+article table tr td:last-child {
+    /* override above for single column tables. */
+    text-align: left;
+}
+article table th {
+    text-align: left;
+    background-color: #BED9F6;
+}
+article table td,
+article table th {
+    padding: 2px 5px;
+    border: 1px solid black;
+    vertical-align: top;
+}
+
+article div.footnotes ol {
+    padding-left: 0;
+}
+article div.footnotes li {
+    padding-bottom: 0.5em;
+}
+article div.footnotes li, p.archive {
+    color: #777;
+    font-size: 0.75em;
+    line-height: 150%;
+    width: 85%;
+}
+article div.footnotes li p {
+    display: inline;
+}
+nav.pagination p {
+    font-size: 0.8em;
+    display: block;
+}
+nav.index-pagination {
+    text-align: center;
+}
+
+/* Microblogging */
+
+article.microblog {
+	color: gray;
+	font-size: 80%;
+	line-height: 140%;
+	margin: 3em auto;
+}
+
+article.microblog p.permalink {
+	float: left;
+	text-align: right;
+	color: #777;
+	width: 4em;
+	margin-left: -5em;
+	margin-top: 0;
+}
+
+article.microblog img {
+	width: 32em;
+	max-height: 16em;
+	object-fit: cover;
+	margin: 0;
+}
+
+
+/* The archive page */
+
+
+.archive.index {
+    margin-top: 2em;
+}
+.archive h1 {
+    text-align: left;
+}
+h2 small {
+    font-size: 0.5em;
+   margin-left: 0.5em;
+}
+.archive ul {
+    list-style: none;
+    padding-left: 0;
+    margin-top: 0;
+}
+.archive li {
+    font-size: 0.875em;
+}
+.archive abbr {
+    margin-left: 0.5em;
+}
+.archive a.tag_list_link {
+    font-size: 0.8em;
+    color: #777;
+}
+.archive li:hover a.tag_list_link {
+    font-size: 0.8em;
+    color: #0000FF;
+}
+
+footer p {
+    color: #999;
+    font-size: 60%;
+	text-align: center;
+    margin-top: 3em;
+}
+
+
+nav.post {
+    width: 32em;
+    margin-top: 4em;
+}
+
+hr {
+    width: 90%;
+    border: 0;
+    height: 1px;
+    background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.30), rgba(0,0,0,0));
+    background-image: -moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.30), rgba(0,0,0,0));
+    background-image: -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.30), rgba(0,0,0,0));
+    background-image: -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.30), rgba(0,0,0,0));
+}
+
+#disqus_recommendations {
+    margin-top: 2em;
+}
+
+div#comments-container {
+    width: 85%;
+}
+
+#comments-container h3 {
+    margin-top: 2em;
+    font-size: 80%;
+}
+
+bluesky-comments {
+  --bluesky-bg-color: #fcfcfc;
+  --bluesky-font-family: 'Source Sans Pro', sans-serif;
+  --bluesky-font-size: 15px;
+  --bluesky-text-color: #1a2b3c;
+  --bluesky-handle-color: #64748b;
+  --bluesky-footer-text-color: #94a3b8;
+  --bluesky-border-color: #e2e8f0;
+  --bluesky-hover-bg: #f8fafc;
+  --bluesky-avatar-bg: #f1f5f9;
+  --bluesky-reply-border-width: 2px;
+  --bluesky-footer-font-size: 13px;
+  --bluesky-icon-size: 16px;
+}
+
+bluesky-comments::part(comment-content) {
+  line-height: 150%;
+}

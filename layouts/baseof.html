@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Save vs. Total Party Kill - {{ .Title }}</title>
+
+    <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,700,300italic' rel='stylesheet' type='text/css'>
+
+    {{- $css := resources.Get "css/site.css" }}
+    {{- $cssFingerprinted := $css | fingerprint }}
+    <link rel="stylesheet" type="text/css" href="{{ $cssFingerprinted.RelPermalink }}">
+
+    {{- $mobileCss := resources.Get "css/mobile.css" }}
+    {{- $mobileCssFingerprinted := $mobileCss | fingerprint }}
+    <link type="text/css" rel="stylesheet" media="only screen and (max-device-width: 480px)" href="{{ $mobileCssFingerprinted.RelPermalink }}" />
+
+    <link rel="alternate" title="{{ .Site.Title }} (json feed)" type="application/json" href="{{ "feed.json" | absURL }}" />
+    <link rel="alternate" type="application/atom+xml" title="{{ .Site.Title }} (atom feed)" href="/atom.xml"/>
+    <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }} (rss feed)" href="/index.xml"/>
+
+    <link rel="icon" type="image/png" href="/assets/img/favicon.png" />
+    <link rel="apple-touch-icon-precomposed" href="/assets/img/apple-touch-icon-precomposed.png" />
+
+    {{- if .Params.img }}
+    <meta property="og:image" content="{{ .Params.img }}" />
+    {{- else }}
+    <meta property="og:image" content="/assets/img/bsky-preview.jpg">
+    {{- end }}
+
+    {{- if .Params.description }}
+    <meta property="og:description" content="{{ .Params.description }}" />
+    {{- else if .Content }}
+    <meta property="og:description" content="{{ .Content | plainify | truncate 240 }}" />
+    {{- else }}
+    <meta property="og:description" content="An OSR blog." />
+    {{- end }}
+
+    {{- partial "analytics.html" . }}
+
+    {{- with .Params.css }}
+    <style type="text/css" media="screen">
+    {{ . | safeCSS }}
+    </style>
+    {{- end }}
+  </head>
+  <body>
+    <div id='content'>
+      <header>
+          <a href='/'>
+              <img src="/assets/img/save-vs-total-party-kill-header@2x.png"
+                   alt="A monster on the verge of eating an adventurer.">
+          </a>
+      </header>
+      <nav id="site-navigation">
+        <p>
+            <a href="/">Home</a> |
+            <a href="/about/">About</a> |
+            <a href="/archive/">Archive</a> |
+            <a href="/awards/">Awards</a> |
+            <a href="/campaigns/">Campaigns</a> |
+            <a href="/web-apps/">D&amp;D Web Apps</a> |
+            <a href="/grab-bag/">Grab Bag</a> |
+            <a href="/review/">Reviews</a>
+        </p>
+      </nav>
+      {{- block "main" . }}{{ end }}
+      <footer>
+        <p>Site designed and built by <a href="https://funkaoshi.com">Ramanan Sivaranjan</a>. You can find me on <a rel="me" href="https://tabletop.social/@funkaoshi">Mastodon</a> and <a href="https://bsky.app/profile/save.vs.totalpartykill.ca">BlueSky</a></p>
+      </footer>
+    </div>
+    </body>
+</html>

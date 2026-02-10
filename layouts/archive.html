@@ -1,0 +1,24 @@
+{{ define "main" }}
+<nav class="archive">
+<h1>Archive</h1>
+
+{{- $postSections := slice "blog" "review" "microblog" "play-report" "link" "meta" }}
+{{- $pages := where .Site.RegularPages "Section" "in" $postSections }}
+{{- $postsByYear := $pages.GroupByDate "2006" }}
+
+{{- range $postsByYear }}
+<h2>{{ .Key }} <small>{{ len .Pages }} posts</small></h2>
+  <ul>
+      {{- range .Pages }}
+      <li>
+          <a href="{{ .Permalink }}">{{ .Title | safeHTML }}</a>
+          <abbr>{{ .Date.Format "02 Jan 2006" }}</abbr>
+          {{- range .Params.tag }}
+          <a class="tag_list_link" href="/tag/{{ . }}">{{ . }}</a>
+          {{- end }}
+      </li>
+      {{- end }}
+  </ul>
+{{- end }}
+</nav>
+{{ end }}

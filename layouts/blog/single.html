@@ -1,0 +1,58 @@
+{{ define "main" }}
+<article {{ with .Params.css_id }}id="{{ . }}"{{ end }} class="{{ .Section }}">
+
+    {{- if ne .Section "microblog" }}
+    <hgroup>
+        <h1>
+            {{- if eq .Section "play-report" }}Play Report:{{ end }}
+            {{- if eq .Section "review" }}Review:{{ end }}
+            <a href="{{ .Permalink }}">{{ .Title | safeHTML }}</a>
+        </h1>
+        <p>
+            by Ramanan Sivaranjan on {{ .Date.Format "January 02, 2006" }}
+        </p>
+        <p>
+            Tagged:
+            {{- range .Params.tag }}
+            <a class="tag_list_link" href="/tag/{{ . }}">{{ . }}</a>
+            {{- end }}
+        </p>
+    </hgroup>
+    {{- end }}
+
+    {{ .Content }}
+
+    {{- if eq .Section "microblog" }}
+    <p>
+        — Ramanan Sivaranjan, microblogging, {{ .Date.Format "January 02, 2006" }} {{ with .Params.tag }}[{{ range . }}<a class="tag_list_link" href="/tag/{{ . }}">{{ . }}</a> {{ end }}]{{ end }}
+        <a href="{{ .Permalink }}">#</a>
+    </p>
+    {{- end }}
+
+    {{- with .Params.gplus }}
+    <p class="discuss">
+        <em>Go back in time, add me to your circles, and we can discuss post on <strong><a href="{{ . }}">on google+</a></strong>.</em>
+    </p>
+    {{- end }}
+
+    {{- with .Params.bluesky }}
+    <div id="comments-container">
+        <h3><a href="{{ . }}">Discuss this Post on BlueSky</a></h3>
+        <bluesky-comments url="{{ . }}"></bluesky-comments>
+        <script type="module">import "https://esm.sh/bluesky-comments-tag/load";</script>
+    </div>
+    {{- end }}
+
+    <nav class="pagination">
+    <p>
+        {{- with .PrevInSection }}
+        Before this post I wrote <a href="{{ .Permalink }}" rel="previous" title="{{ .Title }}">{{ .Title | safeHTML }}</a>.
+        {{- end }}
+        {{- with .NextInSection }}
+        After this post I wrote
+        <a href="{{ .Permalink }}" rel="next" title="{{ .Title }}">{{ .Title | safeHTML }}</a>.
+        {{- end }}
+    </p>
+    </nav>
+</article>
+{{ end }}

@@ -1,0 +1,44 @@
+---
+title: CY_BORG
+date: 2023-04-22
+tag:
+- morkborg
+- osr
+- cyberpunk
+---
+![Cy Borg Cover](/assets/img/cy_borg-cover.jpg)
+
+I was looking for minis at the Sword and Board when I spotted a copy of [CY_BORG][cb] sitting on a shelf. I've been waiting for this book to show up locally since it was first announced: I hate paying for shipping. I'm honestly not that interested in Cyberpunk as a genre, but I am very interested in most everything [Johan Nohr][jn] is involved in. Mork Borg has some of the best art and graphic design you'll see in an RPG book. Paired up with Christian Sahlén, the duo have created quite the book.
+
+![Cy Borg World](/assets/img/cy_borg-world.jpg)
+
+Like [Mork Borg][mb] the world of CY_BORG is shared as short vignettes. There is detail and flavour to jump off from, but it’s far from overwhelming and very open ended. You can take the world in your own direction.
+
+![Cy Borg Omens](/assets/img/cy_borg-omens.jpg)
+
+Borrowing from Mork Borg there is also a campaign calamity mechanic where things progressively get worse as the game moves along, ending with a world ending event. In CY_BORG we have news headlines instead of omens.
+
+![Cy Borg Characters](/assets/img/cy_borg-characters.jpg)
+
+Like Mork Borg the default is simple characters who will mostly be defined by their gear. You also have optional classes if you want more specificity (and mechanics). I like this approach. I also like all the pink.
+
+![Cy Borg Bestiary](/assets/img/cy_borg-bestiary.jpg)
+
+A good bestiary will double as world building. The creatures shared in this book tell a story about the world. Most creatures note how much it costs to bribe them, for example.
+
+![Cy Borg Adventure](/assets/img/cy_borg-adventure.jpg)
+
+Adventures are a great thing to include in your game: they help tell the reader what the game is all about in a way that’s useful and practical. You can read about the sorts of games one might play with these rules. The included adventure has the players helping an indebted neighbourhood. They must break into a casino and destroy the records of their debt, stored in an "offline database". Like Mork Borg, the layout of the adventures shifts to something far more utilitarian and practical, while still having some style.
+
+My friend Emmy wrote [a much longer, better, review of this book][review], if you want to read something with some more substance. I found the Ben Milton looked at the book as well: [you can watch him flip through the whole book][qb]. I had similar feelings to the two of them when reading this game's rule 0: "Player Characters cannot be loyal to or have sympathy for the corps, the cops, or the capitalist system. They might find themselves reluctantly forced to do missions for them or their minions. But make no mistake—they are the enemy." There's nothing to disagree with here, but these sorts of declarations always feel a bit dorky. If you as a player aren't making this choice, it's kind of a meaingless action on everyone's part. More so, you could probably play an interesting game, one where you learn something about the world and the dark nature of capitalism, playing dirtbag cops, corporate goons, etc. All of that said, the sorts of people that will get overly upset about this rule are probably the sorts of people you want keep out of a healthy gaming community, and in that way this rule is doing the work it needs to.
+
+I really enjoyed reading CY_BORG. I am keen to get this to the table. The art and writing really pull you in. It feels like an easy game to get into: the rules will be familiar, and there is a lot in the book to help get you going with your game.
+
+This was originally [a series of tweets][tweets], but Twitter isn't long for this world. I thought it best to post something more permanent over here. 
+
+[cb]: https://www.drivethrurpg.com/product/393473/CYBORG-Core-Rules
+[jn]: https://jnohr.itch.io/
+[mb]: https://morkborg.com/
+[tweets]: https://twitter.com/SaveVsTPK/status/1649004880340680704
+[review]: https://bonesofcontention.blogspot.com/2023/04/mundane-vacations-cyborg.html?m=1
+[qb]: https://www.youtube.com/watch?v=810m_TNTJ1A
