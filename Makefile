@@ -17,3 +17,6 @@ deploy:
 
 clean:
 	rm -rf public/*
+
+validate-urls:
+	python3 scripts/validate-urls.py
