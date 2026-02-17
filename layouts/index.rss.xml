@@ -1,0 +1,24 @@
+{{- $postSections := slice "blog" "review" "microblog" "play-report" "link" "meta" -}}
+{{- $posts := where .Site.RegularPages "Section" "in" $postSections -}}
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\"?>" | safeHTML }}
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>save.vs.totalpartykill.ca</title>
+    <link>{{ .Site.BaseURL }}</link>
+    <atom:link href="{{ "rss.xml" | absURL }}" rel="self" type="application/rss+xml" />
+    <description>An (old school?) Dungeons &amp; Dragons Blog.</description>
+    <language>{{ .Site.LanguageCode }}</language>
+    <pubDate>{{ now.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</pubDate>
+    <lastBuildDate>{{ now.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</lastBuildDate>
+    {{- range $posts }}
+    <item>
+      <title>{{ .Title | htmlEscape }}</title>
+      <link>{{ .Permalink }}</link>
+      <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</pubDate>
+      <author>ramanan@funkaoshi.com (Ramanan Sivaranjan)</author>
+      <guid>{{ .Permalink }}</guid>
+      <description>{{ .Content | htmlEscape }}</description>
+    </item>
+    {{- end }}
+  </channel>
+</rss>

@@ -1,3 +1,5 @@
+{{- $postSections := slice "blog" "review" "microblog" "play-report" "link" "meta" -}}
+{{- $posts := where .Site.RegularPages "Section" "in" $postSections -}}
 {
     "version": "https://jsonfeed.org/version/1",
     "title": {{ .Site.Title | jsonify }},
@@ -8,15 +10,38 @@
     "favicon": {{ "/favicon.ico" | absURL | jsonify }},
     "expired": false,
     "items": [
-    {{- range $index, $page := first 36 .Site.RegularPages }}
+    {{- range $index, $page := first 36 $posts }}
     {{- if $index }},{{ end }}
         {
             "id": {{ .Permalink | sha1 | jsonify }},
             "title": {{ .Title | jsonify }},
+            {{- with .Params.description }}
+            "summary": {{ . | jsonify }},
+            {{- end }}
             "content_text": {{ .Content | plainify | jsonify }},
             "content_html": {{ .Content | jsonify }},
             "url": {{ .Permalink | jsonify }},
-            {{- with .Params.tag }}"tags": {{ . | jsonify }},{{ end }}
+            {{- with .Params.image }}
+            "image": {{ . | jsonify }},
+            {{- end }}
+            {{- with .Params.link }}
+            "external_url": {{ . | jsonify }},
+            {{- end }}
+            {{- with .Params.banner }}
+            "banner_image": {{ . | jsonify }},
+            {{- end }}
+            {{- with .Params.tag }}
+            "tags": {{ . | jsonify }},
+            {{- end }}
+            {{- with .Params.enclosure }}
+            "attachments": [
+                {
+                    "url": {{ . | jsonify }},
+                    "mime_type": {{ $page.Params.enclosure_type | jsonify }},
+                    "size_in_bytes": {{ $page.Params.enclosure_length | jsonify }}
+                }
+            ],
+            {{- end }}
             "date_published": {{ .Date.Format "2006-01-02T15:04:05Z07:00" | jsonify }},
             "date_modified": {{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" | jsonify }},
             "author": {
