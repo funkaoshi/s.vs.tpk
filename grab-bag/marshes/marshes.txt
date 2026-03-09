@@ -95,7 +95,7 @@ Ruins of a Holstein automated spidercattle farm pod, contain ancient skeletons c
 
 ## 0406
 
-BLIGHT RANGER HEADQUARTERS: A fortification rests in a clearing seperated from the surrounding mire by walls made of the region's sturdiest logs. This is the base of the BLIGHT RANGERS, a taskforce of would-be peacekeepers for the Lavender Marshes. Originally organized from the survivors of the spidercattle farm pod disaster in 405, the Blight Rangers have since then gathered membership from all sorts of people touched by the misfortune and degenerative influence of the Marshes. Many of the members therefore bear marked warping of the flesh and sometimes of the mind. Despite the ragtag misfit nature of its membership, the hidden influence of Megol (see 506) upon the Rangers' leadership keep the upper ranks rather organized.
+BLIGHT RANGER HEADQUARTERS: A fortification rests in a clearing seperated from the surrounding mire by walls made of the region's sturdiest logs. This is the base of the BLIGHT RANGERS, a taskforce of would-be peacekeepers for the Lavender Marshes. Originally organized from the survivors of the spidercattle farm pod disaster in 0405, the Blight Rangers have since then gathered membership from all sorts of people touched by the misfortune and degenerative influence of the Marshes. Many of the members therefore bear marked warping of the flesh and sometimes of the mind. Despite the ragtag misfit nature of its membership, the hidden influence of Megol (see 0506) upon the Rangers' leadership keep the upper ranks rather organized.
 
 ## 0501
 
@@ -107,11 +107,11 @@ SPORE FOREST: A particularly dangerous part of the fungal forests: here it snows
 
 ## 0503
 
-A secret hideaway is buried here among the drooping trees of this area. A chapter of the Corpsebloom Poisoner's Guild lurks here, gathering ingredients and training agents away from prying eyes. Their current project involves the collection of spores from area 502 and developing them into ever more potent biological weapons.
+A secret hideaway is buried here among the drooping trees of this area. A chapter of the Corpsebloom Poisoner's Guild lurks here, gathering ingredients and training agents away from prying eyes. Their current project involves the collection of spores from area 0502 and developing them into ever more potent biological weapons.
 
 ## 0504
 
-BLIGHT RANGER WATCHTOWERS: To find the encroachment of the Shroom Forest into the Lavendar Marshes (for example, see 505), the BLIGHT RANGERS (see Area 406]) have began the construction of a line of watchtowers in this hex. As of yet, they are unaware of the SECRET ENCLAVE OF THE CORPSEBLOOM GUILD. This ignorance may prove fatal when the Guild strikes preemptively.
+BLIGHT RANGER WATCHTOWERS: To find the encroachment of the Shroom Forest into the Lavendar Marshes (for example, see 0505), the BLIGHT RANGERS (see Area 0406) have began the construction of a line of watchtowers in this hex. As of yet, they are unaware of the SECRET ENCLAVE OF THE CORPSEBLOOM GUILD. This ignorance may prove fatal when the Guild strikes preemptively.
 
 ## 0505
 
