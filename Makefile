@@ -1,7 +1,7 @@
 all: build deploy-staging
 
 build:
-	hugo --minify
+	hugo
 
 serve:
 	hugo server -D

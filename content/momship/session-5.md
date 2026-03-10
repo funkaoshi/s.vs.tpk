@@ -13,11 +13,11 @@ The players set aside their newly found artifact to continue on their journey th
 
 They cross through Organ Implantation into the Brain Insertion, a room dimly lit by the glow of Logic Cores being inserted into the open brain pans of future androids. Across the room, crossing the floor of the factory, they see a group of 3 Security Androids make their way towards them. Up high on a cat walk they hope to go unnoticed, and are. The Androids seem otherwise focused or pre-occupied.
 
-![Security Androids](security-androids.png)
+![Security Androids](/assets/img/security-androids.png)
 
 The characters move on Security Dispatch. 9 giant steel spheres float in the room, a 10th lays in the centre bolted to the ground. Internally illuminated, the only light in the space, the players can see they each contain Security Androids. Seemingly filled to the brim with them. They quietly move through the space, to a door on the other side of the room, trying to avoid spheres.
 
-Though a small office door and a short corridor they find themselves in a ruined space. Logic Cores float through the space. Small cat sized insectoid drones jumping from core to core. They move through the room towards another door. 
+Though a small office door and a short corridor they find themselves in a ruined space. Logic Cores float through the space. Small cat sized insectoid drones jumping from core to core. They move through the room towards another door.
 
 This one leads to a small and thoroughly suspect room. They can see trip wire emitters and the strange shimmer of some sort of force field. The marine spots some EMP grenades strapped to a door. Rather than figure out how to deactivate the traps they opt to set them all off: one of the cat sized drones is let lose in the room while they retreat away. When they return the drone lays on the floor, and the EMP grenades have been detonated. The marine sets off to destroy the other emitters triggering another smaller EMP pulse that deactivates the electronics on his person. The room seemingly clear the group proceed to the space protected by the grenades. They find the hideout of some long gone fellow, Renzo Novatore. His journal outlines the slow fall of the station to Monarch. The last entry in the journal reads, "MONARCH IS SOON TO BE CORONATED BUT I WILL HAVE EYES OF CRYSTAL…" The only other notable thing in the room are 27 jars of excrement.
 
