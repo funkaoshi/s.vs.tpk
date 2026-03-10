@@ -7,16 +7,20 @@
     <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,700,300italic' rel='stylesheet' type='text/css'>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
     <script type="text/javascript" src="/assets/js/modernizr.custom.75005.js"></script>
-    <link rel="stylesheet" type="text/css" href="/assets/css/site.css?23-Mar-2013">
+
+    {{- $css := resources.Get "css/site.css" }}
+    {{- $cssFingerprinted := $css | fingerprint }}
+    <link rel="stylesheet" type="text/css" href="{{ $cssFingerprinted.RelPermalink }}">
+    {{- $mobileCss := resources.Get "css/mobile.css" }}
+    {{- $mobileCssFingerprinted := $mobileCss | fingerprint }}
+    <link type="text/css" rel="stylesheet" media="only screen and (max-device-width: 480px)" href="{{ $mobileCssFingerprinted.RelPermalink }}" />
+
     <link rel="alternate" title="{{ .Site.Title }}" type="application/json" href="{{ "feed.json" | absURL }}" />
     <link rel="alternate" type="application/atom+xml" title="Save vs. Total Party Kill (atom feed)" href="/atom.xml"/>
     <link rel="alternate" type="application/rss+xml" title="Save vs. Total Party Kill (rss feed)" href="/index.xml"/>
 
     <link rel="icon" type="image/png" href="/assets/img/favicon.png" />
     <link rel="apple-touch-icon-precomposed" href="/assets/img/apple-touch-icon-precomposed.png" />
-<!--[if !IE]>-->
-    <link type="text/css" rel="stylesheet" media="only screen and (max-device-width: 480px)" href="/assets/css/awards_mobile.css" />
-<!--<![endif]-->
     {{- partial "analytics.html" . }}
     {{- with .Params.css }}
     <style type="text/css" media="screen">
