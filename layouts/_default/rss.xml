@@ -1,17 +1,16 @@
-{{- $postSections := slice "blog" "review" "microblog" "play-report" "link" "meta" -}}
-{{- $posts := where .Site.RegularPages "Section" "in" $postSections -}}
-{{- $latest := index $posts 0 -}}
 {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\"?>" | safeHTML }}
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ .Site.Title }}</title>
-    <link>{{ .Site.BaseURL }}</link>
-    <atom:link href="{{ "rss.xml" | absURL }}" rel="self" type="application/rss+xml" />
-    <description>{{ .Site.Params.description }}</description>
+    <title>{{ .Title }} — {{ .Site.Title }}</title>
+    <link>{{ .Permalink }}</link>
+    <atom:link href="{{ with .OutputFormats.Get "RSS" }}{{ .Permalink }}{{ end }}" rel="self" type="application/rss+xml" />
+    <description>{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}</description>
     <language>{{ .Site.LanguageCode }}</language>
     <generator>Hugo</generator>
-    <lastBuildDate>{{ $latest.Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</lastBuildDate>
-    {{- range $posts }}
+    {{- with index .Pages 0 }}
+    <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</lastBuildDate>
+    {{- end }}
+    {{- range .Pages }}
     <item>
       <title>{{ .Title }}</title>
       <link>{{ .Permalink }}</link>

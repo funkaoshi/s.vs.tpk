@@ -48,7 +48,6 @@ title = "Save vs. Total Party Kill"
   [outputFormats.ATOM]
     mediaType = "application/atom+xml"
     baseName = "atom"
-    isPlainText = true
   [outputFormats.JSON]
     mediaType = "application/json"
     baseName = "feed"

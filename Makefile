@@ -1,4 +1,4 @@
-all: build deploy
+all: build deploy-staging
 
 build:
 	hugo --minify
