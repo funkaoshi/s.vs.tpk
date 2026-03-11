@@ -2,7 +2,7 @@
 <nav class="archive">
 <h1>Archive</h1>
 
-{{- $postSections := slice "blog" "review" "microblog" "play-report" "link" "meta" }}
+{{- $postSections := slice "blog" "review" "microblog" "play-report"  }}
 {{- $pages := where .Site.RegularPages "Section" "in" $postSections }}
 {{- $postsByYear := $pages.GroupByDate "2006" }}
 

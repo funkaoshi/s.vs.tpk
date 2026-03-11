@@ -1,4 +1,4 @@
-{{- $postSections := slice "blog" "review" "microblog" "play-report" "link" "meta" -}}
+{{- $postSections := slice "blog" "review" "microblog" "play-report"  -}}
 {{- $posts := where .Site.RegularPages "Section" "in" $postSections -}}
 {
     "version": "https://jsonfeed.org/version/1",
