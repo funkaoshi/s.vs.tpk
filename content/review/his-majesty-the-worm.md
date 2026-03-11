@@ -3,7 +3,7 @@ title: His Majesty the Worm
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3mes5e2ovzk2z
 img: /assets/img/hmtw-cover.jpg
 date: 2026-03-08
-tags:
+tag:
 - osr
 - hmtw
 ---

@@ -1,7 +1,6 @@
 public
+resources
 osr.opml
 osr.json
-_site/
-_drafts/
 .claude
 .hugo_build.lock
