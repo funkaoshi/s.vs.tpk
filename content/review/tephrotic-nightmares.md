@@ -1,6 +1,6 @@
 ---
 title: "Tephrotic Nightmares"
-date: 2026-03-12T21:18:18-04:00
+date: 2026-03-12
 img: /assets/img/tephrotic-nightmares.jpg
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3mgvwsbcq2c2l
 tag:

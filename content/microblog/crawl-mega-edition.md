@@ -1,9 +1,8 @@
 ---
 title: "Crawl Mega Edition"
-date: 2026-03-12T23:19:37-04:00
+date: 2026-03-12
 img:
 bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3mgpxxehius2a
-draft:
 tag:
 - osr
 - zine

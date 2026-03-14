@@ -6,7 +6,7 @@ tag:
 - trophy
 - trophygold
 ---
-![Trophy Gold rules for travel](/assets/img/trophy-gold-dark-souls.png)
+![Trophy Gold rules for travel](/assets/img/trophy-gold-dark-souls.jpg)
 
 [Trophy Gold][1] has some optional light weight rules for journeys that have the players slowly building up a point crawl style map of the world. One thing I like about the suggested approach is that it feels very much like Dark Souls, where part of the fun will be discovering the unusual connections in the world. The game is very collaborative in nature, and there is an expectation that things develop organically through play, with input from the players alongside the GM. You could certainly run things with a more well defined game world, but it feels a bit counter to the spirit of the game. 
 
