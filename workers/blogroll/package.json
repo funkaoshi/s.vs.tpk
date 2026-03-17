@@ -1,0 +1,8 @@
+{
+  "name": "blogroll-worker",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "wrangler": "^4.73.0"
+  }
+}

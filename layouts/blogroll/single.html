@@ -1,0 +1,115 @@
+{{ define "main" }}
+<article>
+  <h1>{{ .Title }}</h1>
+  <div class="content">
+    {{ .Content }}
+  </div>
+
+  <p id="blogroll-status" style="font-size:0.85em; color:#666;">Loading recent posts…</p>
+  <ul id="blogroll-list" style="list-style:none; padding:0; margin:0;"></ul>
+</article>
+
+<style>
+#blogroll-list li {
+  margin-bottom: 1.2em;
+  padding-bottom: 1.2em;
+  border-bottom: 1px solid #e8e3da;
+}
+#blogroll-list li:last-child {
+  border-bottom: none;
+}
+.blogroll-blog {
+  font-size: 0.75em;
+  color: #666;
+  margin: 0 0 0.15em 0;
+}
+.blogroll-post-title {
+  font-size: 1em;
+  font-weight: 700;
+  margin: 0 0 0.2em 0;
+}
+.blogroll-post-title a {
+  color: #0000FF;
+  text-decoration: none;
+}
+.blogroll-post-title a:visited {
+  color: #0000CC;
+}
+.blogroll-post-title a:hover {
+  text-decoration: underline;
+}
+.blogroll-meta {
+  font-size: 0.75em;
+  color: #666;
+  margin: 0 0 0.3em 0;
+}
+.blogroll-excerpt {
+  font-size: 0.85em;
+  color: #555;
+  margin: 0;
+}
+</style>
+
+<script>
+(function () {
+  const WORKER_URL = 'https://blogroll-worker.PLACEHOLDER.workers.dev/';
+
+  const statusEl = document.getElementById('blogroll-status');
+  const listEl   = document.getElementById('blogroll-list');
+
+  function esc(str) {
+    return String(str)
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;');
+  }
+
+  function formatDate(iso) {
+    if (!iso) return '';
+    try {
+      return new Date(iso).toLocaleDateString('en-CA', {
+        year: 'numeric', month: 'long', day: 'numeric'
+      });
+    } catch (_) {
+      return '';
+    }
+  }
+
+  function renderPosts(posts) {
+    if (!posts.length) {
+      statusEl.textContent = 'No posts found.';
+      return;
+    }
+    statusEl.textContent = posts.length + ' recent posts from ' +
+      new Set(posts.map(p => p.blog_title)).size + ' blogs.';
+    listEl.innerHTML = posts.map(p => {
+      const date = formatDate(p.post_date);
+      return '<li>' +
+        '<p class="blogroll-blog"><a href="' + esc(p.blog_url) + '">' + esc(p.blog_title) + '</a></p>' +
+        '<p class="blogroll-post-title"><a href="' + esc(p.post_url) + '">' + esc(p.post_title) + '</a></p>' +
+        (date ? '<p class="blogroll-meta">' + esc(date) + '</p>' : '') +
+        (p.excerpt ? '<p class="blogroll-excerpt">' + esc(p.excerpt) + '</p>' : '') +
+        '</li>';
+    }).join('');
+  }
+
+  fetch(WORKER_URL)
+    .then(function (res) {
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      return res.json();
+    })
+    .then(function (data) {
+      if (data.warming) {
+        statusEl.textContent = 'Feed index is warming up — check back in a few minutes.';
+        return;
+      }
+      renderPosts(data.posts || []);
+    })
+    .catch(function (err) {
+      statusEl.textContent = 'Could not load recent posts. Try again later.';
+      console.error('Blogroll fetch error:', err);
+    });
+}());
+</script>
+{{ end }}
