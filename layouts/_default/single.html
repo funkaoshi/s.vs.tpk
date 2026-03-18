@@ -35,13 +35,20 @@
     </p>
     {{- end }}
 
-    {{- with .Params.bluesky }}
-    <div id="comments-container">
-        <h3><a href="{{ . }}">Discuss this Post on BlueSky</a></h3>
-        <bluesky-comments url="{{ . }}"></bluesky-comments>
-        <script type="module">import "https://esm.sh/bluesky-comments-tag/load";</script>
+    <div id="comments-section">
+        <meta name="page-url" content="{{ .Permalink }}">
+        <meta name="worker-url" content="{{ site.Params.commentsWorkerUrl }}">
+        {{- with .Params.bluesky }}
+        <div id="bluesky-comments-container">
+            <h3><a href="{{ . }}">Discuss this Post on BlueSky</a></h3>
+            <bluesky-comments url="{{ . }}"></bluesky-comments>
+            <script type="module">import "https://esm.sh/bluesky-comments-tag/load";</script>
+        </div>
+        {{- end }}
+        <div id="atproto-comments"></div>
+        <div id="comment-form"></div>
+        <script type="module" src="/assets/js/comments.bundle.js"></script>
     </div>
-    {{- end }}
 
     <nav class="pagination">
     <p>
