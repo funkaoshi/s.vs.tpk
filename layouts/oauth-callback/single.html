@@ -1,0 +1,7 @@
+{{ define "main" }}
+<meta name="client-id" content="{{ strings.TrimSuffix "/" .Site.BaseURL }}/client-metadata.json">
+<div id="status">
+  <p>Completing sign-in…</p>
+</div>
+<script type="module" src="/assets/js/comments.bundle.js"></script>
+{{ end }}

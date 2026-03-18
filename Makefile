@@ -1,6 +1,7 @@
 all: build deploy-staging
 
 build:
+	npm run build
 	hugo
 
 serve:
@@ -13,6 +14,12 @@ deploy:
 	rsync -avz --delete public/ ramanan@funkaoshi.com:/home/ramanan/save.vs.totalpartykill.ca/
 
 prod: build deploy
+
+build-staging:
+	npm run build
+	hugo -b https://beta.save.vs.totalpartykill.ca
+
+staging: build-staging deploy-staging
 
 clean:
 	rm -rf public/*

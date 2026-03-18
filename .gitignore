@@ -4,3 +4,5 @@ osr.opml
 osr.json
 .claude
 .hugo_build.lock
+node_modules
+static/assets/js/comments.bundle.js
