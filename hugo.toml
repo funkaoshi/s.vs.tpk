@@ -14,10 +14,10 @@ title = "Save vs. Total Party Kill"
 # Permalinks to match Jekyll's /:categories/:title/ pattern
 # Each section gets its own permalink pattern
 [permalinks]
-  blog = "/blog/:slugorcontentbasename/"
-  review = "/review/:slugorcontentbasename/"
-  microblog = "/microblog/:slugorcontentbasename/"
-  play-report = "/play-report/:slugorcontentbasename/"
+  blog = "/blog/:slug/"
+  review = "/review/:slug/"
+  microblog = "/microblog/:slug/"
+  play-report = "/play-report/:slug/"
 
 # Use "tag" instead of "tags" to preserve /tag/ URLs from Jekyll
 [taxonomies]

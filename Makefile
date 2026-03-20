@@ -14,6 +14,8 @@ deploy:
 
 prod: build deploy
 
+staging: build deploy-staging
+
 clean:
 	rm -rf public/*
 

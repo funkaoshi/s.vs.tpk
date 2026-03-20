@@ -7,5 +7,5 @@ crons = ["0 */3 * * *"]
 
 [[kv_namespaces]]
 binding = "BLOGROLL_KV"
-id = "PLACEHOLDER_KV_ID"
-preview_id = "PLACEHOLDER_KV_PREVIEW_ID"
+id = "f3fa0a5a15ce4214b68d29068c24b3ac"
+preview_id = "b3794ed983bc495f914a1cb7b1443263"

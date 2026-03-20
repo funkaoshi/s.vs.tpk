@@ -75,7 +75,7 @@ cmd_warm() {
   cd "$WORKER_DIR"
 
   echo "→ Starting wrangler dev in test-scheduled mode…"
-  npx wrangler dev --test-scheduled &
+  npx wrangler dev --remote --test-scheduled &
   DEV_PID=$!
 
   echo "  Waiting for dev server to start…"

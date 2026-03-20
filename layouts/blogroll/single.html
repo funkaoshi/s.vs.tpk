@@ -52,10 +52,16 @@
 
 <script>
 (function () {
-  const WORKER_URL = 'https://blogroll-worker.PLACEHOLDER.workers.dev/';
+  const WORKER_URL = 'https://blogroll-worker.ramanan-287.workers.dev/';
 
   const statusEl = document.getElementById('blogroll-status');
   const listEl   = document.getElementById('blogroll-list');
+
+  function decodeHtml(str) {
+    const ta = document.createElement('textarea');
+    ta.innerHTML = String(str);
+    return ta.value;
+  }
 
   function esc(str) {
     return String(str)
@@ -89,7 +95,7 @@
         '<p class="blogroll-blog"><a href="' + esc(p.blog_url) + '">' + esc(p.blog_title) + '</a></p>' +
         '<p class="blogroll-post-title"><a href="' + esc(p.post_url) + '">' + esc(p.post_title) + '</a></p>' +
         (date ? '<p class="blogroll-meta">' + esc(date) + '</p>' : '') +
-        (p.excerpt ? '<p class="blogroll-excerpt">' + esc(p.excerpt) + '</p>' : '') +
+        (p.excerpt ? '<p class="blogroll-excerpt">' + esc(decodeHtml(p.excerpt)) + '</p>' : '') +
         '</li>';
     }).join('');
   }

@@ -5,51 +5,20 @@
   </head>
   <body>
     <outline title="Blogroll">
-      <outline url="https://andrewloganmontgomery.blogspot.com" xmlUrl="https://andrewloganmontgomery.blogspot.com/feeds/posts/default?alt=rss" title="Andrew Logan Montgomery" htmlUrl="https://andrewloganmontgomery.blogspot.com" type="rss"/>
-      <outline url="https://archons-court.blogspot.com" xmlUrl="https://archons-court.blogspot.com/feeds/posts/default?alt=rss" title="Archon's Court" htmlUrl="https://archons-court.blogspot.com" type="rss"/>
-      <outline url="https://attronarch.com" xmlUrl="https://attronarch.com/feed/" title="Attronarch" htmlUrl="https://attronarch.com" type="rss"/>
-      <outline url="https://beast.blot.im" xmlUrl="https://beast.blot.im/feed.rss" title="Benign Brown Beast" htmlUrl="https://beast.blot.im" type="rss"/>
-      <outline url="https://behindthehelm.bearblog.dev" xmlUrl="https://behindthehelm.bearblog.dev/feed" title="Behind the Helm" htmlUrl="https://behindthehelm.bearblog.dev" type="rss"/>
-      <outline url="https://buttondown.com/hendriktennapel" xmlUrl="https://buttondown.com/hendriktennapel/rss" title="Hendrik ten Napel" htmlUrl="https://buttondown.com/hendriktennapel" type="rss"/>
       <outline url="https://coinsandscrolls.blogspot.com" xmlUrl="https://coinsandscrolls.blogspot.com/feeds/posts/default?alt=rss" title="Coins and Scrolls" htmlUrl="https://coinsandscrolls.blogspot.com" type="rss"/>
-      <outline url="https://dicegoblin.blog" xmlUrl="https://dicegoblin.blog/feed/" title="Dice Goblin" htmlUrl="https://dicegoblin.blog" type="rss"/>
       <outline url="https://diyanddragons.blogspot.com" xmlUrl="https://diyanddragons.blogspot.com/feeds/posts/default?alt=rss" title="DIY &amp; Dragons" htmlUrl="https://diyanddragons.blogspot.com" type="rss"/>
-      <outline url="https://dododecahedron.blog" xmlUrl="https://dododecahedron.blog/feed/" title="Dododecahedron" htmlUrl="https://dododecahedron.blog" type="rss"/>
-      <outline url="https://dungeondoll.blogspot.com" xmlUrl="https://dungeondoll.blogspot.com/feeds/posts/default?alt=rss" title="Dungeon Doll" htmlUrl="https://dungeondoll.blogspot.com" type="rss"/>
       <outline url="https://elmc.at" xmlUrl="https://elmc.at/feed" title="Among Cats and Books" htmlUrl="https://elmc.at" type="rss"/>
-      <outline url="https://elruneblog.blogspot.com" xmlUrl="https://elruneblog.blogspot.com/feeds/posts/default?alt=rss" title="El Rune" htmlUrl="https://elruneblog.blogspot.com" type="rss"/>
       <outline url="https://falsemachine.blogspot.com" xmlUrl="https://falsemachine.blogspot.com/feeds/posts/default?alt=rss" title="False Machine" htmlUrl="https://falsemachine.blogspot.com" type="rss"/>
       <outline url="https://goblinpunch.blogspot.com" xmlUrl="https://goblinpunch.blogspot.com/feeds/posts/default?alt=rss" title="Goblin Punch" htmlUrl="https://goblinpunch.blogspot.com" type="rss"/>
-      <outline url="https://hemera.bearblog.dev" xmlUrl="https://hemera.bearblog.de/feed" title="Kobolds &amp; Konsequences" htmlUrl="https://hemera.bearblog.dev" type="rss"/>
       <outline url="https://knightattheopera.blogspot.com" xmlUrl="https://knightattheopera.blogspot.com/feeds/posts/default?alt=rss" title="Knight at the Opera" htmlUrl="https://knightattheopera.blogspot.com" type="rss"/>
-      <outline url="https://loottheroom.uk" xmlUrl="https://loottheroom.uk/feed" title="Loot the Room" htmlUrl="https://loottheroom.uk" type="rss"/>
       <outline url="https://lukegearing.blot.im" xmlUrl="https://lukegearing.blot.im/feed.rss" title="Luke Gearing" htmlUrl="https://lukegearing.blot.im" type="rss"/>
       <outline url="https://maziriansgarden.blogspot.com" xmlUrl="https://maziriansgarden.blogspot.com/feeds/posts/default?alt=rss" title="Mazirian's Garden" htmlUrl="https://maziriansgarden.blogspot.com" type="rss"/>
-      <outline url="https://moltensulfur.com" xmlUrl="https://moltensulfur.com/feed" title="Molten Sulfur" htmlUrl="https://moltensulfur.com" type="rss"/>
-      <outline url="https://mythicmountainsrpg.substack.com" xmlUrl="https://mythicmountainsrpg.substack.com/feed" title="Mythic Mountain Musings" htmlUrl="https://mythicmountainsrpg.substack.com" type="rss"/>
-      <outline url="https://occultronics.blogspot.com" xmlUrl="https://occultronics.blogspot.com/feeds/posts/default?alt=rss" title="Occultronics" htmlUrl="https://occultronics.blogspot.com" type="rss"/>
       <outline url="https://playfulvoid.game.blog" xmlUrl="https://playfulvoid.game.blog/feed/" title="Playful Void" htmlUrl="https://playfulvoid.game.blog" type="rss"/>
-      <outline url="https://pointlessmonument.blot.im" xmlUrl="https://pointlessmonument.blot.im/feed.rss" title="Pointless Monument" htmlUrl="https://pointlessmonument.blot.im" type="rss"/>
-      <outline url="https://pressthebeast.bearblog.dev" xmlUrl="https://pressthebeast.bearblog.dev/feed" title="Press the Beast" htmlUrl="https://pressthebeast.bearblog.dev" type="rss"/>
-      <outline url="https://rancourt.substack.com" xmlUrl="https://rancourt.substack.com/feed" title="Beau Rancourt" htmlUrl="https://rancourt.substack.com" type="rss"/>
       <outline url="https://riseupcomus.blogspot.com" xmlUrl="https://riseupcomus.blogspot.com/feeds/posts/default?alt=rss" title="Rise Up Comus" htmlUrl="https://riseupcomus.blogspot.com" type="rss"/>
-      <outline url="https://rolltodoubt.wordpress.com" xmlUrl="https://rolltodoubt.wordpress.com/feed/" title="Roll to Doubt" htmlUrl="https://rolltodoubt.wordpress.com" type="rss"/>
-      <outline url="https://samsorensen.blot.im" xmlUrl="https://samsorensen.blot.im/feed.rss" title="Sam Sorensen" htmlUrl="https://samsorensen.blot.im" type="rss"/>
-      <outline url="https://silverarmpress.com" xmlUrl="https://silverarmpress.com/feed" title="Silverarm" htmlUrl="https://silverarmpress.com" type="rss"/>
-      <outline url="https://slowlorispress.com" xmlUrl="https://slowlorispress.com/rss" title="Slow Loris Press" htmlUrl="https://slowlorispress.com" type="rss"/>
-      <outline url="https://spiceomancy.blogspot.com" xmlUrl="https://spiceomancy.blogspot.com/feeds/posts/default?alt=rss" title="Spiceomancy" htmlUrl="https://spiceomancy.blogspot.com" type="rss"/>
-      <outline url="https://splitparty.substack.com" xmlUrl="https://splitparty.substack.com/feed" title="Split Party" htmlUrl="https://splitparty.substack.com" type="rss"/>
-      <outline url="https://strangeaeons.substack.com" xmlUrl="https://strangeaeons.substack.com/feed" title="Strange Aeons" htmlUrl="https://strangeaeons.substack.com" type="rss"/>
-      <outline url="https://theweepingstag.wordpress.com" xmlUrl="https://theweepingstag.wordpress.com/feed/" title="The Weeping Stag" htmlUrl="https://theweepingstag.wordpress.com" type="rss"/>
-      <outline url="https://traversefantasy.blogspot.com" xmlUrl="https://traversefantasy.blogspot.com/feeds/posts/default?alt=rss" title="Traverse Fantasy" htmlUrl="https://traversefantasy.blogspot.com" type="rss"/>
-      <outline url="https://uncannyspheres.blogspot.com" xmlUrl="https://uncannyspheres.blogspot.com/feeds/posts/default?alt=rss" title="Uncanny Spheres" htmlUrl="https://uncannyspheres.blogspot.com" type="rss"/>
-      <outline url="https://weirdwonder.bearblog.dev" xmlUrl="https://weirdwonder.bearblog.dev/feed/" title="Weird Wonder" htmlUrl="https://weirdwonder.bearblog.dev" type="rss"/>
       <outline url="https://www.explorersdesign.com" xmlUrl="https://www.explorersdesign.com/rss/" title="Explorers Design" htmlUrl="https://www.explorersdesign.com" type="rss"/>
       <outline url="https://www.indiegamereadingclub.com" xmlUrl="https://www.indiegamereadingclub.com/feed/" title="Indie Game Reading Club" htmlUrl="https://www.indiegamereadingclub.com" type="rss"/>
       <outline url="https://www.mindstormpress.com" xmlUrl="https://www.mindstormpress.com/feed.rss" title="Mindstorm Press" htmlUrl="https://www.mindstormpress.com" type="rss"/>
       <outline url="https://www.prismaticwasteland.com" xmlUrl="https://www.prismaticwasteland.com/blog?format=rss" title="Prismatic Wasteland" htmlUrl="https://www.prismaticwasteland.com" type="rss"/>
-      <outline url="https://www.skeletoncodemachine.com" xmlUrl="https://www.skeletoncodemachine.com/feed" title="Skeleton Code Machine" htmlUrl="https://www.skeletoncodemachine.com" type="rss"/>
-      <outline url="https://www.wobblerocket.com" xmlUrl="https://www.wobblerocket.com/feed/" title="Wobble Rocket" htmlUrl="https://www.wobblerocket.com" type="rss"/>
     </outline>
   </body>
 </opml>
