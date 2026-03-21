@@ -5,6 +5,7 @@ const POSTS_KEY = 'blogroll:posts';
 const LAST_RUN_KEY = 'blogroll:last_run';
 const FETCH_TIMEOUT_MS = 5000;
 const EXCERPT_LENGTH = 280;
+const MAX_FEED_BYTES = 1_000_000; // 1 MB
 
 // ── helpers ───────────────────────────────────────────────────────────────────
 
@@ -149,7 +150,9 @@ async function fetchAndParseFeed(feedMeta) {
   try {
     const res = await fetchWithTimeout(feedMeta.xmlUrl);
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    const xml = await res.text();
+    const buf = await res.arrayBuffer();
+    if (buf.byteLength > MAX_FEED_BYTES) throw new Error(`Feed too large (${buf.byteLength} bytes)`);
+    const xml = new TextDecoder().decode(buf);
     const post = parseFeed(xml, feedMeta);
     if (!post) throw new Error('No parseable entries');
     return post;
@@ -206,10 +209,14 @@ async function handleRequest(request, env, ctx) {
     return new Response(null, { status: 204, headers: CORS_HEADERS });
   }
 
-  const url = new URL(request.url);
-  if (url.pathname === '/__warm' && request.method === 'POST') {
-    ctx.waitUntil(handleScheduled(env));
-    return new Response(JSON.stringify({ ok: true }), { status: 202, headers: CORS_HEADERS });
+  if (request.method !== 'GET') {
+    return new Response('Method Not Allowed', { status: 405 });
+  }
+
+  const ip = request.headers.get('CF-Connecting-IP') ?? 'unknown';
+  const { success } = await env.RATE_LIMITER.limit({ key: ip });
+  if (!success) {
+    return new Response('Too Many Requests', { status: 429 });
   }
 
   const [postsJson, lastUpdated] = await Promise.all([
