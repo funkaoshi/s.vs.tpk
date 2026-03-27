@@ -1,24 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <opml version="2.0">
-  <head>
-    <title>Save vs. Total Party Kill Blogroll</title>
-  </head>
   <body>
-    <outline title="Blogroll">
-      <outline url="https://coinsandscrolls.blogspot.com" xmlUrl="https://coinsandscrolls.blogspot.com/feeds/posts/default?alt=rss" title="Coins and Scrolls" htmlUrl="https://coinsandscrolls.blogspot.com" type="rss"/>
-      <outline url="https://diyanddragons.blogspot.com" xmlUrl="https://diyanddragons.blogspot.com/feeds/posts/default?alt=rss" title="DIY &amp; Dragons" htmlUrl="https://diyanddragons.blogspot.com" type="rss"/>
-      <outline url="https://elmc.at" xmlUrl="https://elmc.at/feed" title="Among Cats and Books" htmlUrl="https://elmc.at" type="rss"/>
-      <outline url="https://falsemachine.blogspot.com" xmlUrl="https://falsemachine.blogspot.com/feeds/posts/default?alt=rss" title="False Machine" htmlUrl="https://falsemachine.blogspot.com" type="rss"/>
-      <outline url="https://goblinpunch.blogspot.com" xmlUrl="https://goblinpunch.blogspot.com/feeds/posts/default?alt=rss" title="Goblin Punch" htmlUrl="https://goblinpunch.blogspot.com" type="rss"/>
-      <outline url="https://knightattheopera.blogspot.com" xmlUrl="https://knightattheopera.blogspot.com/feeds/posts/default?alt=rss" title="Knight at the Opera" htmlUrl="https://knightattheopera.blogspot.com" type="rss"/>
-      <outline url="https://lukegearing.blot.im" xmlUrl="https://lukegearing.blot.im/feed.rss" title="Luke Gearing" htmlUrl="https://lukegearing.blot.im" type="rss"/>
-      <outline url="https://maziriansgarden.blogspot.com" xmlUrl="https://maziriansgarden.blogspot.com/feeds/posts/default?alt=rss" title="Mazirian's Garden" htmlUrl="https://maziriansgarden.blogspot.com" type="rss"/>
-      <outline url="https://playfulvoid.game.blog" xmlUrl="https://playfulvoid.game.blog/feed/" title="Playful Void" htmlUrl="https://playfulvoid.game.blog" type="rss"/>
-      <outline url="https://riseupcomus.blogspot.com" xmlUrl="https://riseupcomus.blogspot.com/feeds/posts/default?alt=rss" title="Rise Up Comus" htmlUrl="https://riseupcomus.blogspot.com" type="rss"/>
-      <outline url="https://www.explorersdesign.com" xmlUrl="https://www.explorersdesign.com/rss/" title="Explorers Design" htmlUrl="https://www.explorersdesign.com" type="rss"/>
-      <outline url="https://www.indiegamereadingclub.com" xmlUrl="https://www.indiegamereadingclub.com/feed/" title="Indie Game Reading Club" htmlUrl="https://www.indiegamereadingclub.com" type="rss"/>
-      <outline url="https://www.mindstormpress.com" xmlUrl="https://www.mindstormpress.com/feed.rss" title="Mindstorm Press" htmlUrl="https://www.mindstormpress.com" type="rss"/>
-      <outline url="https://www.prismaticwasteland.com" xmlUrl="https://www.prismaticwasteland.com/blog?format=rss" title="Prismatic Wasteland" htmlUrl="https://www.prismaticwasteland.com" type="rss"/>
+    <outline title="Blogs">
+      <outline url="https://diyanddragons.blogspot.com" xmlUrl="https://diyanddragons.blogspot.com/feeds/posts/default?alt=rss" title="DIY &amp;amp; dragons" author="Anne" system="" theme="" htmlUrl="https://diyanddragons.blogspot.com" type="rss"/>
+      <outline url="https://elmc.at" xmlUrl="https://elmc.at/feed/?type=rss" title="AMONG CATS AND BOOKS" author="elmcat" system="" theme="" htmlUrl="https://elmc.at" type="rss"/>
+      <outline url="https://falsemachine.blogspot.com" xmlUrl="https://falsemachine.blogspot.com/feeds/posts/default?alt=rss" title="False Machine" author="pjamesstuart" system="" theme="" htmlUrl="https://falsemachine.blogspot.com" type="rss"/>
+      <outline url="https://goblinpunch.blogspot.com" xmlUrl="https://goblinpunch.blogspot.com/feeds/posts/default?alt=rss" title="Goblin Punch" author="Arnold K" system="" theme="" htmlUrl="https://goblinpunch.blogspot.com" type="rss"/>
+      <outline url="https://knightattheopera.blogspot.com" xmlUrl="https://knightattheopera.blogspot.com/feeds/posts/default?alt=rss" title="A Knight at the Opera" author="Dwiz" system="" theme="" htmlUrl="https://knightattheopera.blogspot.com" type="rss"/>
+      <outline url="https://lukegearing.blot.im" xmlUrl="https://lukegearing.blot.im/feed.rss" title="Luke Gearing" author="" system="" theme="" htmlUrl="https://lukegearing.blot.im" type="rss"/>
+      <outline url="https://maziriansgarden.blogspot.com" xmlUrl="https://maziriansgarden.blogspot.com/feeds/posts/default?alt=rss" title="Mazirian's Garden" author="Ben L." system="" theme="" htmlUrl="https://maziriansgarden.blogspot.com" type="rss"/>
+      <outline url="https://playfulvoid.game.blog" xmlUrl="https://idlecartulary.com/feed/" title="Playful Void" author="" system="" theme="" htmlUrl="https://playfulvoid.game.blog" type="rss"/>
+      <outline url="https://riseupcomus.blogspot.com" xmlUrl="https://riseupcomus.blogspot.com/feeds/posts/default?alt=rss" title="Rise Up Comus" author="Josh" system="" theme="" htmlUrl="https://riseupcomus.blogspot.com" type="rss"/>
+      <outline url="https://www.explorersdesign.com" xmlUrl="https://www.explorersdesign.com/rss/" title="Explorers Design" author="Clayton" system="" theme="" htmlUrl="https://www.explorersdesign.com" type="rss"/>
+      <outline url="https://www.mindstormpress.com" xmlUrl="https://www.mindstormpress.com/feed.rss" title="mindstorm" author="" system="" theme="" htmlUrl="https://www.mindstormpress.com" type="rss"/>
+      <outline url="https://www.prismaticwasteland.com" xmlUrl="https://www.prismaticwasteland.com/blog?format=rss" title="Prismatic Wasteland" author="" system="" theme="" htmlUrl="https://www.prismaticwasteland.com" type="rss"/>
+      <outline url="https://aloneinthelabyrinth.blogspot.com/" xmlUrl="https://aloneinthelabyrinth.blogspot.com/feeds/posts/default?alt=rss" title="Alone in the Labyrinth" author="Joey" system="" theme="" htmlUrl="https://aloneinthelabyrinth.blogspot.com/" type="rss"/>
+      <outline url="https://coinsandscrolls.blogspot.com" xmlUrl="https://coinsandscrolls.blogspot.com/feeds/posts/default?alt=rss" title="Coins and Scrolls" author="Skerples" system="" theme="" htmlUrl="https://coinsandscrolls.blogspot.com" type="rss"/>
+      <outline url="https://dreamingdragonslayer.wordpress.com/" xmlUrl="https://dreamingdragonslayer.wordpress.com/feed/" title="DREAMING DRAGONSLAYER" author="" system="" theme="" htmlUrl="https://dreamingdragonslayer.wordpress.com/" type="rss"/>
+      <outline url="https://gibletblizzard.blogspot.com/" xmlUrl="https://gibletblizzard.blogspot.com/feeds/posts/default?alt=rss" title="GIBLET BLIZZARD" author="Jez" system="" theme="" htmlUrl="https://gibletblizzard.blogspot.com/" type="rss"/>
+      <outline url="https://grognardia.blogspot.com/" xmlUrl="https://grognardia.blogspot.com/feeds/posts/default?alt=rss" title="GROGNARDIA" author="James Maliszewski" system="" theme="" htmlUrl="https://grognardia.blogspot.com/" type="rss"/>
+      <outline url="https://monstersandmanuals.blogspot.com/" xmlUrl="https://monstersandmanuals.blogspot.com/feeds/posts/default?alt=rss" title="Monsters and Manuals" author="noism" system="" theme="" htmlUrl="https://monstersandmanuals.blogspot.com/" type="rss"/>
+      <outline url="https://necropraxis.com/" xmlUrl="https://necropraxis.com/feed/" title="Necropraxis" author="" system="" theme="" htmlUrl="https://necropraxis.com/" type="rss"/>
+      <outline url="https://noisesanssignal.blogspot.com/" xmlUrl="https://noisesanssignal.blogspot.com/feeds/posts/default?alt=rss" title="noise sans signal" author="Kyana" system="" theme="" htmlUrl="https://noisesanssignal.blogspot.com/" type="rss"/>
+      <outline url="https://retiredadventurer.blogspot.com/" xmlUrl="https://retiredadventurer.blogspot.com/feeds/posts/default?alt=rss" title="The Retired Adventurer" author="John Bhttp://www.blogger.com/profile/17318244888477546773noreply@blogger.com" system="" theme="" htmlUrl="https://retiredadventurer.blogspot.com/" type="rss"/>
+      <outline url="https://tenfootpolemic.blogspot.com/" xmlUrl="https://tenfootpolemic.blogspot.com/feeds/posts/default?alt=rss" title="Ten Foot Polemic" author="James Young" system="" theme="" htmlUrl="https://tenfootpolemic.blogspot.com/" type="rss"/>
+      <outline url="https://www.failuretolerated.com/" xmlUrl="https://www.failuretolerated.com/feed.rss" title="Failure Tolerated" author="Sean McCoy" system="" theme="" htmlUrl="https://www.failuretolerated.com/" type="rss"/>
+      <outline url="https://www.paperspencils.com/" xmlUrl="https://www.paperspencils.com/feed/" title="Papers &amp; Pencils" author="Nick" system="" theme="" htmlUrl="https://www.paperspencils.com/" type="rss"/>
+      <outline url="https://www.weirdwonder.net/blog/" xmlUrl="https://www.weirdwonder.net/feed/?type=rss" title="Weird Wonder." author="Amanda P" system="" theme="" htmlUrl="https://www.weirdwonder.net/blog/" type="rss"/>
+      <outline url="https://maziriansgarden.blogspot.com/" xmlUrl="https://maziriansgarden.blogspot.com/feeds/posts/default?alt=rss" title="Mazirian's Garden" author="Ben L." system="" theme="" htmlUrl="https://maziriansgarden.blogspot.com/" type="rss"/>
+      <outline url="https://possumcreek.medium.com/" xmlUrl="https://medium.com/feed/@possumcreek" title="Stories by Jay Dragon" author="Jay Dragon" system="" theme="" htmlUrl="https://possumcreek.medium.com/" type="rss"/>
+      <outline url="https://www.indiegamereadingclub.com/" xmlUrl="https://www.indiegamereadingclub.com/feed/" title="The Indie Game Reading Club" author="Paul Beakley" system="" theme="" htmlUrl="https://www.indiegamereadingclub.com/" type="rss"/>
+      <outline url="https://slowlorispress.com/" xmlUrl="https://slowlorispress.com/rss" title="Zedeck Siew's Writing Hours" author="Zedeck" system="" theme="" htmlUrl="https://slowlorispress.com/" type="rss"/>
+      <outline url="https://alexschroeder.ch/view/index" xmlUrl="https://alexschroeder.ch/view/index.rss" title="Alex Schroeder&#8217;s Diary" author="Alex Schroeder" system="" theme="" htmlUrl="https://alexschroeder.ch/view/index" type="rss"/>
     </outline>
   </body>
 </opml>
