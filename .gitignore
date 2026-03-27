@@ -5,3 +5,4 @@ osr.json
 .claude
 .hugo_build.lock
 node_modules
+.wrangler
