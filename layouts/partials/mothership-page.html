@@ -1,9 +1,9 @@
 {{- partial "momship-head.html" . }}
   <body>
     <div id='content'>
-      <h1><a href="{{ with .Permalink }}{{ . }}{{ else }}/momship/{{ end }}">Mothership</a></h1>
+      <h1><a href="{{ with .Params.title_url }}{{ . }}{{ else }}{{ $.Permalink }}{{ end }}">Mothership</a></h1>
       <h2>{{ .Title }}</h2>
-      <h3 class="date">{{ .Params.date }}</h3>
+      {{- with .Params.date }}<h3 class="date">{{ . }}</h3>{{- end }}
       {{ .Content }}
       {{- with .Params.commentary }}
       <h2>Commentary</h2>
