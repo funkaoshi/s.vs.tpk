@@ -10,4 +10,4 @@ My friend Alex discusses [Fuck You Design][1], an interesting response of sorts 
 
 [1]: http://todistantlands.blogspot.com/2022/05/fk-you-design.html
 [2]: /blog/negative-space/
-[3]: /blog/carcosa/
+[3]: /review/carcosa/

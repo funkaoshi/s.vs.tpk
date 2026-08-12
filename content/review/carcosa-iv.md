@@ -51,7 +51,7 @@ If it's not clear by now, I really liked _Carcosa_. The book is physically fanta
 [booklet]: http://index.rpg.net/display-entry.phtml?mainid=13196
 [doomed]: http://index.rpg.net/display-entry.phtml?mainid=13864
 [art]: http://richlongmoreillustration.blogspot.ca/
-[i]: /blog/carcosa-i
-[ii]: /blog/carcosa-ii
-[iii]: /blog/carcosa-iii
+[i]: /review/carcosa-i/
+[ii]: /review/carcosa-ii/
+[iii]: /review/carcosa-iii/
 [carcosa-img]: /assets/img/city-of-carcosa.jpg

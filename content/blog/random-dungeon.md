@@ -13,7 +13,7 @@ As I am known to do, [I turned the whole exercise into a website][3]. It keys ra
 [^1]: Unless you've been living under a D&D rock, you've no doubt already seen [The Hexenbracken][4], [The Kraal][5], [The Colossal Wastes of Zhaar][6].
 
 [zak]: http://dndwithpornstars.blogspot.ca/
-[1]: /blog/google-plus/
+[1]: /microblog/google-plus/
 [2]: http://dndwithpornstars.blogspot.ca/2014/02/stock-dungeon-with-rooms-that-dont-suck.html
 [3]: http://dungeon.totalpartykill.ca/
 [4]: /grab-bag/hexenbracken/

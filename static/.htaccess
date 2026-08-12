@@ -1,3 +1,5 @@
+Header always set Content-Security-Policy "script-src 'self' 'unsafe-inline' https://counterscale.ramanan-287.workers.dev; connect-src 'self' https://blogroll-worker.ramanan-287.workers.dev;"
+
 Redirect /review/2012/05/29/crawl-fanzine/ /review/crawl-fanzine/
 Redirect /grabbag/he-man/ /grab-bag/he-man/
 Redirect /grab-bag/hexkit/ /grab-bag/marshes/

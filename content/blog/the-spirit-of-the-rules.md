@@ -16,4 +16,4 @@ One of the biggest differences between what one might call old-school and new-sc
 I've come to really enjoy the variety that comes out of playing old-school D&D. Everyone has their own rules for this and that. I enjoy all the subtle differences.
 
 [1]: /tag/odnd/
-[2]: /blog/reading-the-dmg-I/
+[2]: /blog/reading-the-dmg-i/
