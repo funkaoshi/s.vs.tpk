@@ -5,6 +5,23 @@ title: The Ramanan Sivaranjan Awards for Excellence in Gaming
 
 Each year The Ramanan Sivaranjan Awards for Excellence in Gaming highlight gaming books that are exceptional in their quality and character. To qualify for contention a book must have been purchased by Ramanan Sivaranjan during the proceeding calendar year—i.e. the awards given in the summer of 2016 are for books published from January 2015 - December 2015. Winners are chosen by Ramanan Sivaranjan based on his moods about gaming at a particular moment in time. The Ramanan Sivaranjan Awards for Excellence in Gaming prides itself on selecting the finest RPG books. Previous winners have gone on to win at the EN World Awards, 3 Castles, Indiecade, the Indie-RPG Awards, and The Ramanan Sivaranjan Awards for Excellence in Gaming. The first awards were given in the summer of 2015. They originated because Ramanan Sivaranjan found it incredulous that Jez Gordon's work in Death Frost Doom wasn't nominated for Best Art at the Ennies—like, why even have an award?
 
+
+# [2026](/blog/awards-2025)
+
+* The Ramanan Sivaranjan Excellence in Gaming Best God Damn Books of 2025: [Mythic Bastionland][mb2026] by Chris McDowall, illustrated by Alec Sorensen
+* Best Wargame: [Trench Crusade][tc2026] by Mike Franchina, James Sherriff, and Tuomas Pirinen
+* Best Grotty British Nonsense: [Swyvers][swy2026] by Luke Gearing and David Hoskins
+* Honourable Mentions:
+	* [Cairn 2e Boxed Set][cairn2e2026] by Yochai Gal
+  * [Crown of Salt][cos2026] by Tania Herrero
+  * [MAC Attack][mac2026] by Chris McDowall and Amanda Lee Franck
+  * [Nirvana on Fire][nof2026] by David Kenny and Jérôme Berthier
+  * [The Perilous Void][pv2026] by Jason Lutes
+  * [Prismatic Wisdom][pw2026] by W. F. Smith
+  * [Space Gits][sg2026] by Mike Hutchinson
+  * [Stay Frosty Remastered][sfr2026] by Casey Garske
+  * [Tiny Fables][tf2026] by Josiah Moore
+
 # [2025](/blog/awards-2024)
 
 * The Ramanan Sivaranjan Excellence in Gaming Best God Damn Books of 2024: [The Mothership Boxed Set][ms2025] by Sean McCoy & Friends.
@@ -290,3 +307,17 @@ Each year The Ramanan Sivaranjan Awards for Excellence in Gaming highlight gamin
 [ww2025]: https://www.melsonia.com/products/the-hand-of-god
 [er2025]: https://rowanrookanddecard.com/product/eat-the-reich/
 [hob2025]: https://www.electi-studio.com/hobgoblin
+
+
+[tc2026]: https://www.trenchcrusade.com/
+[nof2026]: https://www.tuesdayknightgames.com/products/nirvana-on-fire
+[sg2026]: https://planetsmashergames.itch.io/space-gits
+[tf2026]: https://josiahsmoore.itch.io/tiny-fables
+[pv2026]: https://lampblack-brimstone.itch.io/the-perilous-void
+[cairn2e2026]: https://www.exaltedfuneral.com/products/cairn-2e-boxed-set
+[mb2026]: https://bastionlandpress.com/products/mythic-bastionland
+[swy2026]: https://www.melsonia.com/products/swyvers
+[sfr2026]: https://www.melsonia.com/products/pre-order-stay-frosty-remastered
+[mac2026]: https://bastionlandpress.com/products/mac-attack
+[cos2026]: https://tania-herrero.itch.io/crown-of-salt
+[pw2026]: https://www.prismaticwasteland.com/shop/p/prismatic-wisdom
