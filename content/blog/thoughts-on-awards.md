@@ -2,7 +2,7 @@
 title: Some Thoughts on My Awards
 date: 2026-08-12T19:25:23-04:00
 img:
-bluesky:
+bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3msxr4yhvfs2z
 tag:
 - awards
 ---
