@@ -1,0 +1,77 @@
+name: deploy
+
+# A commit is a deploy. This is what makes posting from a phone possible:
+# the Shortcut commits a markdown file, and this builds and ships it.
+# `make prod` from the laptop still works exactly as before.
+
+on:
+  push:
+    branches: [master]
+    # The blogroll worker is deployed separately with wrangler and its
+    # contents are pulled client-side, so it can't change the built site.
+    paths-ignore:
+      - 'workers/**'
+      - 'README.md'
+  workflow_dispatch:
+    inputs:
+      target:
+        description: 'Where to deploy'
+        type: choice
+        options:
+          - staging
+          - prod
+        default: staging
+
+concurrency:
+  group: deploy
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: peaceiris/actions-hugo@v3
+        with:
+          # Pinned to match the local toolchain. Bump both together.
+          hugo-version: '0.157.0'
+          extended: true
+
+      # Bare `hugo`, matching Makefile:build. No -D: drafts stay unpublished.
+      - name: Build
+        run: hugo
+
+      # Secrets go through env, never interpolated into the script itself:
+      # the key is multi-line, and ${{ }} splices text in before bash parses.
+      - name: Configure SSH
+        env:
+          DEPLOY_SSH_KEY: ${{ secrets.DEPLOY_SSH_KEY }}
+          SSH_KNOWN_HOSTS: ${{ secrets.SSH_KNOWN_HOSTS }}
+        run: |
+          if [ -z "$DEPLOY_SSH_KEY" ] || [ -z "$SSH_KNOWN_HOSTS" ]; then
+            echo "::error::DEPLOY_SSH_KEY / SSH_KNOWN_HOSTS not set. See docs/posting-from-ios.md."
+            exit 1
+          fi
+          mkdir -p ~/.ssh
+          chmod 700 ~/.ssh
+          printf '%s\n' "$DEPLOY_SSH_KEY" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          printf '%s\n' "$SSH_KNOWN_HOSTS" > ~/.ssh/known_hosts
+          chmod 644 ~/.ssh/known_hosts
+
+      # Same rsync invocation as the Makefile, so local and CI cannot drift.
+      # Push events go to prod; manual runs default to staging.
+      - name: Deploy
+        env:
+          TARGET: ${{ github.event_name == 'workflow_dispatch' && inputs.target || 'prod' }}
+        run: |
+          case "$TARGET" in
+            prod)    dest=/home/ramanan/save.vs.totalpartykill.ca/ ;;
+            staging) dest=/home/ramanan/beta.save.vs.totalpartykill.ca/ ;;
+            *)       echo "::error::unknown target '$TARGET'"; exit 1 ;;
+          esac
+          echo "Deploying to $TARGET ($dest)"
+          rsync -avz --delete public/ ramanan@funkaoshi.com:"$dest"
