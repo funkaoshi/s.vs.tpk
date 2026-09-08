@@ -12,6 +12,7 @@ on:
     paths-ignore:
       - 'workers/**'
       - 'README.md'
+      - 'docs/**'
   workflow_dispatch:
     inputs:
       target:
@@ -30,9 +31,33 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
+      # No LFS here on purpose: `lfs: true` would pull every object on every
+      # run, and the images at HEAD are ~250MB against a 1GiB/month free LFS
+      # bandwidth quota — about four deploys. The cache below does it instead.
+      # Nothing reads git history (no enableGitInfo), so depth 1 is enough.
       - uses: actions/checkout@v7
         with:
-          fetch-depth: 0
+          fetch-depth: 1
+
+      # Key the cache on the LFS object ids at HEAD, so an unchanged image set
+      # is a hit. `restore-keys` takes the last cache when a new image lands:
+      # `git lfs pull` then fetches only the objects that are actually missing.
+      - name: LFS object manifest
+        run: git lfs ls-files -l | cut -d' ' -f1 | sort > .lfs-manifest
+
+      - uses: actions/cache@v4
+        with:
+          path: .git/lfs/objects
+          key: lfs-${{ hashFiles('.lfs-manifest') }}
+          restore-keys: lfs-
+
+      # Without this the working tree holds 130-byte pointer files, Hugo copies
+      # those into public/, and the rsync below overwrites every real image on
+      # the server with a text file. That is what broke the first deploys.
+      - name: Fetch LFS objects
+        run: |
+          git lfs pull
+          rm .lfs-manifest
 
       - uses: peaceiris/actions-hugo@v3
         with:
@@ -43,6 +68,18 @@ jobs:
       # Bare `hugo`, matching Makefile:build. No -D: drafts stay unpublished.
       - name: Build
         run: hugo
+
+      # Belt and braces. The deploy is `--delete` against a live site, so it is
+      # worth one cheap scan to be certain no pointer ever ships as an image.
+      - name: Check for LFS pointers in the build
+        run: |
+          pointers=$(find public -type f -size -1024c \
+            -exec grep -l '^version https://git-lfs.github.com/spec/v1' {} + 2>/dev/null || true)
+          if [ -n "$pointers" ]; then
+            echo "::error::LFS pointer files in public/ — refusing to deploy."
+            printf '%s\n' "$pointers" | head -20
+            exit 1
+          fi
 
       # Secrets go through env, never interpolated into the script itself:
       # the key is multi-line, and ${{ }} splices text in before bash parses.
@@ -74,4 +111,4 @@ jobs:
             *)       echo "::error::unknown target '$TARGET'"; exit 1 ;;
           esac
           echo "Deploying to $TARGET ($dest)"
-          rsync -avz --delete public/ ramanan@funkaoshi.com:"$dest"
+          rsync -avz --delete --delete-excluded --exclude='.DS_Store' public/ ramanan@funkaoshi.com:"$dest"

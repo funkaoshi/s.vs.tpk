@@ -7,10 +7,10 @@ serve:
 	hugo server -D
 
 deploy-staging:
-	rsync -avz --delete public/ ramanan@funkaoshi.com:/home/ramanan/beta.save.vs.totalpartykill.ca/
+	rsync -avz --delete --delete-excluded --exclude='.DS_Store' public/ ramanan@funkaoshi.com:/home/ramanan/beta.save.vs.totalpartykill.ca/
 
 deploy:
-	rsync -avz --delete public/ ramanan@funkaoshi.com:/home/ramanan/save.vs.totalpartykill.ca/
+	rsync -avz --delete --delete-excluded --exclude='.DS_Store' public/ ramanan@funkaoshi.com:/home/ramanan/save.vs.totalpartykill.ca/
 
 prod: build deploy
 
@@ -21,3 +21,6 @@ clean:
 
 validate-urls:
 	python3 scripts/validate-urls.py
+
+audit:
+	bash scripts/repo-audit.sh

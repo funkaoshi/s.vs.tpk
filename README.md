@@ -15,8 +15,3 @@ and rsyncs `public/` to funkaoshi.com — the same rsync the `Makefile` runs, so
 CI can't drift. Manual runs (`workflow_dispatch`) default to the beta/staging host.
 
 `make prod` still builds and deploys from the laptop, unchanged.
-
-Because a commit is a deploy, posts can be written from a phone: see
-[docs/posting-from-ios.md](docs/posting-from-ios.md) for the two iOS Shortcuts that
-create and edit posts through the GitHub API, and for the one-time deploy key and token
-setup.
