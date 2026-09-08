@@ -21,7 +21,12 @@ uncovered=0
 for ext in $BINARY_EXTS; do
   # Ask git itself whether a file of this type would be filtered, rather than
   # grepping .gitattributes: git is the authority on pattern precedence.
-  if ! git check-attr filter -- "probe.$ext" | grep -q 'filter: lfs'; then
+  # Probe both cases: git matches these patterns case-sensitively on Linux, so
+  # a lowercase-only *.jpg leaves IMG_1234.JPG unfiltered in CI even though
+  # macOS's case-insensitive filesystem makes it look covered here.
+  upper=$(printf '%s' "$ext" | tr 'a-z' 'A-Z')
+  if ! git check-attr filter -- "probe.$ext" | grep -q 'filter: lfs' \
+     || ! git check-attr filter -- "probe.$upper" | grep -q 'filter: lfs'; then
     tracked=$(git ls-files -- "*.$ext" | wc -l | tr -d ' ')
     if [ "$tracked" != "0" ]; then
       fail ".$ext is not tracked by lfs, but $tracked such file(s) are committed"
@@ -58,6 +63,27 @@ if [ -d public ]; then
     fail "$built lfs pointer(s) in public/ — this build must not be deployed"
   else
     ok "public/ is free of lfs pointers"
+  fi
+fi
+
+echo
+echo "== filename case =="
+# macOS is case-insensitive and the web server is not, so a mismatch between a
+# link and a filename works locally and 404s in production.
+upper_ext=$(git ls-files | grep -E '\.[A-Za-z0-9]*[A-Z][A-Za-z0-9]*$' || true)
+if [ -n "$upper_ext" ]; then
+  fail "tracked file(s) with an uppercase extension:"
+  printf '%s\n' "$upper_ext" | sed 's/^/      /'
+else
+  ok "no uppercase file extensions"
+fi
+
+if [ -d public ]; then
+  if mismatch=$(python3 scripts/check-link-case.py public); then
+    ok "every asset link matches its filename's case"
+  else
+    fail "link(s) whose case does not match the file — these 404 in production:"
+    printf '%s\n' "$mismatch" | sed 's/^/      /'
   fi
 fi
 
