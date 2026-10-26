@@ -6,6 +6,6 @@
     "fast-xml-parser": "^5.7.0"
   },
   "devDependencies": {
-    "wrangler": "^4.147.0"
+    "wrangler": "^4.35.0"
   }
 }
