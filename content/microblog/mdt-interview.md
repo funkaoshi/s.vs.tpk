@@ -2,7 +2,7 @@
 title: "Mdt Interview"
 date: 2026-11-15T09:11:49-05:00
 img:
-bluesky:
+bluesky: https://bsky.app/profile/save.vs.totalpartykill.ca/post/3n2e3xuk4b22a
 tag:
 - magpie
 - rascal
